@@ -82,6 +82,7 @@ for country in countries:
             state_data = country_data.loc[country_data['RegionName'] == state]
             state_results = collect_rights_data(state_data, state, rights = rights, cleaned_rights = cleaned_rights)
             state_results.to_csv(output_path)
-    output_path = path + country.lower() + '_results.csv'
-    country_results = collect_rights_data(country_data, country, rights = rights, cleaned_rights = cleaned_rights)
-    country_results.to_csv(output_path)
+    else:
+        output_path = path + country.lower() + '_results.csv'
+        country_results = collect_rights_data(country_data, country, rights = rights, cleaned_rights = cleaned_rights)
+        country_results.to_csv(output_path)
