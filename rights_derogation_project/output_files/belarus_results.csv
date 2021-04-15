@@ -1,0 +1,15 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+1,Belarus,Cancel public events,2020-04-06,2021-04-02,1.0,323994.0
+8,Belarus,Contact tracing,2020-04-09,2021-04-02,2.0,323208.0
+9,Belarus,Emergency investment in healthcare,2020-12-30,2020-12-30,839256.0,0.0
+10,Belarus,Facial Coverings,2020-03-25,2020-11-04,1.0,102227.0
+11,Belarus,Facial Coverings,2020-11-05,2021-04-02,3.0,221399.0
+2,Belarus,International travel controls,2020-03-14,2020-04-02,3.0,277.0
+3,Belarus,International travel controls,2020-04-03,2020-10-28,2.0,95194.0
+4,Belarus,International travel controls,2020-10-29,2021-04-02,4.0,228165.0
+13,Belarus,Protection of elderly people,2020-03-14,2021-01-11,1.0,213966.0
+5,Belarus,Public information campaigns,2020-04-20,2020-12-23,1.0,172932.0
+6,Belarus,Public information campaigns,2020-12-24,2021-04-02,2.0,143581.0
+0,Belarus,School closing,2020-04-04,2020-04-19,2.0,5367.0
+7,Belarus,Testing policy,2020-04-20,2021-04-02,3.0,318430.0
+12,Belarus,Vaccination policy,2020-12-29,2021-04-02,1.0,134290.0

@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Minnesota,Cancel public events,2020-03-13,2020-03-14,1.0,7.0
+11,Minnesota,Cancel public events,2020-03-15,2020-09-20,2.0,89996.0
+12,Minnesota,Cancel public events,2020-09-21,2020-11-19,1.0,158964.0
+13,Minnesota,Cancel public events,2020-11-20,2021-01-03,2.0,163844.0
+14,Minnesota,Cancel public events,2021-01-04,2021-03-14,1.0,73704.0
+19,Minnesota,Close public transport,2020-11-20,2021-03-14,1.0,240692.0
+42,Minnesota,Contact tracing,2020-01-21,2021-03-14,1.0,497392.0
+33,Minnesota,Debt/contract relief,2020-03-23,2021-03-14,1.0,497158.0
+43,Minnesota,Emergency investment in healthcare,2020-03-10,2020-03-10,20889000.0,0.0
+44,Minnesota,Emergency investment in healthcare,2020-03-17,2020-03-17,200000000.0,0.0
+45,Minnesota,Emergency investment in healthcare,2020-07-13,2020-07-13,1700000.0,0.0
+46,Minnesota,Emergency investment in healthcare,2020-08-13,2020-08-13,30000000.0,0.0
+47,Minnesota,Facial Coverings,2020-04-04,2020-05-25,1.0,20450.0
+48,Minnesota,Facial Coverings,2020-05-26,2021-01-10,2.0,414612.0
+49,Minnesota,Facial Coverings,2021-01-20,2021-03-14,2.0,47900.0
+34,Minnesota,Fiscal measures,2020-03-28,2020-03-28,330000000.0,0.0
+35,Minnesota,Fiscal measures,2020-06-23,2020-06-23,62500000.0,0.0
+36,Minnesota,Fiscal measures,2020-07-14,2020-07-14,100000000.0,0.0
+29,Minnesota,Income support,2020-01-27,2020-01-27,1.0,0.0
+30,Minnesota,Income support,2020-03-16,2020-03-26,1.0,291.0
+31,Minnesota,Income support,2020-03-27,2020-07-30,2.0,53296.0
+32,Minnesota,Income support,2020-07-31,2021-03-14,1.0,442929.0
+26,Minnesota,International travel controls,2020-01-29,2020-02-01,1.0,0.0
+27,Minnesota,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+28,Minnesota,International travel controls,2020-03-02,2021-03-14,3.0,497392.0
+52,Minnesota,Protection of elderly people,2020-03-13,2020-03-26,1.0,330.0
+53,Minnesota,Protection of elderly people,2020-03-27,2021-03-08,2.0,490087.0
+54,Minnesota,Protection of elderly people,2021-03-10,2021-03-14,2.0,4379.0
+37,Minnesota,Public information campaigns,2020-01-24,2020-03-04,1.0,0.0
+38,Minnesota,Public information campaigns,2020-03-05,2021-03-14,2.0,497392.0
+15,Minnesota,Restrictions on gatherings,2020-03-13,2020-03-26,2.0,330.0
+16,Minnesota,Restrictions on gatherings,2020-03-27,2020-06-09,4.0,28127.0
+17,Minnesota,Restrictions on gatherings,2020-06-10,2020-11-19,3.0,221037.0
+18,Minnesota,Restrictions on gatherings,2020-11-20,2021-03-14,4.0,240692.0
+23,Minnesota,Restrictions on internal movement,2020-03-13,2020-03-26,1.0,330.0
+24,Minnesota,Restrictions on internal movement,2020-03-27,2020-04-07,2.0,673.0
+25,Minnesota,Restrictions on internal movement,2020-04-08,2021-03-14,1.0,496238.0
+0,Minnesota,School closing,2020-03-13,2020-03-17,1.0,45.0
+1,Minnesota,School closing,2020-03-18,2021-01-11,3.0,437475.0
+2,Minnesota,School closing,2021-01-12,2021-03-14,2.0,58525.0
+20,Minnesota,Stay at home requirements,2020-03-13,2020-03-26,1.0,330.0
+21,Minnesota,Stay at home requirements,2020-03-27,2020-05-17,2.0,15272.0
+22,Minnesota,Stay at home requirements,2020-05-18,2021-03-14,1.0,481020.0
+39,Minnesota,Testing policy,2020-01-20,2020-04-22,1.0,2722.0
+40,Minnesota,Testing policy,2020-04-23,2020-10-02,2.0,98424.0
+41,Minnesota,Testing policy,2020-10-03,2021-03-14,3.0,394605.0
+50,Minnesota,Vaccination policy,2020-12-15,2021-03-09,2.0,107944.0
+51,Minnesota,Vaccination policy,2021-03-10,2021-03-14,3.0,4379.0
+3,Minnesota,Workplace closing,2020-03-12,2020-03-16,1.0,44.0
+4,Minnesota,Workplace closing,2020-03-17,2020-03-26,2.0,285.0
+5,Minnesota,Workplace closing,2020-03-27,2020-05-03,3.0,6267.0
+6,Minnesota,Workplace closing,2020-05-04,2020-06-09,2.0,21289.0
+7,Minnesota,Workplace closing,2020-06-10,2020-11-19,1.0,221037.0
+8,Minnesota,Workplace closing,2020-11-20,2021-01-03,2.0,163844.0
+9,Minnesota,Workplace closing,2021-01-04,2021-03-14,1.0,73704.0

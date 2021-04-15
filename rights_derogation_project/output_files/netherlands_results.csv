@@ -1,0 +1,63 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Netherlands,Cancel public events,2020-03-10,2020-06-30,2.0,49891.0
+14,Netherlands,Cancel public events,2020-08-18,2020-09-28,1.0,50567.0
+15,Netherlands,Cancel public events,2020-09-29,2021-04-08,2.0,1209585.0
+19,Netherlands,Close public transport,2020-03-31,2020-05-31,1.0,33847.0
+20,Netherlands,Close public transport,2020-12-15,2021-04-08,1.0,698559.0
+45,Netherlands,Contact tracing,2020-02-27,2020-03-11,2.0,502.0
+46,Netherlands,Contact tracing,2020-03-12,2020-05-31,1.0,45939.0
+47,Netherlands,Contact tracing,2020-06-01,2020-11-30,2.0,476933.0
+48,Netherlands,Contact tracing,2020-12-01,2021-04-08,1.0,799613.0
+30,Netherlands,Debt/contract relief,2020-03-26,2020-09-27,2.0,104195.0
+31,Netherlands,Debt/contract relief,2020-09-28,2021-04-08,1.0,1212596.0
+49,Netherlands,Emergency investment in healthcare,2020-04-03,2020-04-03,25701603.0,0.0
+50,Netherlands,Emergency investment in healthcare,2021-02-12,2021-02-12,242672000.0,0.0
+52,Netherlands,Facial Coverings,2020-06-01,2021-04-08,2.0,1280591.0
+32,Netherlands,Fiscal measures,2020-03-17,2020-03-17,10976048954.0,0.0
+33,Netherlands,Fiscal measures,2020-04-07,2020-04-07,121834143.0,0.0
+34,Netherlands,Fiscal measures,2020-05-01,2020-05-01,120974758.0,0.0
+35,Netherlands,Fiscal measures,2020-05-08,2020-05-08,823203672.0,0.0
+36,Netherlands,Fiscal measures,2020-05-20,2020-05-20,14272921000.0,0.0
+37,Netherlands,Fiscal measures,2020-06-17,2020-06-17,2195209.0,0.0
+38,Netherlands,Fiscal measures,2020-06-19,2020-06-19,1454342.0,0.0
+39,Netherlands,Fiscal measures,2020-08-28,2020-08-28,13094117921.0,0.0
+40,Netherlands,Fiscal measures,2020-09-21,2020-09-21,4777210660.98,0.0
+29,Netherlands,Income support,2020-03-17,2021-04-08,2.0,1325431.0
+41,Netherlands,International support,2020-09-21,2020-09-21,540164027.7,0.0
+28,Netherlands,International travel controls,2020-03-19,2021-04-08,3.0,1324676.0
+51,Netherlands,Investment in vaccines,2020-05-04,2020-05-04,207422986.64,0.0
+56,Netherlands,Protection of elderly people,2020-03-09,2020-03-19,1.0,2139.0
+57,Netherlands,Protection of elderly people,2020-03-20,2020-05-24,3.0,42242.0
+58,Netherlands,Protection of elderly people,2020-05-25,2020-06-14,2.0,3338.0
+59,Netherlands,Protection of elderly people,2020-06-15,2020-11-03,1.0,326942.0
+60,Netherlands,Protection of elderly people,2020-11-04,2021-01-12,2.0,499612.0
+61,Netherlands,Protection of elderly people,2021-01-23,2021-04-08,2.0,383094.0
+42,Netherlands,Public information campaigns,2020-03-09,2021-04-08,2.0,1326815.0
+16,Netherlands,Restrictions on gatherings,2020-03-12,2020-06-30,3.0,49770.0
+17,Netherlands,Restrictions on gatherings,2020-07-01,2020-08-17,2.0,13149.0
+18,Netherlands,Restrictions on gatherings,2020-08-18,2021-04-08,4.0,1263163.0
+25,Netherlands,Restrictions on internal movement,2020-03-15,2020-06-30,1.0,49138.0
+26,Netherlands,Restrictions on internal movement,2020-09-29,2020-11-21,1.0,361709.0
+27,Netherlands,Restrictions on internal movement,2020-12-15,2021-04-08,1.0,698559.0
+0,Netherlands,School closing,2020-03-12,2020-03-15,1.0,632.0
+1,Netherlands,School closing,2020-03-16,2020-05-10,3.0,41214.0
+2,Netherlands,School closing,2020-05-11,2020-06-14,2.0,5995.0
+3,Netherlands,School closing,2020-06-15,2020-12-15,1.0,579629.0
+4,Netherlands,School closing,2020-12-16,2021-02-07,3.0,366014.0
+5,Netherlands,School closing,2021-02-08,2021-04-08,2.0,319155.0
+21,Netherlands,Stay at home requirements,2020-03-06,2020-03-22,1.0,4076.0
+22,Netherlands,Stay at home requirements,2020-03-23,2020-05-10,2.0,37878.0
+23,Netherlands,Stay at home requirements,2020-05-11,2021-01-22,1.0,895840.0
+24,Netherlands,Stay at home requirements,2021-01-23,2021-04-08,2.0,383094.0
+43,Netherlands,Testing policy,2020-01-27,2020-05-31,1.0,46442.0
+44,Netherlands,Testing policy,2020-06-01,2021-04-08,2.0,1280591.0
+53,Netherlands,Vaccination policy,2021-01-06,2021-01-29,1.0,129439.0
+54,Netherlands,Vaccination policy,2021-01-30,2021-02-18,2.0,67899.0
+55,Netherlands,Vaccination policy,2021-02-19,2021-04-08,3.0,279736.0
+6,Netherlands,Workplace closing,2020-03-12,2020-03-14,1.0,456.0
+7,Netherlands,Workplace closing,2020-03-15,2020-05-10,3.0,41492.0
+8,Netherlands,Workplace closing,2020-05-11,2020-11-03,2.0,333102.0
+9,Netherlands,Workplace closing,2020-11-04,2020-11-21,3.0,95737.0
+10,Netherlands,Workplace closing,2020-11-22,2020-12-14,2.0,137296.0
+11,Netherlands,Workplace closing,2020-12-15,2021-03-02,3.0,467856.0
+12,Netherlands,Workplace closing,2021-03-03,2021-04-08,2.0,225706.0

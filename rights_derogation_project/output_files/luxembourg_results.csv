@@ -1,0 +1,75 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Luxembourg,Cancel public events,2020-03-09,2020-03-12,1.0,16.0
+14,Luxembourg,Cancel public events,2020-03-13,2020-05-24,2.0,3958.0
+15,Luxembourg,Cancel public events,2020-05-25,2020-07-15,1.0,1129.0
+16,Luxembourg,Cancel public events,2020-08-07,2020-10-19,1.0,3897.0
+17,Luxembourg,Cancel public events,2020-10-20,2021-01-03,2.0,35174.0
+18,Luxembourg,Cancel public events,2021-01-04,2021-04-05,1.0,15119.0
+27,Luxembourg,Close public transport,2020-03-12,2020-06-10,1.0,4030.0
+28,Luxembourg,Close public transport,2020-12-01,2021-04-05,1.0,26976.0
+59,Luxembourg,Contact tracing,2020-03-01,2021-04-05,2.0,62104.0
+44,Luxembourg,Debt/contract relief,2020-03-17,2021-04-05,2.0,61965.0
+60,Luxembourg,Emergency investment in healthcare,2020-04-08,2020-04-08,32928146.0,0.0
+61,Luxembourg,Facial Coverings,2020-04-08,2020-04-19,1.0,516.0
+62,Luxembourg,Facial Coverings,2020-04-20,2020-07-20,3.0,2081.0
+63,Luxembourg,Facial Coverings,2020-07-21,2020-10-29,2.0,10631.0
+64,Luxembourg,Facial Coverings,2020-10-30,2021-01-03,3.0,29281.0
+65,Luxembourg,Facial Coverings,2021-01-04,2021-04-05,2.0,15119.0
+45,Luxembourg,Fiscal measures,2020-03-24,2020-03-24,329281472.0,0.0
+46,Luxembourg,Fiscal measures,2020-03-25,2020-03-25,9658923079.0,0.0
+47,Luxembourg,Fiscal measures,2020-05-20,2020-05-20,762859300.0,0.0
+48,Luxembourg,Fiscal measures,2020-06-04,2020-06-04,5659430.0,0.0
+49,Luxembourg,Fiscal measures,2020-12-13,2020-12-13,968928.0,0.0
+42,Luxembourg,Income support,2020-03-17,2020-11-30,2.0,34538.0
+43,Luxembourg,Income support,2020-12-01,2021-04-05,1.0,26976.0
+50,Luxembourg,International support,2020-02-28,2020-02-28,220507.0,0.0
+38,Luxembourg,International travel controls,2020-08-12,2020-08-20,1.0,337.0
+39,Luxembourg,International travel controls,2020-08-21,2021-03-01,3.0,47776.0
+40,Luxembourg,International travel controls,2021-03-02,2021-03-15,1.0,2294.0
+41,Luxembourg,International travel controls,2021-03-16,2021-04-05,3.0,3994.0
+70,Luxembourg,Protection of elderly people,2020-03-02,2021-02-15,1.0,52922.0
+71,Luxembourg,Protection of elderly people,2021-02-16,2021-03-01,2.0,2418.0
+72,Luxembourg,Protection of elderly people,2021-03-02,2021-03-15,1.0,2294.0
+73,Luxembourg,Protection of elderly people,2021-03-16,2021-04-05,2.0,3994.0
+51,Luxembourg,Public information campaigns,2020-03-05,2021-04-05,2.0,62104.0
+19,Luxembourg,Restrictions on gatherings,2020-03-09,2020-03-12,2.0,16.0
+20,Luxembourg,Restrictions on gatherings,2020-03-13,2020-05-10,4.0,3852.0
+21,Luxembourg,Restrictions on gatherings,2020-05-11,2020-06-25,3.0,263.0
+22,Luxembourg,Restrictions on gatherings,2020-07-19,2020-07-27,3.0,716.0
+23,Luxembourg,Restrictions on gatherings,2020-07-28,2020-09-12,4.0,784.0
+24,Luxembourg,Restrictions on gatherings,2020-09-13,2020-09-25,3.0,1074.0
+25,Luxembourg,Restrictions on gatherings,2020-09-26,2021-01-03,4.0,38182.0
+26,Luxembourg,Restrictions on gatherings,2021-01-04,2021-04-05,3.0,15119.0
+35,Luxembourg,Restrictions on internal movement,2020-03-15,2020-04-19,2.0,3491.0
+36,Luxembourg,Restrictions on internal movement,2020-04-20,2020-06-25,1.0,593.0
+37,Luxembourg,Restrictions on internal movement,2020-12-01,2021-01-19,2.0,13846.0
+0,Luxembourg,School closing,2020-03-16,2020-05-03,3.0,3747.0
+1,Luxembourg,School closing,2020-05-04,2020-05-24,2.0,164.0
+2,Luxembourg,School closing,2020-05-25,2020-12-27,1.0,41216.0
+3,Luxembourg,School closing,2020-12-28,2021-01-10,3.0,1895.0
+4,Luxembourg,School closing,2021-01-11,2021-02-07,1.0,3485.0
+5,Luxembourg,School closing,2021-02-08,2021-03-29,2.0,9194.0
+6,Luxembourg,School closing,2021-03-30,2021-04-05,1.0,850.0
+29,Luxembourg,Stay at home requirements,2020-03-17,2020-04-19,2.0,3410.0
+30,Luxembourg,Stay at home requirements,2020-04-20,2020-07-15,1.0,1564.0
+31,Luxembourg,Stay at home requirements,2020-08-07,2020-10-29,1.0,9243.0
+32,Luxembourg,Stay at home requirements,2020-10-30,2020-12-13,2.0,23621.0
+33,Luxembourg,Stay at home requirements,2020-12-14,2021-01-19,1.0,7075.0
+34,Luxembourg,Stay at home requirements,2021-01-20,2021-04-05,2.0,12901.0
+52,Luxembourg,Testing policy,2020-03-01,2020-03-11,2.0,6.0
+53,Luxembourg,Testing policy,2020-03-12,2020-05-10,1.0,3867.0
+54,Luxembourg,Testing policy,2020-05-11,2021-01-19,3.0,45087.0
+55,Luxembourg,Testing policy,2021-01-20,2021-02-07,2.0,2308.0
+56,Luxembourg,Testing policy,2021-02-08,2021-03-15,3.0,6047.0
+57,Luxembourg,Testing policy,2021-03-16,2021-03-29,2.0,2962.0
+58,Luxembourg,Testing policy,2021-03-30,2021-04-05,3.0,850.0
+66,Luxembourg,Vaccination policy,2020-12-28,2021-02-21,2.0,7933.0
+67,Luxembourg,Vaccination policy,2021-02-22,2021-03-01,3.0,1308.0
+68,Luxembourg,Vaccination policy,2021-03-02,2021-03-29,2.0,5441.0
+69,Luxembourg,Vaccination policy,2021-03-30,2021-04-05,3.0,850.0
+7,Luxembourg,Workplace closing,2020-03-12,2020-03-15,1.0,40.0
+8,Luxembourg,Workplace closing,2020-03-16,2020-05-10,3.0,3809.0
+9,Luxembourg,Workplace closing,2020-05-11,2020-07-15,1.0,1234.0
+10,Luxembourg,Workplace closing,2020-08-25,2020-11-25,1.0,24262.0
+11,Luxembourg,Workplace closing,2020-11-26,2021-03-29,2.0,28200.0
+12,Luxembourg,Workplace closing,2021-03-30,2021-04-05,1.0,850.0

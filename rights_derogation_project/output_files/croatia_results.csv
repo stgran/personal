@@ -1,0 +1,62 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Croatia,Cancel public events,2020-03-10,2020-05-25,2.0,2230.0
+13,Croatia,Cancel public events,2020-05-26,2020-07-08,1.0,1081.0
+14,Croatia,Cancel public events,2020-09-07,2021-04-05,1.0,268083.0
+21,Croatia,Close public transport,2020-03-21,2020-05-10,2.0,1981.0
+22,Croatia,Close public transport,2020-05-11,2020-07-20,1.0,2174.0
+51,Croatia,Contact tracing,2020-02-03,2020-12-31,2.0,210837.0
+38,Croatia,Debt/contract relief,2020-03-17,2020-10-18,2.0,25515.0
+39,Croatia,Debt/contract relief,2020-10-19,2021-04-05,1.0,254191.0
+52,Croatia,Emergency investment in healthcare,2020-11-13,2020-11-13,209000000.0,0.0
+54,Croatia,Facial Coverings,2020-07-13,2021-04-05,3.0,276389.0
+40,Croatia,Fiscal measures,2020-03-18,2020-03-18,4214550000.0,0.0
+41,Croatia,Fiscal measures,2020-04-02,2020-04-02,1220790000.0,0.0
+42,Croatia,Fiscal measures,2020-09-30,2020-09-30,1068000000.0,0.0
+35,Croatia,Income support,2020-03-17,2020-03-31,1.0,802.0
+36,Croatia,Income support,2020-04-01,2020-09-06,2.0,11001.0
+37,Croatia,Income support,2020-09-07,2021-04-05,1.0,268083.0
+26,Croatia,International travel controls,2020-02-04,2020-03-14,1.0,38.0
+27,Croatia,International travel controls,2020-03-15,2020-03-18,2.0,32.0
+28,Croatia,International travel controls,2020-03-19,2020-05-27,4.0,2139.0
+29,Croatia,International travel controls,2020-05-28,2020-07-14,3.0,1582.0
+30,Croatia,International travel controls,2020-07-15,2020-09-06,2.0,8011.0
+31,Croatia,International travel controls,2020-09-07,2020-10-25,1.0,24299.0
+32,Croatia,International travel controls,2020-10-26,2020-10-26,2.0,0.0
+33,Croatia,International travel controls,2020-10-27,2020-11-30,1.0,89821.0
+34,Croatia,International travel controls,2020-12-01,2021-04-05,3.0,148822.0
+53,Croatia,Investment in vaccines,2020-05-04,2020-05-04,3292815.0,0.0
+56,Croatia,Protection of elderly people,2020-03-03,2020-03-22,1.0,245.0
+57,Croatia,Protection of elderly people,2020-03-23,2020-04-10,2.0,1180.0
+58,Croatia,Protection of elderly people,2020-04-11,2020-05-28,3.0,711.0
+59,Croatia,Protection of elderly people,2020-05-29,2020-06-26,2.0,294.0
+60,Croatia,Protection of elderly people,2020-06-27,2021-04-05,3.0,277540.0
+43,Croatia,Public information campaigns,2020-01-27,2020-01-30,1.0,0.0
+44,Croatia,Public information campaigns,2020-01-31,2021-04-05,2.0,280164.0
+15,Croatia,Restrictions on gatherings,2020-03-20,2020-05-10,4.0,2059.0
+16,Croatia,Restrictions on gatherings,2020-05-11,2020-05-25,3.0,48.0
+17,Croatia,Restrictions on gatherings,2020-05-26,2020-07-20,2.0,2126.0
+18,Croatia,Restrictions on gatherings,2020-09-07,2020-10-26,2.0,25127.0
+19,Croatia,Restrictions on gatherings,2020-10-27,2020-11-27,3.0,81085.0
+20,Croatia,Restrictions on gatherings,2020-11-28,2021-04-05,4.0,156471.0
+25,Croatia,Restrictions on internal movement,2020-03-23,2020-05-24,2.0,1929.0
+0,Croatia,School closing,2020-03-13,2020-05-10,3.0,2155.0
+1,Croatia,School closing,2020-05-11,2020-09-06,2.0,9768.0
+2,Croatia,School closing,2020-09-07,2020-12-13,1.0,163805.0
+3,Croatia,School closing,2020-12-14,2021-01-17,2.0,47596.0
+4,Croatia,School closing,2021-01-18,2021-04-05,1.0,55036.0
+23,Croatia,Stay at home requirements,2020-03-23,2020-05-10,2.0,1872.0
+24,Croatia,Stay at home requirements,2020-05-11,2020-09-06,1.0,9768.0
+45,Croatia,Testing policy,2020-02-03,2020-04-01,1.0,963.0
+46,Croatia,Testing policy,2020-04-02,2020-05-03,2.0,1085.0
+47,Croatia,Testing policy,2020-05-04,2020-07-14,3.0,1726.0
+48,Croatia,Testing policy,2020-07-15,2020-09-06,2.0,8011.0
+49,Croatia,Testing policy,2020-09-07,2020-10-12,1.0,8540.0
+50,Croatia,Testing policy,2020-10-13,2021-04-05,3.0,259171.0
+55,Croatia,Vaccination policy,2020-12-26,2021-04-05,2.0,75852.0
+5,Croatia,Workplace closing,2020-03-14,2020-03-19,2.0,67.0
+6,Croatia,Workplace closing,2020-03-20,2020-04-26,3.0,1902.0
+7,Croatia,Workplace closing,2020-04-27,2020-05-10,2.0,148.0
+8,Croatia,Workplace closing,2020-05-11,2020-06-11,1.0,53.0
+9,Croatia,Workplace closing,2020-06-12,2020-09-06,2.0,9715.0
+10,Croatia,Workplace closing,2020-11-21,2021-02-28,2.0,142563.0
+11,Croatia,Workplace closing,2021-03-01,2021-04-05,1.0,37100.0

@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Nepal,Cancel public events,2020-03-01,2020-03-17,1.0,0.0
+9,Nepal,Cancel public events,2020-03-18,2020-07-21,2.0,17993.0
+10,Nepal,Cancel public events,2020-07-22,2020-08-10,1.0,5216.0
+11,Nepal,Cancel public events,2020-08-11,2021-03-01,2.0,250268.0
+15,Nepal,Close public transport,2020-03-24,2020-07-20,2.0,17842.0
+16,Nepal,Close public transport,2020-07-21,2020-07-23,1.0,247.0
+17,Nepal,Close public transport,2020-07-24,2020-09-05,2.0,26903.0
+18,Nepal,Close public transport,2020-09-06,2021-03-01,1.0,227959.0
+46,Nepal,Contact tracing,2020-01-24,2020-10-08,2.0,98617.0
+47,Nepal,Contact tracing,2020-10-09,2021-04-05,1.0,177534.0
+37,Nepal,Debt/contract relief,2020-03-30,2020-07-08,2.0,16418.0
+38,Nepal,Debt/contract relief,2020-07-09,2021-04-05,1.0,261679.0
+48,Nepal,Emergency investment in healthcare,2020-03-30,2020-03-30,20642.0,0.0
+49,Nepal,Facial Coverings,2020-08-06,2021-04-05,4.0,256460.0
+35,Nepal,Income support,2020-03-30,2021-02-09,1.0,272210.0
+36,Nepal,Income support,2021-02-16,2021-04-05,1.0,5265.0
+39,Nepal,International support,2020-03-22,2020-03-22,1000000.0,0.0
+28,Nepal,International travel controls,2020-01-25,2020-02-03,1.0,0.0
+29,Nepal,International travel controls,2020-02-04,2020-03-21,2.0,0.0
+30,Nepal,International travel controls,2020-03-22,2020-03-22,3.0,0.0
+31,Nepal,International travel controls,2020-03-23,2020-09-01,4.0,40527.0
+32,Nepal,International travel controls,2020-09-02,2020-09-13,2.0,12510.0
+33,Nepal,International travel controls,2020-09-14,2021-01-19,3.0,212663.0
+34,Nepal,International travel controls,2021-01-20,2021-04-05,2.0,9900.0
+53,Nepal,Protection of elderly people,2021-02-10,2021-02-15,2.0,491.0
+54,Nepal,Protection of elderly people,2021-03-02,2021-04-05,1.0,3916.0
+40,Nepal,Public information campaigns,2020-01-16,2020-01-27,1.0,1.0
+41,Nepal,Public information campaigns,2020-01-28,2021-04-05,2.0,278209.0
+12,Nepal,Restrictions on gatherings,2020-03-18,2020-03-21,3.0,0.0
+13,Nepal,Restrictions on gatherings,2020-03-22,2020-08-18,4.0,28256.0
+14,Nepal,Restrictions on gatherings,2020-08-19,2021-03-01,3.0,245278.0
+24,Nepal,Restrictions on internal movement,2020-03-22,2020-07-20,2.0,17843.0
+25,Nepal,Restrictions on internal movement,2020-07-21,2020-08-06,1.0,3756.0
+26,Nepal,Restrictions on internal movement,2020-08-07,2020-10-08,2.0,76403.0
+27,Nepal,Restrictions on internal movement,2020-10-09,2021-03-01,1.0,173540.0
+0,Nepal,School closing,2020-03-19,2020-11-23,3.0,222287.0
+1,Nepal,School closing,2020-11-24,2021-03-01,2.0,50138.0
+19,Nepal,Stay at home requirements,2020-03-20,2020-03-22,1.0,0.0
+20,Nepal,Stay at home requirements,2020-03-23,2020-07-20,2.0,17842.0
+21,Nepal,Stay at home requirements,2020-07-21,2020-07-21,1.0,0.0
+22,Nepal,Stay at home requirements,2020-07-22,2020-10-08,2.0,80523.0
+23,Nepal,Stay at home requirements,2020-10-09,2021-03-01,1.0,173540.0
+42,Nepal,Testing policy,2020-01-13,2020-07-28,1.0,19063.0
+43,Nepal,Testing policy,2020-07-29,2020-10-08,2.0,79344.0
+44,Nepal,Testing policy,2020-10-09,2021-01-11,1.0,164592.0
+45,Nepal,Testing policy,2021-01-12,2021-04-05,3.0,12512.0
+50,Nepal,Vaccination policy,2020-12-21,2021-02-09,1.0,17701.0
+51,Nepal,Vaccination policy,2021-02-10,2021-03-01,2.0,1867.0
+52,Nepal,Vaccination policy,2021-03-02,2021-03-08,1.0,516.0
+2,Nepal,Workplace closing,2020-03-20,2020-03-21,2.0,0.0
+3,Nepal,Workplace closing,2020-03-22,2020-05-06,3.0,98.0
+4,Nepal,Workplace closing,2020-05-07,2020-07-23,2.0,18140.0
+5,Nepal,Workplace closing,2020-07-24,2020-08-10,3.0,4936.0
+6,Nepal,Workplace closing,2020-08-11,2020-10-08,2.0,74669.0
+7,Nepal,Workplace closing,2020-10-09,2021-03-01,1.0,173540.0

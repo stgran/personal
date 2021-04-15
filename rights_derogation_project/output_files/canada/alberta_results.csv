@@ -1,0 +1,60 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Alberta,Cancel public events,2020-01-01,2020-03-26,1.0,486.0
+10,Alberta,Cancel public events,2020-03-27,2020-06-13,2.0,6841.0
+11,Alberta,Cancel public events,2020-06-14,2020-11-23,1.0,40988.0
+12,Alberta,Cancel public events,2020-11-24,2021-04-04,2.0,102771.0
+18,Alberta,Close public transport,2020-03-17,2020-08-30,1.0,13402.0
+42,Alberta,Contact tracing,2020-03-07,2020-11-05,2.0,31249.0
+43,Alberta,Contact tracing,2020-11-06,2021-01-25,1.0,89677.0
+44,Alberta,Contact tracing,2021-01-26,2021-04-04,2.0,30406.0
+27,Alberta,Debt/contract relief,2020-03-18,2020-03-26,1.0,389.0
+28,Alberta,Debt/contract relief,2020-03-27,2020-04-30,2.0,4813.0
+29,Alberta,Debt/contract relief,2020-05-01,2020-09-29,1.0,12336.0
+45,Alberta,Emergency investment in healthcare,2020-03-15,2020-03-15,361499136.0,0.0
+46,Alberta,Emergency investment in healthcare,2020-04-15,2020-04-15,37565727.0,0.0
+47,Alberta,Emergency investment in healthcare,2020-04-20,2020-04-20,17410456.0,0.0
+48,Alberta,Emergency investment in healthcare,2020-06-27,2020-06-27,124150203.0,0.0
+49,Alberta,Facial Coverings,2020-04-06,2020-04-19,1.0,1214.0
+50,Alberta,Facial Coverings,2020-04-20,2020-07-31,2.0,7935.0
+51,Alberta,Facial Coverings,2020-08-01,2021-04-04,3.0,141464.0
+30,Alberta,Fiscal measures,2020-04-02,2020-04-02,2125183.0,0.0
+31,Alberta,Fiscal measures,2020-04-10,2020-04-10,3579257.0,0.0
+32,Alberta,Fiscal measures,2020-06-28,2020-06-28,146099855.0,0.0
+33,Alberta,Fiscal measures,2020-07-28,2020-07-28,453397736.0,0.0
+34,Alberta,Fiscal measures,2020-12-08,2020-12-08,234160127.0,0.0
+35,Alberta,Fiscal measures,2021-02-17,2021-02-17,94388780.0,0.0
+25,Alberta,Income support,2020-03-15,2020-12-01,2.0,59445.0
+26,Alberta,Income support,2020-12-02,2021-04-04,1.0,91138.0
+23,Alberta,International travel controls,2020-02-06,2020-03-15,2.0,39.0
+24,Alberta,International travel controls,2020-03-16,2021-04-04,4.0,152251.0
+56,Alberta,Protection of elderly people,2020-03-10,2020-03-23,2.0,301.0
+57,Alberta,Protection of elderly people,2020-03-24,2020-07-22,3.0,9503.0
+58,Alberta,Protection of elderly people,2020-07-23,2021-04-04,2.0,142332.0
+36,Alberta,Public information campaigns,2020-01-20,2020-03-03,1.0,0.0
+37,Alberta,Public information campaigns,2020-03-04,2021-04-04,2.0,152307.0
+13,Alberta,Restrictions on gatherings,2020-03-12,2020-03-16,2.0,37.0
+14,Alberta,Restrictions on gatherings,2020-03-17,2020-06-13,3.0,7309.0
+15,Alberta,Restrictions on gatherings,2020-06-14,2020-10-08,2.0,12285.0
+16,Alberta,Restrictions on gatherings,2020-10-09,2020-11-23,3.0,28426.0
+17,Alberta,Restrictions on gatherings,2020-11-24,2021-04-04,4.0,102771.0
+21,Alberta,Restrictions on internal movement,2020-03-30,2020-09-30,1.0,17372.0
+22,Alberta,Restrictions on internal movement,2020-11-27,2021-04-04,1.0,99202.0
+0,Alberta,School closing,2020-03-16,2020-06-11,3.0,7260.0
+1,Alberta,School closing,2020-06-12,2020-11-29,1.0,49098.0
+2,Alberta,School closing,2020-11-30,2021-01-10,2.0,53275.0
+3,Alberta,School closing,2021-01-11,2021-01-24,1.0,8702.0
+4,Alberta,School closing,2021-01-25,2021-02-07,2.0,5232.0
+5,Alberta,School closing,2021-02-08,2021-04-04,1.0,25271.0
+19,Alberta,Stay at home requirements,2020-03-30,2020-05-13,1.0,5717.0
+20,Alberta,Stay at home requirements,2020-11-27,2021-01-31,1.0,71103.0
+38,Alberta,Testing policy,2020-02-01,2020-04-12,1.0,1651.0
+39,Alberta,Testing policy,2020-04-13,2020-05-28,2.0,5223.0
+40,Alberta,Testing policy,2020-05-29,2020-09-16,3.0,9149.0
+41,Alberta,Testing policy,2020-09-17,2021-03-29,2.0,130611.0
+52,Alberta,Vaccination policy,2020-12-15,2020-12-29,1.0,15814.0
+53,Alberta,Vaccination policy,2020-12-30,2021-02-17,2.0,29187.0
+54,Alberta,Vaccination policy,2021-02-23,2021-03-29,2.0,15282.0
+55,Alberta,Vaccination policy,2021-03-30,2021-04-04,3.0,4846.0
+6,Alberta,Workplace closing,2020-03-16,2020-03-26,2.0,430.0
+7,Alberta,Workplace closing,2020-03-27,2020-05-01,3.0,5031.0
+8,Alberta,Workplace closing,2020-05-02,2021-04-04,2.0,146637.0

@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Para,Cancel public events,2020-03-13,2020-03-15,1.0,0.0
+13,Para,Cancel public events,2020-03-16,2021-03-19,2.0,396302.0
+19,Para,Close public transport,2020-03-16,2021-01-13,1.0,306029.0
+43,Para,Contact tracing,2020-04-01,2021-03-19,2.0,396261.0
+40,Para,Debt/contract relief,2020-03-16,2020-12-26,1.0,290326.0
+44,Para,Facial Coverings,2020-04-22,2021-01-11,4.0,302317.0
+36,Para,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+37,Para,International travel controls,2020-03-18,2020-03-26,3.0,12.0
+38,Para,International travel controls,2020-03-27,2020-07-28,4.0,151833.0
+39,Para,International travel controls,2020-07-29,2021-03-19,1.0,242952.0
+45,Para,Protection of elderly people,2020-05-07,2021-01-05,1.0,290817.0
+46,Para,Protection of elderly people,2021-01-07,2021-01-20,1.0,15074.0
+47,Para,Protection of elderly people,2021-01-21,2021-03-19,2.0,80126.0
+41,Para,Public information campaigns,2020-01-26,2021-03-19,2.0,396302.0
+14,Para,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,0.0
+15,Para,Restrictions on gatherings,2020-03-16,2020-09-02,4.0,203969.0
+16,Para,Restrictions on gatherings,2020-09-03,2020-12-27,3.0,85530.0
+17,Para,Restrictions on gatherings,2020-12-28,2021-01-27,2.0,33655.0
+18,Para,Restrictions on gatherings,2021-01-28,2021-03-19,4.0,69021.0
+30,Para,Restrictions on internal movement,2020-03-18,2020-03-22,1.0,3.0
+31,Para,Restrictions on internal movement,2020-03-23,2020-07-02,2.0,110406.0
+32,Para,Restrictions on internal movement,2020-07-03,2020-10-29,1.0,139858.0
+33,Para,Restrictions on internal movement,2021-01-14,2021-03-02,2.0,60790.0
+34,Para,Restrictions on internal movement,2021-03-03,2021-03-14,1.0,13824.0
+35,Para,Restrictions on internal movement,2021-03-15,2021-03-19,2.0,10766.0
+0,Para,School closing,2020-03-16,2020-03-17,2.0,0.0
+1,Para,School closing,2020-03-18,2020-08-09,3.0,168150.0
+2,Para,School closing,2020-08-10,2021-01-30,2.0,159693.0
+3,Para,School closing,2021-01-31,2021-02-01,3.0,1677.0
+4,Para,School closing,2021-02-02,2021-03-02,2.0,35258.0
+5,Para,School closing,2021-03-03,2021-03-19,3.0,26422.0
+20,Para,Stay at home requirements,2020-03-16,2020-03-26,1.0,13.0
+21,Para,Stay at home requirements,2020-03-27,2020-04-05,2.0,70.0
+22,Para,Stay at home requirements,2020-04-06,2020-05-04,1.0,4139.0
+23,Para,Stay at home requirements,2020-05-05,2020-05-06,2.0,768.0
+24,Para,Stay at home requirements,2020-05-07,2020-05-24,3.0,18880.0
+25,Para,Stay at home requirements,2020-05-25,2021-01-30,1.0,301940.0
+26,Para,Stay at home requirements,2021-01-31,2021-02-17,3.0,21986.0
+27,Para,Stay at home requirements,2021-02-18,2021-03-02,1.0,15274.0
+28,Para,Stay at home requirements,2021-03-03,2021-03-14,2.0,13824.0
+29,Para,Stay at home requirements,2021-03-15,2021-03-19,3.0,10766.0
+42,Para,Testing policy,2020-05-06,2021-03-19,2.0,390778.0
+6,Para,Workplace closing,2020-03-16,2020-05-06,2.0,5524.0
+7,Para,Workplace closing,2020-05-07,2020-05-24,3.0,18880.0
+8,Para,Workplace closing,2020-05-25,2021-01-30,2.0,301940.0
+9,Para,Workplace closing,2021-01-31,2021-02-17,3.0,21986.0
+10,Para,Workplace closing,2021-02-18,2021-03-02,2.0,15274.0
+11,Para,Workplace closing,2021-03-03,2021-03-19,3.0,26422.0

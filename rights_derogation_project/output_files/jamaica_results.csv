@@ -1,0 +1,57 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Jamaica,Cancel public events,2020-03-10,2020-03-10,1.0,0.0
+13,Jamaica,Cancel public events,2020-03-11,2021-04-10,2.0,42118.0
+20,Jamaica,Close public transport,2020-04-22,2021-04-10,1.0,41886.0
+46,Jamaica,Contact tracing,2020-01-31,2020-08-24,1.0,1612.0
+47,Jamaica,Contact tracing,2020-08-25,2021-04-10,2.0,40387.0
+36,Jamaica,Debt/contract relief,2020-04-01,2021-03-15,1.0,31261.0
+48,Jamaica,Emergency investment in healthcare,2021-03-06,2021-03-06,10500000000.0,0.0
+50,Jamaica,Facial Coverings,2020-04-03,2020-04-19,1.0,126.0
+51,Jamaica,Facial Coverings,2020-04-20,2021-04-10,3.0,41896.0
+37,Jamaica,Fiscal measures,2020-03-17,2020-03-17,182257000.0,0.0
+38,Jamaica,Fiscal measures,2020-09-08,2020-09-08,8450449.2,0.0
+35,Jamaica,Income support,2020-04-09,2021-04-10,1.0,42056.0
+31,Jamaica,International travel controls,2020-01-31,2020-03-20,3.0,16.0
+32,Jamaica,International travel controls,2020-03-21,2020-06-14,4.0,601.0
+33,Jamaica,International travel controls,2020-06-15,2020-08-06,1.0,337.0
+34,Jamaica,International travel controls,2020-08-07,2021-04-10,2.0,41132.0
+49,Jamaica,Investment in vaccines,2021-03-06,2021-03-06,6000000000.0,0.0
+54,Jamaica,Protection of elderly people,2020-03-01,2021-03-15,3.0,31305.0
+55,Jamaica,Protection of elderly people,2021-03-23,2021-04-10,3.0,5888.0
+39,Jamaica,Public information campaigns,2020-02-05,2020-10-21,2.0,8445.0
+40,Jamaica,Public information campaigns,2020-10-23,2021-04-10,2.0,33481.0
+14,Jamaica,Restrictions on gatherings,2020-03-18,2020-03-24,3.0,8.0
+15,Jamaica,Restrictions on gatherings,2020-03-25,2020-05-30,4.0,555.0
+16,Jamaica,Restrictions on gatherings,2020-05-31,2021-02-05,3.0,15927.0
+17,Jamaica,Restrictions on gatherings,2021-02-06,2021-03-05,4.0,7935.0
+18,Jamaica,Restrictions on gatherings,2021-03-06,2021-04-05,3.0,15710.0
+19,Jamaica,Restrictions on gatherings,2021-04-06,2021-04-10,4.0,791.0
+28,Jamaica,Restrictions on internal movement,2020-03-13,2021-01-31,2.0,15645.0
+29,Jamaica,Restrictions on internal movement,2021-02-01,2021-02-05,1.0,735.0
+30,Jamaica,Restrictions on internal movement,2021-02-06,2021-04-10,2.0,25278.0
+0,Jamaica,School closing,2020-03-13,2020-06-07,3.0,590.0
+1,Jamaica,School closing,2020-06-08,2020-07-02,2.0,116.0
+2,Jamaica,School closing,2020-07-03,2020-09-06,3.0,2382.0
+3,Jamaica,School closing,2020-09-07,2021-01-03,2.0,9866.0
+4,Jamaica,School closing,2021-01-04,2021-04-10,1.0,28916.0
+21,Jamaica,Stay at home requirements,2020-03-13,2020-03-24,3.0,13.0
+22,Jamaica,Stay at home requirements,2020-03-25,2020-03-31,1.0,10.0
+23,Jamaica,Stay at home requirements,2020-04-01,2020-04-14,2.0,29.0
+24,Jamaica,Stay at home requirements,2020-04-15,2020-04-21,3.0,98.0
+25,Jamaica,Stay at home requirements,2020-04-22,2021-01-31,2.0,15420.0
+26,Jamaica,Stay at home requirements,2021-02-01,2021-02-05,1.0,735.0
+27,Jamaica,Stay at home requirements,2021-02-06,2021-04-10,2.0,25278.0
+41,Jamaica,Testing policy,2020-02-12,2020-10-12,1.0,7813.0
+42,Jamaica,Testing policy,2020-10-13,2021-02-05,2.0,8603.0
+43,Jamaica,Testing policy,2021-02-06,2021-03-05,3.0,7935.0
+44,Jamaica,Testing policy,2021-03-06,2021-03-06,2.0,0.0
+45,Jamaica,Testing policy,2021-03-07,2021-04-10,3.0,16093.0
+52,Jamaica,Vaccination policy,2021-03-06,2021-03-14,1.0,5196.0
+53,Jamaica,Vaccination policy,2021-03-15,2021-04-10,2.0,10814.0
+5,Jamaica,Workplace closing,2020-03-18,2020-03-24,1.0,8.0
+6,Jamaica,Workplace closing,2020-03-25,2020-05-31,2.0,560.0
+7,Jamaica,Workplace closing,2020-06-01,2020-06-01,1.0,0.0
+8,Jamaica,Workplace closing,2020-08-13,2020-08-24,1.0,541.0
+9,Jamaica,Workplace closing,2020-08-25,2020-10-12,2.0,6081.0
+10,Jamaica,Workplace closing,2020-10-13,2021-01-04,1.0,5293.0
+11,Jamaica,Workplace closing,2021-01-05,2021-04-10,2.0,28873.0

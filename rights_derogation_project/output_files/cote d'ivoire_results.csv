@@ -1,0 +1,55 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Cote d'Ivoire,Cancel public events,2020-03-19,2020-07-30,2.0,15969.0
+5,Cote d'Ivoire,Cancel public events,2020-07-31,2020-12-14,1.0,5658.0
+10,Cote d'Ivoire,Close public transport,2020-03-24,2020-07-26,1.0,15523.0
+36,Cote d'Ivoire,Contact tracing,2020-03-11,2020-07-15,1.0,13402.0
+37,Cote d'Ivoire,Contact tracing,2020-07-16,2020-12-14,2.0,8151.0
+38,Cote d'Ivoire,Contact tracing,2020-12-15,2021-01-17,1.0,3466.0
+39,Cote d'Ivoire,Contact tracing,2021-01-18,2021-04-11,2.0,19785.0
+25,Cote d'Ivoire,Debt/contract relief,2020-03-31,2020-07-15,1.0,13224.0
+26,Cote d'Ivoire,Debt/contract relief,2020-07-16,2021-04-11,2.0,31535.0
+40,Cote d'Ivoire,Emergency investment in healthcare,2020-03-04,2020-03-04,1104400.0,0.0
+41,Cote d'Ivoire,Emergency investment in healthcare,2020-03-31,2020-03-31,42140700.0,0.0
+42,Cote d'Ivoire,Emergency investment in healthcare,2020-05-05,2020-05-05,34957700.0,0.0
+43,Cote d'Ivoire,Emergency investment in healthcare,2020-06-01,2020-06-01,1531025.0,0.0
+44,Cote d'Ivoire,Facial Coverings,2020-04-09,2020-08-20,3.0,16805.0
+45,Cote d'Ivoire,Facial Coverings,2020-08-21,2020-08-31,4.0,757.0
+46,Cote d'Ivoire,Facial Coverings,2020-09-10,2020-09-21,4.0,458.0
+47,Cote d'Ivoire,Facial Coverings,2020-09-22,2021-01-17,3.0,5898.0
+48,Cote d'Ivoire,Facial Coverings,2021-01-18,2021-04-11,4.0,19785.0
+27,Cote d'Ivoire,Fiscal measures,2020-04-08,2020-04-08,497023.0,0.0
+28,Cote d'Ivoire,Fiscal measures,2020-05-05,2020-05-05,313191000.0,0.0
+29,Cote d'Ivoire,Fiscal measures,2020-07-29,2020-07-29,87764518.1,0.0
+24,Cote d'Ivoire,Income support,2020-06-11,2021-01-04,1.0,18396.0
+30,Cote d'Ivoire,International support,2020-05-20,2020-05-20,1600000.0,0.0
+31,Cote d'Ivoire,International support,2021-02-19,2021-02-19,308321796.2,0.0
+15,Cote d'Ivoire,International travel controls,2020-03-16,2020-03-21,3.0,13.0
+16,Cote d'Ivoire,International travel controls,2020-03-22,2020-06-30,4.0,9485.0
+17,Cote d'Ivoire,International travel controls,2020-07-01,2020-07-26,3.0,5894.0
+18,Cote d'Ivoire,International travel controls,2020-07-27,2020-08-20,2.0,1594.0
+19,Cote d'Ivoire,International travel controls,2020-08-21,2020-10-29,3.0,3318.0
+20,Cote d'Ivoire,International travel controls,2020-10-30,2021-02-07,1.0,9133.0
+21,Cote d'Ivoire,International travel controls,2021-02-08,2021-02-14,4.0,1173.0
+22,Cote d'Ivoire,International travel controls,2021-02-15,2021-02-23,2.0,889.0
+23,Cote d'Ivoire,International travel controls,2021-02-24,2021-04-11,4.0,12794.0
+53,Cote d'Ivoire,Protection of elderly people,2020-12-15,2021-01-17,1.0,3466.0
+32,Cote d'Ivoire,Public information campaigns,2020-03-12,2020-10-23,2.0,20404.0
+33,Cote d'Ivoire,Public information campaigns,2020-10-24,2020-10-29,1.0,199.0
+34,Cote d'Ivoire,Public information campaigns,2020-10-30,2021-04-11,2.0,24397.0
+6,Cote d'Ivoire,Restrictions on gatherings,2020-03-19,2020-05-15,3.0,2008.0
+7,Cote d'Ivoire,Restrictions on gatherings,2020-05-16,2020-06-25,2.0,6273.0
+8,Cote d'Ivoire,Restrictions on gatherings,2020-06-26,2020-07-26,3.0,6857.0
+9,Cote d'Ivoire,Restrictions on gatherings,2020-07-27,2020-10-29,2.0,4973.0
+13,Cote d'Ivoire,Restrictions on internal movement,2020-03-24,2020-07-15,2.0,13330.0
+14,Cote d'Ivoire,Restrictions on internal movement,2020-07-16,2020-07-26,1.0,2042.0
+0,Cote d'Ivoire,School closing,2020-03-16,2020-05-15,3.0,2016.0
+1,Cote d'Ivoire,School closing,2020-05-16,2020-09-13,2.0,16952.0
+2,Cote d'Ivoire,School closing,2020-09-14,2020-12-14,1.0,2639.0
+11,Cote d'Ivoire,Stay at home requirements,2020-03-23,2020-07-26,1.0,15571.0
+12,Cote d'Ivoire,Stay at home requirements,2020-08-21,2021-04-11,1.0,27779.0
+35,Cote d'Ivoire,Testing policy,2020-03-16,2021-04-11,2.0,45088.0
+49,Cote d'Ivoire,Vaccination policy,2021-03-02,2021-03-08,3.0,2402.0
+50,Cote d'Ivoire,Vaccination policy,2021-03-09,2021-03-28,1.0,7703.0
+51,Cote d'Ivoire,Vaccination policy,2021-03-29,2021-04-05,4.0,1419.0
+52,Cote d'Ivoire,Vaccination policy,2021-04-06,2021-04-11,5.0,235.0
+3,Cote d'Ivoire,Workplace closing,2020-03-19,2020-07-30,2.0,15969.0

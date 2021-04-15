@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Kyrgyz Republic,Cancel public events,2020-02-27,2020-03-11,1.0,0.0
+8,Kyrgyz Republic,Cancel public events,2020-03-12,2020-12-30,2.0,80843.0
+12,Kyrgyz Republic,Close public transport,2020-03-25,2020-09-21,2.0,45427.0
+13,Kyrgyz Republic,Close public transport,2021-03-01,2021-03-07,1.0,242.0
+14,Kyrgyz Republic,Close public transport,2021-03-08,2021-03-26,2.0,1275.0
+55,Kyrgyz Republic,Contact tracing,2020-03-12,2020-10-02,1.0,47056.0
+56,Kyrgyz Republic,Contact tracing,2020-10-03,2020-12-14,2.0,30490.0
+57,Kyrgyz Republic,Contact tracing,2020-12-15,2021-04-04,1.0,10863.0
+35,Kyrgyz Republic,Debt/contract relief,2020-03-26,2020-10-02,1.0,47012.0
+36,Kyrgyz Republic,Debt/contract relief,2020-10-03,2020-12-31,2.0,33850.0
+37,Kyrgyz Republic,Debt/contract relief,2021-01-01,2021-02-28,1.0,5095.0
+38,Kyrgyz Republic,Debt/contract relief,2021-03-01,2021-03-26,2.0,1550.0
+39,Kyrgyz Republic,Debt/contract relief,2021-03-27,2021-04-04,1.0,1068.0
+58,Kyrgyz Republic,Emergency investment in healthcare,2020-05-21,2020-05-21,16000000.0,0.0
+59,Kyrgyz Republic,Emergency investment in healthcare,2020-07-05,2020-07-05,600000.0,0.0
+60,Kyrgyz Republic,Emergency investment in healthcare,2020-07-14,2020-07-14,23000000.0,0.0
+61,Kyrgyz Republic,Emergency investment in healthcare,2020-07-30,2020-07-30,5160034.0,0.0
+62,Kyrgyz Republic,Emergency investment in healthcare,2020-08-21,2020-08-21,21800000.0,0.0
+63,Kyrgyz Republic,Facial Coverings,2020-05-26,2021-04-04,3.0,87546.0
+40,Kyrgyz Republic,Fiscal measures,2020-05-21,2020-05-21,15000000.0,0.0
+41,Kyrgyz Republic,Fiscal measures,2020-11-13,2020-11-13,14778508.0,0.0
+33,Kyrgyz Republic,Income support,2020-04-10,2020-10-15,1.0,50291.0
+34,Kyrgyz Republic,Income support,2021-03-01,2021-04-04,1.0,2706.0
+42,Kyrgyz Republic,International support,2020-03-20,2020-03-20,861786.0,0.0
+43,Kyrgyz Republic,International support,2020-05-05,2020-05-05,50000000.0,0.0
+23,Kyrgyz Republic,International travel controls,2020-01-22,2020-02-29,1.0,0.0
+24,Kyrgyz Republic,International travel controls,2020-03-01,2020-03-13,2.0,0.0
+25,Kyrgyz Republic,International travel controls,2020-03-14,2020-03-16,3.0,0.0
+26,Kyrgyz Republic,International travel controls,2020-03-17,2020-06-02,4.0,1845.0
+27,Kyrgyz Republic,International travel controls,2020-06-03,2020-07-09,3.0,7487.0
+28,Kyrgyz Republic,International travel controls,2020-07-10,2020-08-24,4.0,33216.0
+29,Kyrgyz Republic,International travel controls,2020-08-25,2020-09-27,3.0,3006.0
+30,Kyrgyz Republic,International travel controls,2020-09-28,2021-01-03,2.0,35033.0
+31,Kyrgyz Republic,International travel controls,2021-01-04,2021-03-26,3.0,6470.0
+32,Kyrgyz Republic,International travel controls,2021-03-27,2021-04-04,1.0,1068.0
+65,Kyrgyz Republic,Protection of elderly people,2020-03-16,2020-03-24,1.0,42.0
+66,Kyrgyz Republic,Protection of elderly people,2020-03-25,2020-05-09,3.0,887.0
+67,Kyrgyz Republic,Protection of elderly people,2020-05-10,2020-08-25,2.0,42243.0
+68,Kyrgyz Republic,Protection of elderly people,2020-08-26,2021-01-03,1.0,38030.0
+44,Kyrgyz Republic,Public information campaigns,2020-01-28,2020-05-23,2.0,1365.0
+45,Kyrgyz Republic,Public information campaigns,2020-05-24,2020-09-21,1.0,44068.0
+46,Kyrgyz Republic,Public information campaigns,2020-09-22,2021-04-04,2.0,43472.0
+9,Kyrgyz Republic,Restrictions on gatherings,2020-03-17,2020-03-24,3.0,42.0
+10,Kyrgyz Republic,Restrictions on gatherings,2020-03-25,2021-02-28,4.0,86207.0
+11,Kyrgyz Republic,Restrictions on gatherings,2021-03-01,2021-04-04,3.0,2706.0
+20,Kyrgyz Republic,Restrictions on internal movement,2020-03-22,2020-03-24,1.0,28.0
+21,Kyrgyz Republic,Restrictions on internal movement,2020-03-25,2020-10-16,2.0,50976.0
+22,Kyrgyz Republic,Restrictions on internal movement,2020-10-17,2020-12-10,1.0,24901.0
+0,Kyrgyz Republic,School closing,2020-03-16,2020-08-31,3.0,43898.0
+1,Kyrgyz Republic,School closing,2020-09-01,2021-02-03,2.0,40874.0
+2,Kyrgyz Republic,School closing,2021-03-01,2021-03-31,2.0,2230.0
+3,Kyrgyz Republic,School closing,2021-04-01,2021-04-04,1.0,476.0
+15,Kyrgyz Republic,Stay at home requirements,2020-03-14,2020-03-24,1.0,42.0
+16,Kyrgyz Republic,Stay at home requirements,2020-03-25,2020-05-10,3.0,958.0
+17,Kyrgyz Republic,Stay at home requirements,2020-05-11,2020-10-02,2.0,46040.0
+18,Kyrgyz Republic,Stay at home requirements,2020-10-03,2020-10-15,1.0,3405.0
+19,Kyrgyz Republic,Stay at home requirements,2020-12-10,2021-01-03,1.0,4997.0
+47,Kyrgyz Republic,Testing policy,2020-02-05,2020-06-30,1.0,5506.0
+48,Kyrgyz Republic,Testing policy,2020-07-01,2020-08-24,2.0,36865.0
+49,Kyrgyz Republic,Testing policy,2020-08-25,2020-10-02,1.0,3811.0
+50,Kyrgyz Republic,Testing policy,2020-10-03,2020-10-15,2.0,3405.0
+51,Kyrgyz Republic,Testing policy,2020-10-16,2020-11-12,1.0,13867.0
+52,Kyrgyz Republic,Testing policy,2020-11-13,2021-01-03,2.0,15934.0
+53,Kyrgyz Republic,Testing policy,2021-01-04,2021-03-26,1.0,6470.0
+54,Kyrgyz Republic,Testing policy,2021-03-27,2021-04-04,3.0,1068.0
+64,Kyrgyz Republic,Vaccination policy,2021-03-29,2021-04-04,1.0,851.0
+4,Kyrgyz Republic,Workplace closing,2020-03-17,2020-03-24,2.0,42.0
+5,Kyrgyz Republic,Workplace closing,2020-03-25,2020-04-29,3.0,685.0
+6,Kyrgyz Republic,Workplace closing,2020-04-30,2021-04-04,2.0,88268.0

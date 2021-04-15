@@ -1,0 +1,35 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Central African Republic,Cancel public events,2020-03-26,2020-08-24,2.0,4676.0
+5,Central African Republic,Cancel public events,2020-08-25,2020-09-14,1.0,81.0
+6,Central African Republic,Cancel public events,2020-09-15,2020-10-16,2.0,83.0
+24,Central African Republic,Contact tracing,2020-04-16,2020-08-24,1.0,4667.0
+25,Central African Republic,Contact tracing,2020-08-25,2020-11-23,2.0,220.0
+26,Central African Republic,Contact tracing,2020-11-24,2020-12-22,1.0,25.0
+27,Central African Republic,Contact tracing,2021-03-31,2021-04-04,1.0,84.0
+18,Central African Republic,Debt/contract relief,2020-08-25,2020-12-22,1.0,245.0
+28,Central African Republic,Facial Coverings,2020-06-06,2020-08-24,1.0,3109.0
+29,Central African Republic,Facial Coverings,2020-08-25,2020-12-22,3.0,245.0
+30,Central African Republic,Facial Coverings,2020-12-23,2021-01-20,2.0,26.0
+31,Central African Republic,Facial Coverings,2021-01-21,2021-02-22,3.0,27.0
+32,Central African Republic,Facial Coverings,2021-02-23,2021-04-04,2.0,244.0
+19,Central African Republic,Fiscal measures,2020-05-07,2020-05-07,44500000.0,0.0
+20,Central African Republic,Fiscal measures,2020-06-18,2020-06-18,67199760.0,0.0
+17,Central African Republic,Income support,2020-03-14,2021-01-20,1.0,4974.0
+15,Central African Republic,International travel controls,2020-03-26,2020-07-13,4.0,4318.0
+16,Central African Republic,International travel controls,2020-07-14,2021-04-04,2.0,889.0
+33,Central African Republic,Protection of elderly people,2021-02-16,2021-02-22,2.0,5.0
+21,Central African Republic,Public information campaigns,2020-03-14,2021-03-15,2.0,5023.0
+22,Central African Republic,Public information campaigns,2021-03-16,2021-04-04,1.0,220.0
+7,Central African Republic,Restrictions on gatherings,2020-03-26,2020-10-16,3.0,4852.0
+13,Central African Republic,Restrictions on internal movement,2020-03-26,2020-07-13,2.0,4318.0
+14,Central African Republic,Restrictions on internal movement,2020-07-14,2020-10-16,1.0,499.0
+0,Central African Republic,School closing,2020-03-26,2020-07-14,3.0,4353.0
+1,Central African Republic,School closing,2020-07-15,2020-10-18,2.0,493.0
+8,Central African Republic,Stay at home requirements,2020-05-08,2020-06-10,2.0,1745.0
+9,Central African Republic,Stay at home requirements,2020-06-11,2020-11-23,1.0,2959.0
+10,Central African Republic,Stay at home requirements,2020-12-07,2020-12-22,1.0,14.0
+11,Central African Republic,Stay at home requirements,2021-01-07,2021-02-22,2.0,32.0
+12,Central African Republic,Stay at home requirements,2021-02-23,2021-04-04,1.0,244.0
+23,Central African Republic,Testing policy,2020-04-17,2021-04-04,1.0,5233.0
+2,Central African Republic,Workplace closing,2020-03-26,2020-06-10,2.0,1885.0
+3,Central African Republic,Workplace closing,2020-07-24,2020-12-06,1.0,329.0

@@ -1,0 +1,37 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Mexico,Cancel public events,2020-03-24,2021-03-01,2.0,2088876.0
+8,Mexico,Cancel public events,2021-03-02,2021-04-11,1.0,181226.0
+11,Mexico,Close public transport,2020-03-30,2021-04-11,1.0,2277326.0
+28,Mexico,Contact tracing,2020-02-28,2021-01-03,1.0,1448754.0
+29,Mexico,Contact tracing,2021-01-04,2021-04-11,2.0,823201.0
+22,Mexico,Debt/contract relief,2020-10-09,2021-02-08,2.0,1125993.0
+23,Mexico,Debt/contract relief,2021-02-09,2021-04-11,1.0,331669.0
+30,Mexico,Emergency investment in healthcare,2020-03-18,2020-03-18,7340000000.0,0.0
+31,Mexico,Facial Coverings,2020-04-17,2021-04-11,4.0,2271545.0
+24,Mexico,Fiscal measures,2020-04-30,2020-04-30,5004000000.0,0.0
+25,Mexico,Fiscal measures,2020-08-03,2020-08-03,19923813.41,0.0
+21,Mexico,Income support,2020-10-09,2021-02-08,1.0,1125993.0
+18,Mexico,International travel controls,2020-02-28,2020-03-20,1.0,202.0
+19,Mexico,International travel controls,2020-03-21,2020-09-17,3.0,683862.0
+20,Mexico,International travel controls,2020-09-18,2021-04-11,1.0,1589466.0
+35,Mexico,Protection of elderly people,2020-03-15,2021-04-11,1.0,2278367.0
+26,Mexico,Public information campaigns,2020-03-24,2021-04-11,2.0,2278015.0
+9,Mexico,Restrictions on gatherings,2020-03-24,2020-03-29,2.0,588.0
+10,Mexico,Restrictions on gatherings,2020-03-30,2021-03-01,3.0,2088187.0
+16,Mexico,Restrictions on internal movement,2020-03-24,2020-03-29,1.0,588.0
+17,Mexico,Restrictions on internal movement,2020-03-30,2021-04-11,2.0,2277326.0
+0,Mexico,School closing,2020-03-23,2021-04-11,3.0,2278053.0
+12,Mexico,Stay at home requirements,2020-03-30,2020-09-10,2.0,651270.0
+13,Mexico,Stay at home requirements,2020-09-11,2020-09-17,1.0,25814.0
+14,Mexico,Stay at home requirements,2020-09-18,2021-03-01,2.0,1400327.0
+15,Mexico,Stay at home requirements,2021-03-02,2021-04-11,1.0,181226.0
+27,Mexico,Testing policy,2020-04-06,2021-04-11,1.0,2275981.0
+32,Mexico,Vaccination policy,2020-12-24,2021-02-14,1.0,630230.0
+33,Mexico,Vaccination policy,2021-02-15,2021-03-29,2.0,231951.0
+34,Mexico,Vaccination policy,2021-03-30,2021-04-11,5.0,45510.0
+1,Mexico,Workplace closing,2020-03-26,2020-05-31,3.0,90079.0
+2,Mexico,Workplace closing,2020-06-01,2020-08-19,2.0,443596.0
+3,Mexico,Workplace closing,2020-08-20,2020-09-10,3.0,108558.0
+4,Mexico,Workplace closing,2020-09-11,2020-09-21,2.0,42281.0
+5,Mexico,Workplace closing,2020-09-22,2021-02-22,3.0,1338369.0
+6,Mexico,Workplace closing,2021-02-23,2021-04-11,2.0,226154.0

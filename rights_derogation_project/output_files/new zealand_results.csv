@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+16,New Zealand,Cancel public events,2020-03-16,2020-05-13,2.0,1489.0
+17,New Zealand,Cancel public events,2020-05-14,2020-06-07,1.0,6.0
+18,New Zealand,Cancel public events,2020-08-12,2020-08-31,2.0,163.0
+19,New Zealand,Cancel public events,2020-09-01,2020-10-06,1.0,104.0
+20,New Zealand,Cancel public events,2021-02-15,2021-02-22,2.0,26.0
+21,New Zealand,Cancel public events,2021-02-28,2021-03-11,2.0,39.0
+33,New Zealand,Close public transport,2020-03-23,2020-03-25,1.0,103.0
+34,New Zealand,Close public transport,2020-03-26,2020-04-27,2.0,1189.0
+35,New Zealand,Close public transport,2020-04-28,2020-05-13,1.0,23.0
+57,New Zealand,Contact tracing,2020-02-28,2021-04-10,2.0,2573.0
+48,New Zealand,Debt/contract relief,2020-03-24,2020-07-09,1.0,1387.0
+49,New Zealand,Debt/contract relief,2020-07-10,2021-04-10,2.0,1031.0
+58,New Zealand,Emergency investment in healthcare,2020-03-17,2020-03-17,297228142.0,0.0
+60,New Zealand,Facial Coverings,2020-08-12,2020-08-29,1.0,140.0
+61,New Zealand,Facial Coverings,2020-08-30,2020-10-06,2.0,123.0
+62,New Zealand,Facial Coverings,2020-10-07,2020-12-07,1.0,221.0
+63,New Zealand,Facial Coverings,2020-12-08,2021-04-10,2.0,486.0
+50,New Zealand,Fiscal measures,2020-03-17,2020-03-17,11500000000.0,0.0
+51,New Zealand,Fiscal measures,2021-01-22,2021-01-22,2147618.72,0.0
+46,New Zealand,Income support,2020-03-17,2021-01-19,2.0,2255.0
+47,New Zealand,Income support,2021-01-20,2021-04-10,1.0,307.0
+44,New Zealand,International travel controls,2020-02-02,2020-03-19,3.0,28.0
+45,New Zealand,International travel controls,2020-03-20,2021-04-10,4.0,2535.0
+59,New Zealand,Investment in vaccines,2020-05-27,2020-05-27,23870000.0,0.0
+66,New Zealand,Protection of elderly people,2020-03-25,2020-04-26,3.0,1264.0
+67,New Zealand,Protection of elderly people,2020-04-27,2020-10-07,2.0,392.0
+68,New Zealand,Protection of elderly people,2020-10-08,2021-01-19,1.0,401.0
+52,New Zealand,Public information campaigns,2020-01-22,2021-04-10,2.0,2574.0
+22,New Zealand,Restrictions on gatherings,2020-03-16,2020-03-20,2.0,31.0
+23,New Zealand,Restrictions on gatherings,2020-03-21,2020-03-22,3.0,50.0
+24,New Zealand,Restrictions on gatherings,2020-03-23,2020-05-13,4.0,1395.0
+25,New Zealand,Restrictions on gatherings,2020-05-14,2020-05-28,3.0,6.0
+26,New Zealand,Restrictions on gatherings,2020-05-29,2020-06-07,2.0,0.0
+27,New Zealand,Restrictions on gatherings,2020-08-12,2020-09-22,4.0,235.0
+28,New Zealand,Restrictions on gatherings,2020-09-23,2020-10-06,3.0,34.0
+29,New Zealand,Restrictions on gatherings,2021-02-15,2021-02-17,4.0,7.0
+30,New Zealand,Restrictions on gatherings,2021-02-18,2021-02-22,3.0,15.0
+31,New Zealand,Restrictions on gatherings,2021-02-28,2021-03-06,4.0,21.0
+32,New Zealand,Restrictions on gatherings,2021-03-07,2021-03-11,2.0,12.0
+39,New Zealand,Restrictions on internal movement,2020-03-21,2020-03-22,1.0,50.0
+40,New Zealand,Restrictions on internal movement,2020-03-23,2020-05-13,2.0,1395.0
+41,New Zealand,Restrictions on internal movement,2020-08-12,2020-08-30,2.0,149.0
+42,New Zealand,Restrictions on internal movement,2021-02-15,2021-02-17,2.0,7.0
+43,New Zealand,Restrictions on internal movement,2021-02-28,2021-03-06,2.0,21.0
+0,New Zealand,School closing,2020-03-21,2020-03-23,1.0,50.0
+1,New Zealand,School closing,2020-03-24,2020-04-28,3.0,1319.0
+2,New Zealand,School closing,2020-04-29,2020-05-13,2.0,21.0
+3,New Zealand,School closing,2020-05-14,2020-06-26,1.0,24.0
+4,New Zealand,School closing,2020-08-12,2020-08-30,2.0,149.0
+5,New Zealand,School closing,2021-02-15,2021-02-17,2.0,7.0
+6,New Zealand,School closing,2021-02-28,2021-03-06,2.0,21.0
+36,New Zealand,Stay at home requirements,2020-03-21,2020-03-22,1.0,50.0
+37,New Zealand,Stay at home requirements,2020-03-23,2020-05-13,2.0,1395.0
+38,New Zealand,Stay at home requirements,2020-08-12,2020-08-30,2.0,149.0
+53,New Zealand,Testing policy,2020-02-28,2020-03-31,1.0,646.0
+54,New Zealand,Testing policy,2020-04-01,2020-12-22,2.0,1420.0
+55,New Zealand,Testing policy,2020-12-23,2021-01-19,3.0,139.0
+56,New Zealand,Testing policy,2021-01-20,2021-04-10,2.0,307.0
+64,New Zealand,Vaccination policy,2021-03-16,2021-03-18,1.0,10.0
+65,New Zealand,Vaccination policy,2021-03-19,2021-04-10,2.0,130.0
+7,New Zealand,Workplace closing,2020-03-21,2020-03-22,1.0,50.0
+8,New Zealand,Workplace closing,2020-03-23,2020-03-24,2.0,53.0
+9,New Zealand,Workplace closing,2020-03-25,2020-04-27,3.0,1267.0
+10,New Zealand,Workplace closing,2020-04-28,2020-05-13,2.0,23.0
+11,New Zealand,Workplace closing,2020-08-12,2020-08-30,3.0,149.0
+12,New Zealand,Workplace closing,2021-02-15,2021-02-17,2.0,7.0
+13,New Zealand,Workplace closing,2021-02-18,2021-02-22,1.0,15.0
+14,New Zealand,Workplace closing,2021-02-28,2021-03-06,2.0,21.0
+15,New Zealand,Workplace closing,2021-03-07,2021-03-11,1.0,12.0

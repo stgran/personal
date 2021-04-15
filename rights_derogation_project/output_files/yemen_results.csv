@@ -1,0 +1,30 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Yemen,Cancel public events,2020-03-17,2020-07-12,2.0,1465.0
+8,Yemen,Cancel public events,2021-03-29,2021-04-05,1.0,766.0
+23,Yemen,Contact tracing,2020-10-13,2020-10-26,1.0,7.0
+24,Yemen,Contact tracing,2020-11-10,2021-04-05,1.0,2818.0
+25,Yemen,Facial Coverings,2020-10-13,2021-04-05,1.0,2828.0
+17,Yemen,International travel controls,2020-03-18,2020-10-29,4.0,2062.0
+18,Yemen,International travel controls,2020-10-30,2020-12-19,2.0,25.0
+19,Yemen,International travel controls,2020-12-20,2021-01-08,4.0,17.0
+20,Yemen,International travel controls,2021-01-09,2021-04-05,3.0,2777.0
+26,Yemen,Protection of elderly people,2020-04-30,2020-07-12,2.0,1459.0
+27,Yemen,Protection of elderly people,2020-09-29,2020-10-26,2.0,29.0
+28,Yemen,Protection of elderly people,2021-03-29,2021-04-05,2.0,766.0
+21,Yemen,Public information campaigns,2020-03-21,2021-04-05,1.0,4881.0
+14,Yemen,Restrictions on internal movement,2020-04-30,2020-07-12,2.0,1459.0
+15,Yemen,Restrictions on internal movement,2020-09-29,2020-10-26,2.0,29.0
+16,Yemen,Restrictions on internal movement,2020-10-27,2021-04-05,1.0,2821.0
+0,Yemen,School closing,2020-03-15,2020-09-05,3.0,1983.0
+1,Yemen,School closing,2020-09-06,2020-10-03,2.0,54.0
+2,Yemen,School closing,2021-03-29,2021-04-05,1.0,766.0
+9,Yemen,Stay at home requirements,2020-05-01,2020-05-04,2.0,5.0
+10,Yemen,Stay at home requirements,2020-05-05,2020-05-27,1.0,234.0
+11,Yemen,Stay at home requirements,2020-05-28,2020-07-12,2.0,1187.0
+12,Yemen,Stay at home requirements,2020-09-29,2020-10-26,2.0,29.0
+13,Yemen,Stay at home requirements,2020-12-16,2021-04-05,2.0,2796.0
+22,Yemen,Testing policy,2020-10-13,2021-04-05,1.0,2828.0
+3,Yemen,Workplace closing,2020-04-10,2020-04-29,1.0,5.0
+4,Yemen,Workplace closing,2020-04-30,2020-07-12,2.0,1459.0
+5,Yemen,Workplace closing,2020-07-13,2020-10-12,1.0,554.0
+6,Yemen,Workplace closing,2021-03-29,2021-04-05,1.0,766.0

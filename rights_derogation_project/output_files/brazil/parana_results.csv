@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Parana,Cancel public events,2020-03-13,2020-03-15,1.0,-6.0
+9,Parana,Cancel public events,2020-03-16,2021-03-19,2.0,789679.0
+21,Parana,Close public transport,2020-03-17,2020-06-29,1.0,21314.0
+22,Parana,Close public transport,2020-06-30,2020-06-30,2.0,0.0
+23,Parana,Close public transport,2020-07-01,2021-03-04,1.0,642284.0
+24,Parana,Close public transport,2021-03-12,2021-03-19,1.0,38123.0
+49,Parana,Contact tracing,2020-04-01,2021-03-04,2.0,666280.0
+43,Parana,Debt/contract relief,2020-03-17,2020-04-22,1.0,1065.0
+44,Parana,Debt/contract relief,2020-04-23,2020-12-04,2.0,296315.0
+45,Parana,Debt/contract relief,2020-12-05,2020-12-26,1.0,100017.0
+50,Parana,Facial Coverings,2020-03-23,2020-04-10,2.0,595.0
+51,Parana,Facial Coverings,2020-04-11,2021-01-11,4.0,474261.0
+41,Parana,Income support,2020-10-14,2020-12-29,1.0,213126.0
+42,Parana,Income support,2020-12-31,2020-12-31,1.0,0.0
+36,Parana,International travel controls,2020-03-13,2020-03-17,2.0,6.0
+37,Parana,International travel controls,2020-03-18,2020-03-26,3.0,92.0
+38,Parana,International travel controls,2020-03-27,2020-07-28,4.0,69268.0
+39,Parana,International travel controls,2020-07-29,2021-03-02,1.0,585490.0
+40,Parana,International travel controls,2021-03-03,2021-03-05,2.0,11070.0
+52,Parana,Protection of elderly people,2020-03-16,2020-03-16,1.0,0.0
+53,Parana,Protection of elderly people,2020-03-17,2021-01-05,2.0,427777.0
+54,Parana,Protection of elderly people,2021-01-07,2021-03-05,2.0,208870.0
+46,Parana,Public information campaigns,2020-01-24,2021-03-05,2.0,672179.0
+10,Parana,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,-6.0
+11,Parana,Restrictions on gatherings,2020-03-16,2020-06-29,3.0,21320.0
+12,Parana,Restrictions on gatherings,2020-06-30,2020-07-13,4.0,20705.0
+13,Parana,Restrictions on gatherings,2020-07-14,2020-09-23,3.0,123560.0
+14,Parana,Restrictions on gatherings,2020-09-24,2020-10-12,4.0,23466.0
+15,Parana,Restrictions on gatherings,2020-10-13,2020-12-03,3.0,99280.0
+16,Parana,Restrictions on gatherings,2020-12-04,2021-01-26,4.0,235278.0
+17,Parana,Restrictions on gatherings,2021-01-27,2021-02-11,3.0,45234.0
+18,Parana,Restrictions on gatherings,2021-02-12,2021-02-18,4.0,20808.0
+19,Parana,Restrictions on gatherings,2021-02-19,2021-03-10,3.0,133342.0
+20,Parana,Restrictions on gatherings,2021-03-11,2021-03-19,4.0,43787.0
+30,Parana,Restrictions on internal movement,2020-03-18,2020-03-19,1.0,9.0
+31,Parana,Restrictions on internal movement,2020-03-20,2020-06-29,2.0,21290.0
+32,Parana,Restrictions on internal movement,2020-06-30,2021-02-11,1.0,558318.0
+33,Parana,Restrictions on internal movement,2021-02-12,2021-02-18,2.0,20808.0
+34,Parana,Restrictions on internal movement,2021-02-19,2021-02-26,1.0,29870.0
+35,Parana,Restrictions on internal movement,2021-02-27,2021-03-05,2.0,28835.0
+0,Parana,School closing,2020-03-17,2020-03-19,1.0,11.0
+1,Parana,School closing,2020-03-20,2021-03-19,3.0,789649.0
+25,Parana,Stay at home requirements,2020-03-19,2020-06-29,1.0,21303.0
+26,Parana,Stay at home requirements,2020-06-30,2020-07-13,2.0,20705.0
+27,Parana,Stay at home requirements,2020-07-14,2020-12-01,1.0,239960.0
+28,Parana,Stay at home requirements,2020-12-02,2021-02-26,2.0,349550.0
+29,Parana,Stay at home requirements,2021-02-27,2021-03-05,3.0,28835.0
+47,Parana,Testing policy,2020-03-16,2020-12-17,2.0,366275.0
+48,Parana,Testing policy,2020-12-18,2021-03-05,3.0,301404.0
+2,Parana,Workplace closing,2020-03-16,2020-03-21,2.0,37.0
+3,Parana,Workplace closing,2020-03-22,2020-04-19,3.0,948.0
+4,Parana,Workplace closing,2020-04-20,2020-06-12,2.0,7796.0
+5,Parana,Workplace closing,2020-06-13,2020-07-20,3.0,46556.0
+6,Parana,Workplace closing,2020-07-21,2021-02-25,2.0,576015.0
+7,Parana,Workplace closing,2021-02-26,2021-03-19,3.0,151589.0

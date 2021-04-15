@@ -1,0 +1,43 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Costa Rica,Cancel public events,2020-03-10,2021-04-11,2.0,222535.0
+13,Costa Rica,Close public transport,2020-03-21,2020-04-12,2.0,478.0
+14,Costa Rica,Close public transport,2020-04-13,2020-04-30,1.0,107.0
+15,Costa Rica,Close public transport,2021-03-30,2021-04-11,1.0,5780.0
+34,Costa Rica,Contact tracing,2020-01-22,2020-07-08,2.0,5836.0
+35,Costa Rica,Contact tracing,2020-07-09,2021-04-11,1.0,216059.0
+25,Costa Rica,Debt/contract relief,2020-03-20,2021-04-11,1.0,222455.0
+38,Costa Rica,Facial Coverings,2020-06-22,2020-11-01,2.0,107694.0
+39,Costa Rica,Facial Coverings,2020-11-02,2021-04-11,3.0,111287.0
+26,Costa Rica,Fiscal measures,2020-04-08,2020-04-08,503200000.0,0.0
+27,Costa Rica,Fiscal measures,2020-05-08,2020-05-08,1552961.0,0.0
+28,Costa Rica,Fiscal measures,2020-06-23,2020-06-23,34500000.0,0.0
+24,Costa Rica,Income support,2020-04-09,2021-04-11,1.0,222005.0
+29,Costa Rica,International support,2020-10-26,2020-10-26,1222000.0,0.0
+30,Costa Rica,International support,2020-12-04,2020-12-04,363691.5,0.0
+31,Costa Rica,International support,2020-12-09,2020-12-09,12000.0,0.0
+19,Costa Rica,International travel controls,2020-03-17,2020-07-31,4.0,17779.0
+20,Costa Rica,International travel controls,2020-08-01,2020-08-05,1.0,2230.0
+21,Costa Rica,International travel controls,2020-08-06,2020-10-06,3.0,61072.0
+22,Costa Rica,International travel controls,2020-10-07,2020-10-31,2.0,26474.0
+23,Costa Rica,International travel controls,2020-11-01,2021-04-11,1.0,112573.0
+36,Costa Rica,Investment in vaccines,2020-11-12,2020-11-12,4000000.0,0.0
+37,Costa Rica,Investment in vaccines,2021-01-06,2021-01-06,36000000.0,0.0
+41,Costa Rica,Protection of elderly people,2020-08-21,2021-04-11,2.0,190410.0
+32,Costa Rica,Public information campaigns,2020-02-03,2021-04-11,2.0,222544.0
+11,Costa Rica,Restrictions on gatherings,2020-04-27,2020-06-25,2.0,1987.0
+12,Costa Rica,Restrictions on gatherings,2020-06-26,2021-04-11,3.0,219708.0
+17,Costa Rica,Restrictions on internal movement,2020-03-17,2020-08-27,2.0,37251.0
+18,Costa Rica,Restrictions on internal movement,2020-12-31,2021-04-11,2.0,53223.0
+0,Costa Rica,School closing,2020-03-12,2020-03-16,2.0,13.0
+1,Costa Rica,School closing,2020-03-17,2021-02-07,3.0,196397.0
+2,Costa Rica,School closing,2021-02-08,2021-04-11,1.0,25109.0
+16,Costa Rica,Stay at home requirements,2020-04-01,2021-04-11,1.0,222169.0
+33,Costa Rica,Testing policy,2020-01-22,2021-04-11,1.0,222544.0
+40,Costa Rica,Vaccination policy,2020-12-29,2021-04-11,3.0,55745.0
+3,Costa Rica,Workplace closing,2020-03-10,2020-04-12,2.0,586.0
+4,Costa Rica,Workplace closing,2020-04-13,2020-04-30,3.0,107.0
+5,Costa Rica,Workplace closing,2020-05-01,2020-07-31,2.0,17095.0
+6,Costa Rica,Workplace closing,2020-08-01,2020-08-09,1.0,5099.0
+7,Costa Rica,Workplace closing,2020-08-10,2020-09-13,2.0,31582.0
+8,Costa Rica,Workplace closing,2020-09-14,2020-10-04,3.0,21821.0
+9,Costa Rica,Workplace closing,2020-10-05,2021-04-11,2.0,141415.0

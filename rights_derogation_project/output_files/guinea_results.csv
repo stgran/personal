@@ -1,0 +1,61 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Guinea,Cancel public events,2020-03-27,2020-09-30,2.0,10644.0
+13,Guinea,Cancel public events,2020-10-01,2021-03-01,1.0,5353.0
+14,Guinea,Cancel public events,2021-03-02,2021-04-06,2.0,4429.0
+21,Guinea,Close public transport,2020-03-27,2020-09-21,1.0,10336.0
+48,Guinea,Contact tracing,2020-03-13,2020-11-09,1.0,12458.0
+49,Guinea,Contact tracing,2020-11-11,2020-11-22,1.0,310.0
+50,Guinea,Contact tracing,2020-11-24,2021-03-08,2.0,4049.0
+51,Guinea,Contact tracing,2021-03-23,2021-04-06,2.0,1565.0
+37,Guinea,Debt/contract relief,2020-04-06,2020-09-30,2.0,10524.0
+52,Guinea,Emergency investment in healthcare,2020-04-06,2020-04-06,47000000.0,0.0
+53,Guinea,Emergency investment in healthcare,2020-12-04,2020-12-04,821440.0,0.0
+54,Guinea,Facial Coverings,2020-04-18,2020-11-09,4.0,11941.0
+55,Guinea,Facial Coverings,2020-11-11,2020-12-14,4.0,941.0
+56,Guinea,Facial Coverings,2020-12-15,2021-04-06,3.0,7053.0
+38,Guinea,Fiscal measures,2020-04-06,2020-04-06,328000000.0,0.0
+39,Guinea,Fiscal measures,2020-06-23,2020-06-23,50000000.0,0.0
+36,Guinea,Income support,2020-04-06,2020-09-30,1.0,10524.0
+26,Guinea,International travel controls,2020-03-07,2020-03-20,1.0,1.0
+27,Guinea,International travel controls,2020-03-21,2020-03-26,3.0,2.0
+28,Guinea,International travel controls,2020-03-27,2020-07-16,4.0,6351.0
+29,Guinea,International travel controls,2020-07-17,2020-10-14,3.0,4758.0
+30,Guinea,International travel controls,2020-10-15,2020-11-23,1.0,1586.0
+31,Guinea,International travel controls,2020-11-24,2020-12-14,2.0,594.0
+32,Guinea,International travel controls,2020-12-15,2021-02-22,1.0,1970.0
+33,Guinea,International travel controls,2021-02-23,2021-03-08,4.0,1425.0
+34,Guinea,International travel controls,2021-03-09,2021-03-22,2.0,2033.0
+35,Guinea,International travel controls,2021-03-23,2021-04-06,1.0,1565.0
+59,Guinea,Protection of elderly people,2021-03-09,2021-04-06,1.0,3598.0
+40,Guinea,Public information campaigns,2020-01-27,2020-01-28,1.0,0.0
+41,Guinea,Public information campaigns,2020-01-29,2020-11-09,2.0,12459.0
+42,Guinea,Public information campaigns,2020-11-11,2021-03-08,2.0,4396.0
+43,Guinea,Public information campaigns,2021-03-23,2021-04-06,2.0,1565.0
+15,Guinea,Restrictions on gatherings,2020-03-27,2020-09-30,3.0,10644.0
+16,Guinea,Restrictions on gatherings,2020-10-01,2020-10-14,2.0,536.0
+17,Guinea,Restrictions on gatherings,2020-10-15,2020-11-23,3.0,1586.0
+18,Guinea,Restrictions on gatherings,2020-11-24,2020-12-07,2.0,401.0
+19,Guinea,Restrictions on gatherings,2021-01-05,2021-03-01,3.0,2160.0
+20,Guinea,Restrictions on gatherings,2021-03-02,2021-04-06,4.0,4429.0
+23,Guinea,Restrictions on internal movement,2020-03-21,2020-03-26,1.0,2.0
+24,Guinea,Restrictions on internal movement,2020-03-27,2020-10-14,2.0,11180.0
+25,Guinea,Restrictions on internal movement,2020-11-24,2021-04-06,2.0,7647.0
+0,Guinea,School closing,2020-03-27,2020-06-28,3.0,5334.0
+1,Guinea,School closing,2020-06-29,2020-07-14,2.0,849.0
+2,Guinea,School closing,2020-07-15,2020-08-31,3.0,3133.0
+3,Guinea,School closing,2020-09-01,2020-10-22,1.0,2156.0
+4,Guinea,School closing,2020-11-24,2020-11-30,3.0,256.0
+5,Guinea,School closing,2020-12-15,2021-04-06,1.0,7053.0
+22,Guinea,Stay at home requirements,2020-03-30,2021-04-06,2.0,20488.0
+44,Guinea,Testing policy,2020-01-29,2020-11-09,2.0,12459.0
+45,Guinea,Testing policy,2020-11-11,2021-03-08,2.0,4396.0
+46,Guinea,Testing policy,2021-03-09,2021-03-22,1.0,2033.0
+47,Guinea,Testing policy,2021-03-23,2021-04-06,3.0,1565.0
+57,Guinea,Vaccination policy,2021-03-02,2021-03-08,3.0,831.0
+58,Guinea,Vaccination policy,2021-03-23,2021-04-06,3.0,1565.0
+6,Guinea,Workplace closing,2020-03-27,2020-06-14,2.0,4524.0
+7,Guinea,Workplace closing,2020-06-15,2020-07-14,1.0,1628.0
+8,Guinea,Workplace closing,2020-07-15,2020-08-02,3.0,1041.0
+9,Guinea,Workplace closing,2020-08-03,2020-09-21,2.0,2980.0
+10,Guinea,Workplace closing,2020-09-22,2021-03-01,1.0,5618.0
+11,Guinea,Workplace closing,2021-03-02,2021-04-06,2.0,4429.0

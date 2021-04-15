@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Oman,Cancel public events,2020-03-17,2021-04-05,2.0,164250.0
+13,Oman,Close public transport,2020-03-19,2020-10-12,2.0,106527.0
+14,Oman,Close public transport,2020-10-13,2020-10-22,1.0,4624.0
+15,Oman,Close public transport,2021-03-28,2021-04-05,1.0,8187.0
+51,Oman,Contact tracing,2020-03-17,2020-04-25,2.0,1881.0
+52,Oman,Contact tracing,2020-04-26,2021-03-07,1.0,141957.0
+53,Oman,Contact tracing,2021-03-08,2021-03-23,2.0,7960.0
+54,Oman,Contact tracing,2021-03-30,2021-04-05,2.0,6218.0
+37,Oman,Debt/contract relief,2020-03-24,2021-03-23,1.0,152280.0
+38,Oman,Debt/contract relief,2021-03-30,2021-04-05,1.0,6218.0
+55,Oman,Emergency investment in healthcare,2020-03-26,2020-03-26,26007802.0,0.0
+56,Oman,Emergency investment in healthcare,2020-03-29,2020-03-29,2600000.0,0.0
+57,Oman,Facial Coverings,2020-02-24,2020-05-10,1.0,3397.0
+58,Oman,Facial Coverings,2020-05-11,2020-05-17,2.0,1613.0
+59,Oman,Facial Coverings,2020-05-18,2020-05-23,3.0,1878.0
+60,Oman,Facial Coverings,2020-05-24,2020-12-21,4.0,120161.0
+61,Oman,Facial Coverings,2020-12-22,2021-04-05,3.0,36131.0
+39,Oman,Fiscal measures,2020-03-18,2020-03-18,20000000000.0,0.0
+40,Oman,Fiscal measures,2020-03-29,2020-03-29,2600780.0,0.0
+41,Oman,Fiscal measures,2020-10-28,2020-10-28,1000000000.0,0.0
+42,Oman,Fiscal measures,2020-12-15,2020-12-15,20800000000.0,0.0
+34,Oman,Income support,2020-04-15,2020-10-12,2.0,105665.0
+35,Oman,Income support,2021-03-08,2021-03-23,2.0,7960.0
+36,Oman,Income support,2021-03-30,2021-04-05,2.0,6218.0
+43,Oman,International support,2020-12-15,2020-12-15,1000000000.0,0.0
+25,Oman,International travel controls,2020-02-03,2020-03-17,3.0,24.0
+26,Oman,International travel controls,2020-03-18,2020-07-26,4.0,75966.0
+27,Oman,International travel controls,2020-07-27,2020-12-21,2.0,50873.0
+28,Oman,International travel controls,2020-12-22,2020-12-28,4.0,420.0
+29,Oman,International travel controls,2020-12-29,2021-01-17,2.0,3157.0
+30,Oman,International travel controls,2021-01-18,2021-01-18,3.0,0.0
+31,Oman,International travel controls,2021-01-19,2021-01-25,4.0,1107.0
+32,Oman,International travel controls,2021-01-26,2021-03-23,3.0,18957.0
+33,Oman,International travel controls,2021-03-30,2021-04-05,3.0,6218.0
+64,Oman,Protection of elderly people,2020-04-10,2020-10-10,3.0,103645.0
+65,Oman,Protection of elderly people,2020-10-11,2020-10-23,2.0,5947.0
+66,Oman,Protection of elderly people,2021-02-12,2021-03-23,2.0,15742.0
+67,Oman,Protection of elderly people,2021-03-30,2021-04-05,2.0,6218.0
+44,Oman,Public information campaigns,2020-01-20,2020-01-25,1.0,0.0
+45,Oman,Public information campaigns,2020-01-26,2020-09-30,2.0,98585.0
+46,Oman,Public information campaigns,2020-10-01,2021-01-25,1.0,34668.0
+47,Oman,Public information campaigns,2021-01-26,2021-04-05,2.0,30867.0
+12,Oman,Restrictions on gatherings,2020-03-17,2021-04-05,4.0,164250.0
+23,Oman,Restrictions on internal movement,2020-03-18,2020-10-22,2.0,111798.0
+24,Oman,Restrictions on internal movement,2021-03-30,2021-04-05,2.0,6218.0
+0,Oman,School closing,2020-03-15,2020-10-31,3.0,114412.0
+1,Oman,School closing,2020-11-01,2021-01-18,1.0,16277.0
+2,Oman,School closing,2021-01-28,2021-03-06,1.0,9168.0
+3,Oman,School closing,2021-03-07,2021-04-05,2.0,20319.0
+16,Oman,Stay at home requirements,2020-04-10,2020-05-20,2.0,5559.0
+17,Oman,Stay at home requirements,2020-05-21,2020-06-12,1.0,14701.0
+18,Oman,Stay at home requirements,2020-06-13,2020-07-24,2.0,51714.0
+19,Oman,Stay at home requirements,2020-07-25,2020-10-10,3.0,29271.0
+20,Oman,Stay at home requirements,2020-10-11,2020-10-22,2.0,5947.0
+21,Oman,Stay at home requirements,2021-02-12,2021-03-23,2.0,15742.0
+22,Oman,Stay at home requirements,2021-03-28,2021-04-05,2.0,8187.0
+48,Oman,Testing policy,2020-02-01,2020-09-30,2.0,98585.0
+49,Oman,Testing policy,2020-10-01,2021-03-23,3.0,53779.0
+50,Oman,Testing policy,2021-03-30,2021-04-05,3.0,6218.0
+62,Oman,Vaccination policy,2020-12-27,2020-12-27,2.0,0.0
+63,Oman,Vaccination policy,2020-12-28,2021-04-05,3.0,35711.0
+4,Oman,Workplace closing,2020-03-21,2020-03-30,1.0,127.0
+5,Oman,Workplace closing,2020-03-31,2020-07-24,2.0,73599.0
+6,Oman,Workplace closing,2020-07-25,2020-08-17,3.0,8368.0
+7,Oman,Workplace closing,2020-08-18,2020-10-23,2.0,28419.0
+8,Oman,Workplace closing,2021-02-12,2021-03-03,2.0,5905.0
+9,Oman,Workplace closing,2021-03-04,2021-03-29,3.0,13987.0
+10,Oman,Workplace closing,2021-03-30,2021-04-05,2.0,6218.0

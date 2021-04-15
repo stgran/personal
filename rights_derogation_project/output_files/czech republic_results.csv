@@ -1,0 +1,74 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+14,Czech Republic,Cancel public events,2020-03-11,2020-05-24,2.0,8864.0
+15,Czech Republic,Cancel public events,2020-05-25,2021-01-20,1.0,900129.0
+16,Czech Republic,Cancel public events,2021-01-21,2021-03-29,2.0,599413.0
+29,Czech Republic,Close public transport,2020-06-02,2020-06-08,1.0,333.0
+30,Czech Republic,Close public transport,2021-01-30,2021-03-29,1.0,536058.0
+59,Czech Republic,Contact tracing,2020-03-01,2021-03-29,2.0,1516769.0
+47,Czech Republic,Debt/contract relief,2020-03-12,2020-03-25,1.0,1560.0
+48,Czech Republic,Debt/contract relief,2020-03-26,2020-06-08,2.0,7772.0
+49,Czech Republic,Debt/contract relief,2020-06-09,2021-03-29,1.0,1507021.0
+60,Czech Republic,Emergency investment in healthcare,2020-03-17,2020-03-17,121599401.65,0.0
+61,Czech Republic,Facial Coverings,2020-03-18,2020-05-24,3.0,8491.0
+62,Czech Republic,Facial Coverings,2020-05-25,2020-09-09,2.0,22034.0
+63,Czech Republic,Facial Coverings,2020-09-10,2020-11-17,3.0,437356.0
+64,Czech Republic,Facial Coverings,2020-11-18,2021-03-19,4.0,974412.0
+65,Czech Republic,Facial Coverings,2021-03-20,2021-03-29,3.0,57366.0
+50,Czech Republic,Fiscal measures,2020-03-17,2020-03-17,4053313388.41,0.0
+51,Czech Republic,Fiscal measures,2020-05-07,2020-05-07,251114662.0,0.0
+45,Czech Republic,Income support,2020-03-31,2021-03-15,2.0,1399112.0
+46,Czech Republic,Income support,2021-03-16,2021-03-29,1.0,103810.0
+52,Czech Republic,International support,2020-02-01,2020-02-01,258176.0,0.0
+53,Czech Republic,International support,2020-04-09,2020-04-09,1012736.86,0.0
+54,Czech Republic,International support,2020-12-10,2020-12-10,809053.91,0.0
+41,Czech Republic,International travel controls,2020-01-27,2020-01-29,1.0,0.0
+42,Czech Republic,International travel controls,2020-01-30,2020-03-15,3.0,253.0
+43,Czech Republic,International travel controls,2020-03-16,2020-04-13,4.0,5761.0
+44,Czech Republic,International travel controls,2020-04-14,2021-03-29,3.0,1510661.0
+68,Czech Republic,Protection of elderly people,2020-03-18,2020-05-24,3.0,8491.0
+69,Czech Republic,Protection of elderly people,2020-05-25,2020-05-25,1.0,0.0
+70,Czech Republic,Protection of elderly people,2020-05-28,2020-10-08,1.0,91617.0
+71,Czech Republic,Protection of elderly people,2020-10-09,2021-03-07,3.0,1211957.0
+72,Czech Republic,Protection of elderly people,2021-03-08,2021-03-29,2.0,191481.0
+55,Czech Republic,Public information campaigns,2020-01-24,2020-01-26,1.0,0.0
+56,Czech Republic,Public information campaigns,2020-01-27,2021-03-29,2.0,1516772.0
+17,Czech Republic,Restrictions on gatherings,2020-03-10,2020-03-11,2.0,50.0
+18,Czech Republic,Restrictions on gatherings,2020-03-12,2020-03-22,3.0,1026.0
+19,Czech Republic,Restrictions on gatherings,2020-03-23,2020-04-26,4.0,6168.0
+20,Czech Republic,Restrictions on gatherings,2020-04-27,2020-05-24,3.0,1510.0
+21,Czech Republic,Restrictions on gatherings,2020-05-25,2020-06-20,2.0,1446.0
+22,Czech Republic,Restrictions on gatherings,2020-06-21,2020-06-29,1.0,1307.0
+23,Czech Republic,Restrictions on gatherings,2020-06-30,2020-07-03,2.0,365.0
+24,Czech Republic,Restrictions on gatherings,2020-07-04,2020-07-17,1.0,1302.0
+25,Czech Republic,Restrictions on gatherings,2020-07-18,2020-07-26,2.0,1469.0
+26,Czech Republic,Restrictions on gatherings,2020-07-27,2020-09-07,1.0,13200.0
+27,Czech Republic,Restrictions on gatherings,2020-09-08,2020-10-04,2.0,52569.0
+28,Czech Republic,Restrictions on gatherings,2020-10-05,2021-03-29,4.0,1431206.0
+38,Czech Republic,Restrictions on internal movement,2020-03-16,2020-04-01,2.0,3210.0
+39,Czech Republic,Restrictions on internal movement,2020-06-30,2020-10-21,1.0,196961.0
+40,Czech Republic,Restrictions on internal movement,2020-10-22,2021-03-29,2.0,1293707.0
+0,Czech Republic,School closing,2020-03-11,2020-04-19,3.0,6655.0
+1,Czech Republic,School closing,2020-04-20,2020-06-20,2.0,3548.0
+2,Czech Republic,School closing,2020-06-21,2020-10-04,1.0,71948.0
+3,Czech Republic,School closing,2020-10-05,2020-10-25,2.0,172531.0
+4,Czech Republic,School closing,2020-10-26,2020-11-17,3.0,201399.0
+5,Czech Republic,School closing,2020-11-18,2020-12-20,2.0,148856.0
+6,Czech Republic,School closing,2020-12-21,2021-03-29,3.0,889249.0
+31,Czech Republic,Stay at home requirements,2020-03-15,2020-04-20,2.0,6647.0
+32,Czech Republic,Stay at home requirements,2020-04-21,2020-05-31,1.0,2235.0
+33,Czech Republic,Stay at home requirements,2020-10-22,2020-12-02,2.0,309977.0
+34,Czech Republic,Stay at home requirements,2020-12-03,2020-12-22,1.0,97751.0
+35,Czech Republic,Stay at home requirements,2020-12-23,2021-02-14,2.0,441697.0
+36,Czech Republic,Stay at home requirements,2021-02-15,2021-03-07,1.0,230471.0
+37,Czech Republic,Stay at home requirements,2021-03-08,2021-03-29,2.0,191481.0
+57,Czech Republic,Testing policy,2020-03-09,2020-03-26,1.0,1894.0
+58,Czech Republic,Testing policy,2020-03-27,2021-03-29,2.0,1514493.0
+66,Czech Republic,Vaccination policy,2020-12-27,2021-03-15,2.0,731821.0
+67,Czech Republic,Vaccination policy,2021-03-16,2021-03-29,3.0,103810.0
+7,Czech Republic,Workplace closing,2020-03-13,2020-03-13,2.0,0.0
+8,Czech Republic,Workplace closing,2020-03-14,2020-04-19,3.0,6557.0
+9,Czech Republic,Workplace closing,2020-04-20,2020-05-24,2.0,2055.0
+10,Czech Republic,Workplace closing,2020-05-25,2020-10-21,1.0,199913.0
+11,Czech Republic,Workplace closing,2020-10-22,2020-12-02,2.0,309977.0
+12,Czech Republic,Workplace closing,2020-12-03,2020-12-17,1.0,64741.0
+13,Czech Republic,Workplace closing,2020-12-18,2021-03-29,2.0,906766.0

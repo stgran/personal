@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,North Dakota,Cancel public events,2020-03-12,2020-10-08,1.0,25383.0
+9,North Dakota,Cancel public events,2020-10-09,2020-11-15,2.0,37757.0
+10,North Dakota,Cancel public events,2020-11-16,2021-04-04,1.0,38753.0
+12,North Dakota,Close public transport,2020-03-20,2020-05-10,1.0,1465.0
+31,North Dakota,Contact tracing,2020-01-21,2020-05-03,1.0,1191.0
+32,North Dakota,Contact tracing,2020-05-04,2020-10-21,2.0,32940.0
+33,North Dakota,Contact tracing,2020-10-22,2020-12-21,1.0,55064.0
+34,North Dakota,Contact tracing,2020-12-22,2021-04-04,2.0,13186.0
+24,North Dakota,Debt/contract relief,2020-03-26,2020-07-24,1.0,5563.0
+25,North Dakota,Debt/contract relief,2020-09-01,2021-04-04,1.0,91638.0
+35,North Dakota,Facial Coverings,2020-04-04,2020-10-18,1.0,31792.0
+36,North Dakota,Facial Coverings,2020-10-19,2020-12-13,3.0,55234.0
+37,North Dakota,Facial Coverings,2020-12-14,2021-01-10,2.0,6649.0
+38,North Dakota,Facial Coverings,2021-01-20,2021-01-31,3.0,1407.0
+39,North Dakota,Facial Coverings,2021-02-01,2021-04-04,2.0,5958.0
+19,North Dakota,Income support,2020-01-27,2020-01-27,1.0,0.0
+20,North Dakota,Income support,2020-03-20,2020-03-26,1.0,25.0
+21,North Dakota,Income support,2020-03-27,2020-07-30,2.0,6233.0
+22,North Dakota,Income support,2020-07-31,2020-09-10,1.0,7974.0
+23,North Dakota,Income support,2020-12-27,2021-04-04,1.0,12174.0
+17,North Dakota,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+18,North Dakota,International travel controls,2020-03-02,2021-04-04,3.0,103638.0
+43,North Dakota,Protection of elderly people,2020-03-09,2020-04-05,1.0,207.0
+44,North Dakota,Protection of elderly people,2020-04-06,2020-04-26,2.0,642.0
+45,North Dakota,Protection of elderly people,2020-04-27,2020-09-22,1.0,17566.0
+46,North Dakota,Protection of elderly people,2020-09-23,2021-03-08,2.0,81438.0
+47,North Dakota,Protection of elderly people,2021-03-10,2021-04-04,2.0,3023.0
+26,North Dakota,Public information campaigns,2020-01-29,2020-03-12,1.0,1.0
+27,North Dakota,Public information campaigns,2020-03-13,2021-04-04,2.0,103637.0
+11,North Dakota,Restrictions on gatherings,2020-09-30,2021-01-17,2.0,74018.0
+14,North Dakota,Restrictions on internal movement,2020-03-16,2020-04-07,1.0,236.0
+15,North Dakota,Restrictions on internal movement,2020-04-08,2020-05-07,2.0,1120.0
+16,North Dakota,Restrictions on internal movement,2020-05-08,2021-04-04,1.0,102213.0
+0,North Dakota,School closing,2020-03-13,2020-03-15,1.0,0.0
+1,North Dakota,School closing,2020-03-16,2020-03-22,2.0,27.0
+2,North Dakota,School closing,2020-03-23,2020-08-23,3.0,9846.0
+3,North Dakota,School closing,2020-08-24,2021-01-18,2.0,85934.0
+4,North Dakota,School closing,2021-01-19,2021-04-04,1.0,7567.0
+13,North Dakota,Stay at home requirements,2020-04-03,2021-04-01,1.0,103126.0
+28,North Dakota,Testing policy,2020-01-21,2020-04-21,1.0,644.0
+29,North Dakota,Testing policy,2020-04-22,2021-02-21,2.0,98598.0
+30,North Dakota,Testing policy,2021-02-22,2021-04-04,3.0,4326.0
+40,North Dakota,Vaccination policy,2020-12-14,2021-01-14,2.0,7311.0
+41,North Dakota,Vaccination policy,2021-01-15,2021-03-28,3.0,6984.0
+42,North Dakota,Vaccination policy,2021-03-29,2021-04-04,4.0,999.0
+5,North Dakota,Workplace closing,2020-03-12,2020-03-19,1.0,18.0
+6,North Dakota,Workplace closing,2020-03-20,2020-04-30,2.0,1041.0
+7,North Dakota,Workplace closing,2020-05-01,2021-04-04,1.0,102531.0

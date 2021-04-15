@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Monaco,Cancel public events,2020-03-11,2020-03-14,1.0,1.0
+12,Monaco,Cancel public events,2020-03-15,2020-05-19,2.0,95.0
+13,Monaco,Cancel public events,2020-05-20,2020-09-22,1.0,100.0
+14,Monaco,Cancel public events,2020-09-23,2020-10-31,2.0,160.0
+15,Monaco,Cancel public events,2020-11-01,2021-02-14,1.0,1394.0
+16,Monaco,Cancel public events,2021-02-15,2021-03-15,2.0,346.0
+17,Monaco,Cancel public events,2021-03-16,2021-03-29,1.0,130.0
+18,Monaco,Cancel public events,2021-03-30,2021-04-09,2.0,87.0
+21,Monaco,Close public transport,2020-03-11,2020-10-31,1.0,358.0
+53,Monaco,Contact tracing,2020-02-28,2020-10-31,1.0,359.0
+54,Monaco,Contact tracing,2021-01-16,2021-03-29,2.0,1071.0
+42,Monaco,Debt/contract relief,2021-01-16,2021-03-29,1.0,1071.0
+56,Monaco,Facial Coverings,2020-04-16,2020-10-31,3.0,266.0
+57,Monaco,Facial Coverings,2020-11-01,2021-01-15,4.0,803.0
+58,Monaco,Facial Coverings,2021-01-16,2021-04-09,3.0,1175.0
+43,Monaco,Fiscal measures,2020-03-16,2020-03-16,50000000.0,0.0
+38,Monaco,Income support,2020-03-16,2020-03-19,1.0,0.0
+39,Monaco,Income support,2020-03-20,2021-01-15,2.0,1158.0
+40,Monaco,Income support,2021-01-16,2021-03-29,1.0,1071.0
+41,Monaco,Income support,2021-03-30,2021-04-09,2.0,87.0
+34,Monaco,International travel controls,2020-03-11,2020-09-20,3.0,192.0
+35,Monaco,International travel controls,2020-09-21,2020-10-31,1.0,164.0
+36,Monaco,International travel controls,2020-11-01,2021-03-29,2.0,1899.0
+37,Monaco,International travel controls,2021-03-30,2021-04-09,1.0,87.0
+55,Monaco,Investment in vaccines,2020-12-18,2020-12-18,1224000.0,0.0
+62,Monaco,Protection of elderly people,2020-03-11,2020-09-16,2.0,180.0
+63,Monaco,Protection of elderly people,2020-09-17,2020-10-31,3.0,173.0
+64,Monaco,Protection of elderly people,2020-11-01,2021-01-15,2.0,803.0
+65,Monaco,Protection of elderly people,2021-01-16,2021-01-25,1.0,174.0
+66,Monaco,Protection of elderly people,2021-01-26,2021-02-14,2.0,361.0
+67,Monaco,Protection of elderly people,2021-02-15,2021-03-01,3.0,191.0
+68,Monaco,Protection of elderly people,2021-03-02,2021-04-09,2.0,404.0
+44,Monaco,Public information campaigns,2020-01-24,2020-03-04,1.0,1.0
+45,Monaco,Public information campaigns,2020-03-05,2021-04-09,2.0,2368.0
+19,Monaco,Restrictions on gatherings,2020-03-11,2020-03-16,3.0,6.0
+20,Monaco,Restrictions on gatherings,2020-03-17,2021-04-09,4.0,2362.0
+29,Monaco,Restrictions on internal movement,2020-02-28,2020-03-10,1.0,1.0
+30,Monaco,Restrictions on internal movement,2020-03-11,2020-05-03,2.0,94.0
+31,Monaco,Restrictions on internal movement,2020-05-04,2020-10-31,1.0,264.0
+32,Monaco,Restrictions on internal movement,2021-01-16,2021-01-25,2.0,174.0
+33,Monaco,Restrictions on internal movement,2021-03-16,2021-03-29,2.0,130.0
+0,Monaco,School closing,2020-03-03,2020-03-12,1.0,1.0
+1,Monaco,School closing,2020-03-13,2020-05-10,3.0,94.0
+2,Monaco,School closing,2020-05-11,2020-09-06,2.0,51.0
+3,Monaco,School closing,2020-09-07,2021-04-09,1.0,2216.0
+22,Monaco,Stay at home requirements,2020-01-24,2020-03-14,1.0,2.0
+23,Monaco,Stay at home requirements,2020-03-15,2020-05-03,2.0,93.0
+24,Monaco,Stay at home requirements,2020-05-04,2020-10-31,1.0,264.0
+25,Monaco,Stay at home requirements,2020-11-01,2021-01-15,2.0,803.0
+26,Monaco,Stay at home requirements,2021-01-26,2021-03-15,2.0,721.0
+27,Monaco,Stay at home requirements,2021-03-16,2021-03-29,1.0,130.0
+28,Monaco,Stay at home requirements,2021-03-30,2021-04-09,2.0,87.0
+46,Monaco,Testing policy,2020-02-25,2020-04-09,2.0,84.0
+47,Monaco,Testing policy,2020-04-10,2020-05-13,1.0,6.0
+48,Monaco,Testing policy,2020-05-14,2020-10-31,3.0,263.0
+49,Monaco,Testing policy,2020-11-01,2021-01-15,2.0,803.0
+50,Monaco,Testing policy,2021-01-16,2021-02-07,3.0,461.0
+51,Monaco,Testing policy,2021-02-08,2021-03-15,2.0,455.0
+52,Monaco,Testing policy,2021-03-16,2021-04-09,3.0,234.0
+59,Monaco,Vaccination policy,2020-12-31,2021-01-15,1.0,294.0
+60,Monaco,Vaccination policy,2021-01-16,2021-02-01,2.0,305.0
+61,Monaco,Vaccination policy,2021-02-02,2021-04-09,3.0,826.0
+4,Monaco,Workplace closing,2020-02-28,2020-03-14,1.0,2.0
+5,Monaco,Workplace closing,2020-03-15,2020-05-03,3.0,93.0
+6,Monaco,Workplace closing,2020-05-04,2021-01-15,2.0,1074.0
+7,Monaco,Workplace closing,2021-01-16,2021-01-25,1.0,174.0
+8,Monaco,Workplace closing,2021-01-26,2021-03-15,2.0,721.0
+9,Monaco,Workplace closing,2021-03-16,2021-03-29,3.0,130.0
+10,Monaco,Workplace closing,2021-03-30,2021-04-09,2.0,87.0

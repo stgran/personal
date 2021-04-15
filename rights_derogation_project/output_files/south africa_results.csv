@@ -1,0 +1,58 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,South Africa,Cancel public events,2020-03-16,2020-09-19,2.0,659594.0
+10,South Africa,Cancel public events,2020-09-20,2021-01-03,1.0,439537.0
+11,South Africa,Cancel public events,2021-01-04,2021-02-15,2.0,379560.0
+12,South Africa,Cancel public events,2021-02-16,2021-04-05,1.0,58297.0
+20,South Africa,Close public transport,2020-03-26,2020-09-19,1.0,658729.0
+21,South Africa,Close public transport,2020-11-17,2021-04-05,1.0,798160.0
+48,South Africa,Contact tracing,2020-03-07,2021-04-05,2.0,1552415.0
+39,South Africa,Debt/contract relief,2020-05-29,2021-04-05,2.0,1523176.0
+49,South Africa,Emergency investment in healthcare,2020-03-24,2020-03-24,31267209.54,0.0
+50,South Africa,Facial Coverings,2020-04-01,2020-04-30,1.0,4267.0
+51,South Africa,Facial Coverings,2020-05-01,2021-01-11,3.0,1240692.0
+52,South Africa,Facial Coverings,2021-01-12,2021-01-18,4.0,87188.0
+53,South Africa,Facial Coverings,2021-01-19,2021-04-05,3.0,195700.0
+40,South Africa,Fiscal measures,2020-03-24,2020-03-24,147094577.0,0.0
+41,South Africa,Fiscal measures,2020-03-30,2020-03-30,2521000000.0,0.0
+42,South Africa,Fiscal measures,2020-04-21,2020-04-21,36300000000.0,0.0
+43,South Africa,Fiscal measures,2020-07-30,2020-07-30,20107900813.0,0.0
+38,South Africa,Income support,2020-04-21,2021-04-05,1.0,1548951.0
+30,South Africa,International travel controls,2020-01-23,2020-03-17,1.0,62.0
+31,South Africa,International travel controls,2020-03-18,2020-03-25,3.0,593.0
+32,South Africa,International travel controls,2020-03-26,2020-09-30,4.0,673412.0
+33,South Africa,International travel controls,2020-10-01,2020-10-19,3.0,29170.0
+34,South Africa,International travel controls,2020-10-20,2020-11-10,2.0,33950.0
+35,South Africa,International travel controls,2020-11-11,2021-01-18,1.0,604542.0
+36,South Africa,International travel controls,2021-01-19,2021-02-14,4.0,135091.0
+37,South Africa,International travel controls,2021-02-15,2021-04-05,1.0,59507.0
+55,South Africa,Protection of elderly people,2020-03-18,2020-03-25,1.0,593.0
+56,South Africa,Protection of elderly people,2020-03-26,2021-04-05,3.0,1551489.0
+44,South Africa,Public information campaigns,2020-03-05,2021-04-05,2.0,1552415.0
+13,South Africa,Restrictions on gatherings,2020-03-16,2020-08-17,3.0,589824.0
+14,South Africa,Restrictions on gatherings,2020-08-18,2020-09-19,4.0,67512.0
+15,South Africa,Restrictions on gatherings,2020-09-20,2020-11-29,2.0,126491.0
+16,South Africa,Restrictions on gatherings,2020-11-30,2020-12-07,3.0,27874.0
+17,South Africa,Restrictions on gatherings,2020-12-08,2021-01-03,2.0,278859.0
+18,South Africa,Restrictions on gatherings,2021-01-04,2021-02-15,4.0,379560.0
+19,South Africa,Restrictions on gatherings,2021-02-16,2021-04-05,3.0,58297.0
+25,South Africa,Restrictions on internal movement,2020-03-15,2020-03-25,1.0,658.0
+26,South Africa,Restrictions on internal movement,2020-03-26,2020-08-17,2.0,588959.0
+27,South Africa,Restrictions on internal movement,2020-08-18,2020-09-19,1.0,67512.0
+28,South Africa,Restrictions on internal movement,2020-12-22,2021-01-03,1.0,160536.0
+29,South Africa,Restrictions on internal movement,2021-01-04,2021-01-11,2.0,133294.0
+0,South Africa,School closing,2020-03-18,2020-06-07,3.0,48169.0
+1,South Africa,School closing,2020-06-08,2020-08-23,2.0,558894.0
+2,South Africa,School closing,2020-08-24,2020-09-30,1.0,62889.0
+3,South Africa,School closing,2020-12-08,2021-01-14,1.0,474917.0
+4,South Africa,School closing,2021-01-15,2021-02-01,3.0,144623.0
+5,South Africa,School closing,2021-02-02,2021-04-05,1.0,93458.0
+22,South Africa,Stay at home requirements,2020-03-26,2020-05-31,2.0,31756.0
+23,South Africa,Stay at home requirements,2020-06-01,2020-07-11,1.0,229827.0
+24,South Africa,Stay at home requirements,2020-07-12,2021-04-05,2.0,1276174.0
+45,South Africa,Testing policy,2020-03-07,2020-03-27,1.0,1169.0
+46,South Africa,Testing policy,2020-03-28,2020-04-30,2.0,4460.0
+47,South Africa,Testing policy,2020-05-01,2021-04-05,3.0,1546465.0
+54,South Africa,Vaccination policy,2021-02-01,2021-04-05,1.0,96107.0
+6,South Africa,Workplace closing,2020-03-26,2020-04-30,3.0,4720.0
+7,South Africa,Workplace closing,2020-05-01,2020-09-19,2.0,653705.0
+8,South Africa,Workplace closing,2020-09-20,2021-04-05,1.0,891205.0

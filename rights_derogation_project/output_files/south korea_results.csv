@@ -1,0 +1,80 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+17,South Korea,Cancel public events,2020-01-31,2020-02-20,1.0,93.0
+18,South Korea,Cancel public events,2020-02-21,2020-04-19,2.0,10457.0
+19,South Korea,Cancel public events,2020-04-20,2020-05-28,1.0,728.0
+20,South Korea,Cancel public events,2020-05-29,2020-07-10,2.0,1932.0
+21,South Korea,Cancel public events,2020-07-11,2020-08-15,1.0,1901.0
+22,South Korea,Cancel public events,2020-08-16,2020-10-24,2.0,10321.0
+23,South Korea,Cancel public events,2020-10-25,2020-11-30,1.0,8697.0
+24,South Korea,Cancel public events,2020-12-01,2021-04-09,2.0,73782.0
+64,South Korea,Contact tracing,2020-01-29,2020-02-10,1.0,23.0
+65,South Korea,Contact tracing,2020-02-11,2021-04-09,2.0,108917.0
+47,South Korea,Debt/contract relief,2020-03-17,2021-04-09,1.0,100625.0
+66,South Korea,Emergency investment in healthcare,2020-01-28,2020-01-28,17700000.0,0.0
+67,South Korea,Emergency investment in healthcare,2020-07-09,2020-07-09,3617399223.0,0.0
+68,South Korea,Emergency investment in healthcare,2020-12-18,2020-12-18,13015458.0,0.0
+71,South Korea,Facial Coverings,2020-03-15,2020-05-12,1.0,2800.0
+72,South Korea,Facial Coverings,2020-05-13,2020-10-24,2.0,14845.0
+73,South Korea,Facial Coverings,2020-10-25,2021-04-09,3.0,82990.0
+48,South Korea,Fiscal measures,2020-02-18,2020-02-18,356000000.0,0.0
+49,South Korea,Fiscal measures,2020-03-04,2020-03-04,9800000000.0,0.0
+50,South Korea,Fiscal measures,2020-03-24,2020-03-24,80669710999.0,0.0
+51,South Korea,Fiscal measures,2020-03-30,2020-03-30,7400000000.0,0.0
+52,South Korea,Fiscal measures,2020-04-08,2020-04-08,45094368448.52,0.0
+53,South Korea,Fiscal measures,2020-04-16,2020-04-16,6192157573.26,0.0
+54,South Korea,Fiscal measures,2020-04-22,2020-04-22,70000000000.0,0.0
+55,South Korea,Fiscal measures,2020-06-03,2020-06-03,40400000000.0,0.0
+56,South Korea,Fiscal measures,2021-03-25,2021-03-25,13100000000.0,0.0
+46,South Korea,Income support,2020-03-30,2021-04-09,1.0,99284.0
+57,South Korea,International support,2020-04-25,2020-04-25,800000.0,0.0
+58,South Korea,International support,2020-04-27,2020-04-27,2800000.0,0.0
+59,South Korea,International support,2020-05-18,2020-05-18,53000000.0,0.0
+60,South Korea,International support,2020-06-27,2020-06-27,5000000.0,0.0
+43,South Korea,International travel controls,2020-02-04,2020-07-03,3.0,13014.0
+44,South Korea,International travel controls,2020-07-04,2020-12-22,2.0,39459.0
+45,South Korea,International travel controls,2020-12-23,2021-04-09,3.0,55412.0
+69,South Korea,Investment in vaccines,2020-04-02,2020-04-02,174100000.0,0.0
+70,South Korea,Investment in vaccines,2020-07-09,2020-07-09,93070589.0,0.0
+76,South Korea,Protection of elderly people,2020-02-24,2020-03-12,2.0,7036.0
+77,South Korea,Protection of elderly people,2020-03-13,2020-06-30,3.0,4871.0
+78,South Korea,Protection of elderly people,2020-07-01,2021-04-09,2.0,96041.0
+61,South Korea,Public information campaigns,2020-02-01,2021-04-09,2.0,108933.0
+25,South Korea,Restrictions on gatherings,2020-02-21,2020-03-21,2.0,8595.0
+26,South Korea,Restrictions on gatherings,2020-03-22,2020-04-03,3.0,1101.0
+27,South Korea,Restrictions on gatherings,2020-04-04,2020-04-19,4.0,505.0
+28,South Korea,Restrictions on gatherings,2020-05-29,2020-09-27,4.0,12220.0
+29,South Korea,Restrictions on gatherings,2020-09-28,2020-10-02,3.0,328.0
+30,South Korea,Restrictions on gatherings,2020-10-03,2020-10-03,4.0,0.0
+31,South Korea,Restrictions on gatherings,2020-10-04,2020-10-24,3.0,1672.0
+32,South Korea,Restrictions on gatherings,2020-10-25,2020-11-28,2.0,7869.0
+33,South Korea,Restrictions on gatherings,2020-11-29,2020-12-22,3.0,18349.0
+34,South Korea,Restrictions on gatherings,2020-12-23,2021-04-09,4.0,55412.0
+39,South Korea,Restrictions on internal movement,2020-02-23,2020-03-20,1.0,8050.0
+40,South Korea,Restrictions on internal movement,2020-03-21,2020-04-17,2.0,1836.0
+41,South Korea,Restrictions on internal movement,2020-04-18,2020-04-19,1.0,8.0
+42,South Korea,Restrictions on internal movement,2020-05-29,2021-04-09,1.0,97504.0
+0,South Korea,School closing,2020-02-03,2020-05-19,3.0,11095.0
+1,South Korea,School closing,2020-05-20,2020-07-01,2.0,1782.0
+2,South Korea,School closing,2020-07-02,2020-07-03,3.0,63.0
+3,South Korea,School closing,2020-07-04,2020-09-20,2.0,9954.0
+4,South Korea,School closing,2020-09-21,2020-10-04,1.0,1058.0
+5,South Korea,School closing,2020-10-05,2020-10-08,3.0,237.0
+6,South Korea,School closing,2020-10-09,2020-11-25,1.0,7770.0
+7,South Korea,School closing,2020-11-26,2020-12-23,2.0,20646.0
+8,South Korea,School closing,2020-12-24,2021-02-28,3.0,35261.0
+9,South Korea,School closing,2021-03-01,2021-04-09,1.0,18573.0
+35,South Korea,Stay at home requirements,2020-02-23,2020-03-20,1.0,8050.0
+36,South Korea,Stay at home requirements,2020-03-21,2020-04-17,2.0,1836.0
+37,South Korea,Stay at home requirements,2020-04-18,2020-04-19,1.0,8.0
+38,South Korea,Stay at home requirements,2020-05-29,2021-04-09,1.0,97504.0
+62,South Korea,Testing policy,2020-01-21,2020-02-06,1.0,23.0
+63,South Korea,Testing policy,2020-02-07,2021-04-09,3.0,108921.0
+74,South Korea,Vaccination policy,2021-02-26,2021-03-22,2.0,10100.0
+75,South Korea,Vaccination policy,2021-03-23,2021-04-11,3.0,9713.0
+10,South Korea,Workplace closing,2020-02-24,2020-03-21,1.0,7966.0
+11,South Korea,Workplace closing,2020-03-22,2020-04-05,2.0,1276.0
+12,South Korea,Workplace closing,2020-04-06,2020-04-19,3.0,377.0
+13,South Korea,Workplace closing,2020-04-20,2020-10-24,2.0,15162.0
+14,South Korea,Workplace closing,2020-10-25,2020-12-21,1.0,25505.0
+15,South Korea,Workplace closing,2020-12-22,2021-01-06,2.0,14136.0
+16,South Korea,Workplace closing,2021-01-07,2021-04-09,1.0,41587.0

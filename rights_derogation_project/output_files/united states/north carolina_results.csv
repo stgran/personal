@@ -1,0 +1,61 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,North Carolina,Cancel public events,2020-03-10,2020-03-25,1.0,654.0
+11,North Carolina,Cancel public events,2020-03-26,2020-05-21,2.0,21011.0
+12,North Carolina,Cancel public events,2020-05-22,2021-04-05,1.0,899810.0
+19,North Carolina,Close public transport,2020-03-16,2021-04-05,1.0,922521.0
+44,North Carolina,Contact tracing,2020-01-21,2021-02-12,1.0,814594.0
+45,North Carolina,Contact tracing,2021-02-13,2021-04-05,2.0,103836.0
+37,North Carolina,Debt/contract relief,2020-03-12,2020-08-24,1.0,161584.0
+38,North Carolina,Debt/contract relief,2020-08-25,2021-04-05,2.0,759565.0
+46,North Carolina,Facial Coverings,2020-04-04,2020-04-19,1.0,4183.0
+47,North Carolina,Facial Coverings,2020-04-20,2020-06-23,3.0,49409.0
+48,North Carolina,Facial Coverings,2020-06-24,2021-01-10,4.0,565371.0
+49,North Carolina,Facial Coverings,2021-01-20,2021-02-14,4.0,130982.0
+50,North Carolina,Facial Coverings,2021-02-15,2021-04-05,3.0,98208.0
+33,North Carolina,Income support,2020-01-27,2020-01-27,1.0,0.0
+34,North Carolina,Income support,2020-03-17,2020-03-26,1.0,729.0
+35,North Carolina,Income support,2020-03-27,2020-07-30,2.0,122727.0
+36,North Carolina,Income support,2020-07-31,2021-04-05,1.0,796882.0
+30,North Carolina,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+31,North Carolina,International travel controls,2020-03-02,2020-09-10,3.0,186338.0
+32,North Carolina,International travel controls,2020-09-12,2021-04-05,3.0,733615.0
+54,North Carolina,Protection of elderly people,2020-03-10,2020-03-25,1.0,654.0
+55,North Carolina,Protection of elderly people,2020-03-26,2020-07-23,2.0,109478.0
+56,North Carolina,Protection of elderly people,2020-07-24,2020-08-31,3.0,60559.0
+57,North Carolina,Protection of elderly people,2020-09-01,2021-03-08,2.0,700685.0
+58,North Carolina,Protection of elderly people,2021-03-10,2021-03-11,2.0,2061.0
+59,North Carolina,Protection of elderly people,2021-03-12,2021-04-05,1.0,40737.0
+39,North Carolina,Public information campaigns,2020-03-11,2021-04-05,2.0,922551.0
+13,North Carolina,Restrictions on gatherings,2020-03-16,2020-03-24,2.0,505.0
+14,North Carolina,Restrictions on gatherings,2020-03-25,2020-11-12,3.0,302793.0
+15,North Carolina,Restrictions on gatherings,2020-11-13,2020-12-04,4.0,77301.0
+16,North Carolina,Restrictions on gatherings,2020-12-05,2021-01-05,3.0,186844.0
+17,North Carolina,Restrictions on gatherings,2021-01-06,2021-02-25,4.0,270633.0
+18,North Carolina,Restrictions on gatherings,2021-02-26,2021-04-05,3.0,66655.0
+25,North Carolina,Restrictions on internal movement,2020-03-16,2020-03-19,1.0,113.0
+26,North Carolina,Restrictions on internal movement,2020-03-20,2020-05-14,2.0,17319.0
+27,North Carolina,Restrictions on internal movement,2020-05-15,2021-01-05,1.0,557127.0
+28,North Carolina,Restrictions on internal movement,2021-01-06,2021-02-14,2.0,239546.0
+29,North Carolina,Restrictions on internal movement,2021-02-15,2021-04-05,1.0,98208.0
+0,North Carolina,School closing,2020-03-13,2020-03-15,1.0,11.0
+1,North Carolina,School closing,2020-03-16,2020-03-22,2.0,286.0
+2,North Carolina,School closing,2020-03-23,2020-08-09,3.0,138617.0
+3,North Carolina,School closing,2020-08-10,2021-03-09,2.0,735528.0
+4,North Carolina,School closing,2021-03-10,2021-04-05,1.0,44796.0
+20,North Carolina,Stay at home requirements,2020-03-10,2020-03-24,1.0,537.0
+21,North Carolina,Stay at home requirements,2020-03-25,2020-05-07,2.0,13390.0
+22,North Carolina,Stay at home requirements,2020-05-08,2020-12-10,1.0,401567.0
+23,North Carolina,Stay at home requirements,2020-12-11,2021-03-31,2.0,490509.0
+24,North Carolina,Stay at home requirements,2021-04-01,2021-04-05,1.0,6401.0
+40,North Carolina,Testing policy,2020-01-21,2020-05-14,1.0,17527.0
+41,North Carolina,Testing policy,2020-05-15,2020-11-19,2.0,306889.0
+42,North Carolina,Testing policy,2020-11-20,2020-11-22,3.0,7929.0
+43,North Carolina,Testing policy,2020-11-23,2021-04-05,2.0,583366.0
+51,North Carolina,Vaccination policy,2020-12-15,2021-01-13,1.0,194472.0
+52,North Carolina,Vaccination policy,2021-01-14,2021-02-23,2.0,195358.0
+53,North Carolina,Vaccination policy,2021-02-24,2021-04-05,3.0,72930.0
+5,North Carolina,Workplace closing,2020-03-10,2020-03-16,1.0,32.0
+6,North Carolina,Workplace closing,2020-03-17,2020-03-25,2.0,599.0
+7,North Carolina,Workplace closing,2020-03-26,2020-04-29,3.0,9920.0
+8,North Carolina,Workplace closing,2020-04-30,2021-03-25,2.0,892254.0
+9,North Carolina,Workplace closing,2021-03-26,2021-04-05,1.0,17032.0

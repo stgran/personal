@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Hungary,Cancel public events,2020-03-11,2020-06-18,2.0,4066.0
+11,Hungary,Cancel public events,2020-06-19,2020-11-09,1.0,110697.0
+12,Hungary,Cancel public events,2020-11-10,2021-03-27,2.0,505861.0
+16,Hungary,Close public transport,2020-03-16,2020-08-10,1.0,4692.0
+17,Hungary,Close public transport,2020-11-03,2021-03-27,1.0,538010.0
+39,Hungary,Contact tracing,2020-01-28,2020-11-22,2.0,174618.0
+40,Hungary,Contact tracing,2020-11-23,2021-03-27,1.0,446827.0
+31,Hungary,Debt/contract relief,2020-03-18,2020-08-10,2.0,4673.0
+32,Hungary,Debt/contract relief,2020-08-11,2021-03-27,1.0,620033.0
+41,Hungary,Emergency investment in healthcare,2020-03-31,2020-03-31,695315445.0,0.0
+44,Hungary,Facial Coverings,2020-04-27,2021-03-07,2.0,463434.0
+45,Hungary,Facial Coverings,2021-03-08,2021-03-27,3.0,156066.0
+33,Hungary,Fiscal measures,2020-04-04,2020-04-04,4000000000.0,0.0
+34,Hungary,Fiscal measures,2020-04-06,2020-04-06,30000000000.0,0.0
+29,Hungary,Income support,2020-04-16,2020-09-10,2.0,8539.0
+30,Hungary,Income support,2020-11-10,2021-03-27,1.0,505861.0
+25,Hungary,International travel controls,2020-03-09,2020-03-15,3.0,23.0
+26,Hungary,International travel controls,2020-03-16,2020-05-03,4.0,2959.0
+27,Hungary,International travel controls,2020-05-04,2020-08-31,3.0,3104.0
+28,Hungary,International travel controls,2020-09-01,2021-03-27,4.0,618522.0
+42,Hungary,Investment in vaccines,2020-12-21,2020-12-21,59700.0,0.0
+43,Hungary,Investment in vaccines,2021-01-22,2021-01-22,19900000.0,0.0
+49,Hungary,Protection of elderly people,2020-03-12,2020-03-26,2.0,248.0
+50,Hungary,Protection of elderly people,2020-03-27,2020-05-17,3.0,3209.0
+51,Hungary,Protection of elderly people,2020-05-18,2020-09-10,1.0,6656.0
+52,Hungary,Protection of elderly people,2020-11-04,2021-03-27,3.0,533791.0
+35,Hungary,Public information campaigns,2020-02-28,2020-02-29,1.0,0.0
+36,Hungary,Public information campaigns,2020-03-01,2021-03-27,2.0,624779.0
+13,Hungary,Restrictions on gatherings,2020-03-11,2020-06-18,1.0,4066.0
+14,Hungary,Restrictions on gatherings,2020-06-19,2020-11-09,2.0,110697.0
+15,Hungary,Restrictions on gatherings,2020-11-10,2021-03-27,4.0,505861.0
+22,Hungary,Restrictions on internal movement,2020-03-11,2020-03-27,1.0,287.0
+23,Hungary,Restrictions on internal movement,2020-03-28,2020-05-03,2.0,2655.0
+24,Hungary,Restrictions on internal movement,2020-05-04,2020-09-10,1.0,7156.0
+0,Hungary,School closing,2020-03-11,2020-03-15,2.0,19.0
+1,Hungary,School closing,2020-03-16,2020-06-01,3.0,3853.0
+2,Hungary,School closing,2020-06-02,2020-08-31,2.0,2218.0
+3,Hungary,School closing,2020-09-01,2020-11-09,1.0,108521.0
+4,Hungary,School closing,2020-11-10,2021-03-07,2.0,347099.0
+5,Hungary,School closing,2021-03-08,2021-03-27,3.0,156066.0
+18,Hungary,Stay at home requirements,2020-03-12,2020-03-26,1.0,248.0
+19,Hungary,Stay at home requirements,2020-03-27,2020-05-17,2.0,3209.0
+20,Hungary,Stay at home requirements,2020-05-18,2020-09-10,1.0,6656.0
+21,Hungary,Stay at home requirements,2020-11-05,2021-03-27,2.0,529863.0
+37,Hungary,Testing policy,2020-02-28,2020-10-11,1.0,37664.0
+38,Hungary,Testing policy,2020-10-12,2021-03-27,2.0,585942.0
+46,Hungary,Vaccination policy,2020-12-26,2021-01-06,1.0,16406.0
+47,Hungary,Vaccination policy,2021-01-07,2021-02-09,2.0,43898.0
+48,Hungary,Vaccination policy,2021-02-10,2021-03-27,3.0,244766.0
+6,Hungary,Workplace closing,2020-03-16,2020-06-18,2.0,4040.0
+7,Hungary,Workplace closing,2020-06-19,2020-11-02,1.0,78699.0
+8,Hungary,Workplace closing,2020-11-03,2021-03-07,2.0,379248.0
+9,Hungary,Workplace closing,2021-03-08,2021-03-27,3.0,156066.0

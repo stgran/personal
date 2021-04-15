@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+18,Greece,Cancel public events,2020-02-29,2020-06-14,2.0,3117.0
+19,Greece,Cancel public events,2020-07-13,2020-07-31,2.0,651.0
+20,Greece,Cancel public events,2020-08-13,2021-03-30,2.0,253696.0
+24,Greece,Close public transport,2020-03-14,2021-02-27,1.0,189603.0
+25,Greece,Close public transport,2021-02-28,2021-03-16,2.0,32689.0
+26,Greece,Close public transport,2021-03-17,2021-03-30,1.0,32830.0
+54,Greece,Contact tracing,2020-05-30,2021-03-30,2.0,257162.0
+40,Greece,Debt/contract relief,2020-03-25,2020-08-03,1.0,3916.0
+41,Greece,Debt/contract relief,2020-08-04,2021-03-30,2.0,255222.0
+55,Greece,Emergency investment in healthcare,2020-05-06,2020-05-06,2681004.0,0.0
+57,Greece,Facial Coverings,2020-04-28,2020-05-03,1.0,60.0
+58,Greece,Facial Coverings,2020-05-04,2020-09-28,2.0,15075.0
+59,Greece,Facial Coverings,2020-09-29,2021-01-31,4.0,138834.0
+60,Greece,Facial Coverings,2021-02-01,2021-02-22,3.0,23177.0
+61,Greece,Facial Coverings,2021-02-23,2021-03-30,4.0,77294.0
+42,Greece,Fiscal measures,2020-03-18,2020-03-18,4118246200.0,0.0
+43,Greece,Fiscal measures,2020-03-19,2020-03-19,3200000000.0,0.0
+44,Greece,Fiscal measures,2020-06-25,2020-06-25,3758517.89,0.0
+45,Greece,Fiscal measures,2020-11-19,2020-11-19,6660192.0,0.0
+46,Greece,Fiscal measures,2020-11-20,2020-11-20,673648.0,0.0
+47,Greece,Fiscal measures,2020-12-03,2020-12-03,28958400000.0,0.0
+48,Greece,Fiscal measures,2020-12-16,2020-12-16,154000000.0,0.0
+38,Greece,Income support,2020-03-18,2020-05-31,1.0,2499.0
+39,Greece,Income support,2020-06-01,2021-03-30,2.0,257159.0
+35,Greece,International travel controls,2020-03-14,2020-06-14,3.0,2893.0
+36,Greece,International travel controls,2020-06-15,2020-07-01,1.0,298.0
+37,Greece,International travel controls,2020-07-02,2021-03-30,3.0,256619.0
+56,Greece,Investment in vaccines,2020-05-04,2020-05-04,3242505.0,0.0
+66,Greece,Protection of elderly people,2020-03-23,2021-03-30,3.0,259382.0
+49,Greece,Public information campaigns,2020-02-25,2021-03-30,2.0,260077.0
+21,Greece,Restrictions on gatherings,2020-03-18,2020-05-04,4.0,2214.0
+22,Greece,Restrictions on gatherings,2020-05-05,2020-09-28,3.0,15065.0
+23,Greece,Restrictions on gatherings,2020-09-29,2021-03-30,4.0,241954.0
+32,Greece,Restrictions on internal movement,2020-03-21,2020-05-29,2.0,2379.0
+33,Greece,Restrictions on internal movement,2020-05-30,2020-10-11,1.0,19443.0
+34,Greece,Restrictions on internal movement,2020-10-12,2021-03-30,2.0,237425.0
+0,Greece,School closing,2020-03-05,2020-05-10,3.0,2685.0
+1,Greece,School closing,2020-05-11,2020-05-31,2.0,191.0
+2,Greece,School closing,2020-06-01,2020-06-21,1.0,348.0
+3,Greece,School closing,2020-06-22,2020-06-26,3.0,56.0
+4,Greece,School closing,2020-06-27,2020-09-07,1.0,8297.0
+5,Greece,School closing,2020-09-08,2020-09-13,3.0,1408.0
+6,Greece,School closing,2020-09-14,2020-11-01,1.0,27509.0
+7,Greece,School closing,2020-11-02,2020-12-06,2.0,73391.0
+8,Greece,School closing,2020-12-07,2021-01-10,3.0,28017.0
+9,Greece,School closing,2021-01-11,2021-01-31,2.0,11778.0
+10,Greece,School closing,2021-02-01,2021-02-15,3.0,15329.0
+11,Greece,School closing,2021-02-16,2021-02-27,2.0,15926.0
+12,Greece,School closing,2021-02-28,2021-03-30,3.0,68977.0
+27,Greece,Stay at home requirements,2020-03-23,2020-05-29,2.0,2214.0
+28,Greece,Stay at home requirements,2020-05-30,2020-11-06,1.0,49339.0
+29,Greece,Stay at home requirements,2020-11-07,2021-02-27,2.0,135022.0
+30,Greece,Stay at home requirements,2021-02-28,2021-03-16,3.0,32689.0
+31,Greece,Stay at home requirements,2021-03-17,2021-03-30,2.0,32830.0
+50,Greece,Testing policy,2020-04-08,2020-06-22,2.0,1403.0
+51,Greece,Testing policy,2020-06-23,2020-12-09,3.0,116418.0
+52,Greece,Testing policy,2020-12-10,2021-02-22,2.0,59419.0
+53,Greece,Testing policy,2021-02-23,2021-03-30,3.0,77294.0
+62,Greece,Vaccination policy,2020-12-27,2020-12-29,1.0,1520.0
+63,Greece,Vaccination policy,2020-12-30,2021-01-15,2.0,9942.0
+64,Greece,Vaccination policy,2021-01-16,2021-03-16,3.0,75419.0
+65,Greece,Vaccination policy,2021-03-17,2021-03-30,2.0,32830.0
+13,Greece,Workplace closing,2020-03-12,2020-05-04,2.0,2533.0
+14,Greece,Workplace closing,2020-05-05,2020-05-31,1.0,275.0
+15,Greece,Workplace closing,2020-09-29,2020-10-11,1.0,4235.0
+16,Greece,Workplace closing,2020-10-12,2021-02-27,2.0,167179.0
+17,Greece,Workplace closing,2021-02-28,2021-03-30,3.0,68977.0

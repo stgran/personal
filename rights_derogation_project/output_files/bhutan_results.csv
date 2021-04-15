@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Bhutan,Cancel public events,2020-03-27,2020-07-13,2.0,81.0
+14,Bhutan,Cancel public events,2020-07-14,2020-08-10,1.0,26.0
+15,Bhutan,Cancel public events,2020-08-11,2021-01-31,2.0,746.0
+16,Bhutan,Cancel public events,2021-02-01,2021-03-26,1.0,11.0
+17,Bhutan,Cancel public events,2021-03-27,2021-03-30,2.0,1.0
+26,Bhutan,Close public transport,2020-03-27,2020-06-30,1.0,74.0
+27,Bhutan,Close public transport,2020-08-11,2020-09-22,2.0,148.0
+28,Bhutan,Close public transport,2020-09-23,2020-11-09,1.0,103.0
+29,Bhutan,Close public transport,2020-12-20,2021-01-18,2.0,397.0
+30,Bhutan,Close public transport,2021-01-19,2021-03-01,1.0,19.0
+31,Bhutan,Close public transport,2021-03-27,2021-03-30,1.0,1.0
+60,Bhutan,Contact tracing,2020-03-06,2021-03-30,2.0,871.0
+51,Bhutan,Debt/contract relief,2020-04-10,2021-03-30,2.0,867.0
+61,Bhutan,Emergency investment in healthcare,2020-04-11,2020-04-11,26485420.0,0.0
+62,Bhutan,Facial Coverings,2020-03-11,2020-06-30,1.0,76.0
+63,Bhutan,Facial Coverings,2020-07-01,2020-08-13,2.0,51.0
+64,Bhutan,Facial Coverings,2020-08-14,2021-03-30,4.0,739.0
+52,Bhutan,Fiscal measures,2020-04-11,2020-04-11,397281300.0,0.0
+53,Bhutan,Fiscal measures,2020-09-23,2020-09-23,41000000.0,0.0
+48,Bhutan,Income support,2020-04-10,2020-06-30,1.0,72.0
+49,Bhutan,Income support,2020-07-01,2020-09-30,2.0,205.0
+50,Bhutan,Income support,2020-11-24,2021-03-30,1.0,486.0
+54,Bhutan,International support,2020-03-20,2020-03-20,100000.0,0.0
+41,Bhutan,International travel controls,2020-01-15,2020-03-05,1.0,0.0
+42,Bhutan,International travel controls,2020-03-06,2020-03-22,2.0,1.0
+43,Bhutan,International travel controls,2020-03-23,2020-07-13,4.0,82.0
+44,Bhutan,International travel controls,2020-07-14,2020-11-09,3.0,280.0
+45,Bhutan,International travel controls,2020-11-10,2020-11-23,1.0,22.0
+46,Bhutan,International travel controls,2020-11-24,2021-03-26,3.0,484.0
+47,Bhutan,International travel controls,2021-03-27,2021-03-30,4.0,1.0
+68,Bhutan,Protection of elderly people,2020-05-21,2021-03-30,1.0,851.0
+55,Bhutan,Public information campaigns,2020-01-15,2020-01-22,1.0,0.0
+56,Bhutan,Public information campaigns,2020-01-23,2021-03-30,2.0,872.0
+18,Bhutan,Restrictions on gatherings,2020-03-06,2020-03-26,2.0,1.0
+19,Bhutan,Restrictions on gatherings,2020-03-27,2020-06-30,4.0,74.0
+20,Bhutan,Restrictions on gatherings,2020-07-01,2020-08-10,3.0,33.0
+21,Bhutan,Restrictions on gatherings,2020-08-11,2020-09-28,4.0,167.0
+22,Bhutan,Restrictions on gatherings,2020-09-29,2020-12-19,3.0,162.0
+23,Bhutan,Restrictions on gatherings,2020-12-20,2021-01-31,4.0,413.0
+24,Bhutan,Restrictions on gatherings,2021-02-01,2021-03-26,3.0,11.0
+25,Bhutan,Restrictions on gatherings,2021-03-27,2021-03-30,4.0,1.0
+38,Bhutan,Restrictions on internal movement,2020-03-27,2021-01-18,2.0,840.0
+39,Bhutan,Restrictions on internal movement,2021-01-19,2021-03-26,1.0,22.0
+40,Bhutan,Restrictions on internal movement,2021-03-27,2021-03-30,2.0,1.0
+0,Bhutan,School closing,2020-03-06,2020-06-30,3.0,76.0
+1,Bhutan,School closing,2020-07-01,2020-08-10,2.0,33.0
+2,Bhutan,School closing,2020-08-11,2020-09-27,3.0,160.0
+3,Bhutan,School closing,2020-09-28,2020-12-19,2.0,163.0
+4,Bhutan,School closing,2020-12-20,2021-01-31,3.0,413.0
+32,Bhutan,Stay at home requirements,2020-03-26,2020-08-10,1.0,108.0
+33,Bhutan,Stay at home requirements,2020-08-11,2020-09-19,3.0,146.0
+34,Bhutan,Stay at home requirements,2020-09-20,2020-11-23,2.0,125.0
+35,Bhutan,Stay at home requirements,2020-11-24,2020-12-19,1.0,57.0
+36,Bhutan,Stay at home requirements,2020-12-20,2021-01-31,2.0,413.0
+37,Bhutan,Stay at home requirements,2021-02-01,2021-03-30,1.0,13.0
+57,Bhutan,Testing policy,2020-02-10,2020-04-16,1.0,5.0
+58,Bhutan,Testing policy,2020-04-17,2021-03-01,2.0,862.0
+59,Bhutan,Testing policy,2021-03-02,2021-03-30,3.0,5.0
+65,Bhutan,Vaccination policy,2021-02-01,2021-02-21,1.0,7.0
+66,Bhutan,Vaccination policy,2021-02-22,2021-03-02,2.0,1.0
+67,Bhutan,Vaccination policy,2021-03-03,2021-03-30,4.0,5.0
+5,Bhutan,Workplace closing,2020-03-27,2020-08-10,2.0,107.0
+6,Bhutan,Workplace closing,2020-08-11,2020-09-19,3.0,146.0
+7,Bhutan,Workplace closing,2020-09-20,2020-11-23,2.0,125.0
+8,Bhutan,Workplace closing,2020-11-24,2020-12-19,1.0,57.0
+9,Bhutan,Workplace closing,2020-12-20,2021-01-18,3.0,397.0
+10,Bhutan,Workplace closing,2021-01-19,2021-01-31,2.0,11.0
+11,Bhutan,Workplace closing,2021-02-01,2021-03-26,1.0,11.0
+12,Bhutan,Workplace closing,2021-03-27,2021-03-30,2.0,1.0

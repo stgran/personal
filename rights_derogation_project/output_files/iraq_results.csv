@@ -1,0 +1,59 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Iraq,Cancel public events,2020-02-25,2020-09-06,2.0,260369.0
+13,Iraq,Cancel public events,2020-09-07,2021-02-17,1.0,388873.0
+14,Iraq,Cancel public events,2021-02-18,2021-03-30,2.0,186807.0
+19,Iraq,Close public transport,2020-03-13,2020-04-20,2.0,1473.0
+20,Iraq,Close public transport,2020-04-21,2020-05-25,1.0,3030.0
+21,Iraq,Close public transport,2020-05-26,2020-10-22,2.0,437316.0
+22,Iraq,Close public transport,2020-10-23,2021-01-22,1.0,166143.0
+23,Iraq,Close public transport,2021-02-23,2021-03-14,1.0,82202.0
+46,Iraq,Contact tracing,2020-02-25,2021-03-14,1.0,758183.0
+38,Iraq,Debt/contract relief,2020-05-17,2021-03-30,1.0,840856.0
+47,Iraq,Emergency investment in healthcare,2020-02-25,2020-02-25,420168.0,0.0
+48,Iraq,Emergency investment in healthcare,2020-04-02,2020-04-02,50000000.0,0.0
+49,Iraq,Emergency investment in healthcare,2020-07-01,2020-07-01,42016806.5,0.0
+50,Iraq,Emergency investment in healthcare,2021-03-04,2021-03-04,37000000.0,0.0
+51,Iraq,Facial Coverings,2020-04-20,2021-01-22,4.0,610518.0
+52,Iraq,Facial Coverings,2021-01-23,2021-03-14,3.0,145314.0
+53,Iraq,Facial Coverings,2021-03-15,2021-03-30,4.0,81175.0
+39,Iraq,Fiscal measures,2020-04-08,2020-04-08,502933780.0,0.0
+37,Iraq,Income support,2020-05-17,2021-03-30,1.0,840856.0
+30,Iraq,International travel controls,2020-02-20,2020-03-16,3.0,124.0
+31,Iraq,International travel controls,2020-03-17,2020-08-26,4.0,215630.0
+32,Iraq,International travel controls,2020-08-27,2020-10-01,1.0,148039.0
+33,Iraq,International travel controls,2020-10-02,2020-10-03,3.0,3672.0
+34,Iraq,International travel controls,2020-10-04,2020-12-21,1.0,206204.0
+35,Iraq,International travel controls,2020-12-22,2021-03-09,3.0,149123.0
+36,Iraq,International travel controls,2021-03-10,2021-03-30,1.0,103788.0
+55,Iraq,Protection of elderly people,2020-03-13,2020-09-23,2.0,332534.0
+56,Iraq,Protection of elderly people,2020-09-24,2021-02-17,1.0,316451.0
+57,Iraq,Protection of elderly people,2021-02-18,2021-03-14,2.0,100731.0
+40,Iraq,Public information campaigns,2020-02-19,2020-02-22,1.0,0.0
+41,Iraq,Public information campaigns,2020-02-23,2021-03-30,2.0,844260.0
+15,Iraq,Restrictions on gatherings,2020-02-25,2020-09-19,4.0,315596.0
+16,Iraq,Restrictions on gatherings,2020-09-20,2021-02-17,1.0,334522.0
+17,Iraq,Restrictions on gatherings,2021-02-18,2021-02-22,2.0,14348.0
+18,Iraq,Restrictions on gatherings,2021-02-23,2021-03-30,4.0,168278.0
+27,Iraq,Restrictions on internal movement,2020-03-11,2020-09-09,2.0,273750.0
+28,Iraq,Restrictions on internal movement,2020-09-10,2021-02-22,1.0,393383.0
+29,Iraq,Restrictions on internal movement,2021-02-23,2021-03-30,2.0,168278.0
+0,Iraq,School closing,2020-02-25,2020-10-19,3.0,430677.0
+1,Iraq,School closing,2020-10-20,2020-11-28,2.0,114223.0
+2,Iraq,School closing,2020-11-29,2021-02-09,1.0,81822.0
+3,Iraq,School closing,2021-02-10,2021-02-15,3.0,12111.0
+4,Iraq,School closing,2021-02-16,2021-03-14,2.0,108202.0
+5,Iraq,School closing,2021-03-15,2021-03-30,3.0,81175.0
+24,Iraq,Stay at home requirements,2020-03-13,2020-09-23,2.0,332534.0
+25,Iraq,Stay at home requirements,2020-09-24,2021-02-17,1.0,316451.0
+26,Iraq,Stay at home requirements,2021-02-18,2021-03-30,2.0,186807.0
+42,Iraq,Testing policy,2020-02-24,2020-03-25,1.0,345.0
+43,Iraq,Testing policy,2020-03-26,2020-10-29,2.0,467373.0
+44,Iraq,Testing policy,2020-10-30,2021-02-22,1.0,201168.0
+45,Iraq,Testing policy,2021-02-23,2021-03-30,3.0,168278.0
+54,Iraq,Vaccination policy,2021-03-02,2021-03-30,3.0,140482.0
+6,Iraq,Workplace closing,2020-03-17,2020-04-20,3.0,1420.0
+7,Iraq,Workplace closing,2020-04-21,2021-01-22,2.0,610490.0
+8,Iraq,Workplace closing,2021-01-23,2021-02-17,1.0,40687.0
+9,Iraq,Workplace closing,2021-02-18,2021-02-22,2.0,14348.0
+10,Iraq,Workplace closing,2021-02-23,2021-03-29,3.0,162283.0
+11,Iraq,Workplace closing,2021-03-30,2021-03-30,2.0,0.0

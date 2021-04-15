@@ -1,0 +1,63 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+15,Bermuda,Cancel public events,2020-04-04,2020-05-01,2.0,79.0
+16,Bermuda,Cancel public events,2020-05-02,2020-12-11,1.0,277.0
+17,Bermuda,Cancel public events,2020-12-12,2021-04-01,2.0,901.0
+25,Bermuda,Close public transport,2020-03-19,2020-05-01,2.0,112.0
+26,Bermuda,Close public transport,2020-05-02,2020-06-10,1.0,27.0
+27,Bermuda,Close public transport,2020-12-11,2020-12-16,1.0,76.0
+28,Bermuda,Close public transport,2021-03-28,2021-04-01,1.0,264.0
+53,Bermuda,Contact tracing,2020-01-29,2021-04-01,2.0,1292.0
+45,Bermuda,Debt/contract relief,2020-05-29,2020-10-08,1.0,42.0
+54,Bermuda,Emergency investment in healthcare,2020-04-15,2020-04-15,2800000.0,0.0
+55,Bermuda,Facial Coverings,2020-04-04,2020-08-22,1.0,132.0
+56,Bermuda,Facial Coverings,2020-08-23,2020-10-08,4.0,15.0
+57,Bermuda,Facial Coverings,2020-10-09,2021-04-01,2.0,1108.0
+46,Bermuda,Fiscal measures,2020-04-15,2020-04-15,20621000.0,0.0
+47,Bermuda,Fiscal measures,2020-12-17,2020-12-17,13385000.0,0.0
+42,Bermuda,Income support,2020-03-25,2020-10-08,2.0,175.0
+43,Bermuda,Income support,2020-10-09,2021-03-27,1.0,763.0
+44,Bermuda,Income support,2021-03-28,2021-04-01,2.0,264.0
+37,Bermuda,International travel controls,2020-02-07,2020-03-19,3.0,2.0
+38,Bermuda,International travel controls,2020-03-20,2020-06-10,4.0,139.0
+39,Bermuda,International travel controls,2020-06-11,2020-06-30,2.0,5.0
+40,Bermuda,International travel controls,2020-07-01,2020-10-22,1.0,42.0
+41,Bermuda,International travel controls,2020-10-23,2021-04-01,2.0,1102.0
+60,Bermuda,Protection of elderly people,2020-03-17,2020-11-05,1.0,207.0
+61,Bermuda,Protection of elderly people,2020-11-06,2021-04-01,2.0,1085.0
+48,Bermuda,Public information campaigns,2020-01-22,2021-04-01,2.0,1292.0
+18,Bermuda,Restrictions on gatherings,2020-04-04,2020-06-10,4.0,106.0
+19,Bermuda,Restrictions on gatherings,2020-06-11,2020-10-08,3.0,41.0
+20,Bermuda,Restrictions on gatherings,2020-10-09,2020-10-17,2.0,1.0
+21,Bermuda,Restrictions on gatherings,2020-10-18,2020-12-11,3.0,206.0
+22,Bermuda,Restrictions on gatherings,2020-12-12,2021-01-20,4.0,293.0
+23,Bermuda,Restrictions on gatherings,2021-01-21,2021-03-27,3.0,263.0
+24,Bermuda,Restrictions on gatherings,2021-03-28,2021-04-01,4.0,264.0
+35,Bermuda,Restrictions on internal movement,2020-04-04,2020-05-01,2.0,79.0
+36,Bermuda,Restrictions on internal movement,2020-05-02,2020-09-04,1.0,61.0
+0,Bermuda,School closing,2020-03-20,2020-06-30,3.0,144.0
+1,Bermuda,School closing,2020-07-01,2020-09-13,2.0,31.0
+2,Bermuda,School closing,2020-09-14,2020-12-08,1.0,153.0
+3,Bermuda,School closing,2020-12-09,2021-01-12,2.0,316.0
+4,Bermuda,School closing,2021-01-13,2021-03-27,1.0,286.0
+5,Bermuda,School closing,2021-03-28,2021-04-01,3.0,264.0
+29,Bermuda,Stay at home requirements,2020-04-04,2020-05-01,2.0,79.0
+30,Bermuda,Stay at home requirements,2020-05-02,2020-06-10,1.0,27.0
+31,Bermuda,Stay at home requirements,2020-06-11,2020-07-19,2.0,12.0
+32,Bermuda,Stay at home requirements,2020-12-12,2021-02-15,2.0,304.0
+33,Bermuda,Stay at home requirements,2021-02-16,2021-03-02,1.0,18.0
+34,Bermuda,Stay at home requirements,2021-03-03,2021-04-01,2.0,579.0
+49,Bermuda,Testing policy,2020-01-29,2020-05-08,1.0,118.0
+50,Bermuda,Testing policy,2020-05-09,2020-10-17,3.0,67.0
+51,Bermuda,Testing policy,2020-10-18,2020-11-19,2.0,41.0
+52,Bermuda,Testing policy,2020-11-20,2021-04-01,3.0,1065.0
+58,Bermuda,Vaccination policy,2021-02-13,2021-03-07,2.0,28.0
+59,Bermuda,Vaccination policy,2021-03-08,2021-04-01,3.0,568.0
+6,Bermuda,Workplace closing,2020-03-20,2020-03-25,1.0,5.0
+7,Bermuda,Workplace closing,2020-03-26,2020-04-03,2.0,20.0
+8,Bermuda,Workplace closing,2020-04-04,2020-05-02,3.0,79.0
+9,Bermuda,Workplace closing,2020-05-03,2020-06-30,2.0,31.0
+10,Bermuda,Workplace closing,2020-07-01,2020-12-07,1.0,160.0
+11,Bermuda,Workplace closing,2020-12-08,2021-01-20,2.0,354.0
+12,Bermuda,Workplace closing,2021-01-21,2021-03-20,1.0,89.0
+13,Bermuda,Workplace closing,2021-03-21,2021-03-27,2.0,158.0
+14,Bermuda,Workplace closing,2021-03-28,2021-04-01,3.0,264.0

@@ -1,0 +1,40 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Zambia,Cancel public events,2020-04-15,2020-05-07,2.0,105.0
+7,Zambia,Cancel public events,2020-06-25,2021-01-30,1.0,51855.0
+8,Zambia,Cancel public events,2021-01-31,2021-04-01,2.0,34332.0
+31,Zambia,Contact tracing,2020-03-26,2021-01-30,2.0,53336.0
+32,Zambia,Contact tracing,2021-01-31,2021-04-01,1.0,34332.0
+23,Zambia,Debt/contract relief,2020-03-28,2021-01-30,1.0,53324.0
+33,Zambia,Emergency investment in healthcare,2020-03-28,2020-03-28,38360000.0,0.0
+34,Zambia,Facial Coverings,2020-04-16,2021-03-01,3.0,78954.0
+35,Zambia,Facial Coverings,2021-03-02,2021-03-08,2.0,3098.0
+36,Zambia,Facial Coverings,2021-03-09,2021-04-01,3.0,5652.0
+24,Zambia,Fiscal measures,2020-03-28,2020-03-28,133956000.0,0.0
+25,Zambia,Fiscal measures,2020-06-23,2020-06-23,439000000.0,0.0
+26,Zambia,Fiscal measures,2020-11-17,2020-11-17,380991568.0,0.0
+19,Zambia,International travel controls,2020-02-21,2020-03-26,2.0,16.0
+20,Zambia,International travel controls,2020-03-27,2020-05-01,4.0,87.0
+21,Zambia,International travel controls,2020-05-02,2020-10-05,2.0,14970.0
+22,Zambia,International travel controls,2020-10-06,2021-04-01,1.0,73379.0
+38,Zambia,Protection of elderly people,2021-03-23,2021-04-01,1.0,1770.0
+27,Zambia,Public information campaigns,2020-02-21,2021-04-01,2.0,88549.0
+9,Zambia,Restrictions on gatherings,2020-03-26,2020-04-14,3.0,29.0
+10,Zambia,Restrictions on gatherings,2020-04-15,2020-05-07,4.0,105.0
+11,Zambia,Restrictions on gatherings,2020-05-08,2020-09-25,3.0,14348.0
+12,Zambia,Restrictions on gatherings,2020-09-26,2021-04-01,4.0,73937.0
+16,Zambia,Restrictions on internal movement,2020-03-29,2020-04-13,1.0,16.0
+17,Zambia,Restrictions on internal movement,2020-04-14,2020-05-07,2.0,108.0
+18,Zambia,Restrictions on internal movement,2020-06-25,2020-09-25,1.0,13018.0
+0,Zambia,School closing,2020-03-20,2020-05-31,3.0,1055.0
+1,Zambia,School closing,2020-06-01,2020-09-13,2.0,12450.0
+2,Zambia,School closing,2020-09-14,2020-12-13,1.0,4554.0
+3,Zambia,School closing,2020-12-14,2021-01-31,2.0,35895.0
+13,Zambia,Stay at home requirements,2020-04-09,2020-04-14,1.0,6.0
+14,Zambia,Stay at home requirements,2020-04-15,2020-05-07,2.0,105.0
+15,Zambia,Stay at home requirements,2020-09-26,2021-01-30,1.0,38740.0
+28,Zambia,Testing policy,2020-03-18,2020-11-15,1.0,17121.0
+29,Zambia,Testing policy,2020-11-16,2021-01-18,3.0,21020.0
+30,Zambia,Testing policy,2021-01-19,2021-04-01,1.0,49034.0
+37,Zambia,Vaccination policy,2021-03-23,2021-04-01,3.0,1770.0
+4,Zambia,Workplace closing,2020-05-02,2020-05-07,3.0,34.0
+5,Zambia,Workplace closing,2020-05-08,2021-01-30,2.0,53185.0

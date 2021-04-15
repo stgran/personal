@@ -1,0 +1,135 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+31,Australia,Cancel public events,2020-03-16,2020-03-17,1.0,75.0
+32,Australia,Cancel public events,2020-03-18,2020-06-11,2.0,6721.0
+33,Australia,Cancel public events,2020-06-12,2020-06-30,1.0,626.0
+34,Australia,Cancel public events,2020-07-01,2020-10-27,2.0,19552.0
+35,Australia,Cancel public events,2020-10-28,2020-11-30,1.0,347.0
+36,Australia,Cancel public events,2020-12-01,2021-01-10,2.0,691.0
+37,Australia,Cancel public events,2021-01-11,2021-01-30,1.0,177.0
+38,Australia,Cancel public events,2021-01-31,2021-02-04,2.0,24.0
+39,Australia,Cancel public events,2021-02-05,2021-02-11,1.0,39.0
+40,Australia,Cancel public events,2021-02-12,2021-02-17,2.0,20.0
+41,Australia,Cancel public events,2021-02-18,2021-03-28,1.0,358.0
+42,Australia,Cancel public events,2021-03-29,2021-03-31,2.0,26.0
+43,Australia,Cancel public events,2021-04-01,2021-04-09,1.0,63.0
+58,Australia,Close public transport,2020-05-18,2021-04-09,1.0,22328.0
+95,Australia,Contact tracing,2020-01-25,2021-04-09,2.0,29396.0
+76,Australia,Debt/contract relief,2020-03-25,2020-12-31,2.0,26061.0
+77,Australia,Debt/contract relief,2021-01-01,2021-03-27,1.0,799.0
+96,Australia,Emergency investment in healthcare,2020-03-11,2020-03-11,1561787799.0,0.0
+97,Australia,Emergency investment in healthcare,2020-03-21,2020-03-21,7530897.0,0.0
+98,Australia,Emergency investment in healthcare,2020-06-16,2020-06-16,267992561.0,0.0
+99,Australia,Emergency investment in healthcare,2020-08-17,2020-08-17,23152213.83,0.0
+100,Australia,Emergency investment in healthcare,2021-03-14,2021-03-14,854085674.0,0.0
+107,Australia,Facial Coverings,2020-07-13,2020-07-29,1.0,6047.0
+108,Australia,Facial Coverings,2020-07-30,2020-11-21,4.0,10918.0
+109,Australia,Facial Coverings,2020-11-22,2021-01-07,2.0,737.0
+110,Australia,Facial Coverings,2021-01-08,2021-01-10,4.0,32.0
+111,Australia,Facial Coverings,2021-01-11,2021-01-30,2.0,177.0
+112,Australia,Facial Coverings,2021-01-31,2021-02-11,3.0,69.0
+113,Australia,Facial Coverings,2021-02-12,2021-02-17,4.0,20.0
+114,Australia,Facial Coverings,2021-02-18,2021-02-26,3.0,47.0
+115,Australia,Facial Coverings,2021-02-27,2021-03-28,2.0,306.0
+116,Australia,Facial Coverings,2021-03-29,2021-04-09,3.0,100.0
+78,Australia,Fiscal measures,2020-03-12,2020-03-12,11046974400.0,0.0
+79,Australia,Fiscal measures,2020-03-22,2020-03-22,99179238800.0,0.0
+80,Australia,Fiscal measures,2020-03-29,2020-03-29,663117139.0,0.0
+81,Australia,Fiscal measures,2020-03-30,2020-03-30,80223000000.0,0.0
+82,Australia,Fiscal measures,2020-04-02,2020-04-02,970999874.0,0.0
+83,Australia,Fiscal measures,2020-06-16,2020-06-16,344000000.0,0.0
+84,Australia,Fiscal measures,2020-08-26,2020-08-26,725774728.23,0.0
+85,Australia,Fiscal measures,2021-01-13,2021-01-13,3878657.0,0.0
+86,Australia,Fiscal measures,2021-03-11,2021-03-11,932740110.0,0.0
+75,Australia,Income support,2020-03-12,2021-03-30,1.0,29176.0
+87,Australia,International support,2020-05-29,2020-05-29,185925761.0,0.0
+88,Australia,International support,2020-06-01,2020-06-01,6123664.0,0.0
+89,Australia,International support,2020-10-06,2020-10-06,216550000.0,0.0
+90,Australia,International support,2020-11-14,2020-11-14,364632406.0,0.0
+73,Australia,International travel controls,2020-02-01,2020-03-19,3.0,669.0
+74,Australia,International travel controls,2020-03-20,2021-04-09,4.0,28605.0
+101,Australia,Investment in vaccines,2020-03-22,2020-03-22,7473254.0,0.0
+102,Australia,Investment in vaccines,2020-06-02,2020-06-02,4534000.0,0.0
+103,Australia,Investment in vaccines,2020-09-07,2020-09-07,1679740000.0,0.0
+104,Australia,Investment in vaccines,2020-11-05,2020-11-05,1090500000.0,0.0
+105,Australia,Investment in vaccines,2021-01-04,2021-01-04,7736600.0,0.0
+106,Australia,Investment in vaccines,2021-01-27,2021-01-27,363000000.0,0.0
+119,Australia,Protection of elderly people,2020-03-24,2020-04-01,1.0,2818.0
+120,Australia,Protection of elderly people,2020-04-02,2020-05-14,2.0,1903.0
+121,Australia,Protection of elderly people,2020-05-15,2020-05-28,1.0,130.0
+122,Australia,Protection of elderly people,2020-07-01,2020-07-07,2.0,885.0
+123,Australia,Protection of elderly people,2020-07-08,2020-07-15,3.0,1754.0
+124,Australia,Protection of elderly people,2020-07-16,2020-08-01,2.0,6662.0
+125,Australia,Protection of elderly people,2020-08-02,2020-08-27,3.0,7130.0
+126,Australia,Protection of elderly people,2020-08-28,2020-10-27,2.0,2006.0
+127,Australia,Protection of elderly people,2020-10-28,2020-12-09,1.0,435.0
+128,Australia,Protection of elderly people,2020-12-10,2021-01-30,2.0,800.0
+129,Australia,Protection of elderly people,2021-01-31,2021-02-04,3.0,24.0
+130,Australia,Protection of elderly people,2021-02-05,2021-02-11,2.0,39.0
+131,Australia,Protection of elderly people,2021-02-12,2021-02-26,3.0,73.0
+132,Australia,Protection of elderly people,2021-02-27,2021-03-25,2.0,269.0
+133,Australia,Protection of elderly people,2021-03-26,2021-04-09,3.0,144.0
+91,Australia,Public information campaigns,2020-01-25,2021-04-09,2.0,29396.0
+44,Australia,Restrictions on gatherings,2020-03-16,2020-03-23,2.0,1305.0
+45,Australia,Restrictions on gatherings,2020-03-24,2020-03-28,3.0,1596.0
+46,Australia,Restrictions on gatherings,2020-03-29,2020-05-31,4.0,3218.0
+47,Australia,Restrictions on gatherings,2020-06-01,2020-07-07,3.0,1665.0
+48,Australia,Restrictions on gatherings,2020-07-08,2020-10-27,4.0,18497.0
+49,Australia,Restrictions on gatherings,2020-10-28,2020-11-04,3.0,65.0
+50,Australia,Restrictions on gatherings,2020-11-05,2020-11-21,4.0,177.0
+51,Australia,Restrictions on gatherings,2020-11-22,2020-11-30,3.0,78.0
+52,Australia,Restrictions on gatherings,2020-12-01,2021-02-04,4.0,919.0
+53,Australia,Restrictions on gatherings,2021-02-05,2021-02-11,3.0,39.0
+54,Australia,Restrictions on gatherings,2021-02-12,2021-02-26,4.0,73.0
+55,Australia,Restrictions on gatherings,2021-02-27,2021-03-28,3.0,306.0
+56,Australia,Restrictions on gatherings,2021-03-29,2021-03-31,4.0,26.0
+57,Australia,Restrictions on gatherings,2021-04-01,2021-04-09,3.0,63.0
+70,Australia,Restrictions on internal movement,2020-03-19,2021-03-14,2.0,28449.0
+71,Australia,Restrictions on internal movement,2021-03-15,2021-03-25,1.0,102.0
+72,Australia,Restrictions on internal movement,2021-03-26,2021-04-09,2.0,144.0
+0,Australia,School closing,2020-03-24,2020-04-17,3.0,4478.0
+1,Australia,School closing,2020-04-18,2020-06-08,2.0,699.0
+2,Australia,School closing,2020-06-09,2020-06-22,1.0,218.0
+3,Australia,School closing,2020-06-23,2020-06-30,2.0,399.0
+4,Australia,School closing,2020-07-01,2020-07-12,3.0,1979.0
+5,Australia,School closing,2020-07-13,2020-08-02,2.0,8067.0
+6,Australia,School closing,2020-08-03,2020-09-27,3.0,8314.0
+7,Australia,School closing,2020-09-28,2020-10-27,2.0,498.0
+8,Australia,School closing,2020-10-28,2020-11-21,1.0,256.0
+9,Australia,School closing,2020-12-01,2021-01-31,1.0,895.0
+10,Australia,School closing,2021-02-01,2021-02-07,3.0,34.0
+11,Australia,School closing,2021-02-08,2021-02-14,1.0,40.0
+12,Australia,School closing,2021-02-15,2021-02-17,3.0,7.0
+13,Australia,School closing,2021-02-18,2021-03-28,1.0,358.0
+14,Australia,School closing,2021-03-29,2021-03-31,3.0,26.0
+15,Australia,School closing,2021-04-01,2021-04-09,1.0,63.0
+59,Australia,Stay at home requirements,2020-03-24,2020-04-01,1.0,2818.0
+60,Australia,Stay at home requirements,2020-04-02,2020-05-14,2.0,1903.0
+61,Australia,Stay at home requirements,2020-05-15,2020-05-28,1.0,130.0
+62,Australia,Stay at home requirements,2020-07-01,2020-07-07,2.0,885.0
+63,Australia,Stay at home requirements,2020-07-08,2020-07-15,3.0,1754.0
+64,Australia,Stay at home requirements,2020-07-16,2020-10-27,2.0,16320.0
+65,Australia,Stay at home requirements,2020-10-28,2020-12-18,1.0,561.0
+66,Australia,Stay at home requirements,2020-12-19,2021-01-10,2.0,446.0
+67,Australia,Stay at home requirements,2021-01-31,2021-02-04,2.0,24.0
+68,Australia,Stay at home requirements,2021-02-12,2021-02-17,3.0,20.0
+69,Australia,Stay at home requirements,2021-03-29,2021-03-31,2.0,26.0
+92,Australia,Testing policy,2020-01-25,2020-04-26,1.0,6714.0
+93,Australia,Testing policy,2020-04-27,2020-11-04,3.0,20909.0
+94,Australia,Testing policy,2020-11-05,2021-04-09,2.0,1752.0
+117,Australia,Vaccination policy,2021-02-21,2021-03-21,2.0,276.0
+118,Australia,Vaccination policy,2021-03-22,2021-04-09,3.0,185.0
+16,Australia,Workplace closing,2020-03-23,2020-05-14,2.0,5337.0
+17,Australia,Workplace closing,2020-05-15,2020-06-30,1.0,885.0
+18,Australia,Workplace closing,2020-07-01,2020-08-01,2.0,9894.0
+19,Australia,Workplace closing,2020-08-02,2020-09-27,3.0,8726.0
+20,Australia,Workplace closing,2020-09-28,2020-10-27,2.0,498.0
+21,Australia,Workplace closing,2020-10-28,2020-11-30,1.0,347.0
+22,Australia,Workplace closing,2020-12-01,2020-12-18,2.0,203.0
+23,Australia,Workplace closing,2020-12-19,2021-01-10,3.0,446.0
+24,Australia,Workplace closing,2021-01-11,2021-01-30,1.0,177.0
+25,Australia,Workplace closing,2021-01-31,2021-02-04,3.0,24.0
+26,Australia,Workplace closing,2021-02-05,2021-02-11,2.0,39.0
+27,Australia,Workplace closing,2021-02-12,2021-02-17,3.0,20.0
+28,Australia,Workplace closing,2021-02-18,2021-03-28,2.0,358.0
+29,Australia,Workplace closing,2021-03-29,2021-03-31,3.0,26.0
+30,Australia,Workplace closing,2021-04-01,2021-04-09,1.0,63.0

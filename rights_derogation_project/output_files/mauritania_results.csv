@@ -1,0 +1,43 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Mauritania,Cancel public events,2020-03-19,2020-07-06,2.0,4946.0
+9,Mauritania,Cancel public events,2020-12-02,2021-03-15,2.0,8594.0
+10,Mauritania,Cancel public events,2021-03-16,2021-04-06,1.0,468.0
+15,Mauritania,Close public transport,2020-07-07,2020-07-09,1.0,102.0
+35,Mauritania,Contact tracing,2020-03-13,2021-02-22,2.0,17110.0
+36,Mauritania,Contact tracing,2021-02-23,2021-04-06,1.0,825.0
+26,Mauritania,Debt/contract relief,2020-03-25,2020-09-24,1.0,7431.0
+27,Mauritania,Debt/contract relief,2020-12-08,2020-12-21,2.0,2691.0
+37,Mauritania,Emergency investment in healthcare,2020-03-25,2020-03-25,80000000.0,0.0
+38,Mauritania,Facial Coverings,2020-05-06,2020-06-14,2.0,1775.0
+39,Mauritania,Facial Coverings,2020-06-15,2021-04-06,3.0,16068.0
+28,Mauritania,Fiscal measures,2020-03-25,2020-03-25,80000000.0,0.0
+29,Mauritania,Fiscal measures,2020-05-06,2020-05-06,210000000.0,0.0
+25,Mauritania,Income support,2020-03-25,2020-06-25,1.0,3737.0
+20,Mauritania,International travel controls,2020-02-05,2020-03-22,2.0,2.0
+21,Mauritania,International travel controls,2020-03-23,2020-09-09,4.0,7189.0
+22,Mauritania,International travel controls,2020-09-10,2020-12-07,1.0,2457.0
+23,Mauritania,International travel controls,2020-12-08,2021-02-22,2.0,7234.0
+24,Mauritania,International travel controls,2021-02-23,2021-04-06,1.0,825.0
+41,Mauritania,Protection of elderly people,2021-03-02,2021-04-06,1.0,720.0
+30,Mauritania,Public information campaigns,2020-03-13,2021-04-06,2.0,17955.0
+11,Mauritania,Restrictions on gatherings,2020-03-19,2020-07-07,4.0,5022.0
+12,Mauritania,Restrictions on gatherings,2020-12-02,2021-01-04,2.0,6012.0
+13,Mauritania,Restrictions on gatherings,2021-01-05,2021-03-15,3.0,2476.0
+14,Mauritania,Restrictions on gatherings,2021-03-16,2021-04-06,1.0,468.0
+19,Mauritania,Restrictions on internal movement,2020-03-29,2020-07-09,2.0,5121.0
+0,Mauritania,School closing,2020-03-16,2020-06-30,3.0,4362.0
+1,Mauritania,School closing,2020-07-01,2020-08-31,2.0,2576.0
+2,Mauritania,School closing,2020-09-01,2020-12-03,1.0,1930.0
+3,Mauritania,School closing,2020-12-04,2021-01-10,3.0,6331.0
+4,Mauritania,School closing,2021-01-11,2021-04-06,1.0,2344.0
+16,Mauritania,Stay at home requirements,2020-03-19,2020-07-09,2.0,5124.0
+17,Mauritania,Stay at home requirements,2020-12-13,2021-03-01,2.0,6246.0
+18,Mauritania,Stay at home requirements,2021-03-02,2021-04-06,1.0,720.0
+31,Mauritania,Testing policy,2020-05-19,2020-09-13,1.0,7145.0
+32,Mauritania,Testing policy,2020-09-14,2020-09-24,2.0,138.0
+33,Mauritania,Testing policy,2020-09-25,2021-03-15,1.0,10000.0
+34,Mauritania,Testing policy,2021-03-16,2021-04-06,3.0,468.0
+40,Mauritania,Vaccination policy,2021-03-24,2021-04-06,3.0,265.0
+5,Mauritania,Workplace closing,2020-03-27,2020-12-07,1.0,9676.0
+6,Mauritania,Workplace closing,2020-12-08,2021-01-04,2.0,4999.0
+7,Mauritania,Workplace closing,2021-01-05,2021-04-06,1.0,2974.0

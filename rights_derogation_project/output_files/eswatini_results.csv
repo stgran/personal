@@ -1,0 +1,67 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Eswatini,Cancel public events,2020-03-14,2020-03-16,1.0,0.0
+8,Eswatini,Cancel public events,2020-03-17,2020-10-19,2.0,5787.0
+9,Eswatini,Cancel public events,2020-10-20,2020-12-20,1.0,1627.0
+10,Eswatini,Cancel public events,2020-12-21,2021-04-05,2.0,9792.0
+17,Eswatini,Close public transport,2020-03-27,2020-04-15,2.0,6.0
+18,Eswatini,Close public transport,2020-04-16,2020-10-19,1.0,5772.0
+19,Eswatini,Close public transport,2021-01-07,2021-03-18,1.0,6494.0
+52,Eswatini,Contact tracing,2020-02-29,2020-03-12,1.0,0.0
+53,Eswatini,Contact tracing,2020-03-13,2020-04-22,2.0,31.0
+54,Eswatini,Contact tracing,2020-04-23,2021-04-05,1.0,17323.0
+41,Eswatini,Debt/contract relief,2020-03-23,2021-02-28,1.0,17010.0
+42,Eswatini,Debt/contract relief,2021-03-01,2021-04-05,2.0,329.0
+55,Eswatini,Emergency investment in healthcare,2020-03-13,2020-03-13,6190459.0,0.0
+57,Eswatini,Facial Coverings,2020-08-18,2020-10-08,4.0,1643.0
+58,Eswatini,Facial Coverings,2020-10-09,2020-10-19,2.0,144.0
+59,Eswatini,Facial Coverings,2020-10-20,2020-11-22,3.0,419.0
+60,Eswatini,Facial Coverings,2020-11-23,2020-12-20,2.0,1194.0
+61,Eswatini,Facial Coverings,2020-12-21,2021-02-28,4.0,9452.0
+62,Eswatini,Facial Coverings,2021-03-01,2021-03-08,3.0,163.0
+63,Eswatini,Facial Coverings,2021-03-09,2021-04-05,4.0,163.0
+43,Eswatini,Fiscal measures,2020-04-15,2020-04-15,4840140.0,0.0
+44,Eswatini,Fiscal measures,2020-06-05,2020-06-05,1773803.0,0.0
+45,Eswatini,Fiscal measures,2020-08-20,2020-08-20,1800000000.0,0.0
+46,Eswatini,Fiscal measures,2021-02-26,2021-02-26,1937015604.37,0.0
+40,Eswatini,Income support,2020-11-11,2021-04-05,1.0,11310.0
+47,Eswatini,International support,2020-11-21,2020-11-21,40000000.0,0.0
+35,Eswatini,International travel controls,2020-01-29,2020-03-16,1.0,1.0
+36,Eswatini,International travel controls,2020-03-17,2020-03-26,3.0,5.0
+37,Eswatini,International travel controls,2020-03-27,2020-10-01,4.0,5491.0
+38,Eswatini,International travel controls,2020-10-02,2020-12-20,2.0,1906.0
+39,Eswatini,International travel controls,2020-12-21,2021-04-05,1.0,9792.0
+56,Eswatini,Investment in vaccines,2021-01-03,2021-01-03,13640045.16,0.0
+65,Eswatini,Protection of elderly people,2021-02-09,2021-04-05,2.0,1066.0
+48,Eswatini,Public information campaigns,2020-02-15,2020-02-28,1.0,0.0
+49,Eswatini,Public information campaigns,2020-02-29,2021-04-05,2.0,17354.0
+11,Eswatini,Restrictions on gatherings,2020-03-17,2020-08-17,3.0,3893.0
+12,Eswatini,Restrictions on gatherings,2020-08-18,2020-11-23,2.0,2244.0
+13,Eswatini,Restrictions on gatherings,2020-12-07,2021-01-06,3.0,4010.0
+14,Eswatini,Restrictions on gatherings,2021-01-07,2021-03-08,4.0,6415.0
+15,Eswatini,Restrictions on gatherings,2021-03-09,2021-03-18,3.0,76.0
+16,Eswatini,Restrictions on gatherings,2021-03-19,2021-04-05,4.0,80.0
+26,Eswatini,Restrictions on internal movement,2020-03-17,2020-03-26,1.0,5.0
+27,Eswatini,Restrictions on internal movement,2020-03-27,2020-08-17,2.0,3885.0
+28,Eswatini,Restrictions on internal movement,2020-08-18,2020-12-20,1.0,3438.0
+29,Eswatini,Restrictions on internal movement,2020-12-21,2021-01-25,2.0,7060.0
+30,Eswatini,Restrictions on internal movement,2021-01-26,2021-02-01,1.0,974.0
+31,Eswatini,Restrictions on internal movement,2021-02-02,2021-02-28,2.0,1136.0
+32,Eswatini,Restrictions on internal movement,2021-03-01,2021-03-08,1.0,163.0
+33,Eswatini,Restrictions on internal movement,2021-03-09,2021-03-18,2.0,76.0
+34,Eswatini,Restrictions on internal movement,2021-03-19,2021-04-05,1.0,80.0
+0,Eswatini,School closing,2020-03-17,2020-07-07,3.0,1055.0
+1,Eswatini,School closing,2020-07-08,2021-01-06,2.0,9401.0
+2,Eswatini,School closing,2021-01-07,2021-03-28,3.0,6548.0
+3,Eswatini,School closing,2021-03-29,2021-04-05,2.0,28.0
+20,Eswatini,Stay at home requirements,2020-03-27,2020-08-17,2.0,3885.0
+21,Eswatini,Stay at home requirements,2020-08-18,2020-11-23,1.0,2244.0
+22,Eswatini,Stay at home requirements,2020-12-07,2021-01-04,1.0,3609.0
+23,Eswatini,Stay at home requirements,2021-01-05,2021-03-08,2.0,6850.0
+24,Eswatini,Stay at home requirements,2021-03-09,2021-03-18,1.0,76.0
+25,Eswatini,Stay at home requirements,2021-03-19,2021-04-05,2.0,80.0
+50,Eswatini,Testing policy,2020-02-15,2020-05-04,1.0,116.0
+51,Eswatini,Testing policy,2020-05-05,2021-04-05,2.0,17235.0
+64,Eswatini,Vaccination policy,2021-03-24,2021-04-05,1.0,53.0
+4,Eswatini,Workplace closing,2020-03-27,2020-04-02,1.0,0.0
+5,Eswatini,Workplace closing,2020-04-03,2020-08-17,2.0,3885.0
+6,Eswatini,Workplace closing,2020-08-18,2021-04-05,1.0,13365.0

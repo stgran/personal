@@ -1,0 +1,66 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Uganda,Cancel public events,2020-03-18,2020-11-08,2.0,14403.0
+5,Uganda,Cancel public events,2020-11-09,2021-04-09,1.0,26512.0
+8,Uganda,Close public transport,2020-03-25,2020-07-26,2.0,1101.0
+9,Uganda,Close public transport,2020-07-27,2020-09-25,1.0,6090.0
+10,Uganda,Close public transport,2020-10-19,2020-11-08,1.0,3712.0
+11,Uganda,Close public transport,2021-02-23,2021-03-29,2.0,577.0
+12,Uganda,Close public transport,2021-03-30,2021-04-09,1.0,247.0
+45,Uganda,Contact tracing,2020-03-25,2020-08-09,1.0,1269.0
+46,Uganda,Contact tracing,2020-08-10,2020-09-12,2.0,3406.0
+47,Uganda,Contact tracing,2020-09-13,2020-09-25,1.0,2419.0
+48,Uganda,Contact tracing,2020-09-26,2020-10-05,2.0,1601.0
+49,Uganda,Contact tracing,2020-10-06,2021-01-18,1.0,29003.0
+50,Uganda,Contact tracing,2021-02-02,2021-04-09,1.0,1435.0
+32,Uganda,Debt/contract relief,2020-03-22,2020-07-05,2.0,938.0
+33,Uganda,Debt/contract relief,2020-07-06,2020-09-12,1.0,3750.0
+34,Uganda,Debt/contract relief,2020-09-13,2020-11-08,2.0,9604.0
+51,Uganda,Emergency investment in healthcare,2020-02-05,2020-02-05,6793500000.0,0.0
+52,Uganda,Emergency investment in healthcare,2020-03-13,2020-03-13,53879.0,0.0
+54,Uganda,Facial Coverings,2020-05-06,2020-09-12,4.0,4603.0
+55,Uganda,Facial Coverings,2020-09-13,2020-09-25,3.0,2419.0
+56,Uganda,Facial Coverings,2020-09-26,2020-11-23,4.0,10801.0
+57,Uganda,Facial Coverings,2020-11-24,2021-01-18,2.0,19679.0
+58,Uganda,Facial Coverings,2021-01-19,2021-02-01,3.0,1072.0
+59,Uganda,Facial Coverings,2021-02-02,2021-03-03,4.0,757.0
+60,Uganda,Facial Coverings,2021-03-04,2021-04-09,3.0,660.0
+35,Uganda,Fiscal measures,2020-03-25,2020-03-25,1300000.0,0.0
+36,Uganda,Fiscal measures,2020-03-31,2020-03-31,37856125.45,0.0
+37,Uganda,Fiscal measures,2020-04-01,2020-04-01,11965712.38,0.0
+38,Uganda,Fiscal measures,2020-04-05,2020-04-14,3.0,3.0
+39,Uganda,Fiscal measures,2020-04-29,2020-04-29,81300000.0,0.0
+40,Uganda,Fiscal measures,2020-06-29,2020-06-29,300000000.0,0.0
+24,Uganda,International travel controls,2020-01-20,2020-02-05,1.0,0.0
+25,Uganda,International travel controls,2020-02-06,2020-03-21,2.0,1.0
+26,Uganda,International travel controls,2020-03-22,2020-06-21,3.0,769.0
+27,Uganda,International travel controls,2020-06-22,2020-07-09,4.0,226.0
+28,Uganda,International travel controls,2020-07-10,2020-09-19,2.0,5011.0
+29,Uganda,International travel controls,2020-09-20,2021-01-11,1.0,31521.0
+30,Uganda,International travel controls,2021-01-12,2021-01-18,4.0,137.0
+31,Uganda,International travel controls,2021-01-19,2021-04-09,1.0,2552.0
+53,Uganda,Investment in vaccines,2021-02-02,2021-02-02,5000000.0,0.0
+62,Uganda,Protection of elderly people,2020-03-30,2021-01-11,2.0,37775.0
+63,Uganda,Protection of elderly people,2021-01-12,2021-02-01,1.0,1658.0
+64,Uganda,Protection of elderly people,2021-02-02,2021-04-09,2.0,1435.0
+41,Uganda,Public information campaigns,2020-01-29,2021-04-09,2.0,41086.0
+6,Uganda,Restrictions on gatherings,2020-03-30,2020-11-08,4.0,14370.0
+7,Uganda,Restrictions on gatherings,2020-11-09,2021-04-09,2.0,26512.0
+18,Uganda,Restrictions on internal movement,2020-03-18,2020-03-29,1.0,33.0
+19,Uganda,Restrictions on internal movement,2020-03-30,2020-06-03,2.0,474.0
+20,Uganda,Restrictions on internal movement,2020-06-04,2020-06-11,1.0,157.0
+21,Uganda,Restrictions on internal movement,2020-06-12,2020-10-18,2.0,9904.0
+22,Uganda,Restrictions on internal movement,2020-11-24,2020-12-13,2.0,9126.0
+23,Uganda,Restrictions on internal movement,2021-01-19,2021-02-01,1.0,1072.0
+0,Uganda,School closing,2020-03-20,2020-10-14,3.0,10069.0
+1,Uganda,School closing,2020-10-15,2021-04-09,2.0,30969.0
+13,Uganda,Stay at home requirements,2020-03-30,2020-05-17,2.0,194.0
+14,Uganda,Stay at home requirements,2020-05-18,2020-06-11,1.0,431.0
+15,Uganda,Stay at home requirements,2020-06-12,2021-01-11,2.0,37122.0
+16,Uganda,Stay at home requirements,2021-01-12,2021-02-01,1.0,1658.0
+17,Uganda,Stay at home requirements,2021-02-02,2021-04-09,2.0,1435.0
+42,Uganda,Testing policy,2020-02-11,2021-01-18,1.0,38085.0
+43,Uganda,Testing policy,2021-01-19,2021-02-01,2.0,1072.0
+44,Uganda,Testing policy,2021-02-02,2021-04-09,1.0,1435.0
+61,Uganda,Vaccination policy,2021-03-04,2021-04-09,1.0,660.0
+2,Uganda,Workplace closing,2020-03-25,2020-05-05,3.0,84.0
+3,Uganda,Workplace closing,2020-05-06,2021-04-09,2.0,40986.0

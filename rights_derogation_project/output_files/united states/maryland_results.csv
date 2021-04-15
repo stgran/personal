@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Maryland,Cancel public events,2020-03-12,2021-01-27,2.0,346547.0
+14,Maryland,Cancel public events,2021-01-28,2021-04-05,1.0,69439.0
+23,Maryland,Close public transport,2020-03-18,2020-04-05,1.0,3532.0
+24,Maryland,Close public transport,2020-04-06,2020-06-07,2.0,53928.0
+25,Maryland,Close public transport,2020-06-08,2020-07-26,1.0,25344.0
+51,Maryland,Contact tracing,2020-01-21,2020-07-20,1.0,78685.0
+52,Maryland,Contact tracing,2020-07-21,2021-02-01,2.0,276091.0
+53,Maryland,Contact tracing,2021-02-02,2021-04-05,1.0,61647.0
+39,Maryland,Debt/contract relief,2020-03-16,2021-04-05,2.0,418146.0
+54,Maryland,Facial Coverings,2020-04-04,2020-04-13,1.0,5811.0
+55,Maryland,Facial Coverings,2020-04-14,2020-07-30,2.0,77705.0
+56,Maryland,Facial Coverings,2020-07-31,2020-11-05,3.0,61618.0
+57,Maryland,Facial Coverings,2020-11-06,2021-01-10,4.0,155169.0
+58,Maryland,Facial Coverings,2021-01-20,2021-04-05,4.0,85835.0
+40,Maryland,Fiscal measures,2020-10-22,2020-10-22,250000000.0,0.0
+41,Maryland,Fiscal measures,2021-01-15,2021-01-15,30000000.0,0.0
+42,Maryland,Fiscal measures,2021-01-25,2021-01-25,20700000.0,0.0
+43,Maryland,Fiscal measures,2021-01-26,2021-01-26,35800000.0,0.0
+44,Maryland,Fiscal measures,2021-02-12,2021-02-12,60000000.0,0.0
+35,Maryland,Income support,2020-01-27,2020-01-27,1.0,0.0
+36,Maryland,Income support,2020-03-27,2020-07-30,2.0,86402.0
+37,Maryland,Income support,2020-07-31,2020-09-10,1.0,25732.0
+38,Maryland,Income support,2020-12-27,2021-04-05,1.0,150990.0
+33,Maryland,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+34,Maryland,International travel controls,2020-03-02,2021-04-05,3.0,418188.0
+62,Maryland,Protection of elderly people,2020-03-10,2020-03-15,1.0,16.0
+63,Maryland,Protection of elderly people,2020-03-16,2020-04-04,2.0,3083.0
+64,Maryland,Protection of elderly people,2020-04-05,2020-06-18,3.0,59612.0
+65,Maryland,Protection of elderly people,2020-06-19,2020-11-16,2.0,104108.0
+66,Maryland,Protection of elderly people,2020-11-17,2020-12-07,3.0,47524.0
+67,Maryland,Protection of elderly people,2020-12-08,2021-03-08,2.0,168074.0
+68,Maryland,Protection of elderly people,2021-03-10,2021-04-05,2.0,28622.0
+45,Maryland,Public information campaigns,2020-03-02,2020-03-13,1.0,18.0
+46,Maryland,Public information campaigns,2020-03-14,2021-04-05,2.0,418161.0
+15,Maryland,Restrictions on gatherings,2020-03-12,2020-03-15,2.0,12.0
+16,Maryland,Restrictions on gatherings,2020-03-16,2020-03-18,3.0,43.0
+17,Maryland,Restrictions on gatherings,2020-03-19,2020-06-28,4.0,66670.0
+18,Maryland,Restrictions on gatherings,2020-06-29,2020-11-11,3.0,91169.0
+19,Maryland,Restrictions on gatherings,2020-11-12,2020-12-10,4.0,65955.0
+20,Maryland,Restrictions on gatherings,2020-12-11,2020-12-16,3.0,13296.0
+21,Maryland,Restrictions on gatherings,2020-12-17,2021-02-22,4.0,132982.0
+22,Maryland,Restrictions on gatherings,2021-02-23,2021-04-05,3.0,40560.0
+28,Maryland,Restrictions on internal movement,2020-03-16,2020-03-29,1.0,1197.0
+29,Maryland,Restrictions on internal movement,2020-03-30,2020-05-31,2.0,51365.0
+30,Maryland,Restrictions on internal movement,2020-06-01,2020-11-09,1.0,102044.0
+31,Maryland,Restrictions on internal movement,2020-11-10,2021-03-11,2.0,233781.0
+32,Maryland,Restrictions on internal movement,2021-03-12,2021-04-05,1.0,26708.0
+0,Maryland,School closing,2020-03-13,2020-03-15,1.0,6.0
+1,Maryland,School closing,2020-03-16,2020-03-18,2.0,43.0
+2,Maryland,School closing,2020-03-19,2020-08-30,3.0,107684.0
+3,Maryland,School closing,2020-08-31,2020-10-16,2.0,26080.0
+4,Maryland,School closing,2020-10-17,2020-10-26,1.0,5717.0
+5,Maryland,School closing,2020-10-27,2021-04-05,2.0,276447.0
+26,Maryland,Stay at home requirements,2020-03-30,2020-05-31,2.0,51365.0
+27,Maryland,Stay at home requirements,2020-06-01,2021-04-05,1.0,364861.0
+47,Maryland,Testing policy,2020-01-21,2020-05-28,1.0,49709.0
+48,Maryland,Testing policy,2020-05-29,2020-09-16,3.0,66900.0
+49,Maryland,Testing policy,2020-09-17,2020-10-14,2.0,14399.0
+50,Maryland,Testing policy,2020-10-15,2021-04-05,3.0,284640.0
+59,Maryland,Vaccination policy,2020-12-14,2020-12-14,1.0,0.0
+60,Maryland,Vaccination policy,2020-12-15,2021-01-24,2.0,102090.0
+61,Maryland,Vaccination policy,2021-01-25,2021-04-05,3.0,75050.0
+6,Maryland,Workplace closing,2020-03-12,2020-03-15,1.0,12.0
+7,Maryland,Workplace closing,2020-03-16,2020-03-22,2.0,202.0
+8,Maryland,Workplace closing,2020-03-23,2020-06-14,3.0,61411.0
+9,Maryland,Workplace closing,2020-06-15,2020-06-28,2.0,4745.0
+10,Maryland,Workplace closing,2020-06-29,2020-11-09,1.0,88117.0
+11,Maryland,Workplace closing,2020-11-10,2021-01-31,2.0,197764.0
+12,Maryland,Workplace closing,2021-02-01,2021-04-05,1.0,62552.0

@@ -1,0 +1,73 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+17,France,Cancel public events,2020-02-29,2020-07-10,2.0,200469.0
+18,France,Cancel public events,2020-07-11,2020-09-25,1.0,328932.0
+19,France,Cancel public events,2020-09-26,2020-10-09,2.0,160790.0
+20,France,Cancel public events,2020-10-10,2020-10-29,1.0,559291.0
+21,France,Cancel public events,2020-10-30,2021-04-09,2.0,3564325.0
+23,France,Close public transport,2020-03-16,2020-06-21,1.0,187966.0
+54,France,Contact tracing,2020-01-25,2020-05-10,1.0,176335.0
+55,France,Contact tracing,2020-05-11,2021-01-14,2.0,2669050.0
+56,France,Contact tracing,2021-01-15,2021-04-09,1.0,2037552.0
+38,France,Debt/contract relief,2020-03-16,2020-05-25,2.0,175051.0
+39,France,Debt/contract relief,2020-05-26,2020-10-09,1.0,522598.0
+57,France,Emergency investment in healthcare,2020-03-31,2020-03-31,4409436000.0,0.0
+58,France,Emergency investment in healthcare,2020-04-04,2020-04-04,1080970.91,0.0
+59,France,Emergency investment in healthcare,2020-04-07,2020-04-07,1960033.0,0.0
+60,France,Emergency investment in healthcare,2020-09-23,2020-09-23,4903896645.59,0.0
+61,France,Emergency investment in healthcare,2020-11-17,2020-11-17,2277431197.0,0.0
+64,France,Facial Coverings,2020-01-22,2020-05-10,1.0,176338.0
+65,France,Facial Coverings,2020-05-11,2020-07-19,2.0,26865.0
+66,France,Facial Coverings,2020-07-20,2020-08-02,3.0,9827.0
+67,France,Facial Coverings,2020-08-03,2021-04-09,4.0,4685614.0
+40,France,Fiscal measures,2020-03-18,2020-03-18,48768705000.0,0.0
+41,France,Fiscal measures,2020-03-31,2020-03-31,11023587.0,0.0
+42,France,Fiscal measures,2020-04-15,2020-04-15,709275922528.0,0.0
+43,France,Fiscal measures,2020-05-14,2020-05-14,3239199160.0,0.0
+44,France,Fiscal measures,2020-05-26,2020-05-26,8777839981.0,0.0
+45,France,Fiscal measures,2020-09-03,2020-09-03,118296829796.81,0.0
+46,France,Fiscal measures,2020-11-17,2020-11-17,21697405935.0,0.0
+37,France,Income support,2020-03-16,2021-04-09,2.0,4897332.0
+47,France,International support,2020-04-09,2020-04-09,1311754455.0,0.0
+35,France,International travel controls,2020-01-22,2020-03-16,1.0,6633.0
+36,France,International travel controls,2020-03-17,2021-04-09,3.0,4896313.0
+62,France,Investment in vaccines,2020-03-20,2020-03-20,54880244.0,0.0
+63,France,Investment in vaccines,2020-05-04,2020-05-04,545386407.2,0.0
+70,France,Protection of elderly people,2020-03-11,2020-04-19,3.0,148471.0
+71,France,Protection of elderly people,2020-04-20,2021-04-09,2.0,4750768.0
+48,France,Public information campaigns,2020-01-24,2020-02-24,1.0,10.0
+49,France,Public information campaigns,2020-02-25,2021-04-09,2.0,4903951.0
+22,France,Restrictions on gatherings,2020-02-29,2021-04-09,4.0,4903865.0
+27,France,Restrictions on internal movement,2020-03-14,2020-03-16,1.0,2164.0
+28,France,Restrictions on internal movement,2020-03-17,2020-06-21,2.0,186947.0
+29,France,Restrictions on internal movement,2020-06-22,2020-10-09,1.0,509785.0
+30,France,Restrictions on internal movement,2020-10-30,2020-12-14,2.0,1039651.0
+31,France,Restrictions on internal movement,2021-02-26,2021-03-01,2.0,47356.0
+32,France,Restrictions on internal movement,2021-03-05,2021-03-08,2.0,49762.0
+33,France,Restrictions on internal movement,2021-03-13,2021-03-14,2.0,25925.0
+34,France,Restrictions on internal movement,2021-03-19,2021-04-09,2.0,716335.0
+0,France,School closing,2020-03-02,2020-05-10,3.0,176147.0
+1,France,School closing,2020-05-11,2020-06-21,2.0,17948.0
+2,France,School closing,2020-06-22,2020-09-02,1.0,121354.0
+3,France,School closing,2020-09-03,2020-09-21,2.0,153227.0
+4,France,School closing,2020-09-22,2020-10-29,1.0,804517.0
+5,France,School closing,2020-10-30,2021-01-24,2.0,1704718.0
+6,France,School closing,2021-01-25,2021-04-05,1.0,1750480.0
+7,France,School closing,2021-04-06,2021-04-09,2.0,96842.0
+24,France,Stay at home requirements,2020-03-17,2020-05-10,2.0,168686.0
+25,France,Stay at home requirements,2020-05-11,2020-06-21,1.0,17948.0
+26,France,Stay at home requirements,2020-10-17,2021-04-09,2.0,4026125.0
+50,France,Testing policy,2020-01-25,2020-03-16,2.0,6630.0
+51,France,Testing policy,2020-03-17,2020-05-10,1.0,168686.0
+52,France,Testing policy,2020-05-11,2020-07-24,2.0,31902.0
+53,France,Testing policy,2020-07-25,2021-04-09,3.0,4695412.0
+68,France,Vaccination policy,2021-01-05,2021-02-07,2.0,646793.0
+69,France,Vaccination policy,2021-02-08,2021-04-09,3.0,1576660.0
+8,France,Workplace closing,2020-03-17,2020-05-10,3.0,168686.0
+9,France,Workplace closing,2020-05-11,2020-06-21,2.0,17948.0
+10,France,Workplace closing,2020-06-22,2020-08-13,1.0,40847.0
+11,France,Workplace closing,2020-08-14,2020-10-29,2.0,1052206.0
+12,France,Workplace closing,2020-10-30,2020-11-27,3.0,857643.0
+13,France,Workplace closing,2020-11-28,2021-02-25,2.0,1454311.0
+14,France,Workplace closing,2021-02-26,2021-03-01,3.0,47356.0
+15,France,Workplace closing,2021-03-02,2021-03-04,2.0,51358.0
+16,France,Workplace closing,2021-03-05,2021-04-09,3.0,1070393.0

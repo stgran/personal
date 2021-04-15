@@ -1,0 +1,39 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Amazonas,Cancel public events,2020-03-13,2021-02-21,2.0,306001.0
+9,Amazonas,Close public transport,2020-04-07,2020-07-05,1.0,75378.0
+10,Amazonas,Close public transport,2020-12-26,2021-01-11,1.0,20105.0
+11,Amazonas,Close public transport,2021-01-12,2021-03-07,2.0,106033.0
+12,Amazonas,Close public transport,2021-03-08,2021-03-19,1.0,12787.0
+29,Amazonas,Contact tracing,2020-02-12,2020-03-31,1.0,175.0
+30,Amazonas,Contact tracing,2020-04-01,2021-03-19,2.0,337151.0
+25,Amazonas,Debt/contract relief,2020-03-17,2020-12-26,1.0,196007.0
+31,Amazonas,Facial Coverings,2020-04-13,2020-05-12,2.0,12893.0
+32,Amazonas,Facial Coverings,2020-05-13,2020-07-02,3.0,57714.0
+33,Amazonas,Facial Coverings,2020-07-03,2020-07-05,4.0,1477.0
+34,Amazonas,Facial Coverings,2020-07-06,2020-07-29,3.0,22666.0
+35,Amazonas,Facial Coverings,2020-07-30,2021-01-11,4.0,115972.0
+20,Amazonas,International travel controls,2020-03-13,2020-03-17,2.0,-2.0
+21,Amazonas,International travel controls,2020-03-18,2020-03-26,3.0,65.0
+22,Amazonas,International travel controls,2020-03-27,2020-07-28,4.0,98037.0
+23,Amazonas,International travel controls,2020-07-29,2021-02-12,2.0,193401.0
+24,Amazonas,International travel controls,2021-02-13,2021-03-19,1.0,43029.0
+36,Amazonas,Protection of elderly people,2020-05-07,2021-01-05,1.0,194801.0
+37,Amazonas,Protection of elderly people,2021-01-07,2021-03-19,1.0,128553.0
+26,Amazonas,Public information campaigns,2020-01-26,2021-03-19,2.0,337351.0
+7,Amazonas,Restrictions on gatherings,2020-03-13,2020-03-20,2.0,5.0
+8,Amazonas,Restrictions on gatherings,2020-03-21,2021-03-19,4.0,337340.0
+17,Amazonas,Restrictions on internal movement,2020-03-16,2020-08-07,2.0,105857.0
+18,Amazonas,Restrictions on internal movement,2020-08-08,2020-09-23,1.0,26985.0
+19,Amazonas,Restrictions on internal movement,2020-09-24,2021-02-21,2.0,171714.0
+0,Amazonas,School closing,2020-03-16,2021-02-25,3.0,312339.0
+13,Amazonas,Stay at home requirements,2020-03-16,2020-03-24,1.0,47.0
+14,Amazonas,Stay at home requirements,2020-03-25,2021-01-24,2.0,249659.0
+15,Amazonas,Stay at home requirements,2021-01-25,2021-02-07,3.0,31804.0
+16,Amazonas,Stay at home requirements,2021-02-08,2021-02-25,2.0,28681.0
+27,Amazonas,Testing policy,2020-02-12,2020-05-05,1.0,8109.0
+28,Amazonas,Testing policy,2020-05-06,2021-03-19,2.0,328108.0
+1,Amazonas,Workplace closing,2020-03-19,2020-12-25,2.0,195803.0
+2,Amazonas,Workplace closing,2020-12-26,2020-12-27,3.0,429.0
+3,Amazonas,Workplace closing,2020-12-28,2021-01-03,2.0,5659.0
+4,Amazonas,Workplace closing,2021-01-04,2021-02-12,3.0,89522.0
+5,Amazonas,Workplace closing,2021-02-13,2021-02-25,2.0,18017.0

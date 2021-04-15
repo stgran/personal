@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,British Columbia,Cancel public events,2020-01-01,2020-03-16,1.0,73.0
+11,British Columbia,Cancel public events,2020-03-17,2021-04-01,2.0,100777.0
+35,British Columbia,Contact tracing,2020-01-26,2020-04-21,1.0,1724.0
+36,British Columbia,Contact tracing,2020-04-22,2021-04-01,2.0,99085.0
+27,British Columbia,Debt/contract relief,2020-03-17,2020-08-31,1.0,5687.0
+37,British Columbia,Emergency investment in healthcare,2020-09-09,2020-09-09,1195411268.0,0.0
+38,British Columbia,Facial Coverings,2020-04-20,2021-04-01,2.0,99181.0
+28,British Columbia,Fiscal measures,2020-03-23,2020-03-23,4300000000.0,0.0
+29,British Columbia,Fiscal measures,2020-07-22,2020-07-22,372909233.0,0.0
+30,British Columbia,Fiscal measures,2020-11-04,2020-11-04,229033092.0,0.0
+25,British Columbia,Income support,2020-03-15,2020-12-01,2.0,33821.0
+26,British Columbia,Income support,2020-12-02,2021-04-01,1.0,66152.0
+22,British Columbia,International travel controls,2020-01-20,2020-02-06,1.0,0.0
+23,British Columbia,International travel controls,2020-02-07,2020-03-15,2.0,73.0
+24,British Columbia,International travel controls,2020-03-16,2021-04-01,4.0,100807.0
+43,British Columbia,Protection of elderly people,2020-03-06,2020-03-12,2.0,25.0
+44,British Columbia,Protection of elderly people,2020-03-13,2021-03-31,3.0,99995.0
+45,British Columbia,Protection of elderly people,2021-04-01,2021-04-01,2.0,0.0
+31,British Columbia,Public information campaigns,2020-01-20,2020-03-04,1.0,0.0
+32,British Columbia,Public information campaigns,2020-03-05,2021-04-01,2.0,100859.0
+12,British Columbia,Restrictions on gatherings,2020-03-12,2020-03-15,2.0,27.0
+13,British Columbia,Restrictions on gatherings,2020-03-16,2020-10-25,3.0,12481.0
+14,British Columbia,Restrictions on gatherings,2020-10-26,2021-04-01,4.0,87509.0
+18,British Columbia,Restrictions on internal movement,2020-03-17,2020-05-18,2.0,2341.0
+19,British Columbia,Restrictions on internal movement,2020-05-19,2020-07-29,1.0,1116.0
+20,British Columbia,Restrictions on internal movement,2020-07-30,2020-08-31,2.0,2199.0
+21,British Columbia,Restrictions on internal movement,2020-09-01,2021-04-01,1.0,95032.0
+0,British Columbia,School closing,2020-03-17,2020-08-31,3.0,5687.0
+1,British Columbia,School closing,2020-09-01,2020-09-09,2.0,843.0
+2,British Columbia,School closing,2020-09-10,2021-04-01,1.0,94050.0
+15,British Columbia,Stay at home requirements,2020-03-17,2020-05-18,1.0,2341.0
+16,British Columbia,Stay at home requirements,2020-11-07,2020-11-18,2.0,6706.0
+17,British Columbia,Stay at home requirements,2020-11-19,2021-03-10,1.0,60692.0
+33,British Columbia,Testing policy,2020-01-25,2020-04-20,1.0,1699.0
+34,British Columbia,Testing policy,2020-04-21,2021-03-29,2.0,96471.0
+39,British Columbia,Vaccination policy,2020-12-15,2021-01-29,1.0,23316.0
+40,British Columbia,Vaccination policy,2021-01-30,2021-02-17,2.0,7523.0
+41,British Columbia,Vaccination policy,2021-02-23,2021-03-28,2.0,19560.0
+42,British Columbia,Vaccination policy,2021-03-29,2021-04-01,3.0,2685.0
+3,British Columbia,Workplace closing,2020-03-17,2020-03-25,2.0,556.0
+4,British Columbia,Workplace closing,2020-03-26,2020-05-18,3.0,1719.0
+5,British Columbia,Workplace closing,2020-05-19,2020-06-23,2.0,389.0
+6,British Columbia,Workplace closing,2020-06-24,2020-09-07,1.0,3313.0
+7,British Columbia,Workplace closing,2020-09-08,2021-01-07,2.0,49424.0
+8,British Columbia,Workplace closing,2021-01-08,2021-03-28,1.0,40786.0
+9,British Columbia,Workplace closing,2021-03-29,2021-04-01,2.0,2685.0

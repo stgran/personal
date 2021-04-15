@@ -1,0 +1,45 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Greenland,Cancel public events,2020-03-18,2020-06-23,2.0,12.0
+5,Greenland,Cancel public events,2020-06-24,2021-03-29,1.0,18.0
+9,Greenland,Close public transport,2020-03-13,2020-04-29,1.0,11.0
+10,Greenland,Close public transport,2021-02-10,2021-03-15,1.0,1.0
+34,Greenland,Contact tracing,2020-03-16,2020-03-23,1.0,3.0
+35,Greenland,Contact tracing,2020-03-24,2021-03-29,2.0,26.0
+36,Greenland,Emergency investment in healthcare,2020-03-28,2020-03-28,298569.72,0.0
+38,Greenland,Facial Coverings,2020-09-29,2021-03-29,2.0,17.0
+25,Greenland,Fiscal measures,2020-03-21,2020-03-21,23674995.0,0.0
+26,Greenland,Fiscal measures,2020-07-04,2020-07-04,5132693.0,0.0
+23,Greenland,Income support,2020-03-21,2020-09-30,2.0,12.0
+24,Greenland,Income support,2021-01-01,2021-03-29,2.0,4.0
+15,Greenland,International travel controls,2020-03-13,2020-06-14,4.0,13.0
+16,Greenland,International travel controls,2020-06-15,2020-07-30,2.0,1.0
+17,Greenland,International travel controls,2020-07-31,2020-08-05,1.0,0.0
+18,Greenland,International travel controls,2020-08-06,2020-09-10,2.0,0.0
+19,Greenland,International travel controls,2020-09-11,2020-09-28,3.0,0.0
+20,Greenland,International travel controls,2020-09-29,2020-11-06,2.0,3.0
+21,Greenland,International travel controls,2020-11-07,2020-12-20,3.0,2.0
+22,Greenland,International travel controls,2020-12-21,2021-03-29,4.0,6.0
+37,Greenland,Investment in vaccines,2020-12-29,2020-12-29,19013.0,0.0
+42,Greenland,Protection of elderly people,2020-03-18,2021-03-15,1.0,30.0
+43,Greenland,Protection of elderly people,2021-03-16,2021-03-29,2.0,0.0
+27,Greenland,Public information campaigns,2020-03-02,2020-03-25,1.0,6.0
+28,Greenland,Public information campaigns,2020-03-26,2021-03-29,2.0,25.0
+6,Greenland,Restrictions on gatherings,2020-03-13,2020-03-17,2.0,1.0
+7,Greenland,Restrictions on gatherings,2020-03-18,2020-04-24,3.0,10.0
+8,Greenland,Restrictions on gatherings,2020-04-25,2021-03-29,2.0,20.0
+12,Greenland,Restrictions on internal movement,2020-03-13,2020-03-17,1.0,1.0
+13,Greenland,Restrictions on internal movement,2020-03-18,2020-04-21,2.0,10.0
+14,Greenland,Restrictions on internal movement,2020-04-22,2020-07-20,1.0,2.0
+0,Greenland,School closing,2020-03-19,2020-04-19,3.0,9.0
+1,Greenland,School closing,2020-04-20,2020-05-28,2.0,2.0
+2,Greenland,School closing,2020-05-29,2021-03-29,1.0,18.0
+11,Greenland,Stay at home requirements,2020-03-18,2020-06-14,1.0,12.0
+29,Greenland,Testing policy,2020-03-16,2020-04-30,1.0,10.0
+30,Greenland,Testing policy,2020-05-01,2020-07-02,3.0,2.0
+31,Greenland,Testing policy,2020-07-03,2020-10-28,2.0,4.0
+32,Greenland,Testing policy,2020-10-29,2020-12-14,3.0,2.0
+33,Greenland,Testing policy,2020-12-15,2021-03-29,2.0,12.0
+39,Greenland,Vaccination policy,2021-01-04,2021-02-09,3.0,3.0
+40,Greenland,Vaccination policy,2021-02-10,2021-03-15,2.0,1.0
+41,Greenland,Vaccination policy,2021-03-16,2021-03-29,3.0,0.0
+3,Greenland,Workplace closing,2020-03-18,2020-04-26,2.0,10.0

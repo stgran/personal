@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Illinois,Cancel public events,2020-03-13,2020-03-17,1.0,115.0
+9,Illinois,Cancel public events,2020-03-18,2020-06-25,2.0,139162.0
+10,Illinois,Cancel public events,2020-06-26,2021-04-06,1.0,1121286.0
+42,Illinois,Contact tracing,2020-01-21,2021-04-06,1.0,1261577.0
+33,Illinois,Debt/contract relief,2020-03-16,2020-03-20,1.0,502.0
+34,Illinois,Debt/contract relief,2020-03-21,2020-07-25,2.0,170369.0
+35,Illinois,Debt/contract relief,2020-07-26,2020-11-26,1.0,524826.0
+36,Illinois,Debt/contract relief,2020-11-27,2021-04-06,2.0,556514.0
+43,Illinois,Facial Coverings,2020-04-04,2020-04-30,1.0,42561.0
+44,Illinois,Facial Coverings,2020-05-01,2020-09-30,2.0,239665.0
+45,Illinois,Facial Coverings,2020-10-01,2020-11-30,4.0,428420.0
+46,Illinois,Facial Coverings,2020-12-01,2021-01-10,3.0,289904.0
+47,Illinois,Facial Coverings,2021-01-20,2021-02-09,3.0,68816.0
+48,Illinois,Facial Coverings,2021-02-10,2021-04-06,4.0,108582.0
+29,Illinois,Income support,2020-01-27,2020-01-27,1.0,0.0
+30,Illinois,Income support,2020-03-10,2020-03-26,1.0,2526.0
+31,Illinois,Income support,2020-03-27,2020-07-30,2.0,175111.0
+32,Illinois,Income support,2020-07-31,2021-04-06,1.0,1081462.0
+27,Illinois,International travel controls,2020-02-02,2020-03-01,2.0,1.0
+28,Illinois,International travel controls,2020-03-02,2021-04-06,3.0,1261573.0
+52,Illinois,Protection of elderly people,2020-03-13,2021-01-17,1.0,1068783.0
+53,Illinois,Protection of elderly people,2021-01-18,2021-03-08,3.0,127227.0
+54,Illinois,Protection of elderly people,2021-03-10,2021-04-06,3.0,58944.0
+37,Illinois,Public information campaigns,2020-01-24,2020-03-15,1.0,65.0
+38,Illinois,Public information campaigns,2020-03-16,2021-04-06,2.0,1261494.0
+11,Illinois,Restrictions on gatherings,2020-03-13,2020-03-17,1.0,115.0
+12,Illinois,Restrictions on gatherings,2020-03-18,2020-03-20,3.0,313.0
+13,Illinois,Restrictions on gatherings,2020-03-21,2020-06-25,4.0,138681.0
+14,Illinois,Restrictions on gatherings,2020-06-26,2020-10-24,3.0,234610.0
+15,Illinois,Restrictions on gatherings,2020-10-25,2021-02-03,4.0,755273.0
+16,Illinois,Restrictions on gatherings,2021-02-04,2021-03-26,3.0,95242.0
+17,Illinois,Restrictions on gatherings,2021-03-27,2021-04-06,2.0,26092.0
+23,Illinois,Restrictions on internal movement,2020-03-16,2020-03-20,1.0,502.0
+24,Illinois,Restrictions on internal movement,2020-03-21,2020-06-25,2.0,138681.0
+25,Illinois,Restrictions on internal movement,2020-06-26,2020-07-05,1.0,6960.0
+26,Illinois,Restrictions on internal movement,2020-07-06,2021-04-06,2.0,1113712.0
+0,Illinois,School closing,2020-03-13,2020-03-16,1.0,37.0
+1,Illinois,School closing,2020-03-17,2020-10-08,3.0,313268.0
+2,Illinois,School closing,2020-10-09,2021-01-10,2.0,712204.0
+3,Illinois,School closing,2021-01-11,2021-03-11,3.0,170797.0
+4,Illinois,School closing,2021-03-12,2021-04-06,2.0,55493.0
+18,Illinois,Stay at home requirements,2020-03-18,2020-03-20,1.0,313.0
+19,Illinois,Stay at home requirements,2020-03-21,2020-06-25,2.0,138681.0
+20,Illinois,Stay at home requirements,2020-06-26,2020-11-15,1.0,433325.0
+21,Illinois,Stay at home requirements,2020-11-16,2021-01-01,2.0,378141.0
+22,Illinois,Stay at home requirements,2021-01-02,2021-04-06,1.0,286225.0
+39,Illinois,Testing policy,2020-01-21,2020-05-01,1.0,56055.0
+40,Illinois,Testing policy,2020-05-02,2020-07-07,2.0,91069.0
+41,Illinois,Testing policy,2020-07-08,2021-04-06,3.0,1111023.0
+49,Illinois,Vaccination policy,2020-12-15,2020-12-28,1.0,78885.0
+50,Illinois,Vaccination policy,2020-12-29,2021-02-15,2.0,215568.0
+51,Illinois,Vaccination policy,2021-02-16,2021-04-06,3.0,96655.0
+5,Illinois,Workplace closing,2020-03-12,2020-03-20,1.0,553.0
+6,Illinois,Workplace closing,2020-03-21,2020-05-28,3.0,115080.0
+7,Illinois,Workplace closing,2020-05-29,2021-04-06,1.0,1144122.0

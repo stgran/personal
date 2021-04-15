@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Cape Verde,Cancel public events,2020-03-16,2021-04-05,2.0,17939.0
+12,Cape Verde,Close public transport,2020-03-28,2020-07-26,1.0,2302.0
+32,Cape Verde,Contact tracing,2020-04-18,2020-05-17,1.0,270.0
+33,Cape Verde,Contact tracing,2020-05-18,2021-04-05,2.0,17611.0
+23,Cape Verde,Debt/contract relief,2020-03-24,2021-03-07,2.0,15779.0
+24,Cape Verde,Debt/contract relief,2021-03-08,2021-04-05,1.0,2133.0
+34,Cape Verde,Emergency investment in healthcare,2020-06-23,2020-06-23,4311831.77,0.0
+36,Cape Verde,Facial Coverings,2020-04-26,2020-05-24,2.0,274.0
+37,Cape Verde,Facial Coverings,2020-05-25,2020-08-06,3.0,2344.0
+38,Cape Verde,Facial Coverings,2020-08-07,2020-12-13,4.0,8577.0
+39,Cape Verde,Facial Coverings,2020-12-14,2021-04-05,3.0,6578.0
+25,Cape Verde,Fiscal measures,2020-05-13,2020-05-13,258392.25,0.0
+22,Cape Verde,Income support,2020-03-27,2021-04-05,1.0,17934.0
+19,Cape Verde,International travel controls,2020-02-27,2020-03-18,3.0,0.0
+20,Cape Verde,International travel controls,2020-03-19,2020-10-11,4.0,7072.0
+21,Cape Verde,International travel controls,2020-10-12,2021-04-05,1.0,10784.0
+35,Cape Verde,Investment in vaccines,2021-02-18,2021-02-18,26836.76,0.0
+42,Cape Verde,Protection of elderly people,2020-03-20,2020-05-01,3.0,121.0
+43,Cape Verde,Protection of elderly people,2020-05-02,2020-06-29,2.0,1013.0
+44,Cape Verde,Protection of elderly people,2020-06-30,2021-04-05,1.0,16712.0
+26,Cape Verde,Public information campaigns,2020-02-05,2020-02-10,1.0,0.0
+27,Cape Verde,Public information campaigns,2020-02-11,2021-04-05,2.0,17939.0
+8,Cape Verde,Restrictions on gatherings,2020-05-02,2020-05-17,3.0,176.0
+9,Cape Verde,Restrictions on gatherings,2020-05-18,2020-12-13,4.0,11029.0
+10,Cape Verde,Restrictions on gatherings,2020-12-14,2021-03-28,3.0,5764.0
+11,Cape Verde,Restrictions on gatherings,2021-03-29,2021-04-05,4.0,749.0
+16,Cape Verde,Restrictions on internal movement,2020-03-20,2020-07-14,2.0,1721.0
+17,Cape Verde,Restrictions on internal movement,2020-10-12,2021-01-25,2.0,6402.0
+18,Cape Verde,Restrictions on internal movement,2021-01-26,2021-04-05,1.0,4320.0
+0,Cape Verde,School closing,2020-03-23,2020-03-27,2.0,2.0
+1,Cape Verde,School closing,2020-03-28,2021-03-07,3.0,15777.0
+2,Cape Verde,School closing,2021-03-17,2021-04-05,2.0,1689.0
+13,Cape Verde,Stay at home requirements,2020-03-20,2020-03-31,1.0,5.0
+14,Cape Verde,Stay at home requirements,2020-04-01,2020-07-26,2.0,2301.0
+15,Cape Verde,Stay at home requirements,2020-07-27,2021-04-05,1.0,15611.0
+28,Cape Verde,Testing policy,2020-03-16,2020-04-17,1.0,56.0
+29,Cape Verde,Testing policy,2020-04-18,2020-05-11,2.0,202.0
+30,Cape Verde,Testing policy,2020-05-12,2021-03-07,3.0,15515.0
+31,Cape Verde,Testing policy,2021-03-29,2021-04-05,3.0,749.0
+40,Cape Verde,Vaccination policy,2021-03-17,2021-03-28,1.0,875.0
+41,Cape Verde,Vaccination policy,2021-03-29,2021-04-05,3.0,749.0
+3,Cape Verde,Workplace closing,2020-03-28,2020-05-04,3.0,170.0
+4,Cape Verde,Workplace closing,2020-05-05,2020-08-31,2.0,3698.0
+5,Cape Verde,Workplace closing,2020-09-01,2020-12-13,3.0,7387.0
+6,Cape Verde,Workplace closing,2020-12-14,2021-04-05,2.0,6578.0

@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Kuwait,Cancel public events,2020-03-07,2020-03-09,1.0,3.0
+7,Kuwait,Cancel public events,2020-03-10,2021-04-05,2.0,238480.0
+10,Kuwait,Close public transport,2020-03-12,2020-07-27,2.0,64299.0
+11,Kuwait,Close public transport,2020-07-28,2021-04-05,1.0,173400.0
+41,Kuwait,Contact tracing,2020-03-07,2021-04-05,2.0,238488.0
+32,Kuwait,Debt/contract relief,2020-05-07,2021-04-05,1.0,231982.0
+42,Kuwait,Emergency investment in healthcare,2020-03-16,2020-03-16,1600000000.0,0.0
+43,Kuwait,Facial Coverings,2020-05-18,2021-04-05,3.0,222858.0
+33,Kuwait,Fiscal measures,2020-03-16,2020-03-16,1618652051.0,0.0
+31,Kuwait,Income support,2020-04-01,2021-04-05,1.0,238232.0
+34,Kuwait,International support,2020-03-24,2020-03-24,40000000.0,0.0
+35,Kuwait,International support,2020-04-03,2020-04-03,20000000.0,0.0
+23,Kuwait,International travel controls,2020-02-21,2020-02-29,1.0,45.0
+24,Kuwait,International travel controls,2020-03-01,2020-03-06,2.0,13.0
+25,Kuwait,International travel controls,2020-03-07,2020-03-12,3.0,19.0
+26,Kuwait,International travel controls,2020-03-13,2020-07-31,4.0,66877.0
+27,Kuwait,International travel controls,2020-08-01,2021-01-05,2.0,84579.0
+28,Kuwait,International travel controls,2021-01-06,2021-02-01,3.0,13405.0
+29,Kuwait,International travel controls,2021-02-02,2021-02-20,4.0,16668.0
+30,Kuwait,International travel controls,2021-02-21,2021-04-05,2.0,54459.0
+45,Kuwait,Protection of elderly people,2020-04-06,2020-04-20,3.0,1330.0
+46,Kuwait,Protection of elderly people,2020-04-21,2020-05-09,1.0,5543.0
+47,Kuwait,Protection of elderly people,2020-05-10,2020-07-27,3.0,55691.0
+48,Kuwait,Protection of elderly people,2020-07-29,2021-03-15,1.0,144952.0
+49,Kuwait,Protection of elderly people,2021-03-16,2021-04-05,2.0,26380.0
+36,Kuwait,Public information campaigns,2020-01-23,2020-02-17,1.0,0.0
+37,Kuwait,Public information campaigns,2020-02-18,2021-04-05,2.0,238549.0
+8,Kuwait,Restrictions on gatherings,2020-03-11,2020-07-16,4.0,57596.0
+9,Kuwait,Restrictions on gatherings,2020-07-17,2021-04-05,2.0,180328.0
+19,Kuwait,Restrictions on internal movement,2020-04-06,2020-04-20,2.0,1330.0
+20,Kuwait,Restrictions on internal movement,2020-04-21,2020-05-09,1.0,5543.0
+21,Kuwait,Restrictions on internal movement,2020-05-10,2020-10-02,2.0,97399.0
+22,Kuwait,Restrictions on internal movement,2020-10-03,2021-04-05,1.0,132091.0
+0,Kuwait,School closing,2020-03-01,2021-04-05,3.0,238504.0
+12,Kuwait,Stay at home requirements,2020-03-22,2020-04-05,2.0,368.0
+13,Kuwait,Stay at home requirements,2020-04-06,2020-04-20,3.0,1330.0
+14,Kuwait,Stay at home requirements,2020-04-21,2020-05-09,2.0,5543.0
+15,Kuwait,Stay at home requirements,2020-05-10,2020-06-08,3.0,23822.0
+16,Kuwait,Stay at home requirements,2020-06-09,2020-07-27,2.0,31239.0
+17,Kuwait,Stay at home requirements,2020-07-28,2021-03-06,1.0,134279.0
+18,Kuwait,Stay at home requirements,2021-03-07,2021-04-05,2.0,37977.0
+38,Kuwait,Testing policy,2020-01-24,2020-03-10,1.0,69.0
+39,Kuwait,Testing policy,2020-03-11,2020-10-02,2.0,106015.0
+40,Kuwait,Testing policy,2020-10-03,2021-04-05,3.0,132091.0
+44,Kuwait,Vaccination policy,2020-12-26,2021-04-05,3.0,89100.0
+1,Kuwait,Workplace closing,2020-03-11,2020-04-05,2.0,484.0
+2,Kuwait,Workplace closing,2020-04-06,2020-05-30,3.0,25527.0
+3,Kuwait,Workplace closing,2020-05-31,2020-06-30,2.0,19152.0
+4,Kuwait,Workplace closing,2020-07-01,2021-02-06,1.0,123096.0
+5,Kuwait,Workplace closing,2021-02-07,2021-04-05,2.0,67551.0

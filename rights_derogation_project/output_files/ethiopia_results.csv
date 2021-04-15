@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Ethiopia,Cancel public events,2020-03-16,2020-10-04,2.0,78814.0
+8,Ethiopia,Cancel public events,2020-10-05,2020-10-26,1.0,14270.0
+9,Ethiopia,Cancel public events,2020-10-27,2020-11-09,2.0,5764.0
+10,Ethiopia,Cancel public events,2020-11-10,2021-04-08,1.0,123338.0
+19,Ethiopia,Close public transport,2020-03-30,2020-10-26,2.0,93684.0
+20,Ethiopia,Close public transport,2020-10-27,2021-01-09,1.0,33574.0
+21,Ethiopia,Close public transport,2021-03-09,2021-03-22,1.0,20567.0
+34,Ethiopia,Contact tracing,2020-03-13,2020-11-09,1.0,99981.0
+35,Ethiopia,Contact tracing,2020-11-10,2021-03-01,2.0,59645.0
+36,Ethiopia,Contact tracing,2021-03-02,2021-03-22,1.0,28089.0
+27,Ethiopia,Debt/contract relief,2020-04-08,2020-07-06,1.0,5791.0
+28,Ethiopia,Debt/contract relief,2020-07-07,2020-10-26,2.0,87861.0
+37,Ethiopia,Emergency investment in healthcare,2020-03-18,2020-03-18,9025270.0,0.0
+38,Ethiopia,Emergency investment in healthcare,2020-03-23,2020-03-23,154000000.0,0.0
+39,Ethiopia,Emergency investment in healthcare,2020-12-22,2020-12-22,410224.0,0.0
+40,Ethiopia,Facial Coverings,2020-04-08,2021-01-31,3.0,137595.0
+41,Ethiopia,Facial Coverings,2021-02-01,2021-03-08,4.0,28749.0
+42,Ethiopia,Facial Coverings,2021-03-09,2021-04-08,3.0,55330.0
+29,Ethiopia,Fiscal measures,2020-05-29,2020-05-29,1400000000.0,0.0
+24,Ethiopia,International travel controls,2020-01-28,2020-03-22,1.0,11.0
+25,Ethiopia,International travel controls,2020-03-23,2020-09-10,3.0,62567.0
+26,Ethiopia,International travel controls,2020-09-11,2021-04-08,2.0,160298.0
+44,Ethiopia,Protection of elderly people,2020-08-25,2021-03-22,3.0,145214.0
+30,Ethiopia,Public information campaigns,2020-03-16,2021-03-22,2.0,188897.0
+31,Ethiopia,Public information campaigns,2021-03-23,2021-04-08,1.0,33071.0
+11,Ethiopia,Restrictions on gatherings,2020-03-16,2020-04-07,1.0,47.0
+12,Ethiopia,Restrictions on gatherings,2020-04-08,2020-10-04,4.0,78764.0
+13,Ethiopia,Restrictions on gatherings,2020-10-05,2021-01-09,3.0,48355.0
+14,Ethiopia,Restrictions on gatherings,2021-01-10,2021-01-17,2.0,2879.0
+15,Ethiopia,Restrictions on gatherings,2021-01-18,2021-01-25,1.0,2586.0
+16,Ethiopia,Restrictions on gatherings,2021-01-26,2021-01-31,3.0,3081.0
+17,Ethiopia,Restrictions on gatherings,2021-02-01,2021-02-07,2.0,3954.0
+18,Ethiopia,Restrictions on gatherings,2021-02-08,2021-04-08,3.0,80671.0
+23,Ethiopia,Restrictions on internal movement,2020-03-26,2021-02-07,2.0,142326.0
+0,Ethiopia,School closing,2020-03-16,2020-03-24,2.0,7.0
+1,Ethiopia,School closing,2020-03-25,2020-10-18,3.0,89125.0
+2,Ethiopia,School closing,2020-10-19,2021-03-08,1.0,77273.0
+3,Ethiopia,School closing,2021-03-09,2021-03-22,3.0,20567.0
+4,Ethiopia,School closing,2021-03-23,2021-04-08,1.0,33071.0
+22,Ethiopia,Stay at home requirements,2020-04-08,2020-10-26,1.0,93652.0
+32,Ethiopia,Testing policy,2020-02-14,2021-03-22,1.0,188902.0
+33,Ethiopia,Testing policy,2021-03-23,2021-04-08,3.0,33071.0
+43,Ethiopia,Vaccination policy,2021-03-23,2021-04-08,3.0,33071.0
+5,Ethiopia,Workplace closing,2020-03-25,2020-10-04,2.0,78807.0
+6,Ethiopia,Workplace closing,2020-10-05,2021-03-22,1.0,109465.0

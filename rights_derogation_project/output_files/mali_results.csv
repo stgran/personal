@@ -1,0 +1,41 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Mali,Cancel public events,2020-03-25,2020-10-07,2.0,3208.0
+10,Mali,Cancel public events,2020-10-08,2020-12-17,1.0,2814.0
+11,Mali,Cancel public events,2020-12-18,2021-01-10,2.0,1480.0
+12,Mali,Cancel public events,2021-01-11,2021-01-25,1.0,331.0
+13,Mali,Cancel public events,2021-01-26,2021-04-06,2.0,2752.0
+33,Mali,Contact tracing,2020-04-14,2021-04-06,2.0,10614.0
+26,Mali,Debt/contract relief,2020-04-01,2020-10-29,1.0,3506.0
+34,Mali,Emergency investment in healthcare,2020-03-19,2020-03-19,10200000.0,0.0
+35,Mali,Facial Coverings,2020-05-09,2021-04-06,3.0,10066.0
+27,Mali,Fiscal measures,2020-04-01,2020-04-01,25800000.0,0.0
+28,Mali,Fiscal measures,2020-05-08,2020-05-08,200000000.0,0.0
+25,Mali,Income support,2020-04-01,2020-10-29,1.0,3506.0
+20,Mali,International travel controls,2020-03-11,2020-03-18,1.0,0.0
+21,Mali,International travel controls,2020-03-25,2020-07-24,4.0,2501.0
+22,Mali,International travel controls,2020-07-25,2020-07-30,3.0,19.0
+23,Mali,International travel controls,2020-07-31,2020-12-09,2.0,2934.0
+24,Mali,International travel controls,2020-12-10,2021-04-06,1.0,5182.0
+38,Mali,Protection of elderly people,2020-03-25,2020-05-09,1.0,690.0
+39,Mali,Protection of elderly people,2020-12-18,2020-12-28,1.0,583.0
+29,Mali,Public information campaigns,2020-03-18,2021-04-06,2.0,10758.0
+14,Mali,Restrictions on gatherings,2020-03-25,2021-04-06,3.0,10756.0
+18,Mali,Restrictions on internal movement,2020-03-25,2020-04-30,2.0,488.0
+19,Mali,Restrictions on internal movement,2020-05-01,2020-05-09,1.0,184.0
+0,Mali,School closing,2020-03-19,2020-06-01,3.0,1315.0
+1,Mali,School closing,2020-06-02,2020-09-13,2.0,1573.0
+2,Mali,School closing,2020-09-14,2020-12-17,1.0,3114.0
+3,Mali,School closing,2020-12-18,2021-01-25,3.0,1875.0
+4,Mali,School closing,2021-01-26,2021-04-06,1.0,2752.0
+15,Mali,Stay at home requirements,2020-03-25,2020-05-09,1.0,690.0
+16,Mali,Stay at home requirements,2020-12-18,2020-12-28,1.0,583.0
+17,Mali,Stay at home requirements,2021-03-02,2021-04-06,1.0,2338.0
+30,Mali,Testing policy,2020-05-01,2020-12-09,1.0,4961.0
+31,Mali,Testing policy,2020-12-10,2021-03-01,3.0,2814.0
+32,Mali,Testing policy,2021-03-02,2021-04-06,2.0,2338.0
+36,Mali,Vaccination policy,2021-03-05,2021-03-29,1.0,1412.0
+37,Mali,Vaccination policy,2021-03-30,2021-04-06,3.0,760.0
+5,Mali,Workplace closing,2020-03-25,2020-05-09,2.0,690.0
+6,Mali,Workplace closing,2020-05-10,2020-12-17,1.0,5345.0
+7,Mali,Workplace closing,2020-12-18,2020-12-28,3.0,583.0
+8,Mali,Workplace closing,2020-12-29,2021-04-06,2.0,3962.0

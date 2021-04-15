@@ -1,0 +1,50 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Kenya,Cancel public events,2020-03-13,2021-03-29,2.0,131115.0
+14,Kenya,Close public transport,2020-03-20,2021-01-25,1.0,100045.0
+40,Kenya,Contact tracing,2020-03-16,2020-08-12,1.0,28101.0
+41,Kenya,Contact tracing,2020-08-13,2020-10-19,2.0,16322.0
+42,Kenya,Contact tracing,2020-11-01,2021-03-29,2.0,75239.0
+31,Kenya,Debt/contract relief,2020-03-18,2021-03-29,1.0,131113.0
+43,Kenya,Facial Coverings,2020-04-04,2020-10-08,4.0,40052.0
+44,Kenya,Facial Coverings,2020-10-09,2020-10-31,2.0,14572.0
+45,Kenya,Facial Coverings,2020-11-01,2021-03-29,3.0,75239.0
+32,Kenya,Fiscal measures,2020-04-06,2020-04-06,18780000.0,0.0
+33,Kenya,Fiscal measures,2020-05-23,2020-05-23,499942167.0,0.0
+34,Kenya,Fiscal measures,2020-12-04,2020-12-04,1190000000.0,0.0
+30,Kenya,Income support,2020-03-25,2020-10-08,1.0,40150.0
+26,Kenya,International travel controls,2020-01-20,2020-03-16,1.0,3.0
+27,Kenya,International travel controls,2020-03-17,2020-07-31,4.0,20633.0
+28,Kenya,International travel controls,2020-08-01,2020-10-31,2.0,33829.0
+29,Kenya,International travel controls,2020-11-01,2021-03-29,1.0,75239.0
+48,Kenya,Protection of elderly people,2020-03-20,2021-03-29,1.0,131109.0
+35,Kenya,Public information campaigns,2020-02-25,2021-03-29,2.0,131116.0
+8,Kenya,Restrictions on gatherings,2020-03-13,2020-07-23,4.0,15600.0
+9,Kenya,Restrictions on gatherings,2020-07-24,2020-10-08,3.0,23910.0
+10,Kenya,Restrictions on gatherings,2020-10-09,2020-10-31,2.0,14572.0
+11,Kenya,Restrictions on gatherings,2020-11-01,2021-01-25,3.0,44175.0
+12,Kenya,Restrictions on gatherings,2021-01-26,2021-03-25,2.0,25977.0
+13,Kenya,Restrictions on gatherings,2021-03-26,2021-03-29,3.0,2938.0
+21,Kenya,Restrictions on internal movement,2020-03-27,2020-07-06,2.0,8036.0
+22,Kenya,Restrictions on internal movement,2020-07-07,2020-08-31,1.0,25951.0
+23,Kenya,Restrictions on internal movement,2020-09-01,2020-10-31,2.0,20877.0
+24,Kenya,Restrictions on internal movement,2020-11-01,2021-03-27,1.0,73453.0
+25,Kenya,Restrictions on internal movement,2021-03-28,2021-03-29,2.0,902.0
+0,Kenya,School closing,2020-03-15,2020-10-04,3.0,39424.0
+1,Kenya,School closing,2020-10-05,2021-01-03,2.0,57353.0
+2,Kenya,School closing,2021-01-04,2021-03-29,1.0,34208.0
+15,Kenya,Stay at home requirements,2020-03-20,2020-03-26,1.0,24.0
+16,Kenya,Stay at home requirements,2020-03-27,2020-04-05,2.0,111.0
+17,Kenya,Stay at home requirements,2020-04-06,2020-06-22,3.0,4639.0
+18,Kenya,Stay at home requirements,2020-06-23,2020-08-31,2.0,29249.0
+19,Kenya,Stay at home requirements,2020-09-01,2020-10-19,1.0,10761.0
+20,Kenya,Stay at home requirements,2020-10-20,2021-03-29,2.0,85469.0
+36,Kenya,Testing policy,2020-03-16,2020-05-03,1.0,462.0
+37,Kenya,Testing policy,2020-05-04,2020-10-08,3.0,39688.0
+38,Kenya,Testing policy,2020-10-09,2020-12-07,1.0,47959.0
+39,Kenya,Testing policy,2020-12-08,2021-03-29,2.0,42016.0
+46,Kenya,Vaccination policy,2021-03-09,2021-03-22,1.0,12397.0
+47,Kenya,Vaccination policy,2021-03-23,2021-03-29,2.0,7949.0
+3,Kenya,Workplace closing,2020-03-15,2020-03-23,1.0,13.0
+4,Kenya,Workplace closing,2020-03-24,2020-08-31,2.0,34176.0
+5,Kenya,Workplace closing,2020-09-01,2021-03-25,1.0,91855.0
+6,Kenya,Workplace closing,2021-03-26,2021-03-29,2.0,2938.0

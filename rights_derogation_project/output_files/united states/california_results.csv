@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,California,Cancel public events,2020-03-07,2020-03-10,1.0,63.0
+8,California,Cancel public events,2020-03-11,2021-04-06,2.0,3684867.0
+41,California,Contact tracing,2020-01-21,2020-05-21,1.0,88951.0
+42,California,Contact tracing,2020-05-22,2021-01-09,2.0,2613244.0
+43,California,Contact tracing,2021-01-10,2021-04-06,1.0,941037.0
+30,California,Debt/contract relief,2020-03-04,2020-03-16,1.0,522.0
+31,California,Debt/contract relief,2020-03-17,2021-04-06,2.0,3684345.0
+44,California,Facial Coverings,2020-04-01,2020-04-03,1.0,2608.0
+45,California,Facial Coverings,2020-04-04,2020-04-05,2.0,2196.0
+46,California,Facial Coverings,2020-04-06,2021-01-10,3.0,2727974.0
+47,California,Facial Coverings,2021-01-20,2021-04-06,3.0,587413.0
+32,California,Fiscal measures,2020-06-29,2020-06-29,5700000000.0,0.0
+33,California,Fiscal measures,2021-03-05,2021-03-05,6600000000.0,0.0
+28,California,Income support,2020-01-27,2020-01-27,1.0,0.0
+29,California,Income support,2020-03-05,2021-04-06,2.0,3684994.0
+25,California,International travel controls,2020-01-17,2020-02-01,1.0,3.0
+26,California,International travel controls,2020-02-02,2020-03-01,2.0,9.0
+27,California,International travel controls,2020-03-02,2021-04-06,3.0,3685024.0
+50,California,Protection of elderly people,2020-03-12,2021-03-08,3.0,3602159.0
+51,California,Protection of elderly people,2021-03-10,2021-04-06,3.0,73750.0
+34,California,Public information campaigns,2020-02-02,2020-03-15,1.0,370.0
+35,California,Public information campaigns,2020-03-16,2021-04-06,2.0,3684488.0
+9,California,Restrictions on gatherings,2020-03-11,2020-03-15,2.0,195.0
+10,California,Restrictions on gatherings,2020-03-16,2020-10-08,4.0,848030.0
+11,California,Restrictions on gatherings,2020-10-09,2020-11-29,3.0,373774.0
+12,California,Restrictions on gatherings,2020-11-30,2021-01-24,4.0,1942523.0
+13,California,Restrictions on gatherings,2021-01-25,2021-04-06,3.0,471823.0
+20,California,Restrictions on internal movement,2020-03-16,2020-03-18,1.0,274.0
+21,California,Restrictions on internal movement,2020-03-19,2020-05-07,2.0,61860.0
+22,California,Restrictions on internal movement,2020-05-08,2020-12-29,1.0,2194195.0
+23,California,Restrictions on internal movement,2020-12-30,2021-02-28,2.0,1275500.0
+24,California,Restrictions on internal movement,2021-03-01,2021-04-06,1.0,111496.0
+0,California,School closing,2020-03-07,2020-03-12,1.0,140.0
+1,California,School closing,2020-03-13,2020-03-16,2.0,276.0
+2,California,School closing,2020-03-17,2021-03-04,3.0,3586867.0
+3,California,School closing,2021-03-05,2021-04-06,2.0,92485.0
+14,California,Stay at home requirements,2020-03-11,2020-03-16,1.0,379.0
+15,California,Stay at home requirements,2020-03-17,2020-05-07,2.0,62169.0
+16,California,Stay at home requirements,2020-05-08,2020-11-20,1.0,1036930.0
+17,California,Stay at home requirements,2020-11-21,2021-01-26,2.0,2119923.0
+18,California,Stay at home requirements,2021-01-27,2021-03-15,1.0,375378.0
+19,California,Stay at home requirements,2021-03-16,2021-04-06,2.0,56745.0
+36,California,Testing policy,2020-01-21,2020-04-18,1.0,30805.0
+37,California,Testing policy,2020-04-19,2020-08-19,2.0,619374.0
+38,California,Testing policy,2020-08-20,2020-08-25,3.0,28090.0
+39,California,Testing policy,2020-08-26,2020-09-21,2.0,102770.0
+40,California,Testing policy,2020-09-22,2021-04-06,3.0,2889527.0
+48,California,Vaccination policy,2020-12-15,2021-03-14,2.0,1947134.0
+49,California,Vaccination policy,2021-03-15,2021-04-06,3.0,59018.0
+4,California,Workplace closing,2020-03-12,2020-03-16,1.0,336.0
+5,California,Workplace closing,2020-03-17,2020-05-07,3.0,62169.0
+6,California,Workplace closing,2020-05-08,2021-04-06,2.0,3620481.0

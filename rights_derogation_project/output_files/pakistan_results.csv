@@ -1,0 +1,65 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Pakistan,Cancel public events,2020-03-13,2020-08-09,2.0,284090.0
+12,Pakistan,Cancel public events,2020-08-10,2020-09-30,1.0,28146.0
+13,Pakistan,Cancel public events,2020-10-01,2021-04-04,2.0,378800.0
+20,Pakistan,Close public transport,2020-03-23,2020-06-06,2.0,97971.0
+21,Pakistan,Close public transport,2020-10-01,2020-10-15,2.0,8446.0
+51,Pakistan,Contact tracing,2020-01-24,2020-04-30,1.0,18114.0
+52,Pakistan,Contact tracing,2020-05-01,2020-05-20,2.0,28988.0
+53,Pakistan,Contact tracing,2020-05-21,2020-08-12,1.0,235227.0
+54,Pakistan,Contact tracing,2020-08-13,2021-03-09,2.0,308565.0
+55,Pakistan,Contact tracing,2021-03-10,2021-04-04,1.0,94734.0
+37,Pakistan,Debt/contract relief,2020-04-16,2020-05-20,1.0,41066.0
+38,Pakistan,Debt/contract relief,2020-05-21,2021-04-04,2.0,641537.0
+56,Pakistan,Emergency investment in healthcare,2020-04-02,2020-04-02,200000000.0,0.0
+59,Pakistan,Facial Coverings,2020-05-31,2020-10-28,3.0,258648.0
+60,Pakistan,Facial Coverings,2020-10-29,2021-04-04,4.0,360045.0
+39,Pakistan,Fiscal measures,2020-03-18,2020-03-18,0.75,0.0
+40,Pakistan,Fiscal measures,2020-03-20,2020-03-20,40.0,0.0
+41,Pakistan,Fiscal measures,2020-03-21,2020-03-21,40000000.0,0.0
+42,Pakistan,Fiscal measures,2020-03-24,2020-03-24,7561436640.0,0.0
+43,Pakistan,Fiscal measures,2020-04-08,2020-04-08,560000000.0,0.0
+36,Pakistan,Income support,2020-04-09,2021-04-04,1.0,687536.0
+44,Pakistan,International support,2020-04-02,2020-04-02,200000000.0,0.0
+45,Pakistan,International support,2020-04-09,2020-04-09,3.0,0.0
+46,Pakistan,International support,2020-05-15,2020-05-15,163749932.5,0.0
+30,Pakistan,International travel controls,2020-01-31,2020-02-02,3.0,0.0
+31,Pakistan,International travel controls,2020-02-23,2020-03-20,3.0,730.0
+32,Pakistan,International travel controls,2020-03-21,2020-05-20,4.0,47315.0
+33,Pakistan,International travel controls,2020-05-21,2020-06-19,3.0,120972.0
+34,Pakistan,International travel controls,2020-06-20,2021-01-19,2.0,348166.0
+35,Pakistan,International travel controls,2021-01-20,2021-04-04,1.0,165085.0
+57,Pakistan,Investment in vaccines,2020-11-13,2020-11-13,150000000.0,0.0
+58,Pakistan,Investment in vaccines,2020-12-01,2020-12-01,150000000.0,0.0
+63,Pakistan,Protection of elderly people,2020-10-01,2021-04-04,3.0,378800.0
+47,Pakistan,Public information campaigns,2020-02-12,2021-04-04,2.0,692231.0
+14,Pakistan,Restrictions on gatherings,2020-03-13,2020-08-09,4.0,284090.0
+15,Pakistan,Restrictions on gatherings,2020-08-10,2020-09-16,3.0,18974.0
+16,Pakistan,Restrictions on gatherings,2020-09-17,2020-09-30,2.0,8420.0
+17,Pakistan,Restrictions on gatherings,2020-10-01,2020-11-08,4.0,31408.0
+18,Pakistan,Restrictions on gatherings,2020-11-09,2020-11-19,2.0,22189.0
+19,Pakistan,Restrictions on gatherings,2020-11-20,2021-04-04,4.0,320723.0
+27,Pakistan,Restrictions on internal movement,2020-03-24,2020-05-15,2.0,37736.0
+28,Pakistan,Restrictions on internal movement,2020-05-17,2020-06-03,2.0,43139.0
+29,Pakistan,Restrictions on internal movement,2020-07-02,2020-08-09,2.0,62225.0
+0,Pakistan,School closing,2020-02-27,2020-09-14,3.0,302422.0
+1,Pakistan,School closing,2020-09-15,2020-11-25,2.0,83109.0
+2,Pakistan,School closing,2020-11-26,2021-01-17,3.0,131900.0
+3,Pakistan,School closing,2021-01-18,2021-01-31,2.0,23417.0
+4,Pakistan,School closing,2021-03-23,2021-04-04,2.0,55189.0
+22,Pakistan,Stay at home requirements,2020-03-23,2020-06-03,2.0,84292.0
+23,Pakistan,Stay at home requirements,2020-06-04,2020-06-21,1.0,91839.0
+24,Pakistan,Stay at home requirements,2020-06-22,2020-08-09,2.0,99087.0
+25,Pakistan,Stay at home requirements,2020-08-10,2020-09-30,1.0,28146.0
+26,Pakistan,Stay at home requirements,2020-10-01,2021-04-04,3.0,378800.0
+48,Pakistan,Testing policy,2020-02-25,2020-04-10,1.0,5009.0
+49,Pakistan,Testing policy,2020-04-11,2021-03-09,2.0,590009.0
+50,Pakistan,Testing policy,2021-03-10,2021-04-04,3.0,94734.0
+61,Pakistan,Vaccination policy,2021-02-02,2021-03-09,1.0,46207.0
+62,Pakistan,Vaccination policy,2021-03-10,2021-04-04,2.0,94734.0
+5,Pakistan,Workplace closing,2020-03-23,2020-04-14,3.0,5411.0
+6,Pakistan,Workplace closing,2020-04-15,2020-08-09,2.0,277202.0
+7,Pakistan,Workplace closing,2020-08-10,2020-09-30,1.0,28146.0
+8,Pakistan,Workplace closing,2020-10-01,2020-10-15,3.0,8446.0
+9,Pakistan,Workplace closing,2020-10-16,2020-11-19,1.0,46213.0
+10,Pakistan,Workplace closing,2020-11-20,2021-04-04,3.0,320723.0

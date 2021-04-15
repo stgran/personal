@@ -1,0 +1,52 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Bolivia,Cancel public events,2020-03-12,2020-11-30,2.0,144706.0
+6,Bolivia,Cancel public events,2020-12-01,2021-01-04,1.0,18861.0
+9,Bolivia,Close public transport,2020-03-16,2020-11-30,2.0,144697.0
+38,Bolivia,Contact tracing,2020-06-02,2020-11-13,1.0,132078.0
+39,Bolivia,Contact tracing,2020-11-20,2021-04-04,1.0,131080.0
+25,Bolivia,Debt/contract relief,2020-03-31,2020-06-30,1.0,33112.0
+26,Bolivia,Debt/contract relief,2021-01-01,2021-02-25,1.0,85837.0
+27,Bolivia,Debt/contract relief,2021-02-26,2021-04-04,2.0,27043.0
+40,Bolivia,Emergency investment in healthcare,2020-04-28,2020-04-28,23000000.0,0.0
+41,Bolivia,Emergency investment in healthcare,2020-07-22,2020-07-22,101387930.0,0.0
+42,Bolivia,Emergency investment in healthcare,2020-07-26,2020-07-26,89914.0,0.0
+43,Bolivia,Emergency investment in healthcare,2021-01-05,2021-01-05,38858400.0,0.0
+44,Bolivia,Facial Coverings,2020-05-01,2020-05-31,1.0,8753.0
+45,Bolivia,Facial Coverings,2020-06-01,2020-12-07,3.0,135126.0
+46,Bolivia,Facial Coverings,2020-12-08,2021-04-04,4.0,129088.0
+28,Bolivia,Fiscal measures,2020-03-31,2020-03-31,169813247.0,0.0
+29,Bolivia,Fiscal measures,2020-04-09,2020-04-09,187000.0,0.0
+30,Bolivia,Fiscal measures,2020-04-14,2020-04-14,215500000.0,0.0
+31,Bolivia,Fiscal measures,2020-04-15,2020-04-15,201000000.0,0.0
+32,Bolivia,Fiscal measures,2020-11-03,2020-11-03,584000000.0,0.0
+24,Bolivia,Income support,2020-03-31,2021-04-04,1.0,274827.0
+16,Bolivia,International travel controls,2020-03-13,2020-03-30,3.0,94.0
+17,Bolivia,International travel controls,2020-03-31,2020-08-31,4.0,116491.0
+18,Bolivia,International travel controls,2020-09-01,2020-12-24,1.0,35854.0
+19,Bolivia,International travel controls,2020-12-25,2021-01-28,3.0,57136.0
+20,Bolivia,International travel controls,2021-01-29,2021-01-29,1.0,0.0
+21,Bolivia,International travel controls,2021-01-30,2021-01-31,3.0,1438.0
+22,Bolivia,International travel controls,2021-02-01,2021-03-21,1.0,46335.0
+23,Bolivia,International travel controls,2021-03-22,2021-04-04,3.0,9727.0
+48,Bolivia,Protection of elderly people,2020-01-01,2020-11-30,2.0,144708.0
+49,Bolivia,Protection of elderly people,2020-12-01,2021-01-29,1.0,68582.0
+50,Bolivia,Protection of elderly people,2021-02-01,2021-02-10,1.0,14203.0
+33,Bolivia,Public information campaigns,2020-03-10,2020-03-12,1.0,2.0
+34,Bolivia,Public information campaigns,2020-03-13,2021-04-04,2.0,274931.0
+7,Bolivia,Restrictions on gatherings,2020-03-12,2020-03-16,1.0,9.0
+8,Bolivia,Restrictions on gatherings,2020-03-17,2020-11-30,4.0,144697.0
+14,Bolivia,Restrictions on internal movement,2020-03-21,2020-11-30,2.0,144689.0
+15,Bolivia,Restrictions on internal movement,2020-12-01,2021-01-04,1.0,18861.0
+0,Bolivia,School closing,2020-03-12,2021-01-31,3.0,216833.0
+1,Bolivia,School closing,2021-02-01,2021-04-04,2.0,56635.0
+10,Bolivia,Stay at home requirements,2020-03-17,2020-06-19,2.0,22465.0
+11,Bolivia,Stay at home requirements,2020-06-20,2020-06-23,3.0,2877.0
+12,Bolivia,Stay at home requirements,2020-06-24,2020-11-30,2.0,117221.0
+13,Bolivia,Stay at home requirements,2020-12-01,2021-01-04,1.0,18861.0
+35,Bolivia,Testing policy,2020-04-07,2021-01-31,1.0,216641.0
+36,Bolivia,Testing policy,2021-02-01,2021-02-10,2.0,14203.0
+37,Bolivia,Testing policy,2021-02-11,2021-04-04,1.0,41080.0
+47,Bolivia,Vaccination policy,2021-01-29,2021-04-04,2.0,61542.0
+2,Bolivia,Workplace closing,2020-03-18,2020-03-21,1.0,7.0
+3,Bolivia,Workplace closing,2020-03-22,2020-06-25,3.0,28479.0
+4,Bolivia,Workplace closing,2020-06-26,2021-01-04,2.0,134248.0

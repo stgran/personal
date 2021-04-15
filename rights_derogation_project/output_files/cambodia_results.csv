@@ -1,0 +1,45 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Cambodia,Cancel public events,2020-03-07,2020-05-31,2.0,124.0
+11,Cambodia,Cancel public events,2020-11-10,2020-11-29,1.0,23.0
+12,Cambodia,Cancel public events,2020-11-30,2021-03-22,2.0,1462.0
+36,Cambodia,Contact tracing,2020-03-16,2021-02-08,1.0,469.0
+37,Cambodia,Contact tracing,2021-02-09,2021-03-22,2.0,1312.0
+30,Cambodia,Debt/contract relief,2020-08-05,2020-12-31,1.0,135.0
+38,Cambodia,Emergency investment in healthcare,2020-11-20,2020-11-20,60000000.0,0.0
+39,Cambodia,Facial Coverings,2020-04-05,2020-09-24,1.0,161.0
+40,Cambodia,Facial Coverings,2020-09-25,2021-02-08,2.0,201.0
+41,Cambodia,Facial Coverings,2021-02-09,2021-03-22,3.0,1312.0
+31,Cambodia,Fiscal measures,2020-07-31,2020-07-31,500000000.0,0.0
+32,Cambodia,Fiscal measures,2020-08-11,2020-08-11,1000000.0,0.0
+33,Cambodia,Fiscal measures,2020-11-20,2020-11-20,145000000.0,0.0
+28,Cambodia,Income support,2020-05-21,2020-12-31,2.0,255.0
+29,Cambodia,Income support,2021-01-01,2021-03-22,1.0,1409.0
+22,Cambodia,International travel controls,2020-03-13,2020-04-07,3.0,110.0
+23,Cambodia,International travel controls,2020-04-08,2020-08-05,2.0,126.0
+24,Cambodia,International travel controls,2020-08-06,2020-08-23,3.0,30.0
+25,Cambodia,International travel controls,2020-08-24,2020-10-15,2.0,10.0
+26,Cambodia,International travel controls,2020-10-16,2020-11-15,1.0,19.0
+27,Cambodia,International travel controls,2020-11-16,2021-03-22,2.0,1485.0
+43,Cambodia,Protection of elderly people,2021-02-08,2021-03-22,1.0,1312.0
+34,Cambodia,Public information campaigns,2020-03-26,2021-03-22,2.0,1692.0
+13,Cambodia,Restrictions on gatherings,2020-03-17,2020-05-31,4.0,92.0
+14,Cambodia,Restrictions on gatherings,2020-06-01,2020-11-29,2.0,198.0
+15,Cambodia,Restrictions on gatherings,2020-11-30,2021-03-22,3.0,1462.0
+19,Cambodia,Restrictions on internal movement,2020-04-09,2020-04-16,2.0,3.0
+20,Cambodia,Restrictions on internal movement,2021-02-09,2021-03-03,1.0,433.0
+21,Cambodia,Restrictions on internal movement,2021-03-04,2021-03-22,2.0,856.0
+0,Cambodia,School closing,2020-03-07,2020-09-06,3.0,273.0
+1,Cambodia,School closing,2020-09-07,2020-11-29,1.0,49.0
+2,Cambodia,School closing,2020-11-30,2021-01-10,2.0,65.0
+3,Cambodia,School closing,2021-01-11,2021-02-21,1.0,176.0
+4,Cambodia,School closing,2021-02-22,2021-03-08,2.0,418.0
+5,Cambodia,School closing,2021-03-09,2021-03-16,1.0,381.0
+6,Cambodia,School closing,2021-03-17,2021-03-22,3.0,247.0
+16,Cambodia,Stay at home requirements,2020-08-03,2020-11-29,1.0,83.0
+17,Cambodia,Stay at home requirements,2020-11-30,2020-12-20,2.0,37.0
+18,Cambodia,Stay at home requirements,2020-12-21,2021-03-22,1.0,1425.0
+35,Cambodia,Testing policy,2020-03-16,2021-03-22,1.0,1781.0
+42,Cambodia,Vaccination policy,2021-02-02,2021-03-22,1.0,1322.0
+7,Cambodia,Workplace closing,2020-03-17,2021-02-08,2.0,443.0
+8,Cambodia,Workplace closing,2021-02-22,2021-03-08,2.0,418.0
+9,Cambodia,Workplace closing,2021-03-17,2021-03-22,2.0,247.0

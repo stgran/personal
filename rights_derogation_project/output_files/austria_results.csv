@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+18,Austria,Cancel public events,2020-03-11,2020-07-09,2.0,18369.0
+19,Austria,Cancel public events,2020-07-10,2020-10-12,1.0,37589.0
+20,Austria,Cancel public events,2020-10-13,2021-04-11,2.0,517429.0
+26,Austria,Close public transport,2020-03-13,2020-05-10,1.0,15367.0
+27,Austria,Close public transport,2020-11-02,2021-04-09,1.0,457600.0
+57,Austria,Contact tracing,2020-02-25,2020-03-29,1.0,8786.0
+58,Austria,Contact tracing,2020-03-30,2021-04-09,2.0,561998.0
+40,Austria,Debt/contract relief,2020-03-16,2021-04-09,2.0,570598.0
+60,Austria,Facial Coverings,2020-04-01,2020-04-05,1.0,1340.0
+61,Austria,Facial Coverings,2020-04-06,2020-09-13,2.0,20862.0
+62,Austria,Facial Coverings,2020-09-14,2021-04-09,3.0,538075.0
+41,Austria,Fiscal measures,2020-03-04,2020-03-04,11128806.0,0.0
+42,Austria,Fiscal measures,2020-03-15,2020-03-15,4447624206.0,0.0
+43,Austria,Fiscal measures,2020-03-18,2020-03-18,41182448771.0,0.0
+44,Austria,Fiscal measures,2020-04-02,2020-04-02,11932889.0,0.0
+45,Austria,Fiscal measures,2020-05-11,2020-05-11,540530000.0,0.0
+46,Austria,Fiscal measures,2020-05-19,2020-05-19,13124648950.0,0.0
+47,Austria,Fiscal measures,2020-06-16,2020-06-16,56000000.0,0.0
+48,Austria,Fiscal measures,2021-01-19,2021-01-19,891000000.0,0.0
+49,Austria,Fiscal measures,2021-03-10,2021-03-10,512605322.51,0.0
+39,Austria,Income support,2020-03-19,2021-04-09,2.0,569603.0
+50,Austria,International support,2020-12-16,2020-12-16,2800000.0,0.0
+36,Austria,International travel controls,2020-03-09,2020-06-03,3.0,16640.0
+37,Austria,International travel controls,2020-06-04,2020-09-05,2.0,12282.0
+38,Austria,International travel controls,2020-09-06,2021-04-09,3.0,542345.0
+59,Austria,Investment in vaccines,2020-04-21,2020-04-21,1085695.0,0.0
+65,Austria,Protection of elderly people,2020-03-16,2020-04-30,2.0,14434.0
+66,Austria,Protection of elderly people,2020-10-17,2021-04-09,3.0,508482.0
+51,Austria,Public information campaigns,2020-02-24,2021-04-09,2.0,571616.0
+21,Austria,Restrictions on gatherings,2020-03-16,2020-05-01,4.0,14513.0
+22,Austria,Restrictions on gatherings,2020-05-02,2020-07-09,3.0,3057.0
+23,Austria,Restrictions on gatherings,2020-07-10,2020-09-16,2.0,16364.0
+24,Austria,Restrictions on gatherings,2020-09-17,2020-10-12,3.0,20445.0
+25,Austria,Restrictions on gatherings,2020-10-13,2021-04-11,4.0,517429.0
+31,Austria,Restrictions on internal movement,2020-03-13,2020-04-22,2.0,14421.0
+32,Austria,Restrictions on internal movement,2020-04-23,2020-05-28,1.0,1626.0
+33,Austria,Restrictions on internal movement,2020-10-17,2020-11-01,2.0,46747.0
+34,Austria,Restrictions on internal movement,2020-11-02,2021-02-11,1.0,315123.0
+35,Austria,Restrictions on internal movement,2021-02-12,2021-04-09,2.0,140746.0
+0,Austria,School closing,2020-03-16,2020-06-02,2.0,15741.0
+1,Austria,School closing,2020-06-03,2020-11-01,1.0,93110.0
+2,Austria,School closing,2020-11-02,2020-11-16,2.0,94597.0
+3,Austria,School closing,2020-11-17,2020-12-06,3.0,88833.0
+4,Austria,School closing,2020-12-07,2020-12-25,1.0,43362.0
+5,Austria,School closing,2020-12-26,2021-02-14,3.0,83003.0
+6,Austria,School closing,2021-02-15,2021-04-05,2.0,126260.0
+7,Austria,School closing,2021-04-06,2021-04-09,3.0,8709.0
+28,Austria,Stay at home requirements,2020-03-16,2020-04-30,2.0,14434.0
+29,Austria,Stay at home requirements,2020-09-29,2020-10-16,1.0,17346.0
+30,Austria,Stay at home requirements,2020-10-17,2021-04-09,2.0,508482.0
+52,Austria,Testing policy,2020-02-01,2020-03-22,1.0,3582.0
+53,Austria,Testing policy,2020-03-23,2020-05-28,2.0,12154.0
+54,Austria,Testing policy,2020-05-29,2021-01-14,3.0,372605.0
+55,Austria,Testing policy,2021-01-15,2021-01-20,2.0,7308.0
+56,Austria,Testing policy,2021-01-21,2021-04-09,3.0,171818.0
+63,Austria,Vaccination policy,2020-12-27,2021-02-11,2.0,77247.0
+64,Austria,Vaccination policy,2021-02-12,2021-04-09,3.0,140746.0
+8,Austria,Workplace closing,2020-03-12,2020-03-15,1.0,558.0
+9,Austria,Workplace closing,2020-03-16,2020-04-13,3.0,13023.0
+10,Austria,Workplace closing,2020-04-14,2020-07-09,2.0,4389.0
+11,Austria,Workplace closing,2020-07-10,2020-10-16,1.0,42678.0
+12,Austria,Workplace closing,2020-10-17,2020-11-16,2.0,145479.0
+13,Austria,Workplace closing,2020-11-17,2020-12-06,3.0,88833.0
+14,Austria,Workplace closing,2020-12-07,2020-12-25,2.0,43362.0
+15,Austria,Workplace closing,2020-12-26,2021-02-07,3.0,73355.0
+16,Austria,Workplace closing,2021-02-08,2021-03-31,2.0,121333.0
+17,Austria,Workplace closing,2021-04-01,2021-04-09,3.0,22024.0

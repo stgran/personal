@@ -1,0 +1,39 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+2,Tajikistan,Cancel public events,2020-04-18,2021-01-30,2.0,13308.0
+6,Tajikistan,Close public transport,2020-06-03,2020-08-27,2.0,4258.0
+7,Tajikistan,Close public transport,2021-01-19,2021-01-22,1.0,0.0
+31,Tajikistan,Contact tracing,2020-02-01,2021-01-22,1.0,13308.0
+20,Tajikistan,Debt/contract relief,2020-05-05,2021-01-22,1.0,13015.0
+21,Tajikistan,Debt/contract relief,2021-03-17,2021-04-04,2.0,0.0
+32,Tajikistan,Emergency investment in healthcare,2020-05-04,2020-05-04,292800.0,0.0
+33,Tajikistan,Facial Coverings,2020-03-16,2020-06-15,2.0,5097.0
+34,Tajikistan,Facial Coverings,2020-06-16,2021-03-16,3.0,8148.0
+35,Tajikistan,Facial Coverings,2021-03-17,2021-04-04,4.0,0.0
+22,Tajikistan,Fiscal measures,2020-05-11,2020-05-11,525500.0,0.0
+23,Tajikistan,Fiscal measures,2020-05-15,2020-05-15,292300.0,0.0
+24,Tajikistan,Fiscal measures,2020-05-18,2020-05-18,633400.0,0.0
+25,Tajikistan,Fiscal measures,2020-05-28,2020-05-28,1200000.0,0.0
+18,Tajikistan,Income support,2020-06-19,2021-01-22,1.0,7970.0
+19,Tajikistan,Income support,2021-03-17,2021-04-04,1.0,0.0
+14,Tajikistan,International travel controls,2020-02-03,2020-03-02,2.0,0.0
+15,Tajikistan,International travel controls,2020-03-03,2020-04-09,3.0,0.0
+16,Tajikistan,International travel controls,2020-04-10,2020-06-30,4.0,5900.0
+17,Tajikistan,International travel controls,2020-07-01,2021-04-04,3.0,7303.0
+26,Tajikistan,Public information campaigns,2020-01-21,2020-03-17,1.0,0.0
+27,Tajikistan,Public information campaigns,2020-03-18,2021-01-22,2.0,13308.0
+28,Tajikistan,Public information campaigns,2021-01-23,2021-01-31,1.0,0.0
+29,Tajikistan,Public information campaigns,2021-02-01,2021-04-04,2.0,0.0
+3,Tajikistan,Restrictions on gatherings,2020-04-18,2020-06-19,3.0,5338.0
+4,Tajikistan,Restrictions on gatherings,2020-06-20,2020-12-18,2.0,7489.0
+5,Tajikistan,Restrictions on gatherings,2020-12-19,2021-04-04,3.0,385.0
+11,Tajikistan,Restrictions on internal movement,2020-06-03,2020-06-14,1.0,844.0
+12,Tajikistan,Restrictions on internal movement,2020-06-15,2020-07-15,2.0,1598.0
+13,Tajikistan,Restrictions on internal movement,2020-07-16,2020-09-07,1.0,2083.0
+0,Tajikistan,School closing,2020-08-17,2021-04-04,1.0,5209.0
+8,Tajikistan,Stay at home requirements,2020-05-09,2020-05-11,2.0,49.0
+9,Tajikistan,Stay at home requirements,2020-05-12,2020-06-14,1.0,4306.0
+10,Tajikistan,Stay at home requirements,2020-07-24,2020-08-06,1.0,561.0
+30,Tajikistan,Testing policy,2020-02-04,2021-01-22,1.0,13308.0
+36,Tajikistan,Vaccination policy,2021-03-08,2021-03-16,1.0,0.0
+37,Tajikistan,Vaccination policy,2021-03-23,2021-04-04,1.0,0.0
+1,Tajikistan,Workplace closing,2020-04-25,2020-06-14,2.0,5035.0

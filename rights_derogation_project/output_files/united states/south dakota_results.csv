@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,South Dakota,Cancel public events,2020-03-15,2020-03-22,1.0,13.0
+14,South Dakota,Cancel public events,2020-03-23,2020-04-27,2.0,2216.0
+15,South Dakota,Cancel public events,2020-04-28,2020-10-22,1.0,33704.0
+16,South Dakota,Cancel public events,2020-10-23,2020-10-29,2.0,5798.0
+17,South Dakota,Cancel public events,2020-10-30,2021-04-04,1.0,73802.0
+35,South Dakota,Contact tracing,2020-01-21,2021-04-04,1.0,118361.0
+28,South Dakota,Debt/contract relief,2020-03-12,2021-04-04,1.0,118354.0
+36,South Dakota,Facial Coverings,2020-04-04,2020-04-06,1.0,76.0
+37,South Dakota,Facial Coverings,2020-04-07,2021-01-10,2.0,102998.0
+38,South Dakota,Facial Coverings,2021-01-20,2021-04-04,2.0,12298.0
+24,South Dakota,Income support,2020-01-27,2020-01-27,1.0,0.0
+25,South Dakota,Income support,2020-03-27,2020-07-30,2.0,8627.0
+26,South Dakota,Income support,2020-07-31,2020-09-10,1.0,7070.0
+27,South Dakota,Income support,2020-12-27,2021-04-04,1.0,20971.0
+22,South Dakota,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+23,South Dakota,International travel controls,2020-03-02,2021-04-04,3.0,118361.0
+42,South Dakota,Protection of elderly people,2020-03-13,2020-05-17,1.0,3979.0
+43,South Dakota,Protection of elderly people,2020-05-18,2021-03-08,2.0,109569.0
+44,South Dakota,Protection of elderly people,2021-03-10,2021-04-04,2.0,4399.0
+29,South Dakota,Public information campaigns,2020-02-27,2021-01-20,2.0,106063.0
+30,South Dakota,Public information campaigns,2021-01-21,2021-01-21,1.0,0.0
+31,South Dakota,Public information campaigns,2021-01-22,2021-04-04,2.0,11645.0
+18,South Dakota,Restrictions on gatherings,2020-03-23,2020-04-27,4.0,2216.0
+20,South Dakota,Restrictions on internal movement,2020-03-08,2020-03-14,2.0,8.0
+21,South Dakota,Restrictions on internal movement,2020-03-15,2021-04-04,1.0,118353.0
+0,South Dakota,School closing,2020-03-12,2020-03-15,2.0,1.0
+1,South Dakota,School closing,2020-03-16,2020-08-18,3.0,10431.0
+2,South Dakota,School closing,2020-08-19,2020-09-07,2.0,4734.0
+3,South Dakota,School closing,2020-09-08,2020-11-14,1.0,48779.0
+4,South Dakota,School closing,2020-11-15,2020-11-30,2.0,15083.0
+5,South Dakota,School closing,2020-12-01,2021-01-28,1.0,26883.0
+6,South Dakota,School closing,2021-01-29,2021-02-07,2.0,1274.0
+7,South Dakota,School closing,2021-02-08,2021-04-04,1.0,9078.0
+19,South Dakota,Stay at home requirements,2020-04-03,2021-04-01,1.0,117802.0
+32,South Dakota,Testing policy,2020-01-21,2020-04-27,1.0,2244.0
+33,South Dakota,Testing policy,2020-04-28,2021-03-14,2.0,112310.0
+34,South Dakota,Testing policy,2021-03-15,2021-04-04,3.0,3712.0
+39,South Dakota,Vaccination policy,2020-12-15,2020-12-30,1.0,7021.0
+40,South Dakota,Vaccination policy,2020-12-31,2021-02-21,2.0,12140.0
+41,South Dakota,Vaccination policy,2021-02-22,2021-04-04,3.0,7027.0
+8,South Dakota,Workplace closing,2020-03-12,2020-03-14,1.0,1.0
+9,South Dakota,Workplace closing,2020-03-15,2020-05-01,2.0,2517.0
+10,South Dakota,Workplace closing,2020-05-02,2020-10-22,1.0,33429.0
+11,South Dakota,Workplace closing,2020-10-23,2020-10-29,3.0,5798.0
+12,South Dakota,Workplace closing,2020-10-30,2021-04-04,1.0,73802.0

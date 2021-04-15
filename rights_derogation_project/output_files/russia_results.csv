@@ -1,0 +1,83 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Russia,Cancel public events,2020-03-10,2021-04-04,2.0,4529556.0
+15,Russia,Close public transport,2020-03-30,2020-08-31,1.0,990566.0
+50,Russia,Contact tracing,2020-03-05,2021-01-31,2.0,3808344.0
+51,Russia,Contact tracing,2021-03-28,2021-04-04,1.0,60249.0
+29,Russia,Debt/contract relief,2020-04-01,2020-08-31,2.0,989625.0
+30,Russia,Debt/contract relief,2020-09-01,2021-01-31,1.0,2811276.0
+52,Russia,Emergency investment in healthcare,2020-02-04,2020-02-04,19077416.0,0.0
+53,Russia,Emergency investment in healthcare,2020-03-21,2020-03-21,282035627.0,0.0
+54,Russia,Emergency investment in healthcare,2020-03-25,2020-03-25,17726587.0,0.0
+55,Russia,Emergency investment in healthcare,2020-04-01,2020-04-01,65921462.0,0.0
+56,Russia,Emergency investment in healthcare,2020-04-03,2020-04-03,3000000.0,0.0
+57,Russia,Emergency investment in healthcare,2020-04-08,2020-04-08,741974138.0,0.0
+58,Russia,Emergency investment in healthcare,2020-04-13,2020-04-13,668302272.0,0.0
+59,Russia,Emergency investment in healthcare,2020-05-12,2020-05-12,65593415.0,0.0
+60,Russia,Emergency investment in healthcare,2020-05-13,2020-05-13,52711234.0,0.0
+61,Russia,Emergency investment in healthcare,2020-07-07,2020-07-07,69904650.0,0.0
+62,Russia,Emergency investment in healthcare,2020-11-09,2020-11-09,10471667.0,0.0
+63,Russia,Emergency investment in healthcare,2020-12-08,2020-12-08,41010000.0,0.0
+64,Russia,Emergency investment in healthcare,2020-12-22,2020-12-22,710840000.0,0.0
+65,Russia,Emergency investment in healthcare,2021-01-19,2021-01-19,36623881.0,0.0
+66,Russia,Emergency investment in healthcare,2021-01-26,2021-01-26,119761588.0,0.0
+69,Russia,Facial Coverings,2020-05-12,2020-07-12,3.0,493793.0
+70,Russia,Facial Coverings,2020-07-13,2021-01-31,2.0,3075801.0
+71,Russia,Facial Coverings,2021-02-01,2021-02-09,3.0,128231.0
+72,Russia,Facial Coverings,2021-02-10,2021-04-04,2.0,561348.0
+31,Russia,Fiscal measures,2020-04-05,2020-04-05,22383347.0,0.0
+32,Russia,Fiscal measures,2020-04-25,2020-04-25,47018054.0,0.0
+33,Russia,Fiscal measures,2020-04-30,2020-04-30,25596537.0,0.0
+34,Russia,Fiscal measures,2020-05-10,2020-05-10,1120866136.0,0.0
+35,Russia,Fiscal measures,2020-05-14,2020-05-14,323420299.0,0.0
+36,Russia,Fiscal measures,2020-05-16,2020-05-16,304197499.0,0.0
+37,Russia,Fiscal measures,2020-05-18,2020-05-18,104548564.0,0.0
+38,Russia,Fiscal measures,2020-05-23,2020-05-23,65750000.0,0.0
+39,Russia,Fiscal measures,2020-05-24,2020-05-24,1465500000.0,0.0
+40,Russia,Fiscal measures,2020-05-29,2020-05-29,23460165.0,0.0
+41,Russia,Fiscal measures,2020-05-31,2020-05-31,2126299.0,0.0
+42,Russia,Fiscal measures,2020-07-07,2020-07-07,188742555.0,0.0
+43,Russia,Fiscal measures,2020-07-16,2020-07-16,41942790.0,0.0
+44,Russia,Fiscal measures,2020-07-22,2020-07-22,204897744.55,0.0
+27,Russia,Income support,2020-05-01,2021-01-31,1.0,3693917.0
+28,Russia,Income support,2021-02-01,2021-04-04,2.0,703837.0
+45,Russia,International support,2020-04-06,2020-04-06,1000000.0,0.0
+22,Russia,International travel controls,2020-01-30,2020-03-29,3.0,1534.0
+23,Russia,International travel controls,2020-03-30,2020-07-14,4.0,736951.0
+24,Russia,International travel controls,2020-07-15,2020-10-12,3.0,559896.0
+25,Russia,International travel controls,2020-10-13,2020-11-16,2.0,613928.0
+26,Russia,International travel controls,2020-11-17,2021-04-04,3.0,2574664.0
+67,Russia,Investment in vaccines,2020-03-23,2020-03-23,286175609.0,0.0
+68,Russia,Investment in vaccines,2021-01-26,2021-01-26,26613686.0,0.0
+76,Russia,Protection of elderly people,2020-03-05,2020-03-25,2.0,654.0
+77,Russia,Protection of elderly people,2020-03-26,2020-06-08,3.0,475203.0
+78,Russia,Protection of elderly people,2020-06-09,2020-08-20,2.0,455203.0
+79,Russia,Protection of elderly people,2020-09-28,2021-01-04,3.0,2072459.0
+80,Russia,Protection of elderly people,2021-01-05,2021-03-04,2.0,991257.0
+81,Russia,Protection of elderly people,2021-03-05,2021-04-04,1.0,276700.0
+46,Russia,Public information campaigns,2020-03-16,2021-04-04,2.0,4529486.0
+11,Russia,Restrictions on gatherings,2020-03-10,2020-03-15,1.0,43.0
+12,Russia,Restrictions on gatherings,2020-03-16,2020-03-29,3.0,1444.0
+13,Russia,Restrictions on gatherings,2020-03-30,2020-08-31,4.0,990566.0
+14,Russia,Restrictions on gatherings,2020-10-02,2021-04-04,3.0,3340648.0
+20,Russia,Restrictions on internal movement,2020-03-05,2020-08-20,2.0,939829.0
+21,Russia,Restrictions on internal movement,2021-01-05,2021-01-31,1.0,557635.0
+0,Russia,School closing,2020-03-14,2020-03-18,1.0,88.0
+1,Russia,School closing,2020-03-19,2020-03-20,2.0,54.0
+2,Russia,School closing,2020-03-21,2020-07-12,3.0,725730.0
+3,Russia,School closing,2020-07-13,2020-08-31,2.0,259855.0
+4,Russia,School closing,2020-09-01,2020-09-08,1.0,35282.0
+5,Russia,School closing,2020-09-09,2021-03-04,2.0,3204444.0
+16,Russia,Stay at home requirements,2020-03-05,2020-03-29,2.0,1530.0
+17,Russia,Stay at home requirements,2020-03-30,2020-05-31,3.0,404007.0
+18,Russia,Stay at home requirements,2020-06-01,2020-08-20,2.0,525505.0
+19,Russia,Stay at home requirements,2020-09-22,2021-03-27,1.0,3349191.0
+47,Russia,Testing policy,2020-01-31,2020-04-05,1.0,5387.0
+48,Russia,Testing policy,2020-04-06,2021-01-31,3.0,3802005.0
+49,Russia,Testing policy,2021-02-01,2021-04-04,2.0,703837.0
+73,Russia,Vaccination policy,2021-01-05,2021-01-17,1.0,279666.0
+74,Russia,Vaccination policy,2021-01-18,2021-03-27,3.0,907460.0
+75,Russia,Vaccination policy,2021-03-28,2021-04-04,5.0,60249.0
+6,Russia,Workplace closing,2020-03-17,2020-03-29,2.0,1420.0
+7,Russia,Workplace closing,2020-03-30,2020-05-11,3.0,219508.0
+8,Russia,Workplace closing,2020-05-12,2021-01-29,2.0,3539271.0
+9,Russia,Workplace closing,2021-01-30,2021-04-04,1.0,739311.0

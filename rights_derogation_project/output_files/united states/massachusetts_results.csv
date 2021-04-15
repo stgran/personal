@@ -1,0 +1,75 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Massachusetts,Cancel public events,2020-03-13,2020-07-05,2.0,104970.0
+11,Massachusetts,Cancel public events,2020-07-06,2020-12-12,1.0,180283.0
+12,Massachusetts,Cancel public events,2020-12-13,2021-03-21,2.0,324090.0
+13,Massachusetts,Cancel public events,2021-03-22,2021-04-06,1.0,32149.0
+19,Massachusetts,Close public transport,2020-03-27,2021-04-06,1.0,641781.0
+51,Massachusetts,Contact tracing,2020-01-21,2020-04-11,1.0,27338.0
+52,Massachusetts,Contact tracing,2020-04-12,2021-04-06,2.0,619752.0
+30,Massachusetts,Debt/contract relief,2020-03-25,2021-04-06,1.0,643657.0
+53,Massachusetts,Emergency investment in healthcare,2020-03-12,2020-03-12,15000000.0,0.0
+54,Massachusetts,Emergency investment in healthcare,2020-03-17,2020-03-17,5000000.0,0.0
+55,Massachusetts,Emergency investment in healthcare,2020-03-20,2020-03-20,200000000.0,0.0
+56,Massachusetts,Emergency investment in healthcare,2020-04-07,2020-04-07,800000000.0,0.0
+57,Massachusetts,Emergency investment in healthcare,2020-04-27,2020-04-27,174000000.0,0.0
+58,Massachusetts,Emergency investment in healthcare,2020-05-12,2020-05-12,10600000.0,0.0
+59,Massachusetts,Emergency investment in healthcare,2021-01-25,2021-01-25,8000000.0,0.0
+61,Massachusetts,Facial Coverings,2020-04-04,2020-04-11,1.0,12147.0
+62,Massachusetts,Facial Coverings,2020-04-12,2020-04-16,2.0,9899.0
+63,Massachusetts,Facial Coverings,2020-04-17,2020-10-01,3.0,91702.0
+64,Massachusetts,Facial Coverings,2020-10-02,2021-01-10,4.0,299160.0
+65,Massachusetts,Facial Coverings,2021-01-20,2021-04-06,4.0,166983.0
+31,Massachusetts,Fiscal measures,2020-03-16,2020-03-16,10000000.0,0.0
+32,Massachusetts,Fiscal measures,2020-03-20,2020-03-20,10000000.0,0.0
+33,Massachusetts,Fiscal measures,2020-03-25,2020-03-25,5000000.0,0.0
+34,Massachusetts,Fiscal measures,2020-05-17,2020-05-17,56000000.0,0.0
+35,Massachusetts,Fiscal measures,2020-06-25,2020-06-25,200000000.0,0.0
+36,Massachusetts,Fiscal measures,2020-06-26,2020-06-26,275000000.0,0.0
+37,Massachusetts,Fiscal measures,2020-06-30,2020-06-30,20000000.0,0.0
+38,Massachusetts,Fiscal measures,2020-07-13,2020-07-13,161000000.0,0.0
+39,Massachusetts,Fiscal measures,2020-07-16,2020-07-16,19600000.0,0.0
+40,Massachusetts,Fiscal measures,2020-10-22,2020-10-22,115000000.0,0.0
+41,Massachusetts,Fiscal measures,2020-12-23,2020-12-23,668000000.0,0.0
+42,Massachusetts,Fiscal measures,2021-02-17,2021-02-17,20000000.0,0.0
+43,Massachusetts,Fiscal measures,2021-04-01,2021-04-01,75000000.0,0.0
+26,Massachusetts,Income support,2020-01-27,2020-01-27,1.0,0.0
+27,Massachusetts,Income support,2020-03-27,2020-07-30,2.0,105241.0
+28,Massachusetts,Income support,2020-07-31,2020-09-11,1.0,12150.0
+29,Massachusetts,Income support,2020-12-27,2021-04-06,1.0,295287.0
+24,Massachusetts,International travel controls,2020-02-02,2020-03-01,2.0,2.0
+25,Massachusetts,International travel controls,2020-03-02,2021-04-06,3.0,648020.0
+60,Massachusetts,Investment in vaccines,2021-02-16,2021-02-16,1000000.0,0.0
+68,Massachusetts,Protection of elderly people,2020-02-26,2020-03-11,1.0,130.0
+69,Massachusetts,Protection of elderly people,2020-03-12,2020-03-14,2.0,134.0
+70,Massachusetts,Protection of elderly people,2020-03-15,2020-06-02,3.0,97865.0
+71,Massachusetts,Protection of elderly people,2020-06-03,2021-03-08,2.0,493647.0
+72,Massachusetts,Protection of elderly people,2021-03-10,2021-03-23,2.0,22431.0
+73,Massachusetts,Protection of elderly people,2021-03-24,2021-04-06,1.0,28207.0
+44,Massachusetts,Public information campaigns,2020-03-04,2020-03-12,1.0,155.0
+45,Massachusetts,Public information campaigns,2020-03-13,2021-04-06,2.0,647801.0
+14,Massachusetts,Restrictions on gatherings,2020-03-13,2020-03-16,2.0,290.0
+15,Massachusetts,Restrictions on gatherings,2020-03-17,2020-03-23,3.0,2140.0
+16,Massachusetts,Restrictions on gatherings,2020-03-24,2020-05-17,4.0,84187.0
+17,Massachusetts,Restrictions on gatherings,2020-05-18,2020-11-05,3.0,76036.0
+18,Massachusetts,Restrictions on gatherings,2020-11-06,2021-04-06,4.0,480749.0
+21,Massachusetts,Restrictions on internal movement,2020-03-16,2020-10-27,1.0,152525.0
+22,Massachusetts,Restrictions on internal movement,2020-10-28,2021-03-21,2.0,460450.0
+23,Massachusetts,Restrictions on internal movement,2021-03-22,2021-04-06,1.0,32149.0
+0,Massachusetts,School closing,2020-03-12,2020-03-22,2.0,2131.0
+1,Massachusetts,School closing,2020-03-23,2020-09-15,3.0,122493.0
+2,Massachusetts,School closing,2020-09-16,2020-11-30,2.0,100433.0
+3,Massachusetts,School closing,2020-12-01,2020-12-07,1.0,30120.0
+4,Massachusetts,School closing,2020-12-08,2021-04-06,2.0,384576.0
+20,Massachusetts,Stay at home requirements,2020-01-26,2021-04-01,1.0,638339.0
+46,Massachusetts,Testing policy,2020-01-21,2020-04-01,1.0,11263.0
+47,Massachusetts,Testing policy,2020-04-02,2020-07-09,2.0,93659.0
+48,Massachusetts,Testing policy,2020-07-10,2020-09-17,3.0,19681.0
+49,Massachusetts,Testing policy,2020-09-18,2020-09-22,2.0,1387.0
+50,Massachusetts,Testing policy,2020-09-23,2021-04-06,3.0,519511.0
+66,Massachusetts,Vaccination policy,2020-12-14,2021-02-17,2.0,267705.0
+67,Massachusetts,Vaccination policy,2021-02-18,2021-04-06,3.0,84047.0
+5,Massachusetts,Workplace closing,2020-03-12,2020-03-23,1.0,2739.0
+6,Massachusetts,Workplace closing,2020-03-24,2020-05-31,3.0,93642.0
+7,Massachusetts,Workplace closing,2020-06-01,2020-12-07,2.0,161551.0
+8,Massachusetts,Workplace closing,2020-12-08,2020-12-12,1.0,22278.0
+9,Massachusetts,Workplace closing,2020-12-13,2021-04-06,2.0,357445.0

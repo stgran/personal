@@ -1,0 +1,75 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Lithuania,Cancel public events,2020-03-12,2020-05-31,2.0,1664.0
+14,Lithuania,Cancel public events,2020-06-01,2020-06-16,1.0,100.0
+15,Lithuania,Cancel public events,2020-10-09,2021-04-02,2.0,212116.0
+23,Lithuania,Close public transport,2020-03-16,2020-08-06,1.0,2153.0
+24,Lithuania,Close public transport,2020-10-09,2020-11-06,1.0,14971.0
+61,Lithuania,Contact tracing,2020-04-07,2020-12-02,2.0,63838.0
+62,Lithuania,Contact tracing,2020-12-03,2021-04-02,1.0,150784.0
+41,Lithuania,Debt/contract relief,2020-03-17,2020-09-08,1.0,3107.0
+42,Lithuania,Debt/contract relief,2020-09-09,2021-04-02,2.0,214707.0
+63,Lithuania,Emergency investment in healthcare,2020-03-16,2020-03-16,550832500.0,0.0
+66,Lithuania,Facial Coverings,2020-08-07,2020-08-27,3.0,567.0
+67,Lithuania,Facial Coverings,2020-08-28,2020-10-08,2.0,2812.0
+68,Lithuania,Facial Coverings,2020-10-09,2021-02-24,3.0,189732.0
+69,Lithuania,Facial Coverings,2021-02-25,2021-04-02,2.0,21816.0
+43,Lithuania,Fiscal measures,2020-03-16,2020-03-16,2244535000.0,0.0
+44,Lithuania,Fiscal measures,2020-06-10,2020-06-10,2476881000.0,0.0
+45,Lithuania,Fiscal measures,2020-09-03,2020-09-03,22712991.0,0.0
+46,Lithuania,Fiscal measures,2020-10-16,2020-10-16,14052000.0,0.0
+47,Lithuania,Fiscal measures,2020-11-16,2020-11-16,5900000.0,0.0
+48,Lithuania,Fiscal measures,2020-11-18,2020-11-18,118600000.0,0.0
+49,Lithuania,Fiscal measures,2020-12-18,2020-12-18,164700000.0,0.0
+50,Lithuania,Fiscal measures,2020-12-22,2020-12-22,109530000.0,0.0
+51,Lithuania,Fiscal measures,2020-12-23,2020-12-23,219420000.0,0.0
+39,Lithuania,Income support,2020-04-07,2020-09-08,2.0,2343.0
+40,Lithuania,Income support,2020-09-09,2021-04-02,1.0,214707.0
+52,Lithuania,International support,2020-02-25,2020-02-25,92008.0,0.0
+53,Lithuania,International support,2020-04-09,2020-04-09,91481.0,0.0
+54,Lithuania,International support,2020-05-20,2020-05-20,91082.0,0.0
+55,Lithuania,International support,2020-06-03,2020-06-03,56682.5,0.0
+33,Lithuania,International travel controls,2020-03-13,2020-03-15,2.0,5.0
+34,Lithuania,International travel controls,2020-03-16,2020-05-10,4.0,1459.0
+35,Lithuania,International travel controls,2020-05-11,2020-06-28,3.0,331.0
+36,Lithuania,International travel controls,2020-06-29,2020-12-20,2.0,111101.0
+37,Lithuania,International travel controls,2020-12-21,2020-12-31,3.0,26908.0
+38,Lithuania,International travel controls,2021-01-01,2021-04-02,2.0,72435.0
+64,Lithuania,Investment in vaccines,2020-08-19,2020-08-19,1784956.0,0.0
+65,Lithuania,Investment in vaccines,2020-09-16,2020-09-16,2947137.5,0.0
+72,Lithuania,Protection of elderly people,2020-03-12,2020-11-06,1.0,20717.0
+73,Lithuania,Protection of elderly people,2020-11-07,2021-04-02,3.0,195205.0
+56,Lithuania,Public information campaigns,2020-02-26,2020-02-27,1.0,0.0
+57,Lithuania,Public information campaigns,2020-02-28,2020-05-31,2.0,1667.0
+58,Lithuania,Public information campaigns,2020-06-01,2021-04-02,1.0,216194.0
+16,Lithuania,Restrictions on gatherings,2020-03-12,2020-03-15,3.0,6.0
+17,Lithuania,Restrictions on gatherings,2020-03-16,2020-05-31,4.0,1655.0
+18,Lithuania,Restrictions on gatherings,2020-06-01,2020-07-26,2.0,332.0
+19,Lithuania,Restrictions on gatherings,2020-07-27,2020-08-06,3.0,151.0
+20,Lithuania,Restrictions on gatherings,2020-08-07,2020-09-30,1.0,2499.0
+21,Lithuania,Restrictions on gatherings,2020-10-01,2020-10-08,2.0,837.0
+22,Lithuania,Restrictions on gatherings,2020-10-09,2021-04-02,4.0,212116.0
+28,Lithuania,Restrictions on internal movement,2020-03-16,2020-04-09,1.0,846.0
+29,Lithuania,Restrictions on internal movement,2020-04-10,2020-04-13,2.0,74.0
+30,Lithuania,Restrictions on internal movement,2020-04-14,2020-06-16,1.0,794.0
+31,Lithuania,Restrictions on internal movement,2020-10-28,2020-12-15,1.0,84552.0
+32,Lithuania,Restrictions on internal movement,2020-12-16,2021-04-02,2.0,117692.0
+0,Lithuania,School closing,2020-03-13,2020-03-15,1.0,5.0
+1,Lithuania,School closing,2020-03-16,2020-05-17,3.0,1533.0
+2,Lithuania,School closing,2020-05-18,2020-05-29,2.0,103.0
+3,Lithuania,School closing,2020-05-30,2020-08-06,1.0,503.0
+4,Lithuania,School closing,2020-08-07,2020-12-15,2.0,94505.0
+5,Lithuania,School closing,2020-12-16,2021-01-17,3.0,69863.0
+6,Lithuania,School closing,2021-01-18,2021-04-02,2.0,47352.0
+25,Lithuania,Stay at home requirements,2020-03-16,2020-06-16,1.0,1759.0
+26,Lithuania,Stay at home requirements,2020-08-07,2020-12-15,1.0,94505.0
+27,Lithuania,Stay at home requirements,2020-12-16,2021-04-02,2.0,117692.0
+59,Lithuania,Testing policy,2020-01-29,2020-03-29,1.0,378.0
+60,Lithuania,Testing policy,2020-03-30,2021-04-02,2.0,217441.0
+70,Lithuania,Vaccination policy,2020-12-27,2020-12-27,1.0,0.0
+71,Lithuania,Vaccination policy,2020-12-28,2021-04-02,2.0,84470.0
+7,Lithuania,Workplace closing,2020-03-16,2020-04-26,3.0,1304.0
+8,Lithuania,Workplace closing,2020-04-27,2020-06-16,2.0,443.0
+9,Lithuania,Workplace closing,2020-08-07,2020-10-08,1.0,3427.0
+10,Lithuania,Workplace closing,2020-10-09,2020-12-15,2.0,90945.0
+11,Lithuania,Workplace closing,2020-12-16,2021-02-07,3.0,86597.0
+12,Lithuania,Workplace closing,2021-02-08,2021-04-02,2.0,30826.0

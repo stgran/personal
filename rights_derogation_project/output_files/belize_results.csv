@@ -1,0 +1,44 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Belize,Cancel public events,2020-03-16,2021-04-11,2.0,12485.0
+13,Belize,Close public transport,2020-11-28,2021-01-25,1.0,6123.0
+14,Belize,Close public transport,2021-02-22,2021-04-11,1.0,230.0
+39,Belize,Contact tracing,2020-03-25,2021-03-15,2.0,12381.0
+30,Belize,Debt/contract relief,2020-07-14,2021-04-11,2.0,12446.0
+40,Belize,Facial Coverings,2020-05-01,2021-04-11,3.0,12467.0
+31,Belize,Fiscal measures,2020-03-19,2020-03-19,12500000.0,0.0
+32,Belize,Fiscal measures,2020-04-03,2020-04-03,12401000.0,0.0
+29,Belize,Income support,2020-03-16,2021-04-11,1.0,12485.0
+33,Belize,International support,2020-10-29,2020-10-29,118000.0,0.0
+34,Belize,International support,2020-11-02,2020-11-02,12500000.0,0.0
+22,Belize,International travel controls,2020-02-02,2020-03-12,1.0,0.0
+23,Belize,International travel controls,2020-03-13,2020-03-14,2.0,0.0
+24,Belize,International travel controls,2020-03-15,2020-03-19,3.0,0.0
+25,Belize,International travel controls,2020-03-20,2020-09-01,4.0,1050.0
+26,Belize,International travel controls,2020-09-02,2020-09-30,3.0,891.0
+27,Belize,International travel controls,2020-10-01,2020-10-18,2.0,821.0
+28,Belize,International travel controls,2020-10-19,2021-04-11,1.0,9652.0
+42,Belize,Protection of elderly people,2020-03-18,2021-04-11,1.0,12485.0
+35,Belize,Public information campaigns,2020-02-18,2020-02-27,1.0,0.0
+36,Belize,Public information campaigns,2020-02-28,2021-04-11,2.0,12485.0
+9,Belize,Restrictions on gatherings,2020-03-16,2020-05-14,3.0,18.0
+10,Belize,Restrictions on gatherings,2020-05-15,2020-06-10,4.0,2.0
+11,Belize,Restrictions on gatherings,2020-06-11,2020-09-01,3.0,1030.0
+12,Belize,Restrictions on gatherings,2020-09-02,2021-04-11,4.0,11384.0
+18,Belize,Restrictions on internal movement,2020-04-01,2020-05-31,2.0,15.0
+19,Belize,Restrictions on internal movement,2020-06-01,2020-08-06,1.0,96.0
+20,Belize,Restrictions on internal movement,2020-08-07,2021-02-21,2.0,12130.0
+21,Belize,Restrictions on internal movement,2021-02-22,2021-04-11,1.0,230.0
+0,Belize,School closing,2020-03-20,2021-04-11,3.0,12485.0
+15,Belize,Stay at home requirements,2020-04-27,2020-06-30,2.0,6.0
+16,Belize,Stay at home requirements,2020-07-01,2021-01-25,1.0,11742.0
+17,Belize,Stay at home requirements,2021-01-26,2021-04-11,2.0,697.0
+37,Belize,Testing policy,2020-03-25,2020-09-01,1.0,1048.0
+38,Belize,Testing policy,2020-09-02,2021-04-11,2.0,11384.0
+41,Belize,Vaccination policy,2021-03-30,2021-04-11,3.0,70.0
+1,Belize,Workplace closing,2020-03-20,2020-03-31,1.0,3.0
+2,Belize,Workplace closing,2020-04-01,2020-04-26,3.0,15.0
+3,Belize,Workplace closing,2020-04-27,2020-05-14,2.0,0.0
+4,Belize,Workplace closing,2020-05-15,2020-05-31,3.0,0.0
+5,Belize,Workplace closing,2020-06-01,2020-08-06,2.0,96.0
+6,Belize,Workplace closing,2020-08-07,2020-09-01,3.0,936.0
+7,Belize,Workplace closing,2020-09-02,2021-04-11,2.0,11384.0

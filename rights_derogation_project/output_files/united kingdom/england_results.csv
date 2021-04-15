@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,England,Cancel public events,2020-03-17,2020-03-20,1.0,2921.0
+14,England,Cancel public events,2020-03-21,2021-03-26,2.0,3774580.0
+16,England,Close public transport,2020-03-20,2021-03-26,1.0,3775608.0
+52,England,Contact tracing,2020-01-31,2020-03-11,2.0,1132.0
+53,England,Contact tracing,2020-03-12,2021-03-26,1.0,3780859.0
+31,England,Debt/contract relief,2020-03-17,2020-03-18,1.0,908.0
+32,England,Debt/contract relief,2020-03-19,2021-03-26,2.0,3776696.0
+54,England,Emergency investment in healthcare,2020-05-22,2020-05-22,365208152.86,0.0
+55,England,Emergency investment in healthcare,2020-07-17,2020-07-17,3764384670.0,0.0
+56,England,Emergency investment in healthcare,2020-09-17,2020-09-17,708607091.0,0.0
+58,England,Facial Coverings,2020-05-12,2020-06-14,1.0,47588.0
+59,England,Facial Coverings,2020-06-15,2020-08-25,2.0,52578.0
+60,England,Facial Coverings,2020-08-26,2020-09-23,3.0,81843.0
+61,England,Facial Coverings,2020-09-25,2021-03-26,3.0,3401218.0
+33,England,Fiscal measures,2020-03-17,2020-03-17,420452571128.04,0.0
+34,England,Fiscal measures,2020-04-18,2020-04-18,2001156510.12,0.0
+35,England,Fiscal measures,2020-07-02,2020-07-02,623467496.25,0.0
+36,England,Fiscal measures,2020-10-16,2020-10-16,54298179.24,0.0
+37,England,Fiscal measures,2020-10-18,2020-10-18,58120725.88,0.0
+38,England,Fiscal measures,2020-10-21,2020-10-21,78853637.66,0.0
+39,England,Fiscal measures,2020-10-24,2020-10-24,39118703.76,0.0
+40,England,Fiscal measures,2020-10-26,2020-10-26,7682753.94,0.0
+41,England,Fiscal measures,2020-10-30,2020-10-30,106539123.85,0.0
+42,England,Fiscal measures,2020-11-25,2020-11-25,257665713102.11,0.0
+43,England,Fiscal measures,2021-01-05,2021-01-05,6200000000.0,0.0
+30,England,Income support,2020-03-19,2021-03-26,2.0,3776696.0
+44,England,International support,2020-08-29,2020-08-29,186920130.0,0.0
+45,England,International support,2020-09-02,2020-09-02,158429444.0,0.0
+46,England,International support,2020-09-05,2020-09-05,9247426.0,0.0
+47,England,International support,2020-09-26,2020-09-26,637249500.0,0.0
+28,England,International travel controls,2020-06-08,2020-12-23,2.0,1722749.0
+29,England,International travel controls,2020-12-24,2021-03-26,3.0,1804122.0
+57,England,Investment in vaccines,2020-11-16,2020-11-16,125000000.0,0.0
+64,England,Protection of elderly people,2020-03-23,2020-11-30,3.0,1419113.0
+65,England,Protection of elderly people,2020-12-01,2021-01-04,2.0,1049482.0
+66,England,Protection of elderly people,2021-01-05,2021-03-07,3.0,1145101.0
+67,England,Protection of elderly people,2021-03-08,2021-03-26,2.0,80570.0
+48,England,Public information campaigns,2020-01-20,2020-02-01,1.0,2.0
+49,England,Public information campaigns,2020-02-02,2021-03-26,2.0,3782405.0
+15,England,Restrictions on gatherings,2020-03-23,2021-03-26,4.0,3771361.0
+24,England,Restrictions on internal movement,2020-03-22,2020-03-22,1.0,0.0
+25,England,Restrictions on internal movement,2020-03-23,2020-05-12,2.0,173729.0
+26,England,Restrictions on internal movement,2020-06-30,2020-07-31,1.0,19340.0
+27,England,Restrictions on internal movement,2020-08-01,2021-03-26,2.0,3518726.0
+0,England,School closing,2020-03-23,2020-05-31,3.0,207346.0
+1,England,School closing,2020-06-01,2020-07-01,2.0,24759.0
+2,England,School closing,2020-07-02,2020-07-14,3.0,6674.0
+3,England,School closing,2020-07-15,2020-08-31,2.0,40577.0
+4,England,School closing,2020-09-01,2021-01-04,1.0,2198229.0
+5,England,School closing,2021-01-05,2021-03-07,3.0,1145101.0
+6,England,School closing,2021-03-08,2021-03-26,1.0,80570.0
+17,England,Stay at home requirements,2020-03-23,2020-05-12,2.0,173729.0
+18,England,Stay at home requirements,2020-05-13,2020-06-14,1.0,44706.0
+19,England,Stay at home requirements,2020-06-30,2020-07-31,1.0,19340.0
+20,England,Stay at home requirements,2020-10-12,2020-11-04,1.0,416946.0
+21,England,Stay at home requirements,2020-11-05,2020-12-02,2.0,448415.0
+22,England,Stay at home requirements,2020-12-03,2020-12-18,1.0,308151.0
+23,England,Stay at home requirements,2020-12-19,2021-03-26,2.0,1982853.0
+50,England,Testing policy,2020-01-20,2020-05-17,1.0,195347.0
+51,England,Testing policy,2020-05-18,2021-03-26,2.0,3584856.0
+62,England,Vaccination policy,2020-12-08,2021-02-10,3.0,1977222.0
+63,England,Vaccination policy,2021-02-15,2021-03-26,4.0,218095.0
+7,England,Workplace closing,2020-03-16,2020-03-20,1.0,3603.0
+8,England,Workplace closing,2020-03-21,2020-05-12,3.0,176948.0
+9,England,Workplace closing,2020-05-13,2020-11-04,2.0,800193.0
+10,England,Workplace closing,2020-11-05,2020-12-02,3.0,448415.0
+11,England,Workplace closing,2020-12-03,2020-12-18,2.0,308151.0
+12,England,Workplace closing,2020-12-19,2021-03-26,3.0,1982853.0

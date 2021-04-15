@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Indiana,Cancel public events,2020-03-15,2020-03-15,1.0,0.0
+10,Indiana,Cancel public events,2020-03-16,2020-07-22,2.0,58648.0
+11,Indiana,Cancel public events,2020-07-23,2021-04-05,1.0,632023.0
+18,Indiana,Close public transport,2020-03-29,2020-05-31,1.0,33061.0
+42,Indiana,Contact tracing,2020-01-21,2020-05-17,1.0,27778.0
+43,Indiana,Contact tracing,2020-05-18,2021-04-05,2.0,663370.0
+31,Indiana,Debt/contract relief,2020-03-19,2020-08-31,2.0,94136.0
+32,Indiana,Debt/contract relief,2020-09-01,2021-04-05,1.0,596734.0
+44,Indiana,Emergency investment in healthcare,2020-07-23,2020-07-23,10500000.0,0.0
+45,Indiana,Facial Coverings,2020-04-04,2020-07-26,1.0,58419.0
+46,Indiana,Facial Coverings,2020-07-27,2020-11-14,3.0,181980.0
+47,Indiana,Facial Coverings,2020-11-15,2021-01-10,2.0,312056.0
+48,Indiana,Facial Coverings,2021-01-20,2021-04-05,2.0,93312.0
+27,Indiana,Income support,2020-01-27,2020-01-27,1.0,0.0
+28,Indiana,Income support,2020-03-19,2020-03-26,1.0,585.0
+29,Indiana,Income support,2020-03-27,2020-07-30,2.0,64274.0
+30,Indiana,Income support,2020-07-31,2021-04-05,1.0,625471.0
+25,Indiana,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+26,Indiana,International travel controls,2020-03-02,2021-04-05,3.0,691625.0
+52,Indiana,Protection of elderly people,2020-03-13,2020-11-12,1.0,230952.0
+53,Indiana,Protection of elderly people,2020-11-13,2021-03-08,2.0,431171.0
+54,Indiana,Protection of elderly people,2021-03-10,2021-04-05,1.0,22461.0
+33,Indiana,Public information campaigns,2020-02-05,2020-03-15,1.0,20.0
+34,Indiana,Public information campaigns,2020-03-16,2021-01-20,2.0,598288.0
+35,Indiana,Public information campaigns,2021-01-21,2021-01-21,1.0,0.0
+36,Indiana,Public information campaigns,2021-01-22,2021-04-05,2.0,86199.0
+12,Indiana,Restrictions on gatherings,2020-03-12,2020-03-15,2.0,7.0
+13,Indiana,Restrictions on gatherings,2020-03-16,2020-03-24,3.0,343.0
+14,Indiana,Restrictions on gatherings,2020-03-25,2020-05-17,4.0,27301.0
+15,Indiana,Restrictions on gatherings,2020-05-18,2020-06-11,3.0,10493.0
+16,Indiana,Restrictions on gatherings,2020-06-12,2020-09-24,2.0,75090.0
+17,Indiana,Restrictions on gatherings,2020-11-15,2021-04-05,3.0,440028.0
+22,Indiana,Restrictions on internal movement,2020-03-16,2020-11-30,1.0,338952.0
+23,Indiana,Restrictions on internal movement,2020-12-01,2021-03-09,2.0,323935.0
+24,Indiana,Restrictions on internal movement,2021-03-10,2021-04-05,1.0,22461.0
+0,Indiana,School closing,2020-03-13,2020-03-18,2.0,25.0
+1,Indiana,School closing,2020-03-19,2020-08-23,3.0,85872.0
+2,Indiana,School closing,2020-08-24,2021-02-15,2.0,562060.0
+3,Indiana,School closing,2021-02-16,2021-04-05,1.0,41095.0
+19,Indiana,Stay at home requirements,2020-03-17,2020-03-24,1.0,338.0
+20,Indiana,Stay at home requirements,2020-03-25,2020-04-11,2.0,6958.0
+21,Indiana,Stay at home requirements,2020-04-12,2021-04-01,1.0,679785.0
+37,Indiana,Testing policy,2020-01-21,2020-04-27,1.0,15961.0
+38,Indiana,Testing policy,2020-04-28,2020-06-14,2.0,23321.0
+39,Indiana,Testing policy,2020-06-15,2020-11-04,3.0,151334.0
+40,Indiana,Testing policy,2020-11-05,2021-03-09,2.0,472132.0
+41,Indiana,Testing policy,2021-03-10,2021-04-05,3.0,22461.0
+49,Indiana,Vaccination policy,2020-12-14,2021-01-31,2.0,196281.0
+50,Indiana,Vaccination policy,2021-02-01,2021-03-28,3.0,55629.0
+51,Indiana,Vaccination policy,2021-03-29,2021-04-05,4.0,6892.0
+4,Indiana,Workplace closing,2020-03-12,2020-03-15,1.0,7.0
+5,Indiana,Workplace closing,2020-03-16,2020-03-24,2.0,343.0
+6,Indiana,Workplace closing,2020-03-25,2020-05-17,3.0,27301.0
+7,Indiana,Workplace closing,2020-05-18,2020-06-18,2.0,13183.0
+8,Indiana,Workplace closing,2020-06-19,2021-04-05,1.0,649879.0

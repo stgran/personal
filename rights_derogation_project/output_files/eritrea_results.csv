@@ -1,0 +1,55 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Eritrea,Cancel public events,2020-03-23,2021-04-04,2.0,3333.0
+17,Eritrea,Close public transport,2020-03-23,2020-03-26,1.0,5.0
+18,Eritrea,Close public transport,2020-03-27,2021-04-04,2.0,3328.0
+47,Eritrea,Contact tracing,2020-03-23,2020-10-19,1.0,451.0
+48,Eritrea,Contact tracing,2020-11-03,2021-02-22,1.0,2223.0
+49,Eritrea,Contact tracing,2021-02-23,2021-03-08,2.0,171.0
+50,Eritrea,Contact tracing,2021-03-09,2021-04-04,1.0,390.0
+31,Eritrea,Debt/contract relief,2020-03-31,2020-09-17,1.0,349.0
+32,Eritrea,Debt/contract relief,2020-11-03,2020-12-25,1.0,512.0
+33,Eritrea,Debt/contract relief,2020-12-26,2021-04-04,2.0,2342.0
+51,Eritrea,Facial Coverings,2020-09-18,2020-10-19,3.0,88.0
+52,Eritrea,Facial Coverings,2020-10-20,2021-04-04,2.0,2882.0
+34,Eritrea,Fiscal measures,2020-04-03,2020-04-03,4160.0,0.0
+35,Eritrea,Fiscal measures,2020-04-07,2020-04-07,484000.0,0.0
+36,Eritrea,Fiscal measures,2020-04-30,2020-04-30,3466.0,0.0
+37,Eritrea,Fiscal measures,2020-05-19,2020-05-19,37361.0,0.0
+38,Eritrea,Fiscal measures,2020-05-21,2020-05-21,11998.53,0.0
+28,Eritrea,International travel controls,2020-03-11,2020-03-24,2.0,1.0
+29,Eritrea,International travel controls,2020-03-25,2020-09-06,3.0,326.0
+30,Eritrea,International travel controls,2020-09-07,2021-04-04,4.0,3004.0
+53,Eritrea,Protection of elderly people,2021-02-23,2021-04-04,2.0,561.0
+39,Eritrea,Public information campaigns,2020-03-11,2020-03-15,1.0,0.0
+40,Eritrea,Public information campaigns,2020-03-16,2021-02-14,2.0,2429.0
+41,Eritrea,Public information campaigns,2021-02-15,2021-02-15,1.0,0.0
+42,Eritrea,Public information campaigns,2021-02-16,2021-04-04,2.0,768.0
+10,Eritrea,Restrictions on gatherings,2020-03-23,2020-09-17,4.0,363.0
+11,Eritrea,Restrictions on gatherings,2020-09-18,2020-10-19,3.0,88.0
+12,Eritrea,Restrictions on gatherings,2020-10-20,2020-11-02,4.0,28.0
+13,Eritrea,Restrictions on gatherings,2020-11-03,2021-02-14,3.0,1949.0
+14,Eritrea,Restrictions on gatherings,2021-02-15,2021-03-14,4.0,472.0
+15,Eritrea,Restrictions on gatherings,2021-03-15,2021-03-22,3.0,63.0
+16,Eritrea,Restrictions on gatherings,2021-03-23,2021-04-04,4.0,216.0
+26,Eritrea,Restrictions on internal movement,2020-03-16,2020-03-31,1.0,15.0
+27,Eritrea,Restrictions on internal movement,2020-04-01,2021-04-04,2.0,3319.0
+0,Eritrea,School closing,2020-03-27,2020-07-05,3.0,209.0
+1,Eritrea,School closing,2020-07-06,2020-08-31,2.0,104.0
+2,Eritrea,School closing,2020-09-01,2020-12-21,1.0,488.0
+3,Eritrea,School closing,2020-12-22,2021-04-04,2.0,2502.0
+19,Eritrea,Stay at home requirements,2020-03-23,2020-03-31,1.0,14.0
+20,Eritrea,Stay at home requirements,2020-04-01,2020-10-19,2.0,437.0
+21,Eritrea,Stay at home requirements,2020-11-03,2020-11-15,2.0,13.0
+22,Eritrea,Stay at home requirements,2020-12-26,2021-02-14,2.0,1437.0
+23,Eritrea,Stay at home requirements,2021-02-15,2021-02-22,1.0,137.0
+24,Eritrea,Stay at home requirements,2021-02-23,2021-03-22,2.0,345.0
+25,Eritrea,Stay at home requirements,2021-03-23,2021-04-04,1.0,216.0
+43,Eritrea,Testing policy,2020-03-23,2020-09-17,1.0,363.0
+44,Eritrea,Testing policy,2020-09-18,2020-10-19,3.0,88.0
+45,Eritrea,Testing policy,2020-10-20,2020-11-02,1.0,28.0
+46,Eritrea,Testing policy,2020-11-03,2021-04-04,3.0,2854.0
+4,Eritrea,Workplace closing,2020-03-31,2020-03-31,2.0,0.0
+5,Eritrea,Workplace closing,2020-04-01,2020-09-28,3.0,360.0
+6,Eritrea,Workplace closing,2020-09-29,2020-12-21,2.0,432.0
+7,Eritrea,Workplace closing,2020-12-22,2021-03-14,3.0,2206.0
+8,Eritrea,Workplace closing,2021-03-15,2021-04-04,2.0,279.0

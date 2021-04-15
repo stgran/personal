@@ -1,0 +1,45 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Ceara,Cancel public events,2020-03-13,2020-03-15,1.0,0.0
+11,Ceara,Cancel public events,2020-03-16,2021-03-19,2.0,494040.0
+18,Ceara,Close public transport,2020-03-21,2020-09-15,2.0,229166.0
+19,Ceara,Close public transport,2020-09-16,2021-03-19,1.0,263643.0
+36,Ceara,Contact tracing,2020-03-15,2020-03-31,1.0,401.0
+37,Ceara,Contact tracing,2020-04-01,2021-03-19,2.0,493604.0
+32,Ceara,Debt/contract relief,2020-03-17,2020-12-26,1.0,327855.0
+38,Ceara,Facial Coverings,2020-04-07,2020-05-05,2.0,10282.0
+39,Ceara,Facial Coverings,2020-05-06,2021-01-11,4.0,332925.0
+28,Ceara,International travel controls,2020-03-13,2020-03-17,2.0,10.0
+29,Ceara,International travel controls,2020-03-18,2020-03-23,3.0,145.0
+30,Ceara,International travel controls,2020-03-24,2020-07-28,4.0,165518.0
+31,Ceara,International travel controls,2020-07-29,2021-03-19,1.0,324911.0
+40,Ceara,Protection of elderly people,2020-05-07,2020-05-29,1.0,24507.0
+41,Ceara,Protection of elderly people,2020-05-30,2021-01-05,3.0,291221.0
+42,Ceara,Protection of elderly people,2021-01-07,2021-02-04,3.0,37352.0
+43,Ceara,Protection of elderly people,2021-02-05,2021-03-19,2.0,113056.0
+33,Ceara,Public information campaigns,2020-01-26,2021-03-19,2.0,494049.0
+12,Ceara,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,0.0
+13,Ceara,Restrictions on gatherings,2020-03-16,2020-05-07,3.0,13879.0
+14,Ceara,Restrictions on gatherings,2020-05-08,2020-11-20,4.0,275350.0
+15,Ceara,Restrictions on gatherings,2020-11-21,2020-12-11,2.0,23362.0
+16,Ceara,Restrictions on gatherings,2020-12-12,2021-02-24,4.0,102116.0
+17,Ceara,Restrictions on gatherings,2021-02-25,2021-03-19,3.0,73680.0
+24,Ceara,Restrictions on internal movement,2020-03-18,2020-03-22,1.0,106.0
+25,Ceara,Restrictions on internal movement,2020-03-23,2020-07-26,2.0,161922.0
+26,Ceara,Restrictions on internal movement,2020-07-27,2021-02-24,1.0,254361.0
+27,Ceara,Restrictions on internal movement,2021-02-25,2021-03-19,2.0,73680.0
+0,Ceara,School closing,2020-03-17,2020-03-17,2.0,0.0
+1,Ceara,School closing,2020-03-18,2020-12-20,3.0,323922.0
+2,Ceara,School closing,2020-12-21,2021-02-25,2.0,95475.0
+3,Ceara,School closing,2021-02-26,2021-03-19,3.0,71267.0
+20,Ceara,Stay at home requirements,2020-03-19,2020-05-07,1.0,13864.0
+21,Ceara,Stay at home requirements,2020-05-08,2020-08-30,2.0,199323.0
+22,Ceara,Stay at home requirements,2020-08-31,2021-03-04,1.0,222970.0
+23,Ceara,Stay at home requirements,2021-03-05,2021-03-19,2.0,52565.0
+34,Ceara,Testing policy,2020-03-12,2020-05-05,1.0,11470.0
+35,Ceara,Testing policy,2020-05-06,2021-03-19,2.0,481739.0
+4,Ceara,Workplace closing,2020-03-17,2020-09-13,2.0,227439.0
+5,Ceara,Workplace closing,2020-09-14,2020-12-14,1.0,88882.0
+6,Ceara,Workplace closing,2020-12-15,2021-01-08,2.0,23898.0
+7,Ceara,Workplace closing,2021-01-09,2021-02-18,1.0,61033.0
+8,Ceara,Workplace closing,2021-02-19,2021-02-24,2.0,9817.0
+9,Ceara,Workplace closing,2021-02-25,2021-03-19,3.0,73680.0

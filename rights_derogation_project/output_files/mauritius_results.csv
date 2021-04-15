@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Mauritius,Cancel public events,2020-03-20,2020-06-11,2.0,325.0
+7,Mauritius,Cancel public events,2021-03-08,2021-03-09,1.0,0.0
+8,Mauritius,Cancel public events,2021-03-10,2021-04-05,2.0,480.0
+11,Mauritius,Close public transport,2020-03-20,2020-06-14,1.0,325.0
+12,Mauritius,Close public transport,2021-03-10,2021-04-05,2.0,480.0
+41,Mauritius,Contact tracing,2020-03-21,2020-05-06,1.0,318.0
+42,Mauritius,Contact tracing,2020-05-07,2021-04-05,2.0,789.0
+33,Mauritius,Debt/contract relief,2020-04-01,2020-10-29,1.0,278.0
+34,Mauritius,Debt/contract relief,2021-01-25,2021-04-05,2.0,553.0
+43,Mauritius,Emergency investment in healthcare,2020-06-15,2020-06-15,310000000.0,0.0
+44,Mauritius,Facial Coverings,2020-04-24,2020-10-12,3.0,73.0
+45,Mauritius,Facial Coverings,2020-10-13,2021-01-04,1.0,124.0
+46,Mauritius,Facial Coverings,2021-01-05,2021-01-11,2.0,14.0
+47,Mauritius,Facial Coverings,2021-01-12,2021-04-05,3.0,575.0
+35,Mauritius,Fiscal measures,2020-03-23,2020-03-23,130672834.0,0.0
+29,Mauritius,Income support,2020-03-01,2020-04-30,1.0,332.0
+30,Mauritius,Income support,2020-06-01,2020-06-14,1.0,2.0
+31,Mauritius,Income support,2020-06-15,2021-01-24,2.0,219.0
+32,Mauritius,Income support,2021-01-25,2021-04-05,1.0,553.0
+20,Mauritius,International travel controls,2020-03-18,2020-03-18,2.0,0.0
+21,Mauritius,International travel controls,2020-03-19,2020-07-07,4.0,339.0
+22,Mauritius,International travel controls,2020-07-08,2020-08-25,2.0,6.0
+23,Mauritius,International travel controls,2020-08-26,2020-09-30,4.0,33.0
+24,Mauritius,International travel controls,2020-10-01,2021-01-04,2.0,150.0
+25,Mauritius,International travel controls,2021-01-05,2021-03-01,3.0,88.0
+26,Mauritius,International travel controls,2021-03-02,2021-03-09,2.0,22.0
+27,Mauritius,International travel controls,2021-03-10,2021-03-29,3.0,317.0
+28,Mauritius,International travel controls,2021-03-30,2021-04-05,4.0,125.0
+52,Mauritius,Protection of elderly people,2020-04-04,2020-05-29,2.0,139.0
+53,Mauritius,Protection of elderly people,2020-05-30,2021-03-09,1.0,306.0
+54,Mauritius,Protection of elderly people,2021-03-16,2021-04-05,1.0,363.0
+36,Mauritius,Public information campaigns,2020-03-26,2021-04-05,2.0,1040.0
+9,Mauritius,Restrictions on gatherings,2020-03-23,2020-06-11,3.0,301.0
+10,Mauritius,Restrictions on gatherings,2021-03-10,2021-04-05,4.0,480.0
+18,Mauritius,Restrictions on internal movement,2020-03-23,2020-05-29,1.0,299.0
+19,Mauritius,Restrictions on internal movement,2021-03-10,2021-04-05,2.0,480.0
+0,Mauritius,School closing,2020-03-19,2020-06-30,3.0,338.0
+1,Mauritius,School closing,2021-03-08,2021-03-09,1.0,0.0
+2,Mauritius,School closing,2021-03-10,2021-04-05,3.0,480.0
+13,Mauritius,Stay at home requirements,2020-03-23,2020-05-29,2.0,299.0
+14,Mauritius,Stay at home requirements,2021-03-10,2021-03-15,1.0,106.0
+15,Mauritius,Stay at home requirements,2021-03-16,2021-03-22,2.0,51.0
+16,Mauritius,Stay at home requirements,2021-03-23,2021-03-29,3.0,132.0
+17,Mauritius,Stay at home requirements,2021-03-30,2021-04-05,2.0,125.0
+37,Mauritius,Testing policy,2020-03-18,2020-05-31,1.0,332.0
+38,Mauritius,Testing policy,2020-06-01,2020-10-29,3.0,104.0
+39,Mauritius,Testing policy,2020-10-30,2021-01-24,2.0,115.0
+40,Mauritius,Testing policy,2021-01-25,2021-04-05,3.0,553.0
+48,Mauritius,Vaccination policy,2021-01-25,2021-02-08,2.0,25.0
+49,Mauritius,Vaccination policy,2021-02-09,2021-02-19,1.0,9.0
+50,Mauritius,Vaccination policy,2021-02-20,2021-03-15,3.0,144.0
+51,Mauritius,Vaccination policy,2021-03-16,2021-04-05,4.0,363.0
+3,Mauritius,Workplace closing,2020-03-20,2020-05-14,3.0,320.0
+4,Mauritius,Workplace closing,2020-05-15,2020-06-11,2.0,5.0
+5,Mauritius,Workplace closing,2021-03-10,2021-04-05,3.0,480.0

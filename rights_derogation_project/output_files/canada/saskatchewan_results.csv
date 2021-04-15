@@ -1,0 +1,50 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Saskatchewan,Cancel public events,2020-01-01,2020-03-19,1.0,8.0
+12,Saskatchewan,Cancel public events,2020-03-20,2020-06-28,2.0,770.0
+13,Saskatchewan,Cancel public events,2020-06-29,2020-11-26,1.0,6583.0
+14,Saskatchewan,Cancel public events,2020-11-27,2021-04-08,2.0,27699.0
+32,Saskatchewan,Contact tracing,2020-04-08,2020-07-23,1.0,801.0
+33,Saskatchewan,Contact tracing,2020-07-24,2021-04-08,2.0,34291.0
+25,Saskatchewan,Debt/contract relief,2020-03-20,2020-10-31,1.0,3136.0
+34,Saskatchewan,Emergency investment in healthcare,2020-03-18,2020-03-18,267000000.0,0.0
+35,Saskatchewan,Emergency investment in healthcare,2021-01-25,2021-01-25,91440.0,0.0
+36,Saskatchewan,Emergency investment in healthcare,2021-04-01,2021-04-01,168000.0,0.0
+37,Saskatchewan,Emergency investment in healthcare,2021-04-06,2021-04-06,71300000.0,0.0
+39,Saskatchewan,Facial Coverings,2020-04-20,2020-11-05,2.0,3220.0
+40,Saskatchewan,Facial Coverings,2020-11-06,2021-04-08,3.0,31767.0
+26,Saskatchewan,Fiscal measures,2020-06-15,2020-06-15,896881349.0,0.0
+27,Saskatchewan,Fiscal measures,2021-04-06,2021-04-06,1197000000.0,0.0
+23,Saskatchewan,Income support,2020-03-15,2020-12-01,2.0,8745.0
+24,Saskatchewan,Income support,2020-12-02,2021-04-08,1.0,26408.0
+38,Saskatchewan,Investment in vaccines,2020-03-25,2020-03-25,2512659.0,0.0
+45,Saskatchewan,Protection of elderly people,2020-03-17,2020-07-06,2.0,803.0
+46,Saskatchewan,Protection of elderly people,2020-07-07,2020-11-18,1.0,4747.0
+47,Saskatchewan,Protection of elderly people,2020-11-19,2021-03-30,2.0,27748.0
+48,Saskatchewan,Protection of elderly people,2021-03-31,2021-04-08,1.0,1800.0
+28,Saskatchewan,Public information campaigns,2020-01-20,2020-03-17,1.0,2.0
+29,Saskatchewan,Public information campaigns,2020-03-18,2021-04-08,2.0,35388.0
+15,Saskatchewan,Restrictions on gatherings,2020-03-17,2020-03-18,2.0,0.0
+16,Saskatchewan,Restrictions on gatherings,2020-03-19,2020-03-25,3.0,78.0
+17,Saskatchewan,Restrictions on gatherings,2020-03-26,2020-06-07,4.0,555.0
+18,Saskatchewan,Restrictions on gatherings,2020-06-08,2020-11-05,3.0,2882.0
+19,Saskatchewan,Restrictions on gatherings,2020-11-06,2021-04-08,4.0,31767.0
+21,Saskatchewan,Restrictions on internal movement,2020-04-24,2020-06-06,2.0,309.0
+22,Saskatchewan,Restrictions on internal movement,2020-12-11,2021-04-08,1.0,23917.0
+0,Saskatchewan,School closing,2020-03-16,2020-03-19,1.0,7.0
+1,Saskatchewan,School closing,2020-03-20,2020-09-07,3.0,1654.0
+2,Saskatchewan,School closing,2020-09-08,2020-12-13,2.0,10300.0
+3,Saskatchewan,School closing,2020-12-14,2021-01-03,3.0,3844.0
+4,Saskatchewan,School closing,2021-01-04,2021-02-19,2.0,10878.0
+5,Saskatchewan,School closing,2021-02-20,2021-03-01,1.0,1363.0
+6,Saskatchewan,School closing,2021-03-02,2021-03-28,2.0,4093.0
+7,Saskatchewan,School closing,2021-03-29,2021-04-08,3.0,2155.0
+20,Saskatchewan,Stay at home requirements,2020-03-23,2021-04-08,1.0,35325.0
+30,Saskatchewan,Testing policy,2020-03-13,2020-09-09,1.0,1670.0
+31,Saskatchewan,Testing policy,2020-09-10,2021-03-29,3.0,31559.0
+41,Saskatchewan,Vaccination policy,2020-12-15,2021-01-13,1.0,6591.0
+42,Saskatchewan,Vaccination policy,2021-01-14,2021-02-17,2.0,7620.0
+43,Saskatchewan,Vaccination policy,2021-02-23,2021-03-10,2.0,2105.0
+44,Saskatchewan,Vaccination policy,2021-03-11,2021-04-08,3.0,5197.0
+8,Saskatchewan,Workplace closing,2020-03-20,2020-03-25,2.0,78.0
+9,Saskatchewan,Workplace closing,2020-03-26,2020-06-07,3.0,555.0
+10,Saskatchewan,Workplace closing,2020-06-08,2021-04-08,2.0,34736.0

@@ -1,0 +1,45 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Ecuador,Cancel public events,2020-03-13,2021-04-04,2.0,335664.0
+9,Ecuador,Close public transport,2020-03-15,2020-07-23,2.0,78120.0
+10,Ecuador,Close public transport,2020-07-24,2020-09-13,1.0,39545.0
+11,Ecuador,Close public transport,2020-12-21,2021-04-04,1.0,129352.0
+33,Ecuador,Contact tracing,2020-03-17,2021-04-04,1.0,335623.0
+23,Ecuador,Debt/contract relief,2020-03-15,2021-04-04,2.0,335653.0
+34,Ecuador,Emergency investment in healthcare,2020-04-02,2020-04-02,200000000.0,0.0
+35,Ecuador,Emergency investment in healthcare,2020-05-25,2020-05-25,560000000.0,0.0
+36,Ecuador,Facial Coverings,2020-03-16,2020-03-16,1.0,0.0
+37,Ecuador,Facial Coverings,2020-03-17,2020-03-31,2.0,2182.0
+38,Ecuador,Facial Coverings,2020-04-01,2020-04-05,1.0,898.0
+39,Ecuador,Facial Coverings,2020-04-06,2021-04-04,3.0,331934.0
+24,Ecuador,Fiscal measures,2020-03-19,2020-03-19,50114000.0,0.0
+25,Ecuador,Fiscal measures,2020-04-01,2020-04-01,150000000.0,0.0
+26,Ecuador,Fiscal measures,2020-04-24,2020-04-24,234000000.0,0.0
+22,Ecuador,Income support,2020-04-01,2021-04-04,1.0,332933.0
+17,Ecuador,International travel controls,2020-03-02,2020-03-14,1.0,22.0
+18,Ecuador,International travel controls,2020-03-15,2020-05-31,4.0,39070.0
+19,Ecuador,International travel controls,2020-06-01,2020-08-20,3.0,66410.0
+20,Ecuador,International travel controls,2020-08-21,2020-12-18,2.0,98522.0
+21,Ecuador,International travel controls,2020-12-19,2021-04-04,1.0,129761.0
+42,Ecuador,Protection of elderly people,2020-03-06,2020-03-14,1.0,15.0
+43,Ecuador,Protection of elderly people,2020-03-15,2021-04-04,2.0,335653.0
+27,Ecuador,Public information campaigns,2020-01-26,2020-03-12,1.0,17.0
+28,Ecuador,Public information campaigns,2020-03-13,2021-04-04,2.0,335664.0
+5,Ecuador,Restrictions on gatherings,2020-03-17,2020-07-22,3.0,77199.0
+6,Ecuador,Restrictions on gatherings,2020-07-23,2020-09-13,4.0,40446.0
+7,Ecuador,Restrictions on gatherings,2020-09-14,2020-11-30,3.0,73774.0
+8,Ecuador,Restrictions on gatherings,2020-12-01,2021-04-04,4.0,142008.0
+15,Ecuador,Restrictions on internal movement,2020-03-17,2020-09-13,2.0,118536.0
+16,Ecuador,Restrictions on internal movement,2020-12-21,2021-04-04,1.0,129352.0
+0,Ecuador,School closing,2020-03-13,2021-02-27,3.0,284330.0
+1,Ecuador,School closing,2021-02-28,2021-04-04,2.0,49526.0
+12,Ecuador,Stay at home requirements,2020-03-17,2020-09-13,2.0,118536.0
+13,Ecuador,Stay at home requirements,2020-12-21,2021-01-03,2.0,8285.0
+14,Ecuador,Stay at home requirements,2021-01-04,2021-04-04,1.0,120601.0
+29,Ecuador,Testing policy,2020-03-19,2021-01-25,2.0,241368.0
+30,Ecuador,Testing policy,2021-01-26,2021-02-21,3.0,32527.0
+31,Ecuador,Testing policy,2021-02-22,2021-02-25,2.0,6201.0
+32,Ecuador,Testing policy,2021-02-26,2021-04-04,1.0,53082.0
+40,Ecuador,Vaccination policy,2021-01-21,2021-01-25,1.0,5378.0
+41,Ecuador,Vaccination policy,2021-01-26,2021-04-04,2.0,93535.0
+2,Ecuador,Workplace closing,2020-03-17,2020-06-18,3.0,49039.0
+3,Ecuador,Workplace closing,2020-06-19,2021-04-04,2.0,285950.0

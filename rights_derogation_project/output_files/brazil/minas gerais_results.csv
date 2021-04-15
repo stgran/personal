@@ -1,0 +1,42 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Minas Gerais,Cancel public events,2020-03-13,2020-03-16,1.0,4.0
+5,Minas Gerais,Cancel public events,2020-03-17,2021-03-19,2.0,1014065.0
+14,Minas Gerais,Close public transport,2020-03-19,2021-02-07,1.0,774082.0
+15,Minas Gerais,Close public transport,2021-02-08,2021-03-15,2.0,198379.0
+16,Minas Gerais,Close public transport,2021-03-16,2021-03-19,1.0,33392.0
+30,Minas Gerais,Contact tracing,2020-04-01,2021-03-19,2.0,1013765.0
+26,Minas Gerais,Debt/contract relief,2020-03-17,2020-12-26,1.0,522317.0
+31,Minas Gerais,Facial Coverings,2020-04-16,2020-04-21,2.0,272.0
+32,Minas Gerais,Facial Coverings,2020-04-22,2020-07-02,3.0,49424.0
+33,Minas Gerais,Facial Coverings,2020-07-03,2020-07-05,4.0,4932.0
+34,Minas Gerais,Facial Coverings,2020-07-06,2020-08-18,3.0,118161.0
+35,Minas Gerais,Facial Coverings,2020-08-19,2021-01-11,4.0,413849.0
+22,Minas Gerais,International travel controls,2020-03-13,2020-03-17,2.0,12.0
+23,Minas Gerais,International travel controls,2020-03-18,2020-03-26,3.0,134.0
+24,Minas Gerais,International travel controls,2020-03-27,2020-07-28,4.0,116456.0
+25,Minas Gerais,International travel controls,2020-07-29,2021-03-19,1.0,894685.0
+36,Minas Gerais,Protection of elderly people,2020-06-01,2020-06-07,1.0,5033.0
+37,Minas Gerais,Protection of elderly people,2020-06-08,2021-01-05,2.0,540809.0
+38,Minas Gerais,Protection of elderly people,2021-01-07,2021-01-25,2.0,121893.0
+39,Minas Gerais,Protection of elderly people,2021-01-26,2021-02-07,1.0,74854.0
+40,Minas Gerais,Protection of elderly people,2021-02-08,2021-03-19,3.0,237864.0
+27,Minas Gerais,Public information campaigns,2020-01-26,2021-03-19,2.0,1014079.0
+6,Minas Gerais,Restrictions on gatherings,2020-03-13,2020-03-18,2.0,17.0
+7,Minas Gerais,Restrictions on gatherings,2020-03-19,2020-07-23,4.0,102539.0
+8,Minas Gerais,Restrictions on gatherings,2020-07-24,2020-10-06,3.0,203312.0
+9,Minas Gerais,Restrictions on gatherings,2020-10-07,2020-11-23,2.0,84982.0
+10,Minas Gerais,Restrictions on gatherings,2020-11-24,2021-01-25,3.0,294014.0
+11,Minas Gerais,Restrictions on gatherings,2021-01-26,2021-02-07,2.0,74854.0
+12,Minas Gerais,Restrictions on gatherings,2021-02-08,2021-03-15,3.0,198379.0
+13,Minas Gerais,Restrictions on gatherings,2021-03-16,2021-03-19,4.0,33392.0
+18,Minas Gerais,Restrictions on internal movement,2020-03-18,2020-03-19,1.0,10.0
+19,Minas Gerais,Restrictions on internal movement,2020-03-20,2021-01-25,2.0,693512.0
+20,Minas Gerais,Restrictions on internal movement,2021-01-26,2021-03-02,1.0,187823.0
+21,Minas Gerais,Restrictions on internal movement,2021-03-03,2021-03-19,2.0,120434.0
+0,Minas Gerais,School closing,2020-03-10,2021-03-19,3.0,1014078.0
+17,Minas Gerais,Stay at home requirements,2020-03-19,2021-03-19,1.0,1014050.0
+28,Minas Gerais,Testing policy,2020-03-12,2020-05-05,1.0,2450.0
+29,Minas Gerais,Testing policy,2020-05-06,2021-03-19,2.0,1011474.0
+1,Minas Gerais,Workplace closing,2020-03-17,2020-03-18,1.0,5.0
+2,Minas Gerais,Workplace closing,2020-03-19,2020-11-20,2.0,393081.0
+3,Minas Gerais,Workplace closing,2020-11-21,2021-03-19,3.0,618545.0

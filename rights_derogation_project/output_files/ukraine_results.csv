@@ -1,0 +1,67 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Ukraine,Cancel public events,2020-03-12,2020-06-21,2.0,37360.0
+9,Ukraine,Cancel public events,2020-08-01,2021-01-07,1.0,1061193.0
+10,Ukraine,Cancel public events,2021-01-08,2021-01-24,2.0,92165.0
+11,Ukraine,Cancel public events,2021-01-25,2021-02-25,1.0,138367.0
+12,Ukraine,Cancel public events,2021-02-26,2021-03-29,2.0,321763.0
+18,Ukraine,Close public transport,2020-03-18,2020-06-21,2.0,37347.0
+19,Ukraine,Close public transport,2020-06-22,2020-08-02,1.0,35705.0
+20,Ukraine,Close public transport,2020-08-03,2020-12-18,2.0,895977.0
+21,Ukraine,Close public transport,2020-12-19,2021-03-29,1.0,720099.0
+49,Ukraine,Contact tracing,2020-03-13,2020-05-06,1.0,13181.0
+50,Ukraine,Contact tracing,2020-05-07,2020-09-06,2.0,125480.0
+51,Ukraine,Contact tracing,2020-09-08,2021-03-29,2.0,1559122.0
+32,Ukraine,Debt/contract relief,2020-03-25,2020-08-27,1.0,114518.0
+33,Ukraine,Debt/contract relief,2020-08-29,2021-03-29,1.0,1583285.0
+52,Ukraine,Emergency investment in healthcare,2020-03-20,2020-03-20,1406551.0,0.0
+53,Ukraine,Emergency investment in healthcare,2020-04-13,2020-04-13,2411800000.0,0.0
+54,Ukraine,Emergency investment in healthcare,2020-07-08,2020-07-08,193385234.0,0.0
+55,Ukraine,Emergency investment in healthcare,2020-07-24,2020-07-24,574082518.37,0.0
+56,Ukraine,Emergency investment in healthcare,2020-11-17,2020-11-17,4189000.0,0.0
+57,Ukraine,Emergency investment in healthcare,2020-11-18,2020-11-18,67450000.0,0.0
+58,Ukraine,Facial Coverings,2020-04-04,2020-12-21,3.0,997453.0
+59,Ukraine,Facial Coverings,2020-12-22,2021-03-29,2.0,695409.0
+34,Ukraine,Fiscal measures,2020-03-11,2020-03-11,3853564.0,0.0
+35,Ukraine,Fiscal measures,2020-03-29,2020-03-29,18556489.0,0.0
+36,Ukraine,Fiscal measures,2020-04-16,2020-04-16,1299118263.0,0.0
+37,Ukraine,Fiscal measures,2020-04-27,2020-04-27,222679980.0,0.0
+38,Ukraine,Fiscal measures,2020-04-30,2020-04-30,59384599.0,0.0
+39,Ukraine,Fiscal measures,2020-06-10,2020-06-10,111116868.52,0.0
+40,Ukraine,Fiscal measures,2020-07-08,2020-07-08,62029226.0,0.0
+41,Ukraine,Fiscal measures,2020-07-10,2020-07-10,8512599.0,0.0
+42,Ukraine,Fiscal measures,2020-07-24,2020-07-24,2367947184.0,0.0
+30,Ukraine,Income support,2020-03-12,2020-08-27,1.0,114662.0
+31,Ukraine,Income support,2020-08-29,2021-03-29,1.0,1583285.0
+25,Ukraine,International travel controls,2020-03-16,2020-06-14,4.0,31844.0
+26,Ukraine,International travel controls,2020-06-15,2020-08-27,1.0,82127.0
+27,Ukraine,International travel controls,2020-08-28,2020-09-28,4.0,89407.0
+28,Ukraine,International travel controls,2020-09-29,2021-03-23,2.0,1405438.0
+29,Ukraine,International travel controls,2021-03-24,2021-03-29,1.0,73023.0
+61,Ukraine,Protection of elderly people,2020-03-13,2020-04-06,1.0,1316.0
+62,Ukraine,Protection of elderly people,2020-04-07,2020-06-04,2.0,24519.0
+63,Ukraine,Protection of elderly people,2020-06-05,2020-07-31,1.0,44862.0
+64,Ukraine,Protection of elderly people,2020-08-01,2020-12-21,3.0,926069.0
+65,Ukraine,Protection of elderly people,2020-12-22,2021-03-29,2.0,695409.0
+43,Ukraine,Public information campaigns,2020-03-03,2020-09-06,2.0,139170.0
+44,Ukraine,Public information campaigns,2020-09-08,2021-03-29,2.0,1559122.0
+13,Ukraine,Restrictions on gatherings,2020-03-12,2020-03-16,2.0,6.0
+14,Ukraine,Restrictions on gatherings,2020-03-17,2020-05-31,4.0,23658.0
+15,Ukraine,Restrictions on gatherings,2020-06-01,2020-06-21,3.0,12799.0
+16,Ukraine,Restrictions on gatherings,2020-08-01,2020-11-12,2.0,443146.0
+17,Ukraine,Restrictions on gatherings,2020-11-13,2021-03-29,3.0,1175228.0
+23,Ukraine,Restrictions on internal movement,2020-03-12,2020-12-18,2.0,970757.0
+24,Ukraine,Restrictions on internal movement,2021-02-26,2021-03-29,1.0,321763.0
+0,Ukraine,School closing,2020-03-12,2020-12-18,3.0,970757.0
+1,Ukraine,School closing,2020-12-19,2021-01-07,2.0,150865.0
+2,Ukraine,School closing,2021-01-08,2021-01-24,3.0,92165.0
+3,Ukraine,School closing,2021-01-25,2021-03-29,2.0,468264.0
+22,Ukraine,Stay at home requirements,2020-03-16,2021-03-29,1.0,1703029.0
+45,Ukraine,Testing policy,2020-02-05,2020-05-06,1.0,13184.0
+46,Ukraine,Testing policy,2020-05-07,2020-09-06,2.0,125480.0
+47,Ukraine,Testing policy,2020-09-08,2020-09-16,2.0,22780.0
+48,Ukraine,Testing policy,2020-09-17,2021-03-29,3.0,1532663.0
+60,Ukraine,Vaccination policy,2021-02-25,2021-03-29,1.0,329897.0
+4,Ukraine,Workplace closing,2020-03-17,2020-06-21,2.0,37347.0
+5,Ukraine,Workplace closing,2020-06-22,2020-08-02,1.0,35705.0
+6,Ukraine,Workplace closing,2020-08-03,2021-03-19,2.0,1494815.0
+7,Ukraine,Workplace closing,2021-03-20,2021-03-29,3.0,118064.0

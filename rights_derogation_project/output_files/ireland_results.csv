@@ -1,0 +1,95 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+15,Ireland,Cancel public events,2020-03-12,2020-06-25,2.0,25362.0
+16,Ireland,Cancel public events,2020-08-18,2021-04-09,2.0,212693.0
+26,Ireland,Close public transport,2020-03-27,2020-06-04,2.0,23021.0
+27,Ireland,Close public transport,2020-06-26,2021-04-09,1.0,214778.0
+76,Ireland,Contact tracing,2020-02-25,2020-06-04,1.0,25142.0
+77,Ireland,Contact tracing,2020-06-05,2020-12-31,2.0,66616.0
+78,Ireland,Contact tracing,2021-01-01,2021-01-28,1.0,99113.0
+79,Ireland,Contact tracing,2021-01-29,2021-04-09,2.0,46300.0
+49,Ireland,Debt/contract relief,2020-03-24,2020-11-23,2.0,69382.0
+50,Ireland,Debt/contract relief,2020-11-24,2020-12-30,1.0,19227.0
+51,Ireland,Debt/contract relief,2020-12-31,2021-04-09,2.0,148413.0
+80,Ireland,Emergency investment in healthcare,2020-03-09,2020-03-09,496923136.0,0.0
+81,Ireland,Emergency investment in healthcare,2020-03-25,2020-03-25,584993920.0,0.0
+82,Ireland,Emergency investment in healthcare,2020-03-29,2020-03-29,584993920.0,0.0
+83,Ireland,Emergency investment in healthcare,2020-04-01,2020-04-01,17496224.0,0.0
+84,Ireland,Emergency investment in healthcare,2020-10-13,2020-10-13,2208439484.0,0.0
+86,Ireland,Facial Coverings,2020-07-16,2020-12-31,2.0,66081.0
+87,Ireland,Facial Coverings,2021-01-01,2021-04-09,3.0,146660.0
+52,Ireland,Fiscal measures,2020-03-09,2020-03-09,6397171200.0,0.0
+53,Ireland,Fiscal measures,2020-03-19,2020-03-19,216209600.0,0.0
+54,Ireland,Fiscal measures,2020-03-25,2020-03-25,310714368.0,0.0
+55,Ireland,Fiscal measures,2020-04-09,2020-04-09,2742177.5,0.0
+56,Ireland,Fiscal measures,2020-05-02,2020-05-02,6483000000.0,0.0
+57,Ireland,Fiscal measures,2020-05-29,2020-05-29,34000000.0,0.0
+58,Ireland,Fiscal measures,2020-06-09,2020-06-09,35480000.0,0.0
+59,Ireland,Fiscal measures,2020-06-10,2020-06-10,85100000.0,0.0
+60,Ireland,Fiscal measures,2020-06-17,2020-06-17,28043427.94,0.0
+61,Ireland,Fiscal measures,2020-06-25,2020-06-25,14552332.81,0.0
+62,Ireland,Fiscal measures,2020-08-14,2020-08-14,10649204.0,0.0
+63,Ireland,Fiscal measures,2020-10-13,2020-10-13,7755954934.0,0.0
+64,Ireland,Fiscal measures,2020-10-16,2020-10-16,921093810.0,0.0
+65,Ireland,Fiscal measures,2020-11-09,2020-11-09,12172008.1,0.0
+66,Ireland,Fiscal measures,2020-11-13,2020-11-13,567539.01,0.0
+67,Ireland,Fiscal measures,2021-03-31,2021-03-31,19989450.0,0.0
+47,Ireland,Income support,2020-03-15,2020-03-23,1.0,996.0
+48,Ireland,Income support,2020-03-24,2021-04-09,2.0,238863.0
+68,Ireland,International support,2020-04-16,2020-04-16,12428000.0,0.0
+43,Ireland,International travel controls,2020-04-06,2020-12-21,2.0,74903.0
+44,Ireland,International travel controls,2020-12-22,2021-01-08,3.0,54656.0
+45,Ireland,International travel controls,2021-01-09,2021-01-25,2.0,48196.0
+46,Ireland,International travel controls,2021-01-26,2021-04-09,3.0,50341.0
+85,Ireland,Investment in vaccines,2020-05-04,2020-05-04,19633914.0,0.0
+91,Ireland,Protection of elderly people,2020-03-27,2020-06-07,3.0,23080.0
+92,Ireland,Protection of elderly people,2020-06-08,2020-09-12,2.0,5523.0
+93,Ireland,Protection of elderly people,2020-09-13,2021-04-09,3.0,209207.0
+69,Ireland,Public information campaigns,2020-02-04,2020-02-28,1.0,0.0
+70,Ireland,Public information campaigns,2020-02-29,2021-04-09,2.0,240191.0
+17,Ireland,Restrictions on gatherings,2020-03-12,2020-03-14,2.0,86.0
+18,Ireland,Restrictions on gatherings,2020-03-15,2020-06-25,4.0,25276.0
+19,Ireland,Restrictions on gatherings,2020-06-26,2020-08-07,2.0,1056.0
+20,Ireland,Restrictions on gatherings,2020-08-08,2020-09-17,3.0,5379.0
+21,Ireland,Restrictions on gatherings,2020-09-18,2020-09-20,2.0,662.0
+22,Ireland,Restrictions on gatherings,2020-09-21,2020-10-20,3.0,19135.0
+23,Ireland,Restrictions on gatherings,2020-10-21,2020-12-23,4.0,28733.0
+24,Ireland,Restrictions on gatherings,2020-12-24,2020-12-26,3.0,2321.0
+25,Ireland,Restrictions on gatherings,2020-12-27,2021-04-09,4.0,154063.0
+36,Ireland,Restrictions on internal movement,2020-03-26,2020-03-27,1.0,302.0
+37,Ireland,Restrictions on internal movement,2020-03-28,2020-06-25,2.0,22990.0
+38,Ireland,Restrictions on internal movement,2020-08-08,2020-09-17,2.0,5379.0
+39,Ireland,Restrictions on internal movement,2020-09-18,2020-10-20,1.0,19985.0
+40,Ireland,Restrictions on internal movement,2020-10-21,2020-12-03,2.0,19806.0
+41,Ireland,Restrictions on internal movement,2020-12-04,2020-12-26,1.0,11903.0
+42,Ireland,Restrictions on internal movement,2020-12-27,2021-04-09,2.0,154063.0
+0,Ireland,School closing,2020-03-13,2020-06-25,3.0,25315.0
+1,Ireland,School closing,2020-06-26,2020-09-20,2.0,7519.0
+2,Ireland,School closing,2020-09-21,2020-10-20,1.0,19135.0
+3,Ireland,School closing,2020-10-21,2020-12-29,2.0,35017.0
+4,Ireland,School closing,2020-12-30,2021-02-28,3.0,129435.0
+5,Ireland,School closing,2021-03-01,2021-04-09,2.0,19919.0
+28,Ireland,Stay at home requirements,2020-03-26,2020-03-27,1.0,302.0
+29,Ireland,Stay at home requirements,2020-03-28,2020-05-17,2.0,21697.0
+30,Ireland,Stay at home requirements,2020-05-18,2020-06-25,1.0,1205.0
+31,Ireland,Stay at home requirements,2020-08-08,2020-09-17,2.0,5379.0
+32,Ireland,Stay at home requirements,2020-09-18,2020-10-20,1.0,19985.0
+33,Ireland,Stay at home requirements,2020-10-21,2020-12-23,2.0,28733.0
+34,Ireland,Stay at home requirements,2020-12-24,2020-12-31,1.0,8706.0
+35,Ireland,Stay at home requirements,2021-01-01,2021-04-09,2.0,146660.0
+71,Ireland,Testing policy,2020-02-25,2020-03-23,2.0,1125.0
+72,Ireland,Testing policy,2020-03-24,2020-05-17,1.0,22783.0
+73,Ireland,Testing policy,2020-05-18,2020-06-04,2.0,942.0
+74,Ireland,Testing policy,2020-06-05,2020-06-25,1.0,242.0
+75,Ireland,Testing policy,2020-06-26,2021-04-09,2.0,214778.0
+88,Ireland,Vaccination policy,2021-01-04,2021-01-10,1.0,39616.0
+89,Ireland,Vaccination policy,2021-01-11,2021-03-12,2.0,73281.0
+90,Ireland,Vaccination policy,2021-03-13,2021-04-09,3.0,13834.0
+6,Ireland,Workplace closing,2020-03-12,2020-03-26,1.0,1776.0
+7,Ireland,Workplace closing,2020-03-27,2020-05-17,3.0,21991.0
+8,Ireland,Workplace closing,2020-05-18,2020-06-25,2.0,1205.0
+9,Ireland,Workplace closing,2020-06-26,2020-08-07,1.0,1056.0
+10,Ireland,Workplace closing,2020-08-08,2020-09-20,3.0,6289.0
+11,Ireland,Workplace closing,2020-09-21,2020-10-20,2.0,19135.0
+12,Ireland,Workplace closing,2020-10-21,2020-12-03,3.0,19806.0
+13,Ireland,Workplace closing,2020-12-04,2020-12-26,2.0,11903.0
+14,Ireland,Workplace closing,2020-12-27,2021-04-09,3.0,154063.0

@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Morocco,Cancel public events,2020-03-14,2021-04-11,2.0,501671.0
+12,Morocco,Close public transport,2020-03-20,2020-06-10,2.0,8431.0
+13,Morocco,Close public transport,2020-10-23,2021-04-11,1.0,311272.0
+36,Morocco,Contact tracing,2020-06-01,2021-03-01,1.0,475933.0
+37,Morocco,Contact tracing,2021-03-02,2021-04-11,2.0,17529.0
+23,Morocco,Debt/contract relief,2020-04-03,2020-04-14,1.0,1097.0
+24,Morocco,Debt/contract relief,2020-04-15,2020-11-21,2.0,318938.0
+25,Morocco,Debt/contract relief,2021-02-16,2021-04-11,1.0,22617.0
+38,Morocco,Emergency investment in healthcare,2020-03-27,2020-03-27,200000000.0,0.0
+39,Morocco,Facial Coverings,2020-04-07,2020-10-09,4.0,145214.0
+40,Morocco,Facial Coverings,2020-10-10,2021-04-11,3.0,351847.0
+26,Morocco,Fiscal measures,2020-03-15,2020-03-15,1000000000.0,0.0
+27,Morocco,Fiscal measures,2020-03-28,2020-03-28,3000000000.0,0.0
+28,Morocco,Fiscal measures,2020-04-27,2020-04-27,152.0,0.0
+29,Morocco,Fiscal measures,2020-07-29,2020-07-29,12800000000.0,0.0
+30,Morocco,Fiscal measures,2020-11-04,2020-11-04,139971600.0,0.0
+22,Morocco,Income support,2020-03-23,2021-04-11,1.0,501545.0
+19,Morocco,International travel controls,2020-03-13,2020-03-19,3.0,56.0
+20,Morocco,International travel controls,2020-03-20,2020-09-13,4.0,86609.0
+21,Morocco,International travel controls,2020-09-14,2021-04-11,3.0,413485.0
+44,Morocco,Protection of elderly people,2020-03-20,2020-12-07,3.0,381111.0
+45,Morocco,Protection of elderly people,2020-12-08,2021-04-11,2.0,117600.0
+31,Morocco,Public information campaigns,2020-03-04,2020-03-12,1.0,5.0
+32,Morocco,Public information campaigns,2020-03-13,2021-04-11,2.0,501681.0
+8,Morocco,Restrictions on gatherings,2020-03-14,2020-10-25,3.0,197464.0
+9,Morocco,Restrictions on gatherings,2020-10-26,2020-10-26,4.0,0.0
+10,Morocco,Restrictions on gatherings,2020-10-27,2020-12-22,3.0,216915.0
+11,Morocco,Restrictions on gatherings,2020-12-23,2021-04-11,4.0,78474.0
+16,Morocco,Restrictions on internal movement,2020-03-13,2020-10-29,2.0,212031.0
+17,Morocco,Restrictions on internal movement,2020-10-30,2020-11-09,1.0,44657.0
+18,Morocco,Restrictions on internal movement,2020-11-10,2021-04-11,2.0,236523.0
+0,Morocco,School closing,2020-03-16,2020-09-20,3.0,101714.0
+1,Morocco,School closing,2020-09-21,2020-10-05,2.0,31576.0
+2,Morocco,School closing,2020-10-06,2021-04-11,1.0,364440.0
+14,Morocco,Stay at home requirements,2020-03-20,2020-06-23,2.0,10267.0
+15,Morocco,Stay at home requirements,2020-08-05,2021-04-11,2.0,473188.0
+33,Morocco,Testing policy,2020-03-02,2020-06-10,2.0,8507.0
+34,Morocco,Testing policy,2020-06-11,2020-11-09,3.0,251414.0
+35,Morocco,Testing policy,2020-11-10,2021-04-11,2.0,236523.0
+41,Morocco,Vaccination policy,2021-01-28,2021-02-11,1.0,8021.0
+42,Morocco,Vaccination policy,2021-02-12,2021-03-29,2.0,17100.0
+43,Morocco,Vaccination policy,2021-03-30,2021-04-11,3.0,6267.0
+3,Morocco,Workplace closing,2020-03-20,2020-06-10,3.0,8431.0
+4,Morocco,Workplace closing,2020-06-11,2020-06-23,2.0,1807.0
+5,Morocco,Workplace closing,2020-06-24,2020-11-09,1.0,249044.0
+6,Morocco,Workplace closing,2020-11-10,2021-04-11,2.0,236523.0

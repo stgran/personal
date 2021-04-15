@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,India,Cancel public events,2020-03-05,2020-03-13,1.0,52.0
+14,India,Cancel public events,2020-03-14,2021-04-04,2.0,12588965.0
+20,India,Close public transport,2020-03-20,2020-06-30,2.0,585237.0
+21,India,Close public transport,2020-07-01,2021-01-25,1.0,10072197.0
+22,India,Close public transport,2021-04-03,2021-04-04,2.0,103558.0
+53,India,Contact tracing,2020-01-26,2020-01-30,1.0,1.0
+54,India,Contact tracing,2020-01-31,2021-04-04,2.0,12589066.0
+40,India,Debt/contract relief,2020-03-01,2021-03-31,2.0,12221662.0
+55,India,Emergency investment in healthcare,2020-04-22,2020-04-22,1000000000.0,0.0
+56,India,Emergency investment in healthcare,2020-05-13,2020-05-13,264200000.0,0.0
+59,India,Facial Coverings,2020-04-02,2020-04-08,1.0,3373.0
+60,India,Facial Coverings,2020-04-09,2021-04-04,4.0,12582342.0
+41,India,Fiscal measures,2020-03-19,2020-03-19,2600000000.0,0.0
+42,India,Fiscal measures,2020-03-26,2020-03-26,22660167376.07,0.0
+43,India,Fiscal measures,2020-05-12,2020-05-12,266470898368.0,0.0
+44,India,Fiscal measures,2020-11-11,2020-11-11,34343400000.0,0.0
+39,India,Income support,2020-03-20,2020-08-25,1.0,3224303.0
+45,India,International support,2020-03-15,2020-03-15,10000000.0,0.0
+46,India,International support,2020-10-02,2020-10-02,1400000000.0,0.0
+32,India,International travel controls,2020-01-26,2020-03-12,1.0,73.0
+33,India,International travel controls,2020-03-13,2020-03-14,2.0,20.0
+34,India,International travel controls,2020-03-15,2020-03-21,3.0,217.0
+35,India,International travel controls,2020-03-22,2020-05-17,4.0,95302.0
+36,India,International travel controls,2020-05-18,2020-06-30,3.0,485153.0
+37,India,International travel controls,2020-07-01,2020-10-26,4.0,7341788.0
+38,India,International travel controls,2020-10-27,2021-04-04,3.0,4598745.0
+57,India,Investment in vaccines,2020-05-13,2020-05-13,13205680.0,0.0
+58,India,Investment in vaccines,2020-11-11,2020-11-11,117000000.0,0.0
+64,India,Protection of elderly people,2020-01-26,2020-03-21,1.0,330.0
+65,India,Protection of elderly people,2020-03-22,2020-05-03,3.0,42109.0
+66,India,Protection of elderly people,2020-05-04,2021-01-25,2.0,10630401.0
+67,India,Protection of elderly people,2021-01-26,2021-04-04,3.0,1899540.0
+47,India,Public information campaigns,2020-01-25,2020-03-04,1.0,28.0
+48,India,Public information campaigns,2020-03-05,2021-04-04,2.0,12589037.0
+15,India,Restrictions on gatherings,2020-03-19,2020-06-30,4.0,585287.0
+16,India,Restrictions on gatherings,2020-07-01,2020-08-28,3.0,2859331.0
+17,India,Restrictions on gatherings,2020-08-29,2020-10-14,4.0,3764364.0
+18,India,Restrictions on gatherings,2020-10-15,2020-11-20,2.0,1680129.0
+19,India,Restrictions on gatherings,2020-11-21,2021-04-04,4.0,3493261.0
+27,India,Restrictions on internal movement,2020-03-16,2020-03-19,1.0,75.0
+28,India,Restrictions on internal movement,2020-03-20,2020-11-20,2.0,9050353.0
+29,India,Restrictions on internal movement,2020-11-21,2021-01-26,1.0,1593721.0
+30,India,Restrictions on internal movement,2021-02-24,2021-03-08,1.0,197872.0
+31,India,Restrictions on internal movement,2021-04-03,2021-04-04,2.0,103558.0
+0,India,School closing,2020-03-05,2020-03-12,2.0,43.0
+1,India,School closing,2020-03-13,2020-09-20,3.0,5487498.0
+2,India,School closing,2020-09-21,2020-10-14,2.0,1744434.0
+3,India,School closing,2020-10-15,2020-11-20,1.0,1680129.0
+4,India,School closing,2020-11-21,2021-02-23,3.0,1934370.0
+5,India,School closing,2021-02-24,2021-04-04,2.0,1542153.0
+23,India,Stay at home requirements,2020-01-26,2020-03-21,1.0,330.0
+24,India,Stay at home requirements,2020-03-22,2020-05-03,3.0,42109.0
+25,India,Stay at home requirements,2020-05-04,2021-01-25,2.0,10630401.0
+26,India,Stay at home requirements,2021-01-26,2021-04-04,3.0,1899540.0
+49,India,Testing policy,2020-01-25,2020-04-08,1.0,5916.0
+50,India,Testing policy,2020-04-09,2020-06-22,3.0,433490.0
+51,India,Testing policy,2020-06-23,2021-01-25,2.0,10220655.0
+52,India,Testing policy,2021-01-26,2021-04-04,3.0,1899540.0
+61,India,Vaccination policy,2021-01-16,2021-02-28,2.0,554256.0
+62,India,Vaccination policy,2021-03-01,2021-03-31,3.0,1097138.0
+63,India,Vaccination policy,2021-04-01,2021-04-04,4.0,285936.0
+6,India,Workplace closing,2020-03-16,2020-03-20,1.0,125.0
+7,India,Workplace closing,2020-03-21,2020-04-19,3.0,17285.0
+8,India,Workplace closing,2020-04-20,2020-05-31,2.0,172070.0
+9,India,Workplace closing,2020-06-01,2020-06-17,1.0,168576.0
+10,India,Workplace closing,2020-06-18,2020-06-30,2.0,204949.0
+11,India,Workplace closing,2020-07-01,2020-07-09,1.0,189161.0
+12,India,Workplace closing,2020-07-10,2021-04-04,2.0,11768151.0

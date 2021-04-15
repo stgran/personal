@@ -1,0 +1,30 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Macao,Cancel public events,2020-01-23,2020-06-25,2.0,44.0
+18,Macao,Contact tracing,2020-01-22,2021-04-10,2.0,48.0
+12,Macao,Debt/contract relief,2020-02-13,2021-04-10,2.0,39.0
+20,Macao,Facial Coverings,2020-02-03,2021-04-10,2.0,41.0
+13,Macao,Fiscal measures,2020-03-28,2020-03-28,1252400000.0,0.0
+14,Macao,Fiscal measures,2020-04-20,2020-04-20,5010835930.0,0.0
+11,Macao,Income support,2020-02-13,2021-04-10,1.0,39.0
+6,Macao,International travel controls,2020-01-06,2020-02-16,1.0,10.0
+7,Macao,International travel controls,2020-02-17,2020-03-17,2.0,2.0
+8,Macao,International travel controls,2020-03-18,2020-04-09,3.0,30.0
+9,Macao,International travel controls,2020-04-10,2020-05-10,4.0,0.0
+10,Macao,International travel controls,2020-05-11,2021-04-10,3.0,4.0
+19,Macao,Investment in vaccines,2020-11-03,2020-11-03,52610000.0,0.0
+24,Macao,Protection of elderly people,2020-01-02,2020-01-24,2.0,2.0
+25,Macao,Protection of elderly people,2020-01-25,2020-06-07,3.0,43.0
+26,Macao,Protection of elderly people,2020-06-08,2020-07-09,2.0,1.0
+27,Macao,Protection of elderly people,2020-07-10,2020-11-10,3.0,0.0
+28,Macao,Protection of elderly people,2020-11-11,2021-01-19,2.0,0.0
+15,Macao,Public information campaigns,2020-01-01,2021-04-10,2.0,49.0
+0,Macao,School closing,2020-01-24,2020-01-29,1.0,5.0
+1,Macao,School closing,2020-01-30,2020-04-19,3.0,38.0
+2,Macao,School closing,2020-04-20,2020-05-31,2.0,0.0
+3,Macao,School closing,2020-06-01,2021-04-10,1.0,4.0
+16,Macao,Testing policy,2020-01-12,2020-07-14,1.0,46.0
+17,Macao,Testing policy,2020-07-15,2021-04-10,3.0,3.0
+21,Macao,Vaccination policy,2021-01-25,2021-02-01,5.0,0.0
+22,Macao,Vaccination policy,2021-02-09,2021-02-21,3.0,0.0
+23,Macao,Vaccination policy,2021-02-22,2021-04-10,4.0,1.0
+4,Macao,Workplace closing,2020-02-03,2020-03-01,2.0,2.0

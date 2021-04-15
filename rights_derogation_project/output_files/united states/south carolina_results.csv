@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,South Carolina,Cancel public events,2020-03-15,2020-03-17,1.0,28.0
+10,South Carolina,Cancel public events,2020-03-18,2020-06-10,2.0,15699.0
+11,South Carolina,Cancel public events,2020-06-11,2021-04-05,1.0,540028.0
+18,South Carolina,Close public transport,2020-03-19,2020-05-29,1.0,11051.0
+37,South Carolina,Contact tracing,2020-01-21,2020-05-10,1.0,7653.0
+38,South Carolina,Contact tracing,2020-05-11,2021-04-05,2.0,548677.0
+29,South Carolina,Debt/contract relief,2020-03-13,2020-03-16,1.0,22.0
+30,South Carolina,Debt/contract relief,2020-03-17,2020-05-14,2.0,8142.0
+31,South Carolina,Debt/contract relief,2020-05-15,2021-04-05,1.0,548062.0
+39,South Carolina,Facial Coverings,2020-04-04,2020-06-22,1.0,23749.0
+40,South Carolina,Facial Coverings,2020-06-23,2020-06-25,2.0,2450.0
+41,South Carolina,Facial Coverings,2020-06-26,2020-10-12,3.0,127720.0
+42,South Carolina,Facial Coverings,2020-10-13,2020-12-12,4.0,89915.0
+43,South Carolina,Facial Coverings,2020-12-13,2021-01-10,3.0,102319.0
+44,South Carolina,Facial Coverings,2021-01-20,2021-04-05,3.0,156626.0
+26,South Carolina,Income support,2020-01-27,2020-01-27,1.0,0.0
+27,South Carolina,Income support,2020-03-27,2020-07-30,2.0,87030.0
+28,South Carolina,Income support,2020-07-31,2021-04-05,1.0,467453.0
+24,South Carolina,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+25,South Carolina,International travel controls,2020-03-02,2021-04-05,3.0,556469.0
+50,South Carolina,Protection of elderly people,2020-03-13,2020-03-18,1.0,52.0
+51,South Carolina,Protection of elderly people,2020-03-19,2020-08-31,3.0,118912.0
+52,South Carolina,Protection of elderly people,2020-09-01,2021-03-08,2.0,406870.0
+53,South Carolina,Protection of elderly people,2021-03-10,2021-03-15,2.0,5715.0
+54,South Carolina,Protection of elderly people,2021-03-16,2021-04-05,1.0,21600.0
+32,South Carolina,Public information campaigns,2020-01-29,2020-02-25,1.0,0.0
+33,South Carolina,Public information campaigns,2020-02-26,2021-04-05,2.0,556469.0
+12,South Carolina,Restrictions on gatherings,2020-03-15,2020-03-22,3.0,177.0
+13,South Carolina,Restrictions on gatherings,2020-03-23,2020-05-26,4.0,10118.0
+14,South Carolina,Restrictions on gatherings,2020-05-27,2020-06-10,3.0,5136.0
+15,South Carolina,Restrictions on gatherings,2020-08-02,2020-11-24,4.0,117442.0
+16,South Carolina,Restrictions on gatherings,2020-11-25,2021-02-28,2.0,305918.0
+17,South Carolina,Restrictions on gatherings,2021-03-16,2021-04-05,2.0,21600.0
+21,South Carolina,Restrictions on internal movement,2020-03-16,2020-04-02,1.0,1524.0
+22,South Carolina,Restrictions on internal movement,2020-04-03,2020-04-30,2.0,4395.0
+23,South Carolina,Restrictions on internal movement,2020-05-01,2021-04-05,1.0,550211.0
+0,South Carolina,School closing,2020-03-13,2020-03-15,1.0,11.0
+1,South Carolina,School closing,2020-03-16,2020-08-16,3.0,106467.0
+2,South Carolina,School closing,2020-08-17,2021-03-01,2.0,411023.0
+3,South Carolina,School closing,2021-03-02,2021-04-05,1.0,37646.0
+19,South Carolina,Stay at home requirements,2020-03-26,2020-05-03,2.0,6202.0
+20,South Carolina,Stay at home requirements,2020-05-04,2021-04-01,1.0,545924.0
+34,South Carolina,Testing policy,2020-01-21,2020-04-27,1.0,5613.0
+35,South Carolina,Testing policy,2020-04-28,2020-08-29,2.0,111514.0
+36,South Carolina,Testing policy,2020-08-30,2021-04-05,3.0,438145.0
+45,South Carolina,Vaccination policy,2020-12-14,2020-12-27,1.0,41403.0
+46,South Carolina,Vaccination policy,2020-12-28,2021-01-28,2.0,133119.0
+47,South Carolina,Vaccination policy,2021-01-29,2021-03-07,3.0,90232.0
+48,South Carolina,Vaccination policy,2021-03-08,2021-03-30,4.0,23953.0
+49,South Carolina,Vaccination policy,2021-03-31,2021-04-05,5.0,4839.0
+4,South Carolina,Workplace closing,2020-03-12,2020-03-31,1.0,1076.0
+5,South Carolina,Workplace closing,2020-04-01,2020-04-05,2.0,756.0
+6,South Carolina,Workplace closing,2020-04-06,2020-04-19,3.0,2145.0
+7,South Carolina,Workplace closing,2020-04-20,2020-06-10,2.0,11313.0
+8,South Carolina,Workplace closing,2020-06-11,2021-04-05,1.0,540028.0

@@ -1,0 +1,63 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Slovak Republic,Cancel public events,2020-03-06,2020-03-09,1.0,2.0
+12,Slovak Republic,Cancel public events,2020-03-10,2020-06-02,2.0,1515.0
+13,Slovak Republic,Cancel public events,2020-09-03,2020-09-30,1.0,5978.0
+14,Slovak Republic,Cancel public events,2020-10-01,2021-04-04,2.0,354304.0
+24,Slovak Republic,Close public transport,2020-03-14,2020-07-26,1.0,2135.0
+50,Slovak Republic,Contact tracing,2020-01-01,2021-04-04,2.0,365242.0
+42,Slovak Republic,Debt/contract relief,2020-03-18,2021-04-04,2.0,365137.0
+51,Slovak Republic,Emergency investment in healthcare,2020-04-09,2020-04-09,61647909.0,0.0
+52,Slovak Republic,Emergency investment in healthcare,2020-10-29,2020-10-29,118266100.0,0.0
+53,Slovak Republic,Facial Coverings,2020-04-28,2020-10-14,3.0,20912.0
+54,Slovak Republic,Facial Coverings,2020-10-15,2021-04-04,4.0,341017.0
+43,Slovak Republic,Fiscal measures,2020-03-29,2020-03-29,2222800000.0,0.0
+44,Slovak Republic,Fiscal measures,2020-08-12,2020-08-12,4737000000.0,0.0
+41,Slovak Republic,Income support,2020-03-29,2021-04-04,2.0,364928.0
+35,Slovak Republic,International travel controls,2020-03-09,2020-03-12,2.0,13.0
+36,Slovak Republic,International travel controls,2020-03-13,2020-06-04,4.0,1494.0
+37,Slovak Republic,International travel controls,2020-06-05,2020-06-19,3.0,50.0
+38,Slovak Republic,International travel controls,2020-06-20,2020-08-15,2.0,1269.0
+39,Slovak Republic,International travel controls,2020-08-16,2020-08-31,3.0,1015.0
+40,Slovak Republic,International travel controls,2020-09-01,2021-04-04,2.0,361253.0
+57,Slovak Republic,Protection of elderly people,2020-03-12,2020-03-16,1.0,47.0
+58,Slovak Republic,Protection of elderly people,2020-03-17,2020-03-23,2.0,114.0
+59,Slovak Republic,Protection of elderly people,2020-03-24,2020-06-02,3.0,1318.0
+60,Slovak Republic,Protection of elderly people,2020-06-03,2020-09-01,2.0,2464.0
+61,Slovak Republic,Protection of elderly people,2020-09-02,2021-04-04,3.0,361200.0
+45,Slovak Republic,Public information campaigns,2020-01-27,2020-03-03,1.0,0.0
+46,Slovak Republic,Public information campaigns,2020-03-04,2021-04-04,2.0,365242.0
+15,Slovak Republic,Restrictions on gatherings,2020-03-12,2020-04-07,3.0,565.0
+16,Slovak Republic,Restrictions on gatherings,2020-04-08,2020-04-13,4.0,87.0
+17,Slovak Republic,Restrictions on gatherings,2020-04-14,2020-06-09,3.0,696.0
+18,Slovak Republic,Restrictions on gatherings,2020-06-10,2020-09-30,2.0,8608.0
+19,Slovak Republic,Restrictions on gatherings,2020-10-01,2020-10-04,4.0,2201.0
+20,Slovak Republic,Restrictions on gatherings,2020-10-05,2020-10-12,3.0,6863.0
+21,Slovak Republic,Restrictions on gatherings,2020-10-13,2020-12-18,4.0,125238.0
+22,Slovak Republic,Restrictions on gatherings,2020-12-19,2020-12-31,3.0,30268.0
+23,Slovak Republic,Restrictions on gatherings,2021-01-01,2021-04-04,4.0,180734.0
+29,Slovak Republic,Restrictions on internal movement,2020-03-16,2020-04-07,1.0,518.0
+30,Slovak Republic,Restrictions on internal movement,2020-04-08,2020-04-13,2.0,87.0
+31,Slovak Republic,Restrictions on internal movement,2020-04-14,2020-08-15,1.0,2020.0
+32,Slovak Republic,Restrictions on internal movement,2020-09-11,2020-10-04,1.0,7887.0
+33,Slovak Republic,Restrictions on internal movement,2020-10-22,2020-12-10,2.0,89591.0
+34,Slovak Republic,Restrictions on internal movement,2021-01-07,2021-04-04,2.0,167058.0
+0,Slovak Republic,School closing,2020-03-10,2020-03-15,2.0,47.0
+1,Slovak Republic,School closing,2020-03-16,2020-05-31,3.0,1458.0
+2,Slovak Republic,School closing,2020-06-01,2020-09-01,2.0,2467.0
+3,Slovak Republic,School closing,2020-09-02,2020-10-04,1.0,9097.0
+4,Slovak Republic,School closing,2020-10-05,2021-01-10,2.0,194717.0
+5,Slovak Republic,School closing,2021-01-11,2021-04-04,3.0,156173.0
+25,Slovak Republic,Stay at home requirements,2020-03-12,2020-04-07,1.0,565.0
+26,Slovak Republic,Stay at home requirements,2020-04-08,2020-04-13,2.0,87.0
+27,Slovak Republic,Stay at home requirements,2020-04-14,2020-06-13,1.0,710.0
+28,Slovak Republic,Stay at home requirements,2020-10-22,2021-04-04,2.0,329912.0
+47,Slovak Republic,Testing policy,2020-01-01,2020-07-08,1.0,1798.0
+48,Slovak Republic,Testing policy,2020-07-09,2020-09-03,2.0,2312.0
+49,Slovak Republic,Testing policy,2020-09-04,2021-04-04,3.0,360942.0
+55,Slovak Republic,Vaccination policy,2020-12-26,2021-01-17,1.0,56676.0
+56,Slovak Republic,Vaccination policy,2021-01-18,2021-04-04,2.0,140857.0
+6,Slovak Republic,Workplace closing,2020-03-13,2020-06-02,2.0,1490.0
+7,Slovak Republic,Workplace closing,2020-10-01,2020-10-14,1.0,11358.0
+8,Slovak Republic,Workplace closing,2020-10-15,2020-10-21,2.0,9377.0
+9,Slovak Republic,Workplace closing,2020-10-22,2020-11-15,3.0,51437.0
+10,Slovak Republic,Workplace closing,2020-11-16,2021-04-04,2.0,277966.0

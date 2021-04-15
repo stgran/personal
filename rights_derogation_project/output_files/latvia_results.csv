@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Latvia,Cancel public events,2020-03-13,2020-05-11,2.0,929.0
+10,Latvia,Cancel public events,2020-05-12,2020-08-16,1.0,372.0
+11,Latvia,Cancel public events,2020-11-03,2020-11-08,1.0,1656.0
+12,Latvia,Cancel public events,2020-11-09,2021-03-29,2.0,93020.0
+19,Latvia,Close public transport,2020-03-27,2020-06-09,1.0,809.0
+44,Latvia,Contact tracing,2020-03-18,2020-05-26,1.0,982.0
+45,Latvia,Contact tracing,2020-05-27,2020-10-02,2.0,888.0
+46,Latvia,Contact tracing,2020-10-03,2021-03-29,1.0,99188.0
+34,Latvia,Debt/contract relief,2020-03-12,2020-03-25,1.0,211.0
+35,Latvia,Debt/contract relief,2020-03-26,2021-03-29,2.0,100963.0
+47,Latvia,Emergency investment in healthcare,2020-03-03,2020-03-03,1891352.0,0.0
+48,Latvia,Emergency investment in healthcare,2020-04-24,2020-04-24,8041219.0,0.0
+49,Latvia,Emergency investment in healthcare,2020-10-20,2020-10-20,3547981.0,0.0
+50,Latvia,Emergency investment in healthcare,2020-12-15,2020-12-15,2431368.0,0.0
+51,Latvia,Emergency investment in healthcare,2021-02-18,2021-02-18,100251614.0,0.0
+52,Latvia,Facial Coverings,2020-05-12,2020-06-30,2.0,168.0
+53,Latvia,Facial Coverings,2020-07-01,2020-09-20,1.0,404.0
+54,Latvia,Facial Coverings,2020-09-21,2020-10-02,2.0,419.0
+55,Latvia,Facial Coverings,2020-10-03,2020-10-19,1.0,1475.0
+56,Latvia,Facial Coverings,2020-10-20,2020-10-23,2.0,599.0
+57,Latvia,Facial Coverings,2020-10-24,2021-03-29,3.0,96740.0
+36,Latvia,Fiscal measures,2020-03-20,2020-03-20,2241094221.93,0.0
+37,Latvia,Fiscal measures,2020-04-09,2020-04-09,572912500.0,0.0
+38,Latvia,Fiscal measures,2021-02-18,2021-02-18,219828841.0,0.0
+32,Latvia,Income support,2020-03-14,2020-05-14,2.0,936.0
+33,Latvia,Income support,2020-11-12,2021-03-29,2.0,91826.0
+23,Latvia,International travel controls,2020-02-27,2020-03-16,2.0,34.0
+24,Latvia,International travel controls,2020-03-17,2020-05-14,4.0,913.0
+25,Latvia,International travel controls,2020-05-15,2020-06-09,3.0,119.0
+26,Latvia,International travel controls,2020-06-10,2020-10-02,2.0,853.0
+27,Latvia,International travel controls,2020-10-03,2020-10-13,3.0,821.0
+28,Latvia,International travel controls,2020-10-14,2020-12-20,2.0,27998.0
+29,Latvia,International travel controls,2020-12-21,2021-01-01,3.0,10280.0
+30,Latvia,International travel controls,2021-01-02,2021-02-10,2.0,31930.0
+31,Latvia,International travel controls,2021-02-11,2021-03-29,3.0,26506.0
+60,Latvia,Protection of elderly people,2020-03-13,2020-12-02,3.0,18360.0
+61,Latvia,Protection of elderly people,2020-12-03,2020-12-29,2.0,18369.0
+62,Latvia,Protection of elderly people,2020-12-30,2021-01-04,1.0,4075.0
+63,Latvia,Protection of elderly people,2021-01-08,2021-01-10,1.0,1786.0
+64,Latvia,Protection of elderly people,2021-01-15,2021-01-17,1.0,1598.0
+65,Latvia,Protection of elderly people,2021-01-22,2021-01-24,1.0,1422.0
+66,Latvia,Protection of elderly people,2021-01-29,2021-01-31,1.0,1318.0
+67,Latvia,Protection of elderly people,2021-02-05,2021-02-07,1.0,1524.0
+39,Latvia,Public information campaigns,2020-01-31,2020-03-12,1.0,10.0
+40,Latvia,Public information campaigns,2020-03-13,2021-03-29,2.0,101190.0
+13,Latvia,Restrictions on gatherings,2020-03-13,2020-03-13,2.0,0.0
+14,Latvia,Restrictions on gatherings,2020-03-14,2020-06-09,3.0,1063.0
+15,Latvia,Restrictions on gatherings,2020-06-10,2020-07-31,2.0,139.0
+16,Latvia,Restrictions on gatherings,2020-08-01,2020-09-20,1.0,287.0
+17,Latvia,Restrictions on gatherings,2020-09-21,2020-10-23,2.0,2682.0
+18,Latvia,Restrictions on gatherings,2020-10-24,2021-03-29,4.0,96740.0
+0,Latvia,School closing,2020-03-13,2020-09-20,3.0,1508.0
+1,Latvia,School closing,2020-09-21,2020-10-14,1.0,1416.0
+2,Latvia,School closing,2020-10-15,2021-03-29,2.0,98151.0
+20,Latvia,Stay at home requirements,2020-03-13,2020-10-02,1.0,1928.0
+21,Latvia,Stay at home requirements,2020-12-30,2021-01-04,1.0,4075.0
+22,Latvia,Stay at home requirements,2021-01-08,2021-01-09,1.0,1170.0
+41,Latvia,Testing policy,2020-01-29,2020-06-09,1.0,1089.0
+42,Latvia,Testing policy,2020-06-10,2020-10-14,3.0,1850.0
+43,Latvia,Testing policy,2020-10-15,2021-03-29,2.0,98151.0
+58,Latvia,Vaccination policy,2020-12-28,2021-02-21,1.0,44681.0
+59,Latvia,Vaccination policy,2021-02-22,2021-03-29,2.0,19414.0
+3,Latvia,Workplace closing,2020-03-13,2020-03-23,1.0,163.0
+4,Latvia,Workplace closing,2020-03-24,2020-10-02,2.0,1748.0
+5,Latvia,Workplace closing,2020-10-05,2020-10-25,1.0,2552.0
+6,Latvia,Workplace closing,2020-10-26,2020-12-18,2.0,24670.0
+7,Latvia,Workplace closing,2020-12-19,2021-02-07,3.0,41503.0
+8,Latvia,Workplace closing,2021-02-08,2021-03-29,2.0,29119.0

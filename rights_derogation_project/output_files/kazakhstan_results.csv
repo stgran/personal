@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Kazakhstan,Cancel public events,2020-03-12,2021-04-02,2.0,301818.0
+11,Kazakhstan,Close public transport,2020-03-19,2020-07-04,2.0,47127.0
+12,Kazakhstan,Close public transport,2020-07-05,2020-09-04,1.0,84350.0
+13,Kazakhstan,Close public transport,2020-09-05,2020-10-12,2.0,10712.0
+14,Kazakhstan,Close public transport,2020-10-13,2020-12-30,1.0,56629.0
+15,Kazakhstan,Close public transport,2021-02-02,2021-02-15,1.0,13595.0
+16,Kazakhstan,Close public transport,2021-03-28,2021-03-28,2.0,0.0
+50,Kazakhstan,Contact tracing,2020-03-24,2020-09-24,2.0,139217.0
+51,Kazakhstan,Contact tracing,2020-09-25,2020-12-18,1.0,50711.0
+52,Kazakhstan,Contact tracing,2021-02-02,2021-02-15,1.0,13595.0
+36,Kazakhstan,Debt/contract relief,2020-03-21,2020-12-30,1.0,200390.0
+37,Kazakhstan,Debt/contract relief,2021-02-02,2021-02-15,2.0,13595.0
+53,Kazakhstan,Emergency investment in healthcare,2020-04-08,2020-04-08,190410629.0,0.0
+54,Kazakhstan,Emergency investment in healthcare,2020-05-18,2020-05-18,13077568.0,0.0
+55,Kazakhstan,Emergency investment in healthcare,2020-08-26,2020-08-26,57094603.0,0.0
+56,Kazakhstan,Emergency investment in healthcare,2020-09-04,2020-09-04,357000000.0,0.0
+57,Kazakhstan,Emergency investment in healthcare,2020-10-13,2020-10-13,555915679.0,0.0
+58,Kazakhstan,Facial Coverings,2020-01-24,2020-05-10,1.0,5090.0
+59,Kazakhstan,Facial Coverings,2020-05-11,2020-05-24,2.0,3324.0
+60,Kazakhstan,Facial Coverings,2020-05-25,2021-02-01,3.0,228060.0
+61,Kazakhstan,Facial Coverings,2021-02-02,2021-04-02,4.0,63454.0
+38,Kazakhstan,Fiscal measures,2020-03-16,2020-03-16,734000000.0,0.0
+39,Kazakhstan,Fiscal measures,2020-03-19,2020-03-19,1300000000.0,0.0
+40,Kazakhstan,Fiscal measures,2020-03-30,2020-03-30,10000000000.0,0.0
+41,Kazakhstan,Fiscal measures,2020-10-13,2020-10-13,609500322.0,0.0
+42,Kazakhstan,Fiscal measures,2020-11-20,2020-11-20,467376597.0,0.0
+33,Kazakhstan,Income support,2020-03-16,2020-05-10,1.0,5080.0
+34,Kazakhstan,Income support,2020-07-16,2020-08-31,1.0,63778.0
+35,Kazakhstan,Income support,2021-02-02,2021-02-15,1.0,13595.0
+43,Kazakhstan,International support,2020-04-16,2020-04-16,6000000.0,0.0
+30,Kazakhstan,International travel controls,2020-01-29,2020-03-15,3.0,9.0
+31,Kazakhstan,International travel controls,2020-03-16,2020-07-30,4.0,89068.0
+32,Kazakhstan,International travel controls,2020-07-31,2021-04-02,3.0,211451.0
+63,Kazakhstan,Protection of elderly people,2020-03-28,2020-05-03,3.0,3692.0
+64,Kazakhstan,Protection of elderly people,2020-05-04,2020-07-04,1.0,43122.0
+65,Kazakhstan,Protection of elderly people,2020-07-05,2020-12-09,2.0,134083.0
+66,Kazakhstan,Protection of elderly people,2020-12-10,2020-12-20,3.0,8020.0
+67,Kazakhstan,Protection of elderly people,2020-12-21,2021-02-15,2.0,59380.0
+68,Kazakhstan,Protection of elderly people,2021-02-16,2021-04-02,1.0,48997.0
+44,Kazakhstan,Public information campaigns,2020-03-16,2021-04-02,2.0,301808.0
+9,Kazakhstan,Restrictions on gatherings,2020-03-12,2020-03-18,1.0,35.0
+10,Kazakhstan,Restrictions on gatherings,2020-03-19,2021-04-02,4.0,301774.0
+25,Kazakhstan,Restrictions on internal movement,2020-03-18,2020-05-31,2.0,10823.0
+26,Kazakhstan,Restrictions on internal movement,2020-06-01,2020-07-04,1.0,35863.0
+27,Kazakhstan,Restrictions on internal movement,2020-07-05,2021-02-01,2.0,188455.0
+28,Kazakhstan,Restrictions on internal movement,2021-02-02,2021-03-26,1.0,50738.0
+29,Kazakhstan,Restrictions on internal movement,2021-03-27,2021-04-02,2.0,11026.0
+0,Kazakhstan,School closing,2020-03-16,2020-08-31,3.0,130663.0
+1,Kazakhstan,School closing,2020-09-01,2020-12-03,2.0,45790.0
+2,Kazakhstan,School closing,2020-12-04,2020-12-31,3.0,22818.0
+3,Kazakhstan,School closing,2021-01-01,2021-04-02,2.0,99758.0
+17,Kazakhstan,Stay at home requirements,2020-03-19,2020-05-10,3.0,5046.0
+18,Kazakhstan,Stay at home requirements,2020-05-11,2020-07-04,2.0,41964.0
+19,Kazakhstan,Stay at home requirements,2020-07-05,2020-08-16,1.0,72587.0
+20,Kazakhstan,Stay at home requirements,2020-08-17,2020-10-27,2.0,25976.0
+21,Kazakhstan,Stay at home requirements,2020-10-28,2020-11-27,1.0,23758.0
+22,Kazakhstan,Stay at home requirements,2020-11-28,2020-12-30,2.0,27638.0
+23,Kazakhstan,Stay at home requirements,2020-12-31,2021-02-15,1.0,50763.0
+24,Kazakhstan,Stay at home requirements,2021-03-28,2021-04-02,1.0,9512.0
+45,Kazakhstan,Testing policy,2020-01-31,2020-04-30,1.0,3402.0
+46,Kazakhstan,Testing policy,2020-05-01,2020-09-28,3.0,136668.0
+47,Kazakhstan,Testing policy,2020-09-29,2020-10-13,1.0,3481.0
+48,Kazakhstan,Testing policy,2020-10-14,2020-10-27,2.0,3397.0
+49,Kazakhstan,Testing policy,2020-10-28,2021-04-02,1.0,153781.0
+62,Kazakhstan,Vaccination policy,2021-02-02,2021-04-02,1.0,63454.0
+4,Kazakhstan,Workplace closing,2020-03-30,2020-05-10,3.0,4788.0
+5,Kazakhstan,Workplace closing,2020-05-11,2020-09-04,2.0,127717.0
+6,Kazakhstan,Workplace closing,2020-09-05,2020-09-13,3.0,3356.0
+7,Kazakhstan,Workplace closing,2020-09-14,2021-04-02,2.0,165305.0

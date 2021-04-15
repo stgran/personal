@@ -1,0 +1,27 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Tanzania,Cancel public events,2020-03-17,2020-05-31,2.0,508.0
+5,Tanzania,Cancel public events,2020-06-01,2020-09-16,1.0,0.0
+19,Tanzania,Contact tracing,2020-03-16,2020-07-20,1.0,508.0
+20,Tanzania,Emergency investment in healthcare,2020-03-27,2020-03-27,1000000.0,0.0
+21,Tanzania,Emergency investment in healthcare,2020-03-30,2020-03-30,513025.0,0.0
+22,Tanzania,Emergency investment in healthcare,2020-05-21,2020-05-21,302000000.0,0.0
+23,Tanzania,Facial Coverings,2020-04-20,2021-02-01,2.0,255.0
+24,Tanzania,Facial Coverings,2021-02-16,2021-03-14,1.0,0.0
+25,Tanzania,Facial Coverings,2021-03-31,2021-04-05,1.0,0.0
+7,Tanzania,International travel controls,2020-01-30,2020-03-14,1.0,0.0
+8,Tanzania,International travel controls,2020-03-15,2020-04-11,3.0,32.0
+9,Tanzania,International travel controls,2020-04-12,2020-05-17,4.0,477.0
+10,Tanzania,International travel controls,2020-07-20,2020-08-26,1.0,0.0
+11,Tanzania,International travel controls,2020-08-27,2020-09-16,2.0,0.0
+12,Tanzania,International travel controls,2020-09-17,2021-04-05,1.0,0.0
+13,Tanzania,Public information campaigns,2020-03-26,2020-08-17,2.0,496.0
+14,Tanzania,Public information campaigns,2020-08-18,2020-10-14,1.0,0.0
+15,Tanzania,Public information campaigns,2020-10-15,2020-12-13,2.0,0.0
+16,Tanzania,Public information campaigns,2021-02-02,2021-04-05,1.0,0.0
+6,Tanzania,Restrictions on gatherings,2020-03-17,2020-09-16,3.0,508.0
+0,Tanzania,School closing,2020-03-17,2020-03-17,2.0,0.0
+1,Tanzania,School closing,2020-03-18,2020-05-31,3.0,506.0
+2,Tanzania,School closing,2020-06-01,2020-06-28,2.0,0.0
+3,Tanzania,School closing,2020-06-29,2021-02-15,1.0,0.0
+17,Tanzania,Testing policy,2020-09-17,2021-02-22,1.0,0.0
+18,Tanzania,Testing policy,2021-03-15,2021-04-05,1.0,0.0

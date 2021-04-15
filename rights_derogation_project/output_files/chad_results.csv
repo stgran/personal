@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Chad,Cancel public events,2020-04-13,2020-12-21,2.0,1879.0
+12,Chad,Cancel public events,2020-12-22,2021-01-03,1.0,297.0
+13,Chad,Cancel public events,2021-01-04,2021-01-11,2.0,360.0
+14,Chad,Cancel public events,2021-01-12,2021-02-01,1.0,717.0
+19,Chad,Close public transport,2020-04-13,2020-05-17,2.0,480.0
+20,Chad,Close public transport,2020-09-18,2021-01-03,1.0,1066.0
+44,Chad,Contact tracing,2020-03-19,2020-07-21,1.0,888.0
+45,Chad,Contact tracing,2020-07-22,2021-01-03,2.0,1324.0
+46,Chad,Contact tracing,2021-01-04,2021-02-14,1.0,1416.0
+47,Chad,Contact tracing,2021-02-15,2021-04-06,2.0,939.0
+36,Chad,Debt/contract relief,2020-03-27,2020-10-15,2.0,1347.0
+37,Chad,Debt/contract relief,2020-10-16,2021-02-01,1.0,2024.0
+38,Chad,Debt/contract relief,2021-02-02,2021-02-28,2.0,569.0
+48,Chad,Emergency investment in healthcare,2020-08-25,2020-08-25,75306751.0,0.0
+49,Chad,Facial Coverings,2020-05-07,2020-09-07,3.0,787.0
+50,Chad,Facial Coverings,2020-09-08,2021-04-06,4.0,3558.0
+39,Chad,Fiscal measures,2020-04-23,2020-04-23,24000000.0,0.0
+40,Chad,Fiscal measures,2020-08-25,2020-08-25,320450198.0,0.0
+29,Chad,International travel controls,2020-03-08,2020-03-17,2.0,0.0
+30,Chad,International travel controls,2020-03-18,2020-04-12,3.0,18.0
+31,Chad,International travel controls,2020-04-13,2020-07-31,4.0,913.0
+32,Chad,International travel controls,2020-08-01,2021-01-03,2.0,1277.0
+33,Chad,International travel controls,2021-01-04,2021-02-14,4.0,1416.0
+34,Chad,International travel controls,2021-02-15,2021-02-28,3.0,309.0
+35,Chad,International travel controls,2021-03-01,2021-04-06,2.0,617.0
+51,Chad,Protection of elderly people,2021-03-01,2021-03-08,2.0,207.0
+41,Chad,Public information campaigns,2020-03-07,2021-04-06,2.0,4603.0
+15,Chad,Restrictions on gatherings,2020-03-19,2020-09-17,3.0,1114.0
+16,Chad,Restrictions on gatherings,2020-09-18,2021-01-03,4.0,1066.0
+17,Chad,Restrictions on gatherings,2021-01-04,2021-01-11,3.0,360.0
+18,Chad,Restrictions on gatherings,2021-01-12,2021-02-01,4.0,717.0
+26,Chad,Restrictions on internal movement,2020-04-13,2020-06-24,2.0,837.0
+27,Chad,Restrictions on internal movement,2020-06-25,2020-07-27,1.0,59.0
+28,Chad,Restrictions on internal movement,2020-07-28,2021-02-14,2.0,2719.0
+0,Chad,School closing,2020-04-13,2020-06-24,3.0,837.0
+1,Chad,School closing,2020-06-25,2020-09-14,2.0,222.0
+2,Chad,School closing,2020-09-15,2020-09-30,3.0,113.0
+3,Chad,School closing,2020-10-01,2020-10-30,2.0,280.0
+4,Chad,School closing,2020-10-31,2021-01-03,1.0,730.0
+5,Chad,School closing,2021-01-04,2021-02-01,3.0,1156.0
+21,Chad,Stay at home requirements,2020-04-02,2020-12-21,2.0,1894.0
+22,Chad,Stay at home requirements,2020-12-22,2021-01-03,1.0,297.0
+23,Chad,Stay at home requirements,2021-01-04,2021-02-01,2.0,1156.0
+24,Chad,Stay at home requirements,2021-02-02,2021-02-14,1.0,241.0
+25,Chad,Stay at home requirements,2021-02-15,2021-03-22,2.0,763.0
+42,Chad,Testing policy,2020-03-19,2021-01-03,1.0,2212.0
+43,Chad,Testing policy,2021-01-04,2021-04-06,2.0,2374.0
+6,Chad,Workplace closing,2020-04-13,2020-05-17,3.0,480.0
+7,Chad,Workplace closing,2020-05-18,2020-10-15,2.0,831.0
+8,Chad,Workplace closing,2020-10-16,2021-01-03,1.0,852.0
+9,Chad,Workplace closing,2021-01-04,2021-01-11,2.0,360.0
+10,Chad,Workplace closing,2021-01-12,2021-02-01,3.0,717.0

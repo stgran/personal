@@ -1,0 +1,79 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+19,New Brunswick,Cancel public events,2020-01-01,2020-03-18,1.0,2.0
+20,New Brunswick,Cancel public events,2020-03-19,2021-03-07,2.0,1448.0
+21,New Brunswick,Cancel public events,2021-03-08,2021-03-24,1.0,57.0
+22,New Brunswick,Cancel public events,2021-03-25,2021-04-08,2.0,140.0
+32,New Brunswick,Close public transport,2020-03-19,2020-12-22,1.0,573.0
+33,New Brunswick,Close public transport,2021-01-06,2021-03-07,1.0,762.0
+56,New Brunswick,Contact tracing,2020-03-15,2020-06-18,1.0,163.0
+57,New Brunswick,Contact tracing,2020-06-19,2020-11-21,2.0,260.0
+58,New Brunswick,Contact tracing,2020-11-22,2020-12-22,1.0,150.0
+59,New Brunswick,Contact tracing,2020-12-23,2021-04-08,2.0,1101.0
+44,New Brunswick,Debt/contract relief,2020-03-19,2020-08-04,1.0,163.0
+45,New Brunswick,Debt/contract relief,2020-08-05,2021-03-31,2.0,1439.0
+46,New Brunswick,Debt/contract relief,2021-04-01,2021-04-08,1.0,63.0
+60,New Brunswick,Emergency investment in healthcare,2021-03-16,2021-03-16,107928637.0,0.0
+61,New Brunswick,Facial Coverings,2020-04-06,2020-04-19,1.0,15.0
+62,New Brunswick,Facial Coverings,2020-04-20,2020-11-19,2.0,274.0
+63,New Brunswick,Facial Coverings,2020-11-20,2020-12-22,3.0,179.0
+64,New Brunswick,Facial Coverings,2020-12-23,2021-01-05,2.0,77.0
+65,New Brunswick,Facial Coverings,2021-01-06,2021-03-14,3.0,777.0
+66,New Brunswick,Facial Coverings,2021-03-15,2021-03-24,2.0,45.0
+67,New Brunswick,Facial Coverings,2021-03-25,2021-04-08,3.0,140.0
+47,New Brunswick,Fiscal measures,2021-02-08,2021-02-08,32141704.0,0.0
+42,New Brunswick,Income support,2020-03-12,2020-12-01,2.0,508.0
+43,New Brunswick,Income support,2020-12-02,2021-04-08,1.0,1172.0
+41,New Brunswick,International travel controls,2020-03-16,2021-04-08,4.0,1685.0
+72,New Brunswick,Protection of elderly people,2020-03-11,2020-04-13,2.0,116.0
+73,New Brunswick,Protection of elderly people,2020-04-14,2020-06-18,3.0,48.0
+74,New Brunswick,Protection of elderly people,2020-06-19,2020-10-09,2.0,74.0
+75,New Brunswick,Protection of elderly people,2020-10-10,2020-12-22,3.0,322.0
+76,New Brunswick,Protection of elderly people,2020-12-23,2021-01-05,2.0,77.0
+77,New Brunswick,Protection of elderly people,2021-01-06,2021-04-08,3.0,993.0
+48,New Brunswick,Public information campaigns,2020-01-06,2020-03-24,1.0,18.0
+49,New Brunswick,Public information campaigns,2020-03-25,2021-04-08,2.0,1660.0
+23,New Brunswick,Restrictions on gatherings,2020-03-19,2020-06-25,4.0,158.0
+24,New Brunswick,Restrictions on gatherings,2020-06-26,2020-10-08,3.0,60.0
+25,New Brunswick,Restrictions on gatherings,2020-10-09,2020-11-05,4.0,111.0
+26,New Brunswick,Restrictions on gatherings,2020-11-06,2020-11-19,3.0,42.0
+27,New Brunswick,Restrictions on gatherings,2020-11-20,2020-12-22,4.0,179.0
+28,New Brunswick,Restrictions on gatherings,2020-12-23,2021-01-05,3.0,77.0
+29,New Brunswick,Restrictions on gatherings,2021-01-06,2021-02-18,4.0,718.0
+30,New Brunswick,Restrictions on gatherings,2021-02-19,2021-03-24,3.0,99.0
+31,New Brunswick,Restrictions on gatherings,2021-03-25,2021-04-08,4.0,140.0
+40,New Brunswick,Restrictions on internal movement,2020-03-25,2021-04-08,2.0,1660.0
+0,New Brunswick,School closing,2020-03-16,2020-05-24,3.0,120.0
+1,New Brunswick,School closing,2020-05-25,2020-09-07,2.0,71.0
+2,New Brunswick,School closing,2020-09-08,2021-01-22,1.0,895.0
+3,New Brunswick,School closing,2021-01-23,2021-02-08,3.0,242.0
+4,New Brunswick,School closing,2021-02-09,2021-02-09,2.0,0.0
+5,New Brunswick,School closing,2021-02-10,2021-03-25,1.0,171.0
+6,New Brunswick,School closing,2021-03-26,2021-04-08,2.0,127.0
+34,New Brunswick,Stay at home requirements,2020-03-16,2020-03-18,1.0,1.0
+35,New Brunswick,Stay at home requirements,2020-03-19,2020-04-23,2.0,111.0
+36,New Brunswick,Stay at home requirements,2021-01-17,2021-01-22,1.0,140.0
+37,New Brunswick,Stay at home requirements,2021-01-23,2021-02-08,2.0,242.0
+38,New Brunswick,Stay at home requirements,2021-02-09,2021-02-18,1.0,50.0
+39,New Brunswick,Stay at home requirements,2021-03-25,2021-04-08,1.0,140.0
+50,New Brunswick,Testing policy,2020-03-21,2020-07-30,1.0,161.0
+51,New Brunswick,Testing policy,2020-07-31,2021-03-03,2.0,1268.0
+52,New Brunswick,Testing policy,2021-03-04,2021-03-06,3.0,10.0
+53,New Brunswick,Testing policy,2021-03-07,2021-03-24,2.0,61.0
+54,New Brunswick,Testing policy,2021-03-25,2021-03-28,3.0,31.0
+55,New Brunswick,Testing policy,2021-03-29,2021-03-29,2.0,0.0
+68,New Brunswick,Vaccination policy,2020-12-19,2021-01-07,2.0,139.0
+69,New Brunswick,Vaccination policy,2021-01-08,2021-02-17,3.0,672.0
+70,New Brunswick,Vaccination policy,2021-02-23,2021-03-07,2.0,31.0
+71,New Brunswick,Vaccination policy,2021-03-08,2021-04-08,3.0,227.0
+7,New Brunswick,Workplace closing,2020-03-16,2020-03-16,1.0,0.0
+8,New Brunswick,Workplace closing,2020-03-17,2020-03-18,2.0,0.0
+9,New Brunswick,Workplace closing,2020-03-19,2020-04-23,3.0,111.0
+10,New Brunswick,Workplace closing,2020-04-24,2020-05-26,2.0,4.0
+11,New Brunswick,Workplace closing,2020-05-27,2020-06-25,3.0,42.0
+12,New Brunswick,Workplace closing,2020-11-20,2020-12-22,1.0,179.0
+13,New Brunswick,Workplace closing,2021-01-06,2021-01-17,1.0,254.0
+14,New Brunswick,Workplace closing,2021-01-18,2021-01-22,2.0,114.0
+15,New Brunswick,Workplace closing,2021-01-23,2021-02-08,3.0,242.0
+16,New Brunswick,Workplace closing,2021-02-09,2021-02-18,2.0,50.0
+17,New Brunswick,Workplace closing,2021-02-19,2021-03-07,1.0,38.0
+18,New Brunswick,Workplace closing,2021-03-25,2021-04-08,2.0,140.0

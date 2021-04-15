@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Moldova,Cancel public events,2020-03-10,2020-09-23,2.0,48229.0
+8,Moldova,Cancel public events,2020-09-24,2020-10-08,1.0,10962.0
+9,Moldova,Cancel public events,2020-10-09,2021-02-04,2.0,101791.0
+10,Moldova,Cancel public events,2021-02-05,2021-02-28,1.0,22053.0
+11,Moldova,Cancel public events,2021-03-01,2021-04-05,2.0,49343.0
+16,Moldova,Close public transport,2020-03-23,2020-07-16,2.0,20155.0
+17,Moldova,Close public transport,2021-02-15,2021-02-19,1.0,4634.0
+18,Moldova,Close public transport,2021-03-01,2021-04-05,1.0,49343.0
+45,Moldova,Contact tracing,2020-03-09,2020-04-29,1.0,3770.0
+46,Moldova,Contact tracing,2020-04-30,2021-01-03,2.0,141976.0
+34,Moldova,Debt/contract relief,2020-04-03,2021-04-05,1.0,235199.0
+47,Moldova,Emergency investment in healthcare,2020-09-23,2020-09-23,10508349.0,0.0
+49,Moldova,Facial Coverings,2020-05-15,2020-11-29,2.0,101272.0
+50,Moldova,Facial Coverings,2020-11-30,2021-04-05,3.0,128426.0
+35,Moldova,Fiscal measures,2020-04-17,2020-04-17,452000000.0,0.0
+36,Moldova,Fiscal measures,2020-07-01,2020-07-01,9400000.0,0.0
+37,Moldova,Fiscal measures,2020-08-21,2020-08-21,96408.0,0.0
+33,Moldova,Income support,2020-04-03,2021-04-05,1.0,235199.0
+38,Moldova,International support,2020-05-06,2020-05-06,57000.0,0.0
+39,Moldova,International support,2020-07-07,2020-07-07,550000000.0,0.0
+40,Moldova,International support,2020-07-10,2020-07-10,34000000.0,0.0
+25,Moldova,International travel controls,2020-02-26,2020-03-07,1.0,0.0
+26,Moldova,International travel controls,2020-03-08,2020-03-09,2.0,0.0
+27,Moldova,International travel controls,2020-03-10,2020-03-16,3.0,20.0
+28,Moldova,International travel controls,2020-03-17,2020-07-09,4.0,18636.0
+29,Moldova,International travel controls,2020-07-10,2020-07-16,3.0,1340.0
+30,Moldova,International travel controls,2020-07-17,2020-09-30,2.0,32548.0
+31,Moldova,International travel controls,2020-10-01,2021-03-14,3.0,150399.0
+32,Moldova,International travel controls,2021-03-15,2021-04-05,1.0,30466.0
+48,Moldova,Investment in vaccines,2021-03-11,2021-03-11,14723949.0,0.0
+52,Moldova,Protection of elderly people,2020-03-25,2021-04-05,3.0,235641.0
+41,Moldova,Public information campaigns,2020-01-24,2020-07-16,1.0,20264.0
+42,Moldova,Public information campaigns,2020-07-17,2021-04-05,2.0,215296.0
+12,Moldova,Restrictions on gatherings,2020-03-10,2020-03-20,3.0,63.0
+13,Moldova,Restrictions on gatherings,2020-03-21,2020-09-15,4.0,43654.0
+14,Moldova,Restrictions on gatherings,2020-09-16,2020-11-29,3.0,62656.0
+15,Moldova,Restrictions on gatherings,2020-11-30,2021-04-05,4.0,128426.0
+23,Moldova,Restrictions on internal movement,2020-03-24,2020-07-16,2.0,20139.0
+24,Moldova,Restrictions on internal movement,2020-10-05,2021-04-05,1.0,178889.0
+0,Moldova,School closing,2020-03-11,2020-09-01,3.0,37205.0
+1,Moldova,School closing,2020-09-02,2021-02-28,1.0,147713.0
+2,Moldova,School closing,2021-03-01,2021-04-05,3.0,49343.0
+19,Moldova,Stay at home requirements,2020-03-24,2020-05-15,2.0,5620.0
+20,Moldova,Stay at home requirements,2020-05-16,2020-07-09,1.0,12732.0
+21,Moldova,Stay at home requirements,2020-10-01,2021-03-04,1.0,137133.0
+22,Moldova,Stay at home requirements,2021-03-05,2021-04-05,2.0,42805.0
+43,Moldova,Testing policy,2020-03-11,2020-04-29,1.0,3768.0
+44,Moldova,Testing policy,2020-04-30,2021-04-05,2.0,231893.0
+51,Moldova,Vaccination policy,2021-03-02,2021-04-05,1.0,47943.0
+3,Moldova,Workplace closing,2020-03-11,2020-09-27,2.0,50872.0
+4,Moldova,Workplace closing,2020-09-28,2020-11-27,1.0,52946.0
+5,Moldova,Workplace closing,2020-11-28,2021-03-04,2.0,85345.0
+6,Moldova,Workplace closing,2021-03-05,2021-04-05,3.0,42805.0

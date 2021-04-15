@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Northern Ireland,Cancel public events,2020-03-17,2020-03-20,1.0,44.0
+11,Northern Ireland,Cancel public events,2020-03-21,2021-03-26,2.0,116638.0
+15,Northern Ireland,Close public transport,2020-03-20,2021-03-26,1.0,116658.0
+34,Northern Ireland,Contact tracing,2020-01-31,2020-02-26,1.0,0.0
+35,Northern Ireland,Contact tracing,2020-02-27,2020-03-11,2.0,31.0
+36,Northern Ireland,Contact tracing,2020-03-12,2020-04-22,1.0,2950.0
+37,Northern Ireland,Contact tracing,2020-04-23,2020-11-01,2.0,35983.0
+38,Northern Ireland,Contact tracing,2020-11-02,2021-03-26,1.0,77040.0
+28,Northern Ireland,Debt/contract relief,2020-03-17,2020-03-18,1.0,13.0
+29,Northern Ireland,Debt/contract relief,2020-03-19,2021-03-26,2.0,116675.0
+39,Northern Ireland,Facial Coverings,2020-07-10,2020-09-23,2.0,4145.0
+40,Northern Ireland,Facial Coverings,2020-09-25,2020-10-13,2.0,12476.0
+41,Northern Ireland,Facial Coverings,2020-10-14,2021-03-26,3.0,92879.0
+27,Northern Ireland,Income support,2020-03-20,2021-03-26,2.0,116658.0
+25,Northern Ireland,International travel controls,2020-06-08,2020-12-23,2.0,58753.0
+26,Northern Ireland,International travel controls,2020-12-24,2021-03-26,3.0,51924.0
+44,Northern Ireland,Protection of elderly people,2020-03-23,2020-07-05,3.0,5461.0
+45,Northern Ireland,Protection of elderly people,2020-07-06,2020-12-25,2.0,59527.0
+46,Northern Ireland,Protection of elderly people,2020-12-26,2021-02-28,3.0,46530.0
+47,Northern Ireland,Protection of elderly people,2021-03-01,2021-03-26,2.0,4140.0
+30,Northern Ireland,Public information campaigns,2020-01-20,2020-02-01,1.0,0.0
+31,Northern Ireland,Public information campaigns,2020-02-02,2021-03-26,2.0,116776.0
+12,Northern Ireland,Restrictions on gatherings,2020-03-23,2020-12-24,4.0,64655.0
+13,Northern Ireland,Restrictions on gatherings,2020-12-25,2020-12-25,3.0,0.0
+14,Northern Ireland,Restrictions on gatherings,2020-12-26,2021-03-26,4.0,50865.0
+20,Northern Ireland,Restrictions on internal movement,2020-03-22,2020-03-22,1.0,0.0
+21,Northern Ireland,Restrictions on internal movement,2020-03-23,2020-05-11,2.0,4213.0
+22,Northern Ireland,Restrictions on internal movement,2020-05-12,2020-06-25,1.0,1121.0
+23,Northern Ireland,Restrictions on internal movement,2020-10-14,2020-11-01,2.0,15143.0
+24,Northern Ireland,Restrictions on internal movement,2020-11-02,2021-03-26,1.0,77040.0
+0,Northern Ireland,School closing,2020-03-18,2020-08-23,3.0,6605.0
+1,Northern Ireland,School closing,2020-08-24,2020-08-30,2.0,377.0
+2,Northern Ireland,School closing,2020-10-14,2020-11-01,3.0,15143.0
+3,Northern Ireland,School closing,2020-11-02,2021-01-03,1.0,39718.0
+4,Northern Ireland,School closing,2021-01-04,2021-03-07,3.0,32192.0
+5,Northern Ireland,School closing,2021-03-08,2021-03-26,2.0,2897.0
+16,Northern Ireland,Stay at home requirements,2020-03-23,2020-05-11,2.0,4213.0
+17,Northern Ireland,Stay at home requirements,2020-05-12,2020-07-30,1.0,1357.0
+18,Northern Ireland,Stay at home requirements,2020-10-14,2021-01-06,1.0,60706.0
+19,Northern Ireland,Stay at home requirements,2021-01-07,2021-03-26,2.0,30935.0
+32,Northern Ireland,Testing policy,2020-01-20,2020-05-17,1.0,4791.0
+33,Northern Ireland,Testing policy,2020-05-18,2021-03-26,2.0,111923.0
+42,Northern Ireland,Vaccination policy,2020-12-08,2021-02-10,3.0,51975.0
+43,Northern Ireland,Vaccination policy,2021-02-15,2021-03-26,4.0,7497.0
+6,Northern Ireland,Workplace closing,2020-03-16,2020-03-20,1.0,52.0
+7,Northern Ireland,Workplace closing,2020-03-21,2020-05-17,3.0,4653.0
+8,Northern Ireland,Workplace closing,2020-05-18,2020-12-25,2.0,60340.0
+9,Northern Ireland,Workplace closing,2020-12-26,2021-03-26,3.0,50865.0

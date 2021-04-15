@@ -1,0 +1,64 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,South Sudan,Cancel public events,2020-03-16,2020-09-21,2.0,2649.0
+10,South Sudan,Cancel public events,2020-09-22,2020-11-16,1.0,352.0
+11,South Sudan,Cancel public events,2020-11-17,2021-01-04,2.0,573.0
+12,South Sudan,Cancel public events,2021-01-05,2021-02-02,1.0,340.0
+13,South Sudan,Cancel public events,2021-02-03,2021-04-05,2.0,6352.0
+18,South Sudan,Close public transport,2020-03-29,2020-05-06,1.0,58.0
+19,South Sudan,Close public transport,2020-05-29,2020-09-09,2.0,1561.0
+20,South Sudan,Close public transport,2020-09-10,2020-09-21,1.0,94.0
+21,South Sudan,Close public transport,2021-02-03,2021-04-05,1.0,6352.0
+48,South Sudan,Contact tracing,2020-04-05,2020-05-06,1.0,57.0
+49,South Sudan,Contact tracing,2020-05-07,2020-08-31,2.0,2453.0
+50,South Sudan,Contact tracing,2020-09-01,2020-11-16,1.0,485.0
+51,South Sudan,Contact tracing,2020-11-17,2020-12-21,2.0,218.0
+52,South Sudan,Contact tracing,2020-12-22,2021-02-02,1.0,695.0
+53,South Sudan,Contact tracing,2021-03-15,2021-04-05,1.0,727.0
+54,South Sudan,Emergency investment in healthcare,2020-03-27,2020-03-27,8.0,0.0
+55,South Sudan,Emergency investment in healthcare,2020-04-09,2020-04-09,7600000.0,0.0
+56,South Sudan,Facial Coverings,2020-05-08,2020-12-21,3.0,3114.0
+57,South Sudan,Facial Coverings,2020-12-22,2021-02-02,2.0,695.0
+58,South Sudan,Facial Coverings,2021-02-03,2021-02-07,3.0,426.0
+59,South Sudan,Facial Coverings,2021-02-08,2021-03-14,2.0,4881.0
+60,South Sudan,Facial Coverings,2021-03-15,2021-04-05,3.0,727.0
+41,South Sudan,Income support,2020-04-28,2020-10-07,1.0,2714.0
+34,South Sudan,International travel controls,2020-02-24,2020-03-12,2.0,0.0
+35,South Sudan,International travel controls,2020-03-13,2020-03-23,3.0,0.0
+36,South Sudan,International travel controls,2020-03-24,2020-05-11,4.0,156.0
+37,South Sudan,International travel controls,2020-05-12,2020-05-28,2.0,800.0
+38,South Sudan,International travel controls,2020-05-29,2020-08-05,4.0,1443.0
+39,South Sudan,International travel controls,2020-08-06,2020-08-31,3.0,77.0
+40,South Sudan,International travel controls,2020-09-01,2021-04-05,2.0,7754.0
+61,South Sudan,Protection of elderly people,2021-02-03,2021-03-14,1.0,5561.0
+62,South Sudan,Protection of elderly people,2021-03-15,2021-04-05,2.0,727.0
+42,South Sudan,Public information campaigns,2020-03-16,2021-04-05,2.0,10281.0
+14,South Sudan,Restrictions on gatherings,2020-03-16,2020-12-14,3.0,3206.0
+15,South Sudan,Restrictions on gatherings,2020-12-15,2021-01-04,2.0,367.0
+16,South Sudan,Restrictions on gatherings,2021-01-05,2021-02-02,3.0,340.0
+17,South Sudan,Restrictions on gatherings,2021-02-03,2021-04-05,4.0,6352.0
+28,South Sudan,Restrictions on internal movement,2020-04-12,2020-07-07,2.0,2017.0
+29,South Sudan,Restrictions on internal movement,2020-07-08,2020-09-21,1.0,628.0
+30,South Sudan,Restrictions on internal movement,2020-12-01,2021-01-11,1.0,551.0
+31,South Sudan,Restrictions on internal movement,2021-01-19,2021-02-07,1.0,593.0
+32,South Sudan,Restrictions on internal movement,2021-02-08,2021-03-14,2.0,4881.0
+33,South Sudan,Restrictions on internal movement,2021-03-15,2021-04-05,1.0,727.0
+0,South Sudan,School closing,2020-03-20,2020-10-05,3.0,2726.0
+1,South Sudan,School closing,2020-10-06,2020-12-09,2.0,447.0
+2,South Sudan,School closing,2020-12-10,2021-01-04,1.0,408.0
+3,South Sudan,School closing,2021-01-05,2021-04-05,2.0,6692.0
+22,South Sudan,Stay at home requirements,2020-03-24,2020-04-17,1.0,4.0
+23,South Sudan,Stay at home requirements,2020-04-18,2020-07-07,2.0,2017.0
+24,South Sudan,Stay at home requirements,2020-07-08,2020-08-05,1.0,416.0
+25,South Sudan,Stay at home requirements,2020-08-06,2020-09-15,2.0,142.0
+26,South Sudan,Stay at home requirements,2020-09-16,2021-01-18,1.0,1109.0
+27,South Sudan,Stay at home requirements,2021-02-03,2021-04-05,2.0,6352.0
+43,South Sudan,Testing policy,2020-03-02,2020-04-04,1.0,0.0
+44,South Sudan,Testing policy,2020-04-05,2020-06-15,2.0,1692.0
+45,South Sudan,Testing policy,2020-06-16,2020-10-07,1.0,972.0
+46,South Sudan,Testing policy,2020-10-23,2020-11-30,1.0,233.0
+47,South Sudan,Testing policy,2020-12-01,2021-04-05,2.0,7170.0
+4,South Sudan,Workplace closing,2020-03-25,2020-03-27,1.0,0.0
+5,South Sudan,Workplace closing,2020-03-28,2020-05-07,3.0,74.0
+6,South Sudan,Workplace closing,2020-05-08,2020-08-18,2.0,2370.0
+7,South Sudan,Workplace closing,2020-08-19,2020-09-21,1.0,155.0
+8,South Sudan,Workplace closing,2021-02-03,2021-04-05,2.0,6352.0

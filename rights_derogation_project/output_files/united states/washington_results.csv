@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Washington,Cancel public events,2020-03-04,2020-03-10,1.0,128.0
+9,Washington,Cancel public events,2020-03-11,2021-02-28,2.0,339491.0
+10,Washington,Cancel public events,2021-03-01,2021-04-05,1.0,29309.0
+14,Washington,Close public transport,2020-03-23,2021-04-05,1.0,367796.0
+39,Washington,Contact tracing,2020-01-20,2021-04-05,1.0,370017.0
+27,Washington,Debt/contract relief,2020-03-18,2020-07-30,1.0,55714.0
+28,Washington,Debt/contract relief,2020-07-31,2021-04-05,2.0,312431.0
+40,Washington,Facial Coverings,2020-04-04,2020-06-25,1.0,23619.0
+41,Washington,Facial Coverings,2020-06-26,2021-01-10,3.0,240173.0
+42,Washington,Facial Coverings,2021-01-20,2021-04-05,3.0,76000.0
+29,Washington,Fiscal measures,2020-10-21,2020-10-21,40000000.0,0.0
+30,Washington,Fiscal measures,2020-10-23,2020-10-23,2000000.0,0.0
+31,Washington,Fiscal measures,2020-11-15,2020-11-15,20000000.0,0.0
+32,Washington,Fiscal measures,2020-11-20,2020-11-20,135000000.0,0.0
+33,Washington,Fiscal measures,2020-12-08,2020-12-08,50000000.0,0.0
+23,Washington,Income support,2020-01-27,2020-01-27,1.0,0.0
+24,Washington,Income support,2020-03-10,2020-03-26,1.0,3040.0
+25,Washington,Income support,2020-03-27,2020-07-30,2.0,53259.0
+26,Washington,Income support,2020-07-31,2021-04-05,1.0,312431.0
+21,Washington,International travel controls,2020-02-02,2020-03-01,2.0,10.0
+22,Washington,International travel controls,2020-03-02,2021-04-05,3.0,369999.0
+48,Washington,Protection of elderly people,2020-02-29,2020-03-09,1.0,115.0
+49,Washington,Protection of elderly people,2020-03-10,2020-03-15,2.0,436.0
+50,Washington,Protection of elderly people,2020-03-16,2020-08-11,3.0,64021.0
+51,Washington,Protection of elderly people,2020-08-12,2021-03-08,2.0,280292.0
+52,Washington,Protection of elderly people,2021-03-10,2021-04-05,2.0,22886.0
+34,Washington,Public information campaigns,2020-02-29,2020-03-15,1.0,596.0
+35,Washington,Public information campaigns,2020-03-16,2021-04-05,2.0,369238.0
+11,Washington,Restrictions on gatherings,2020-03-11,2020-03-15,2.0,321.0
+12,Washington,Restrictions on gatherings,2020-03-16,2020-03-22,3.0,1218.0
+13,Washington,Restrictions on gatherings,2020-03-23,2021-04-05,4.0,367796.0
+18,Washington,Restrictions on internal movement,2020-03-16,2021-02-28,1.0,338994.0
+19,Washington,Restrictions on internal movement,2021-03-01,2021-03-10,2.0,6423.0
+20,Washington,Restrictions on internal movement,2021-03-11,2021-04-05,1.0,22133.0
+0,Washington,School closing,2020-03-13,2020-03-16,1.0,211.0
+1,Washington,School closing,2020-03-17,2020-08-23,3.0,70859.0
+2,Washington,School closing,2020-08-24,2021-04-05,2.0,297856.0
+15,Washington,Stay at home requirements,2020-03-04,2020-03-22,1.0,1958.0
+16,Washington,Stay at home requirements,2020-03-23,2020-05-31,2.0,19481.0
+17,Washington,Stay at home requirements,2020-06-01,2021-04-05,1.0,347778.0
+36,Washington,Testing policy,2020-01-21,2020-05-27,1.0,20406.0
+37,Washington,Testing policy,2020-05-28,2021-02-15,2.0,307283.0
+38,Washington,Testing policy,2021-02-16,2021-04-05,3.0,40271.0
+43,Washington,Vaccination policy,2020-12-16,2020-12-21,1.0,12370.0
+44,Washington,Vaccination policy,2020-12-22,2021-03-03,2.0,114349.0
+45,Washington,Vaccination policy,2021-03-04,2021-03-10,3.0,4041.0
+46,Washington,Vaccination policy,2021-03-11,2021-03-16,2.0,3225.0
+47,Washington,Vaccination policy,2021-03-17,2021-04-05,3.0,18005.0
+3,Washington,Workplace closing,2020-03-04,2020-03-15,1.0,564.0
+4,Washington,Workplace closing,2020-03-16,2020-03-22,2.0,1218.0
+5,Washington,Workplace closing,2020-03-23,2020-05-04,3.0,13241.0
+6,Washington,Workplace closing,2020-05-05,2021-02-28,2.0,324179.0
+7,Washington,Workplace closing,2021-03-01,2021-04-05,1.0,29309.0

@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Myanmar,Cancel public events,2020-03-13,2021-03-22,2.0,142246.0
+15,Myanmar,Close public transport,2020-04-07,2020-08-17,2.0,354.0
+16,Myanmar,Close public transport,2020-08-18,2021-03-22,1.0,141870.0
+42,Myanmar,Contact tracing,2020-03-24,2020-10-29,1.0,50403.0
+43,Myanmar,Contact tracing,2020-10-30,2021-02-07,2.0,89808.0
+44,Myanmar,Contact tracing,2021-02-08,2021-03-08,1.0,618.0
+45,Myanmar,Contact tracing,2021-03-09,2021-03-22,2.0,187.0
+34,Myanmar,Debt/contract relief,2020-10-06,2021-03-22,2.0,122213.0
+46,Myanmar,Emergency investment in healthcare,2020-02-11,2020-02-11,206000.0,0.0
+47,Myanmar,Emergency investment in healthcare,2020-04-20,2020-04-20,50000000.0,0.0
+48,Myanmar,Facial Coverings,2020-05-13,2021-03-22,4.0,142065.0
+35,Myanmar,Fiscal measures,2020-03-18,2020-03-18,69985373.0,0.0
+36,Myanmar,Fiscal measures,2020-05-27,2020-05-27,9000000.0,0.0
+32,Myanmar,Income support,2020-04-28,2020-05-15,1.0,32.0
+33,Myanmar,Income support,2020-10-06,2021-03-22,1.0,122213.0
+37,Myanmar,International support,2021-01-13,2021-01-13,194638.87,0.0
+25,Myanmar,International travel controls,2020-02-01,2020-03-14,1.0,0.0
+26,Myanmar,International travel controls,2020-03-15,2020-03-29,2.0,10.0
+27,Myanmar,International travel controls,2020-03-30,2020-09-09,3.0,1995.0
+28,Myanmar,International travel controls,2020-09-10,2020-09-25,2.0,6962.0
+29,Myanmar,International travel controls,2020-09-26,2020-10-05,4.0,8790.0
+30,Myanmar,International travel controls,2020-10-06,2020-10-29,3.0,30370.0
+31,Myanmar,International travel controls,2020-10-30,2021-03-22,4.0,90750.0
+50,Myanmar,Protection of elderly people,2020-04-04,2020-04-16,1.0,64.0
+51,Myanmar,Protection of elderly people,2020-04-17,2020-09-25,2.0,9024.0
+52,Myanmar,Protection of elderly people,2020-09-26,2020-12-07,3.0,90440.0
+53,Myanmar,Protection of elderly people,2020-12-21,2021-01-18,1.0,17813.0
+54,Myanmar,Protection of elderly people,2021-01-19,2021-03-22,2.0,7003.0
+38,Myanmar,Public information campaigns,2020-03-09,2021-03-22,2.0,142246.0
+9,Myanmar,Restrictions on gatherings,2020-03-13,2020-04-16,3.0,85.0
+10,Myanmar,Restrictions on gatherings,2020-04-17,2020-07-31,4.0,265.0
+11,Myanmar,Restrictions on gatherings,2020-08-01,2020-09-25,3.0,8759.0
+12,Myanmar,Restrictions on gatherings,2020-09-26,2020-10-24,4.0,33797.0
+13,Myanmar,Restrictions on gatherings,2020-10-25,2021-02-22,3.0,96987.0
+14,Myanmar,Restrictions on gatherings,2021-02-23,2021-03-22,4.0,463.0
+23,Myanmar,Restrictions on internal movement,2020-04-01,2021-01-18,2.0,134780.0
+24,Myanmar,Restrictions on internal movement,2021-01-19,2021-03-22,1.0,7003.0
+0,Myanmar,School closing,2020-03-20,2020-03-23,2.0,0.0
+1,Myanmar,School closing,2020-03-24,2020-07-20,3.0,341.0
+2,Myanmar,School closing,2020-07-21,2020-08-25,2.0,163.0
+3,Myanmar,School closing,2020-08-26,2021-03-22,3.0,141666.0
+17,Myanmar,Stay at home requirements,2020-04-04,2020-04-13,1.0,41.0
+18,Myanmar,Stay at home requirements,2020-04-14,2020-09-25,2.0,9049.0
+19,Myanmar,Stay at home requirements,2020-09-26,2020-11-30,3.0,80722.0
+20,Myanmar,Stay at home requirements,2020-12-01,2021-02-22,2.0,49572.0
+21,Myanmar,Stay at home requirements,2021-02-23,2021-03-08,3.0,262.0
+22,Myanmar,Stay at home requirements,2021-03-09,2021-03-22,2.0,187.0
+39,Myanmar,Testing policy,2020-03-20,2020-10-29,2.0,50403.0
+40,Myanmar,Testing policy,2020-10-30,2021-02-07,3.0,89808.0
+41,Myanmar,Testing policy,2021-03-09,2021-03-22,3.0,187.0
+49,Myanmar,Vaccination policy,2021-01-19,2021-03-22,2.0,7003.0
+4,Myanmar,Workplace closing,2020-03-26,2020-04-09,2.0,23.0
+5,Myanmar,Workplace closing,2020-04-10,2020-05-13,3.0,154.0
+6,Myanmar,Workplace closing,2020-05-14,2020-09-25,2.0,8931.0
+7,Myanmar,Workplace closing,2020-09-26,2021-03-22,3.0,132255.0

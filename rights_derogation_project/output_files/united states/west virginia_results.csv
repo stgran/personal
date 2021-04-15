@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,West Virginia,Cancel public events,2020-03-15,2020-03-22,1.0,16.0
+11,West Virginia,Cancel public events,2020-03-23,2020-06-30,2.0,2889.0
+12,West Virginia,Cancel public events,2020-07-01,2020-07-13,1.0,1334.0
+13,West Virginia,Cancel public events,2020-07-14,2021-04-05,2.0,139326.0
+43,West Virginia,Contact tracing,2020-01-21,2020-04-27,1.0,1063.0
+44,West Virginia,Contact tracing,2020-04-28,2021-04-05,2.0,142638.0
+29,West Virginia,Debt/contract relief,2020-03-23,2020-07-24,1.0,5637.0
+30,West Virginia,Debt/contract relief,2020-09-01,2021-04-05,1.0,133220.0
+45,West Virginia,Facial Coverings,2020-04-02,2020-06-06,1.0,1920.0
+46,West Virginia,Facial Coverings,2020-06-07,2020-11-12,2.0,28753.0
+47,West Virginia,Facial Coverings,2020-11-13,2021-01-10,3.0,69573.0
+48,West Virginia,Facial Coverings,2021-01-20,2021-04-05,3.0,32056.0
+31,West Virginia,Fiscal measures,2020-12-18,2020-12-18,4000000.0,0.0
+32,West Virginia,Fiscal measures,2021-01-08,2021-01-08,339000000.0,0.0
+33,West Virginia,Fiscal measures,2021-01-28,2021-01-28,200000000.0,0.0
+24,West Virginia,Income support,2020-01-27,2020-01-27,1.0,0.0
+25,West Virginia,Income support,2020-03-19,2020-03-26,1.0,50.0
+26,West Virginia,Income support,2020-03-27,2020-07-30,2.0,6299.0
+27,West Virginia,Income support,2020-07-31,2020-11-11,1.0,23622.0
+28,West Virginia,Income support,2020-12-27,2021-04-05,1.0,63023.0
+22,West Virginia,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+23,West Virginia,International travel controls,2020-03-02,2021-04-05,3.0,143733.0
+52,West Virginia,Protection of elderly people,2020-03-01,2020-05-05,1.0,1246.0
+53,West Virginia,Protection of elderly people,2020-05-06,2021-03-08,3.0,132385.0
+54,West Virginia,Protection of elderly people,2021-03-10,2021-04-05,3.0,9575.0
+34,West Virginia,Public information campaigns,2020-02-26,2020-03-08,1.0,0.0
+35,West Virginia,Public information campaigns,2020-03-09,2021-04-05,2.0,143733.0
+14,West Virginia,Restrictions on gatherings,2020-03-23,2020-05-03,4.0,1179.0
+15,West Virginia,Restrictions on gatherings,2020-05-04,2021-04-05,3.0,142509.0
+19,West Virginia,Restrictions on internal movement,2020-03-12,2020-03-29,1.0,113.0
+20,West Virginia,Restrictions on internal movement,2020-03-30,2020-05-09,2.0,1178.0
+21,West Virginia,Restrictions on internal movement,2020-05-10,2021-04-05,1.0,142373.0
+0,West Virginia,School closing,2020-03-13,2020-08-23,3.0,9273.0
+1,West Virginia,School closing,2020-08-24,2021-02-21,2.0,120301.0
+2,West Virginia,School closing,2021-02-22,2021-04-05,1.0,13879.0
+16,West Virginia,Stay at home requirements,2020-03-21,2020-03-22,1.0,4.0
+17,West Virginia,Stay at home requirements,2020-03-23,2020-05-03,2.0,1179.0
+18,West Virginia,Stay at home requirements,2020-05-04,2021-04-05,1.0,142509.0
+36,West Virginia,Testing policy,2020-01-21,2020-05-05,1.0,1246.0
+37,West Virginia,Testing policy,2020-05-06,2020-05-14,2.0,185.0
+38,West Virginia,Testing policy,2020-05-15,2020-05-17,3.0,45.0
+39,West Virginia,Testing policy,2020-05-18,2020-09-13,1.0,11203.0
+40,West Virginia,Testing policy,2020-09-14,2020-10-25,3.0,9077.0
+41,West Virginia,Testing policy,2020-10-26,2020-10-27,2.0,486.0
+42,West Virginia,Testing policy,2020-10-28,2021-04-05,3.0,120666.0
+49,West Virginia,Vaccination policy,2020-12-14,2021-01-06,2.0,30284.0
+50,West Virginia,Vaccination policy,2021-01-07,2021-03-21,3.0,41824.0
+51,West Virginia,Vaccination policy,2021-03-22,2021-04-05,5.0,5631.0
+3,West Virginia,Workplace closing,2020-03-12,2020-03-17,1.0,0.0
+4,West Virginia,Workplace closing,2020-03-18,2020-03-22,2.0,15.0
+5,West Virginia,Workplace closing,2020-03-23,2020-04-29,3.0,1094.0
+6,West Virginia,Workplace closing,2020-04-30,2020-06-21,2.0,1408.0
+7,West Virginia,Workplace closing,2020-06-22,2020-08-11,1.0,5327.0
+8,West Virginia,Workplace closing,2020-08-12,2020-08-27,2.0,1615.0
+9,West Virginia,Workplace closing,2020-08-28,2021-04-05,1.0,133907.0

@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Slovenia,Cancel public events,2020-03-19,2021-04-06,2.0,220412.0
+18,Slovenia,Close public transport,2020-03-16,2020-05-10,2.0,1204.0
+19,Slovenia,Close public transport,2021-01-09,2021-02-13,1.0,40630.0
+20,Slovenia,Close public transport,2021-04-01,2021-04-06,2.0,3759.0
+40,Slovenia,Contact tracing,2020-03-04,2020-10-08,2.0,7507.0
+41,Slovenia,Contact tracing,2020-10-09,2021-04-06,1.0,212826.0
+31,Slovenia,Debt/contract relief,2020-03-19,2020-07-19,2.0,1660.0
+32,Slovenia,Debt/contract relief,2020-07-20,2021-04-06,1.0,218745.0
+44,Slovenia,Facial Coverings,2020-03-30,2020-10-08,2.0,6751.0
+45,Slovenia,Facial Coverings,2020-10-09,2020-10-18,3.0,5270.0
+46,Slovenia,Facial Coverings,2020-10-19,2021-04-06,4.0,207019.0
+33,Slovenia,Fiscal measures,2020-03-13,2020-03-13,3325569569.0,0.0
+34,Slovenia,Fiscal measures,2020-04-21,2020-04-21,2171389980.0,0.0
+35,Slovenia,Fiscal measures,2020-05-20,2020-05-20,1067576526.55,0.0
+36,Slovenia,Fiscal measures,2021-02-03,2021-02-03,470165637.0,0.0
+29,Slovenia,Income support,2020-03-30,2020-10-01,1.0,5109.0
+30,Slovenia,Income support,2020-10-02,2021-04-06,2.0,214595.0
+27,Slovenia,International travel controls,2020-03-10,2020-10-01,3.0,5834.0
+28,Slovenia,International travel controls,2020-10-02,2021-04-06,2.0,214595.0
+42,Slovenia,Investment in vaccines,2020-03-20,2020-03-20,1067576.52,0.0
+43,Slovenia,Investment in vaccines,2020-05-04,2020-05-04,15300000.0,0.0
+49,Slovenia,Protection of elderly people,2020-03-06,2020-05-10,3.0,1450.0
+50,Slovenia,Protection of elderly people,2020-05-11,2020-05-31,2.0,13.0
+51,Slovenia,Protection of elderly people,2020-06-01,2020-10-18,1.0,11669.0
+52,Slovenia,Protection of elderly people,2020-10-19,2021-04-06,2.0,207019.0
+37,Slovenia,Public information campaigns,2020-03-04,2021-04-06,2.0,220698.0
+12,Slovenia,Restrictions on gatherings,2020-03-07,2020-03-18,2.0,268.0
+13,Slovenia,Restrictions on gatherings,2020-03-19,2020-05-13,4.0,1177.0
+14,Slovenia,Restrictions on gatherings,2020-05-14,2020-06-01,3.0,9.0
+15,Slovenia,Restrictions on gatherings,2020-06-02,2020-07-19,2.0,471.0
+16,Slovenia,Restrictions on gatherings,2020-07-20,2020-10-18,3.0,11189.0
+17,Slovenia,Restrictions on gatherings,2020-10-19,2021-04-06,4.0,207019.0
+24,Slovenia,Restrictions on internal movement,2020-03-30,2020-04-29,2.0,662.0
+25,Slovenia,Restrictions on internal movement,2020-10-19,2021-02-14,2.0,165798.0
+26,Slovenia,Restrictions on internal movement,2021-02-27,2021-04-06,2.0,31071.0
+0,Slovenia,School closing,2020-03-16,2020-05-17,3.0,1213.0
+1,Slovenia,School closing,2020-05-18,2020-05-31,2.0,7.0
+2,Slovenia,School closing,2020-06-01,2020-10-18,1.0,11669.0
+3,Slovenia,School closing,2020-10-19,2020-10-29,2.0,17026.0
+4,Slovenia,School closing,2020-10-30,2021-01-22,3.0,123249.0
+5,Slovenia,School closing,2021-01-23,2021-03-31,2.0,58309.0
+6,Slovenia,School closing,2021-04-01,2021-04-06,3.0,3759.0
+21,Slovenia,Stay at home requirements,2020-03-14,2020-05-13,1.0,1282.0
+22,Slovenia,Stay at home requirements,2021-02-06,2021-02-13,1.0,5947.0
+23,Slovenia,Stay at home requirements,2021-02-14,2021-04-06,2.0,41221.0
+38,Slovenia,Testing policy,2020-03-04,2021-02-05,2.0,172299.0
+39,Slovenia,Testing policy,2021-02-06,2021-04-06,3.0,47497.0
+47,Slovenia,Vaccination policy,2020-12-26,2021-02-04,2.0,57156.0
+48,Slovenia,Vaccination policy,2021-02-05,2021-04-06,3.0,48399.0
+7,Slovenia,Workplace closing,2020-03-20,2020-04-19,3.0,989.0
+8,Slovenia,Workplace closing,2020-04-20,2020-05-17,2.0,131.0
+9,Slovenia,Workplace closing,2020-07-20,2021-03-31,2.0,213649.0
+10,Slovenia,Workplace closing,2021-04-01,2021-04-06,3.0,3759.0

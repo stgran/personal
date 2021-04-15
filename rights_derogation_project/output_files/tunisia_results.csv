@@ -1,0 +1,60 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Tunisia,Cancel public events,2020-03-04,2020-03-12,1.0,6.0
+13,Tunisia,Cancel public events,2020-03-13,2020-06-07,2.0,1071.0
+14,Tunisia,Cancel public events,2020-10-03,2021-03-07,2.0,216760.0
+15,Tunisia,Cancel public events,2021-03-08,2021-04-08,1.0,28810.0
+20,Tunisia,Close public transport,2020-03-22,2020-06-07,1.0,1012.0
+21,Tunisia,Close public transport,2021-01-25,2021-03-08,2.0,39381.0
+22,Tunisia,Close public transport,2021-03-09,2021-04-08,1.0,28214.0
+46,Tunisia,Contact tracing,2020-03-02,2020-05-06,1.0,1025.0
+47,Tunisia,Contact tracing,2020-05-07,2020-08-28,2.0,2435.0
+48,Tunisia,Contact tracing,2020-08-29,2020-11-24,1.0,86641.0
+49,Tunisia,Contact tracing,2020-11-25,2021-01-24,2.0,106066.0
+50,Tunisia,Contact tracing,2021-02-16,2021-04-08,2.0,42498.0
+38,Tunisia,Debt/contract relief,2020-03-21,2020-11-10,2.0,72933.0
+39,Tunisia,Debt/contract relief,2020-11-11,2021-04-08,1.0,192305.0
+51,Tunisia,Emergency investment in healthcare,2020-03-21,2020-03-21,34231980.0,0.0
+52,Tunisia,Facial Coverings,2020-08-17,2020-11-10,3.0,70808.0
+53,Tunisia,Facial Coverings,2020-11-11,2020-11-24,1.0,15691.0
+54,Tunisia,Facial Coverings,2020-11-25,2021-04-08,4.0,175520.0
+40,Tunisia,Fiscal measures,2020-03-21,2020-03-21,816000000.0,0.0
+37,Tunisia,Income support,2020-03-21,2021-04-08,1.0,266767.0
+28,Tunisia,International travel controls,2020-03-04,2020-03-08,1.0,1.0
+29,Tunisia,International travel controls,2020-03-09,2020-03-15,2.0,16.0
+30,Tunisia,International travel controls,2020-03-16,2020-06-26,4.0,1144.0
+31,Tunisia,International travel controls,2020-06-27,2020-08-06,3.0,474.0
+32,Tunisia,International travel controls,2020-08-07,2020-08-28,2.0,1805.0
+33,Tunisia,International travel controls,2020-08-29,2020-11-02,3.0,58334.0
+34,Tunisia,International travel controls,2020-11-25,2020-12-20,2.0,29380.0
+35,Tunisia,International travel controls,2020-12-21,2021-03-07,3.0,115986.0
+36,Tunisia,International travel controls,2021-03-08,2021-04-08,2.0,28810.0
+57,Tunisia,Protection of elderly people,2020-03-22,2020-06-07,3.0,1012.0
+58,Tunisia,Protection of elderly people,2020-10-08,2021-04-08,2.0,239928.0
+41,Tunisia,Public information campaigns,2020-03-04,2020-03-17,1.0,23.0
+42,Tunisia,Public information campaigns,2020-03-18,2021-04-08,2.0,266798.0
+16,Tunisia,Restrictions on gatherings,2020-03-20,2020-06-07,4.0,1033.0
+17,Tunisia,Restrictions on gatherings,2020-10-03,2021-01-17,4.0,159146.0
+18,Tunisia,Restrictions on gatherings,2021-01-18,2021-01-24,3.0,15488.0
+19,Tunisia,Restrictions on gatherings,2021-01-25,2021-04-08,4.0,68191.0
+26,Tunisia,Restrictions on internal movement,2020-03-20,2020-06-03,2.0,1033.0
+27,Tunisia,Restrictions on internal movement,2020-10-28,2021-03-22,2.0,191645.0
+0,Tunisia,School closing,2020-03-12,2020-05-27,3.0,1044.0
+1,Tunisia,School closing,2020-05-28,2020-09-14,2.0,6314.0
+2,Tunisia,School closing,2020-09-15,2020-10-27,1.0,44776.0
+3,Tunisia,School closing,2020-10-28,2020-11-07,3.0,15265.0
+4,Tunisia,School closing,2020-11-08,2021-01-17,2.0,108971.0
+5,Tunisia,School closing,2021-01-18,2021-01-24,3.0,15488.0
+6,Tunisia,School closing,2021-01-25,2021-03-08,2.0,39381.0
+7,Tunisia,School closing,2021-03-09,2021-04-08,1.0,28214.0
+23,Tunisia,Stay at home requirements,2020-03-20,2020-05-14,2.0,978.0
+24,Tunisia,Stay at home requirements,2020-05-15,2020-06-07,1.0,52.0
+25,Tunisia,Stay at home requirements,2020-10-08,2021-04-08,2.0,239928.0
+43,Tunisia,Testing policy,2020-03-02,2020-08-28,1.0,3461.0
+44,Tunisia,Testing policy,2020-08-29,2020-09-25,2.0,10820.0
+45,Tunisia,Testing policy,2020-09-26,2021-04-08,1.0,252435.0
+55,Tunisia,Vaccination policy,2021-01-25,2021-02-15,3.0,24913.0
+56,Tunisia,Vaccination policy,2021-03-13,2021-04-08,3.0,25570.0
+8,Tunisia,Workplace closing,2020-03-18,2020-03-21,1.0,31.0
+9,Tunisia,Workplace closing,2020-03-22,2020-05-03,3.0,938.0
+10,Tunisia,Workplace closing,2020-05-04,2020-06-07,2.0,69.0
+11,Tunisia,Workplace closing,2020-10-03,2021-04-08,1.0,245883.0

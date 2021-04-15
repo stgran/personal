@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Trinidad and Tobago,Cancel public events,2020-03-16,2020-03-20,1.0,5.0
+7,Trinidad and Tobago,Cancel public events,2020-03-21,2021-03-29,2.0,7937.0
+14,Trinidad and Tobago,Close public transport,2020-03-29,2020-06-21,1.0,45.0
+15,Trinidad and Tobago,Close public transport,2020-08-17,2021-03-29,1.0,7398.0
+38,Trinidad and Tobago,Contact tracing,2020-03-13,2021-03-29,2.0,7986.0
+26,Trinidad and Tobago,Debt/contract relief,2020-03-19,2020-07-31,1.0,160.0
+39,Trinidad and Tobago,Emergency investment in healthcare,2020-03-26,2020-03-26,23260773.0,0.0
+40,Trinidad and Tobago,Emergency investment in healthcare,2020-12-09,2020-12-09,1477000.0,0.0
+41,Trinidad and Tobago,Facial Coverings,2020-04-06,2020-08-30,1.0,1578.0
+42,Trinidad and Tobago,Facial Coverings,2020-08-31,2021-03-29,4.0,6227.0
+27,Trinidad and Tobago,Fiscal measures,2020-03-17,2020-03-17,384507099.83,0.0
+28,Trinidad and Tobago,Fiscal measures,2020-03-23,2020-03-23,22965010.66,0.0
+29,Trinidad and Tobago,Fiscal measures,2020-04-15,2020-04-15,50400000.0,0.0
+30,Trinidad and Tobago,Fiscal measures,2020-11-21,2020-11-21,4416010.0,0.0
+24,Trinidad and Tobago,Income support,2020-04-28,2020-07-15,2.0,17.0
+25,Trinidad and Tobago,Income support,2020-11-21,2021-03-29,1.0,1662.0
+22,Trinidad and Tobago,International travel controls,2020-01-30,2020-03-22,2.0,50.0
+23,Trinidad and Tobago,International travel controls,2020-03-23,2021-03-29,4.0,7935.0
+44,Trinidad and Tobago,Protection of elderly people,2020-03-29,2020-06-07,3.0,39.0
+45,Trinidad and Tobago,Protection of elderly people,2020-06-08,2020-06-21,2.0,6.0
+46,Trinidad and Tobago,Protection of elderly people,2020-06-22,2021-03-29,1.0,7863.0
+31,Trinidad and Tobago,Public information campaigns,2020-02-02,2020-03-03,1.0,0.0
+32,Trinidad and Tobago,Public information campaigns,2020-03-04,2021-03-29,2.0,7986.0
+8,Trinidad and Tobago,Restrictions on gatherings,2020-03-16,2020-03-30,3.0,78.0
+9,Trinidad and Tobago,Restrictions on gatherings,2020-03-31,2020-06-21,4.0,36.0
+10,Trinidad and Tobago,Restrictions on gatherings,2020-06-22,2020-08-16,3.0,429.0
+11,Trinidad and Tobago,Restrictions on gatherings,2020-08-17,2020-10-09,4.0,4433.0
+12,Trinidad and Tobago,Restrictions on gatherings,2020-10-10,2020-12-07,3.0,1732.0
+13,Trinidad and Tobago,Restrictions on gatherings,2020-12-08,2021-03-29,4.0,1204.0
+19,Trinidad and Tobago,Restrictions on internal movement,2020-04-27,2020-06-08,2.0,1.0
+20,Trinidad and Tobago,Restrictions on internal movement,2020-06-09,2020-06-21,1.0,6.0
+21,Trinidad and Tobago,Restrictions on internal movement,2020-08-17,2020-10-11,2.0,4455.0
+0,Trinidad and Tobago,School closing,2020-03-14,2021-02-07,3.0,7614.0
+1,Trinidad and Tobago,School closing,2021-02-08,2021-03-29,2.0,370.0
+16,Trinidad and Tobago,Stay at home requirements,2020-03-30,2020-06-07,2.0,35.0
+17,Trinidad and Tobago,Stay at home requirements,2020-06-08,2020-06-21,1.0,6.0
+18,Trinidad and Tobago,Stay at home requirements,2020-08-17,2020-10-25,1.0,4923.0
+33,Trinidad and Tobago,Testing policy,2020-03-04,2020-03-22,1.0,50.0
+34,Trinidad and Tobago,Testing policy,2020-03-23,2020-04-30,2.0,65.0
+35,Trinidad and Tobago,Testing policy,2020-05-01,2020-06-30,1.0,14.0
+36,Trinidad and Tobago,Testing policy,2020-07-01,2020-08-19,2.0,556.0
+37,Trinidad and Tobago,Testing policy,2020-08-20,2021-03-29,1.0,7219.0
+43,Trinidad and Tobago,Vaccination policy,2021-02-16,2021-03-29,1.0,330.0
+2,Trinidad and Tobago,Workplace closing,2020-03-13,2020-03-16,1.0,4.0
+3,Trinidad and Tobago,Workplace closing,2020-03-17,2020-03-29,2.0,73.0
+4,Trinidad and Tobago,Workplace closing,2020-03-30,2020-05-20,3.0,34.0
+5,Trinidad and Tobago,Workplace closing,2020-05-21,2021-03-29,2.0,7870.0

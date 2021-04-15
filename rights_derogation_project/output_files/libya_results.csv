@@ -1,0 +1,52 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+14,Libya,Cancel public events,2020-03-14,2021-03-29,2.0,157545.0
+17,Libya,Close public transport,2020-03-22,2021-01-18,2.0,109869.0
+18,Libya,Close public transport,2021-01-19,2021-03-15,1.0,35615.0
+39,Libya,Contact tracing,2020-03-24,2020-11-15,1.0,73601.0
+40,Libya,Emergency investment in healthcare,2020-03-31,2020-03-31,52998679.0,0.0
+41,Libya,Emergency investment in healthcare,2020-08-12,2020-08-12,552825494.0,0.0
+43,Libya,Facial Coverings,2020-08-07,2021-03-29,3.0,152466.0
+35,Libya,Fiscal measures,2020-03-14,2020-03-14,360540000.0,0.0
+36,Libya,Fiscal measures,2020-08-12,2020-08-12,253408780.0,0.0
+27,Libya,International travel controls,2020-02-10,2020-03-15,2.0,0.0
+28,Libya,International travel controls,2020-03-16,2020-07-26,4.0,2669.0
+29,Libya,International travel controls,2020-07-27,2021-01-28,3.0,113952.0
+30,Libya,International travel controls,2021-01-29,2021-02-08,2.0,7232.0
+31,Libya,International travel controls,2021-02-09,2021-02-15,3.0,2144.0
+32,Libya,International travel controls,2021-02-16,2021-02-22,4.0,2176.0
+33,Libya,International travel controls,2021-02-23,2021-03-15,3.0,15379.0
+34,Libya,International travel controls,2021-03-16,2021-03-29,2.0,10424.0
+42,Libya,Investment in vaccines,2021-01-21,2021-01-21,9408000.0,0.0
+44,Libya,Protection of elderly people,2020-03-22,2020-03-23,2.0,0.0
+45,Libya,Protection of elderly people,2020-03-24,2020-04-07,3.0,19.0
+46,Libya,Protection of elderly people,2020-04-08,2020-04-16,2.0,28.0
+47,Libya,Protection of elderly people,2020-04-17,2020-05-27,3.0,50.0
+48,Libya,Protection of elderly people,2020-05-28,2020-10-28,2.0,58769.0
+49,Libya,Protection of elderly people,2020-10-29,2020-12-15,1.0,32361.0
+50,Libya,Protection of elderly people,2020-12-16,2021-03-29,2.0,64968.0
+37,Libya,Public information campaigns,2020-03-24,2021-03-15,2.0,146079.0
+15,Libya,Restrictions on gatherings,2020-03-14,2020-03-21,1.0,0.0
+16,Libya,Restrictions on gatherings,2020-03-22,2021-03-29,4.0,157545.0
+26,Libya,Restrictions on internal movement,2020-03-22,2021-03-29,2.0,157545.0
+0,Libya,School closing,2020-03-15,2020-08-31,3.0,13966.0
+1,Libya,School closing,2020-09-01,2020-12-10,2.0,74559.0
+2,Libya,School closing,2020-12-11,2020-12-15,3.0,2137.0
+3,Libya,School closing,2020-12-16,2021-01-02,2.0,8167.0
+4,Libya,School closing,2021-01-03,2021-01-19,1.0,9051.0
+5,Libya,School closing,2021-01-20,2021-02-08,3.0,13758.0
+6,Libya,School closing,2021-02-09,2021-03-29,1.0,31984.0
+19,Libya,Stay at home requirements,2020-03-22,2020-03-23,2.0,0.0
+20,Libya,Stay at home requirements,2020-03-24,2020-04-07,3.0,19.0
+21,Libya,Stay at home requirements,2020-04-08,2020-04-16,2.0,28.0
+22,Libya,Stay at home requirements,2020-04-17,2020-05-27,3.0,50.0
+23,Libya,Stay at home requirements,2020-05-28,2020-10-28,2.0,58769.0
+24,Libya,Stay at home requirements,2020-10-29,2020-12-15,1.0,32361.0
+25,Libya,Stay at home requirements,2020-12-16,2021-03-29,2.0,64968.0
+38,Libya,Testing policy,2020-03-21,2021-03-29,1.0,157545.0
+7,Libya,Workplace closing,2020-03-14,2020-04-15,1.0,48.0
+8,Libya,Workplace closing,2020-04-16,2020-07-06,3.0,1068.0
+9,Libya,Workplace closing,2020-07-07,2020-10-03,2.0,34905.0
+10,Libya,Workplace closing,2020-10-04,2020-10-07,3.0,2704.0
+11,Libya,Workplace closing,2020-10-08,2021-01-19,2.0,70173.0
+12,Libya,Workplace closing,2021-01-20,2021-02-08,3.0,13758.0
+13,Libya,Workplace closing,2021-02-09,2021-03-29,2.0,31984.0

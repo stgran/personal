@@ -1,0 +1,81 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Scotland,Cancel public events,2020-03-16,2020-03-20,1.0,216.0
+11,Scotland,Cancel public events,2020-03-21,2021-03-26,2.0,216562.0
+16,Scotland,Close public transport,2020-03-20,2021-03-26,1.0,216628.0
+57,Scotland,Contact tracing,2020-01-31,2020-07-14,1.0,18397.0
+58,Scotland,Contact tracing,2020-07-15,2020-09-21,2.0,6989.0
+59,Scotland,Contact tracing,2020-09-23,2020-10-03,2.0,6464.0
+60,Scotland,Contact tracing,2020-10-04,2021-03-26,1.0,183396.0
+29,Scotland,Debt/contract relief,2020-03-17,2020-03-18,1.0,41.0
+30,Scotland,Debt/contract relief,2020-03-19,2021-03-26,2.0,216711.0
+61,Scotland,Emergency investment in healthcare,2020-03-10,2020-03-10,1612000.0,0.0
+62,Scotland,Emergency investment in healthcare,2020-03-27,2020-03-27,4700000.0,0.0
+63,Scotland,Emergency investment in healthcare,2020-04-07,2020-04-07,6540000.0,0.0
+64,Scotland,Emergency investment in healthcare,2020-04-21,2020-04-21,203682.0,0.0
+65,Scotland,Emergency investment in healthcare,2020-05-01,2020-05-01,2375000.0,0.0
+66,Scotland,Emergency investment in healthcare,2020-05-03,2020-05-03,1436000.0,0.0
+67,Scotland,Emergency investment in healthcare,2020-05-12,2020-05-12,61500000.0,0.0
+68,Scotland,Emergency investment in healthcare,2020-11-01,2020-11-01,14238943.31,0.0
+69,Scotland,Facial Coverings,2020-04-28,2020-06-21,1.0,6221.0
+70,Scotland,Facial Coverings,2020-06-22,2020-08-16,2.0,1210.0
+71,Scotland,Facial Coverings,2020-08-17,2020-09-23,3.0,6995.0
+72,Scotland,Facial Coverings,2020-09-25,2021-03-26,3.0,189312.0
+31,Scotland,Fiscal measures,2020-03-25,2020-03-25,27600000.0,0.0
+32,Scotland,Fiscal measures,2020-04-06,2020-04-06,9960000.0,0.0
+33,Scotland,Fiscal measures,2020-04-20,2020-04-20,934500.0,0.0
+34,Scotland,Fiscal measures,2020-04-30,2020-04-30,1264000.0,0.0
+35,Scotland,Fiscal measures,2020-05-07,2020-05-07,124000000.0,0.0
+36,Scotland,Fiscal measures,2020-05-12,2020-05-12,38100000.0,0.0
+37,Scotland,Fiscal measures,2020-05-19,2020-05-19,40425000.0,0.0
+38,Scotland,Fiscal measures,2020-05-29,2020-05-29,24640000.0,0.0
+39,Scotland,Fiscal measures,2020-06-07,2020-06-07,380000.0,0.0
+40,Scotland,Fiscal measures,2020-06-11,2020-06-11,13860000.0,0.0
+41,Scotland,Fiscal measures,2020-06-16,2020-06-16,324000000.0,0.0
+42,Scotland,Fiscal measures,2020-07-03,2020-07-03,12460000.0,0.0
+43,Scotland,Fiscal measures,2020-07-09,2020-07-09,6305000.0,0.0
+44,Scotland,Fiscal measures,2020-07-10,2020-07-10,48070000.0,0.0
+45,Scotland,Fiscal measures,2020-08-11,2020-08-11,13080000.0,0.0
+46,Scotland,Fiscal measures,2020-08-19,2020-08-19,1320000.0,0.0
+47,Scotland,Fiscal measures,2020-08-28,2020-08-28,78470000.0,0.0
+48,Scotland,Fiscal measures,2020-10-09,2020-10-09,40000000.0,0.0
+49,Scotland,Fiscal measures,2020-11-30,2020-11-30,6650000000.0,0.0
+50,Scotland,Fiscal measures,2020-12-08,2020-12-08,153200000.0,0.0
+51,Scotland,Fiscal measures,2020-12-15,2020-12-15,17420000.0,0.0
+52,Scotland,Fiscal measures,2020-12-21,2020-12-21,140096294.8,0.0
+28,Scotland,Income support,2020-03-20,2021-03-26,2.0,216628.0
+26,Scotland,International travel controls,2020-06-08,2020-12-23,2.0,100118.0
+27,Scotland,International travel controls,2020-12-24,2021-03-26,3.0,98021.0
+75,Scotland,Protection of elderly people,2020-03-22,2020-03-29,2.0,1393.0
+76,Scotland,Protection of elderly people,2020-03-30,2020-10-11,3.0,39086.0
+77,Scotland,Protection of elderly people,2020-10-12,2020-12-25,2.0,76826.0
+78,Scotland,Protection of elderly people,2020-12-26,2021-02-21,3.0,77999.0
+79,Scotland,Protection of elderly people,2021-02-22,2021-03-26,2.0,17654.0
+53,Scotland,Public information campaigns,2020-01-20,2020-02-01,1.0,0.0
+54,Scotland,Public information campaigns,2020-02-02,2021-03-26,2.0,217075.0
+12,Scotland,Restrictions on gatherings,2020-03-16,2020-03-23,2.0,495.0
+13,Scotland,Restrictions on gatherings,2020-03-24,2020-12-24,4.0,118160.0
+14,Scotland,Restrictions on gatherings,2020-12-25,2020-12-25,3.0,0.0
+15,Scotland,Restrictions on gatherings,2020-12-26,2021-03-26,4.0,96443.0
+21,Scotland,Restrictions on internal movement,2020-03-22,2020-07-06,2.0,17730.0
+22,Scotland,Restrictions on internal movement,2020-07-07,2020-08-04,1.0,508.0
+23,Scotland,Restrictions on internal movement,2020-08-05,2020-08-23,2.0,1093.0
+24,Scotland,Restrictions on internal movement,2020-08-24,2020-11-01,1.0,46785.0
+25,Scotland,Restrictions on internal movement,2020-11-02,2021-03-26,2.0,148756.0
+0,Scotland,School closing,2020-03-20,2020-07-21,3.0,18057.0
+1,Scotland,School closing,2020-07-22,2020-08-16,2.0,881.0
+2,Scotland,School closing,2020-08-17,2020-12-25,1.0,100098.0
+3,Scotland,School closing,2020-12-26,2021-02-21,3.0,77999.0
+4,Scotland,School closing,2021-02-22,2021-03-14,2.0,10901.0
+5,Scotland,School closing,2021-03-15,2021-03-26,1.0,6063.0
+17,Scotland,Stay at home requirements,2020-03-13,2020-03-21,1.0,334.0
+18,Scotland,Stay at home requirements,2020-03-22,2020-05-28,2.0,17000.0
+19,Scotland,Stay at home requirements,2020-05-29,2021-01-04,1.0,123040.0
+20,Scotland,Stay at home requirements,2021-01-05,2021-03-26,2.0,73360.0
+55,Scotland,Testing policy,2020-01-20,2020-05-17,1.0,16543.0
+56,Scotland,Testing policy,2020-05-18,2021-03-26,2.0,200392.0
+73,Scotland,Vaccination policy,2020-12-08,2021-02-10,3.0,86648.0
+74,Scotland,Vaccination policy,2021-02-15,2021-03-26,4.0,23220.0
+6,Scotland,Workplace closing,2020-03-16,2020-03-20,1.0,216.0
+7,Scotland,Workplace closing,2020-03-21,2020-05-28,3.0,17075.0
+8,Scotland,Workplace closing,2020-05-29,2020-12-25,2.0,101957.0
+9,Scotland,Workplace closing,2020-12-26,2021-03-26,3.0,96443.0

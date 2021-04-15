@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Nigeria,Cancel public events,2020-03-18,2020-03-19,1.0,0.0
+11,Nigeria,Cancel public events,2020-03-20,2020-08-13,2.0,48104.0
+12,Nigeria,Cancel public events,2020-08-14,2021-04-11,1.0,115291.0
+16,Nigeria,Close public transport,2020-03-29,2020-05-03,2.0,2447.0
+17,Nigeria,Close public transport,2020-05-04,2020-06-30,1.0,22892.0
+18,Nigeria,Close public transport,2020-08-14,2020-09-24,1.0,9404.0
+40,Nigeria,Contact tracing,2020-02-28,2021-04-11,2.0,163735.0
+29,Nigeria,Debt/contract relief,2020-08-14,2020-10-18,1.0,12995.0
+41,Nigeria,Emergency investment in healthcare,2020-03-04,2020-03-04,18200000.0,0.0
+42,Nigeria,Emergency investment in healthcare,2020-03-07,2020-03-07,2692215.0,0.0
+43,Nigeria,Emergency investment in healthcare,2020-03-18,2020-03-18,272869480.0,0.0
+44,Nigeria,Emergency investment in healthcare,2020-03-26,2020-03-26,44619620.0,0.0
+45,Nigeria,Emergency investment in healthcare,2020-04-13,2020-04-22,20.7,530.0
+46,Nigeria,Facial Coverings,2020-04-17,2020-04-24,1.0,602.0
+47,Nigeria,Facial Coverings,2020-04-25,2021-01-04,3.0,90169.0
+48,Nigeria,Facial Coverings,2021-01-05,2021-03-08,4.0,66201.0
+49,Nigeria,Facial Coverings,2021-03-09,2021-04-11,3.0,4484.0
+30,Nigeria,Fiscal measures,2020-03-16,2020-03-16,163000000.0,0.0
+31,Nigeria,Fiscal measures,2020-03-18,2020-03-18,3270000000.0,0.0
+32,Nigeria,Fiscal measures,2020-05-07,2020-05-07,128222179.1,0.0
+33,Nigeria,Fiscal measures,2020-05-21,2020-05-21,256410256.0,0.0
+27,Nigeria,Income support,2020-04-13,2020-09-20,1.0,56899.0
+28,Nigeria,Income support,2020-09-21,2020-10-18,2.0,4003.0
+34,Nigeria,International support,2020-04-28,2020-04-28,34000000000.0,0.0
+25,Nigeria,International travel controls,2020-03-23,2020-08-13,4.0,48076.0
+26,Nigeria,International travel controls,2020-08-14,2021-04-11,2.0,115291.0
+50,Nigeria,Protection of elderly people,2020-03-18,2021-01-04,3.0,91343.0
+51,Nigeria,Protection of elderly people,2021-03-09,2021-03-22,1.0,2616.0
+35,Nigeria,Public information campaigns,2020-01-22,2020-01-30,1.0,0.0
+36,Nigeria,Public information campaigns,2020-01-31,2021-04-11,2.0,163736.0
+13,Nigeria,Restrictions on gatherings,2020-03-18,2020-03-27,3.0,62.0
+14,Nigeria,Restrictions on gatherings,2020-03-28,2020-05-03,4.0,2469.0
+15,Nigeria,Restrictions on gatherings,2020-05-04,2021-04-11,3.0,160934.0
+21,Nigeria,Restrictions on internal movement,2020-03-29,2020-06-30,2.0,25583.0
+22,Nigeria,Restrictions on internal movement,2020-07-01,2020-08-13,1.0,21632.0
+23,Nigeria,Restrictions on internal movement,2020-08-14,2020-09-10,2.0,7384.0
+24,Nigeria,Restrictions on internal movement,2020-09-11,2021-03-08,1.0,102889.0
+0,Nigeria,School closing,2020-03-20,2020-03-25,2.0,39.0
+1,Nigeria,School closing,2020-03-26,2020-08-03,3.0,44064.0
+2,Nigeria,School closing,2020-08-04,2020-10-11,2.0,15833.0
+3,Nigeria,School closing,2020-10-12,2020-12-21,1.0,18360.0
+4,Nigeria,School closing,2020-12-22,2021-03-08,3.0,79117.0
+5,Nigeria,School closing,2021-03-09,2021-04-11,1.0,4484.0
+19,Nigeria,Stay at home requirements,2020-03-23,2020-03-28,1.0,49.0
+20,Nigeria,Stay at home requirements,2020-03-29,2021-04-11,2.0,163625.0
+37,Nigeria,Testing policy,2020-02-02,2020-07-02,1.0,27110.0
+38,Nigeria,Testing policy,2020-07-03,2020-07-30,2.0,15125.0
+39,Nigeria,Testing policy,2020-07-31,2021-04-11,1.0,120585.0
+6,Nigeria,Workplace closing,2020-03-18,2020-03-28,1.0,81.0
+7,Nigeria,Workplace closing,2020-03-29,2020-05-03,3.0,2447.0
+8,Nigeria,Workplace closing,2020-05-04,2020-08-13,2.0,45314.0
+9,Nigeria,Workplace closing,2020-08-14,2021-04-11,1.0,115291.0

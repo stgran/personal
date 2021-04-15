@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Lebanon,Cancel public events,2020-03-16,2020-03-17,1.0,10.0
+14,Lebanon,Cancel public events,2020-03-18,2020-08-10,2.0,6679.0
+15,Lebanon,Cancel public events,2020-08-21,2021-03-22,2.0,429434.0
+21,Lebanon,Close public transport,2020-03-18,2020-07-19,1.0,2726.0
+22,Lebanon,Close public transport,2020-11-14,2021-01-04,2.0,87872.0
+23,Lebanon,Close public transport,2021-01-05,2021-01-06,1.0,4166.0
+24,Lebanon,Close public transport,2021-01-07,2021-03-22,2.0,236315.0
+50,Lebanon,Contact tracing,2020-02-21,2021-03-22,1.0,441013.0
+44,Lebanon,Debt/contract relief,2020-04-08,2021-03-22,1.0,440438.0
+51,Lebanon,Emergency investment in healthcare,2020-03-10,2020-03-10,39000000.0,0.0
+52,Lebanon,Emergency investment in healthcare,2020-03-25,2020-03-25,6000000.0,0.0
+53,Lebanon,Facial Coverings,2020-03-15,2020-04-24,2.0,586.0
+54,Lebanon,Facial Coverings,2020-04-25,2020-10-12,3.0,53920.0
+55,Lebanon,Facial Coverings,2020-10-13,2020-10-27,4.0,18126.0
+56,Lebanon,Facial Coverings,2020-10-28,2021-03-22,3.0,365169.0
+45,Lebanon,International support,2021-01-21,2021-01-21,34000000.0,0.0
+39,Lebanon,International travel controls,2020-02-08,2020-02-27,1.0,2.0
+40,Lebanon,International travel controls,2020-02-28,2020-03-15,3.0,108.0
+41,Lebanon,International travel controls,2020-03-16,2020-06-30,4.0,1668.0
+42,Lebanon,International travel controls,2020-07-01,2021-02-08,2.0,320192.0
+43,Lebanon,International travel controls,2021-02-09,2021-03-22,4.0,116148.0
+58,Lebanon,Protection of elderly people,2020-03-16,2020-03-17,1.0,10.0
+59,Lebanon,Protection of elderly people,2020-03-18,2020-05-02,2.0,600.0
+60,Lebanon,Protection of elderly people,2020-05-03,2020-07-29,1.0,3468.0
+61,Lebanon,Protection of elderly people,2020-07-30,2020-08-10,2.0,2478.0
+62,Lebanon,Protection of elderly people,2020-08-21,2020-09-27,1.0,24674.0
+63,Lebanon,Protection of elderly people,2020-09-28,2020-10-27,2.0,36723.0
+64,Lebanon,Protection of elderly people,2020-10-28,2020-11-13,1.0,26762.0
+65,Lebanon,Protection of elderly people,2020-11-14,2021-03-01,2.0,272671.0
+66,Lebanon,Protection of elderly people,2021-03-02,2021-03-22,1.0,60978.0
+46,Lebanon,Public information campaigns,2020-02-21,2020-03-05,1.0,15.0
+47,Lebanon,Public information campaigns,2020-03-06,2021-03-22,2.0,440992.0
+16,Lebanon,Restrictions on gatherings,2020-03-18,2020-07-19,4.0,2726.0
+17,Lebanon,Restrictions on gatherings,2020-07-30,2020-08-10,4.0,2478.0
+18,Lebanon,Restrictions on gatherings,2020-11-14,2021-01-04,4.0,87872.0
+19,Lebanon,Restrictions on gatherings,2021-01-05,2021-01-06,3.0,4166.0
+20,Lebanon,Restrictions on gatherings,2021-01-07,2021-03-22,4.0,236315.0
+37,Lebanon,Restrictions on internal movement,2020-03-16,2020-07-19,1.0,2749.0
+38,Lebanon,Restrictions on internal movement,2020-08-21,2021-03-22,2.0,429434.0
+0,Lebanon,School closing,2020-02-29,2020-05-28,3.0,1164.0
+1,Lebanon,School closing,2020-05-29,2020-11-13,2.0,101435.0
+2,Lebanon,School closing,2020-11-14,2021-03-22,3.0,336747.0
+25,Lebanon,Stay at home requirements,2020-03-16,2020-03-17,1.0,10.0
+26,Lebanon,Stay at home requirements,2020-03-18,2020-05-02,2.0,600.0
+27,Lebanon,Stay at home requirements,2020-05-03,2020-05-12,1.0,133.0
+28,Lebanon,Stay at home requirements,2020-05-13,2020-05-17,2.0,33.0
+29,Lebanon,Stay at home requirements,2020-05-18,2020-07-19,1.0,1928.0
+30,Lebanon,Stay at home requirements,2020-07-30,2020-08-10,2.0,2478.0
+31,Lebanon,Stay at home requirements,2020-08-21,2020-09-07,3.0,9246.0
+32,Lebanon,Stay at home requirements,2020-09-08,2020-10-27,2.0,52671.0
+33,Lebanon,Stay at home requirements,2020-10-28,2020-11-13,1.0,26762.0
+34,Lebanon,Stay at home requirements,2020-11-14,2021-01-13,2.0,127669.0
+35,Lebanon,Stay at home requirements,2021-01-14,2021-02-07,3.0,82785.0
+36,Lebanon,Stay at home requirements,2021-02-08,2021-03-22,2.0,119034.0
+48,Lebanon,Testing policy,2020-02-07,2020-05-28,1.0,1168.0
+49,Lebanon,Testing policy,2020-05-29,2021-03-22,2.0,439842.0
+57,Lebanon,Vaccination policy,2021-03-02,2021-03-22,2.0,60978.0
+3,Lebanon,Workplace closing,2020-03-06,2020-03-17,2.0,98.0
+4,Lebanon,Workplace closing,2020-03-18,2020-04-26,3.0,574.0
+5,Lebanon,Workplace closing,2020-04-27,2020-05-12,2.0,160.0
+6,Lebanon,Workplace closing,2020-05-13,2020-05-17,3.0,33.0
+7,Lebanon,Workplace closing,2020-05-18,2020-07-23,2.0,2329.0
+8,Lebanon,Workplace closing,2020-07-24,2020-07-29,3.0,798.0
+9,Lebanon,Workplace closing,2020-07-30,2020-08-03,2.0,728.0
+10,Lebanon,Workplace closing,2020-08-04,2020-08-05,1.0,355.0
+11,Lebanon,Workplace closing,2020-08-06,2020-08-10,2.0,1140.0
+12,Lebanon,Workplace closing,2020-08-21,2021-03-22,2.0,429434.0

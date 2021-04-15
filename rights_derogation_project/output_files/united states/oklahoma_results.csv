@@ -1,0 +1,50 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Oklahoma,Cancel public events,2020-03-15,2020-03-15,1.0,0.0
+10,Oklahoma,Cancel public events,2020-03-16,2020-05-14,2.0,4953.0
+11,Oklahoma,Cancel public events,2020-05-15,2021-04-05,1.0,434935.0
+16,Oklahoma,Close public transport,2020-03-30,2020-06-06,1.0,6578.0
+17,Oklahoma,Close public transport,2020-10-26,2021-04-05,1.0,322623.0
+35,Oklahoma,Contact tracing,2020-01-21,2021-04-05,1.0,440022.0
+27,Oklahoma,Debt/contract relief,2020-03-16,2020-07-24,1.0,29106.0
+28,Oklahoma,Debt/contract relief,2020-09-01,2021-04-05,1.0,380624.0
+36,Oklahoma,Facial Coverings,2020-04-04,2020-04-30,1.0,2457.0
+37,Oklahoma,Facial Coverings,2020-05-01,2020-05-31,2.0,2670.0
+38,Oklahoma,Facial Coverings,2020-06-01,2020-07-02,1.0,7958.0
+39,Oklahoma,Facial Coverings,2020-07-03,2020-07-06,2.0,1293.0
+40,Oklahoma,Facial Coverings,2020-07-07,2021-01-10,3.0,314142.0
+41,Oklahoma,Facial Coverings,2021-01-20,2021-04-05,3.0,79662.0
+29,Oklahoma,Fiscal measures,2020-04-10,2020-04-10,5000000.0,0.0
+23,Oklahoma,Income support,2020-01-27,2020-01-27,1.0,0.0
+24,Oklahoma,Income support,2020-03-27,2020-07-30,2.0,35418.0
+25,Oklahoma,Income support,2020-07-31,2020-09-10,1.0,30213.0
+26,Oklahoma,Income support,2020-12-27,2021-04-05,1.0,160883.0
+21,Oklahoma,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+22,Oklahoma,International travel controls,2020-03-02,2021-04-05,3.0,440022.0
+45,Oklahoma,Protection of elderly people,2020-03-13,2020-03-23,1.0,78.0
+46,Oklahoma,Protection of elderly people,2020-03-24,2020-06-14,3.0,8125.0
+47,Oklahoma,Protection of elderly people,2020-06-15,2021-03-08,2.0,420745.0
+48,Oklahoma,Protection of elderly people,2021-03-10,2021-04-05,2.0,9772.0
+30,Oklahoma,Public information campaigns,2020-01-24,2020-03-04,1.0,0.0
+31,Oklahoma,Public information campaigns,2020-03-05,2021-04-05,2.0,440022.0
+12,Oklahoma,Restrictions on gatherings,2020-03-16,2020-03-23,2.0,71.0
+13,Oklahoma,Restrictions on gatherings,2020-03-24,2020-05-14,4.0,4857.0
+14,Oklahoma,Restrictions on gatherings,2020-05-15,2020-07-01,3.0,9032.0
+15,Oklahoma,Restrictions on gatherings,2020-07-02,2020-12-05,2.0,198714.0
+20,Oklahoma,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,440012.0
+0,Oklahoma,School closing,2020-03-13,2020-03-16,1.0,7.0
+1,Oklahoma,School closing,2020-03-17,2020-03-22,2.0,50.0
+2,Oklahoma,School closing,2020-03-23,2020-08-23,3.0,53084.0
+3,Oklahoma,School closing,2020-08-24,2021-04-05,2.0,386500.0
+18,Oklahoma,Stay at home requirements,2020-03-24,2020-04-30,2.0,3512.0
+19,Oklahoma,Stay at home requirements,2020-05-01,2021-04-05,1.0,436274.0
+32,Oklahoma,Testing policy,2020-01-21,2020-03-31,1.0,568.0
+33,Oklahoma,Testing policy,2020-04-01,2020-05-07,2.0,3609.0
+34,Oklahoma,Testing policy,2020-05-08,2021-04-05,3.0,435598.0
+42,Oklahoma,Vaccination policy,2020-12-11,2021-02-21,2.0,190001.0
+43,Oklahoma,Vaccination policy,2021-02-22,2021-03-28,3.0,17118.0
+44,Oklahoma,Vaccination policy,2021-03-29,2021-04-05,4.0,2169.0
+4,Oklahoma,Workplace closing,2020-03-12,2020-03-20,1.0,46.0
+5,Oklahoma,Workplace closing,2020-03-21,2020-03-25,2.0,111.0
+6,Oklahoma,Workplace closing,2020-03-26,2020-04-23,3.0,2769.0
+7,Oklahoma,Workplace closing,2020-04-24,2020-05-14,2.0,1842.0
+8,Oklahoma,Workplace closing,2020-05-15,2021-04-05,1.0,434935.0

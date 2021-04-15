@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Sierra Leone,Cancel public events,2020-03-22,2020-07-12,2.0,1635.0
+11,Sierra Leone,Cancel public events,2020-07-13,2021-04-04,1.0,2346.0
+17,Sierra Leone,Close public transport,2020-03-23,2020-06-07,1.0,969.0
+18,Sierra Leone,Close public transport,2020-11-16,2021-04-04,1.0,1597.0
+38,Sierra Leone,Contact tracing,2020-03-31,2021-01-04,2.0,2672.0
+39,Sierra Leone,Contact tracing,2021-01-12,2021-03-01,2.0,1023.0
+40,Sierra Leone,Contact tracing,2021-03-02,2021-04-04,1.0,99.0
+32,Sierra Leone,Debt/contract relief,2020-03-18,2020-08-17,1.0,1956.0
+41,Sierra Leone,Emergency investment in healthcare,2020-10-20,2020-10-20,3700000.0,0.0
+42,Sierra Leone,Facial Coverings,2020-04-22,2021-04-04,3.0,3927.0
+33,Sierra Leone,Fiscal measures,2020-04-02,2020-04-02,7500000.0,0.0
+29,Sierra Leone,International travel controls,2020-03-21,2020-03-27,3.0,0.0
+30,Sierra Leone,International travel controls,2020-03-28,2020-07-21,4.0,1727.0
+31,Sierra Leone,International travel controls,2020-07-22,2021-04-04,1.0,2257.0
+45,Sierra Leone,Protection of elderly people,2020-02-26,2020-05-02,2.0,155.0
+46,Sierra Leone,Protection of elderly people,2020-05-03,2020-05-05,3.0,33.0
+47,Sierra Leone,Protection of elderly people,2020-05-06,2020-10-25,2.0,2121.0
+48,Sierra Leone,Protection of elderly people,2020-10-26,2021-01-24,1.0,793.0
+49,Sierra Leone,Protection of elderly people,2021-01-25,2021-03-22,2.0,775.0
+34,Sierra Leone,Public information campaigns,2020-03-20,2020-04-17,1.0,26.0
+35,Sierra Leone,Public information campaigns,2020-04-18,2021-04-04,2.0,3958.0
+12,Sierra Leone,Restrictions on gatherings,2020-03-16,2020-04-04,2.0,4.0
+13,Sierra Leone,Restrictions on gatherings,2020-04-05,2020-04-07,4.0,0.0
+14,Sierra Leone,Restrictions on gatherings,2020-04-08,2020-10-13,2.0,2302.0
+15,Sierra Leone,Restrictions on gatherings,2020-10-14,2021-03-22,3.0,1633.0
+16,Sierra Leone,Restrictions on gatherings,2021-03-23,2021-04-04,2.0,39.0
+27,Sierra Leone,Restrictions on internal movement,2020-04-05,2020-06-07,2.0,963.0
+28,Sierra Leone,Restrictions on internal movement,2021-01-25,2021-02-07,2.0,612.0
+0,Sierra Leone,School closing,2020-03-31,2020-06-30,3.0,1461.0
+1,Sierra Leone,School closing,2020-07-01,2020-08-13,2.0,442.0
+2,Sierra Leone,School closing,2020-08-14,2020-09-14,3.0,164.0
+3,Sierra Leone,School closing,2020-09-15,2020-10-04,2.0,143.0
+4,Sierra Leone,School closing,2020-10-05,2021-04-04,1.0,1719.0
+19,Sierra Leone,Stay at home requirements,2020-04-05,2020-04-07,3.0,0.0
+20,Sierra Leone,Stay at home requirements,2020-04-08,2020-04-25,2.0,75.0
+21,Sierra Leone,Stay at home requirements,2020-04-26,2020-05-02,1.0,62.0
+22,Sierra Leone,Stay at home requirements,2020-05-03,2020-05-05,3.0,33.0
+23,Sierra Leone,Stay at home requirements,2020-05-06,2020-07-02,1.0,1293.0
+24,Sierra Leone,Stay at home requirements,2020-11-16,2020-11-30,1.0,21.0
+25,Sierra Leone,Stay at home requirements,2021-01-25,2021-03-23,2.0,776.0
+26,Sierra Leone,Stay at home requirements,2021-03-24,2021-04-04,1.0,35.0
+36,Sierra Leone,Testing policy,2020-03-31,2021-03-11,2.0,3931.0
+37,Sierra Leone,Testing policy,2021-03-12,2021-04-04,3.0,54.0
+43,Sierra Leone,Vaccination policy,2021-03-15,2021-03-21,1.0,10.0
+44,Sierra Leone,Vaccination policy,2021-03-22,2021-04-04,3.0,40.0
+5,Sierra Leone,Workplace closing,2020-03-27,2020-04-04,2.0,4.0
+6,Sierra Leone,Workplace closing,2020-04-05,2020-04-07,3.0,0.0
+7,Sierra Leone,Workplace closing,2020-04-08,2020-05-02,2.0,148.0
+8,Sierra Leone,Workplace closing,2020-05-03,2020-05-05,3.0,33.0
+9,Sierra Leone,Workplace closing,2021-01-25,2021-04-04,2.0,815.0

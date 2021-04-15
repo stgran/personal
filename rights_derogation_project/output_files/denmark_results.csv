@@ -1,0 +1,65 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+15,Denmark,Cancel public events,2020-03-06,2020-12-08,1.0,94776.0
+16,Denmark,Cancel public events,2020-12-09,2021-04-09,2.0,138989.0
+25,Denmark,Close public transport,2020-03-10,2020-10-09,1.0,31376.0
+51,Denmark,Contact tracing,2020-02-27,2021-04-09,1.0,236345.0
+39,Denmark,Debt/contract relief,2020-04-18,2021-01-14,2.0,177917.0
+52,Denmark,Emergency investment in healthcare,2020-04-02,2020-04-02,94575000.0,0.0
+53,Denmark,Emergency investment in healthcare,2020-04-08,2020-04-08,1142352.0,0.0
+55,Denmark,Facial Coverings,2020-07-09,2020-08-21,1.0,3211.0
+56,Denmark,Facial Coverings,2020-08-22,2021-04-09,2.0,220107.0
+40,Denmark,Fiscal measures,2020-03-13,2020-03-13,1112519935.9,0.0
+41,Denmark,Fiscal measures,2020-03-26,2020-03-26,42066226711.27,0.0
+42,Denmark,Fiscal measures,2020-04-22,2020-04-22,2175900.0,0.0
+43,Denmark,Fiscal measures,2020-05-29,2020-05-29,3219069854.0,0.0
+44,Denmark,Fiscal measures,2020-08-28,2020-08-28,15993841.0,0.0
+36,Denmark,Income support,2020-03-09,2020-10-09,2.0,31548.0
+37,Denmark,Income support,2020-10-10,2020-10-20,1.0,4291.0
+38,Denmark,Income support,2020-10-21,2021-04-09,2.0,199343.0
+45,Denmark,International support,2020-04-02,2020-04-02,94575000.0,0.0
+46,Denmark,International support,2020-04-08,2020-04-08,1091655.0,0.0
+31,Denmark,International travel controls,2020-03-03,2020-03-10,2.0,256.0
+32,Denmark,International travel controls,2020-03-11,2020-03-13,3.0,359.0
+33,Denmark,International travel controls,2020-03-14,2020-05-24,4.0,10533.0
+34,Denmark,International travel controls,2020-05-25,2021-01-08,3.0,167110.0
+35,Denmark,International travel controls,2021-01-09,2021-04-09,4.0,56106.0
+54,Denmark,Investment in vaccines,2020-11-16,2020-11-16,3000000.0,0.0
+59,Denmark,Protection of elderly people,2020-03-17,2020-04-05,2.0,3392.0
+60,Denmark,Protection of elderly people,2020-04-06,2020-04-23,3.0,3392.0
+61,Denmark,Protection of elderly people,2020-04-24,2020-06-30,2.0,4558.0
+62,Denmark,Protection of elderly people,2020-07-01,2020-11-24,1.0,60227.0
+63,Denmark,Protection of elderly people,2020-11-25,2021-04-09,2.0,162142.0
+47,Denmark,Public information campaigns,2020-02-27,2021-04-09,2.0,236345.0
+17,Denmark,Restrictions on gatherings,2020-03-13,2020-03-17,3.0,176.0
+18,Denmark,Restrictions on gatherings,2020-03-18,2020-05-07,4.0,9026.0
+19,Denmark,Restrictions on gatherings,2020-05-08,2020-07-07,3.0,2670.0
+20,Denmark,Restrictions on gatherings,2020-07-08,2020-09-08,2.0,5456.0
+21,Denmark,Restrictions on gatherings,2020-09-09,2020-10-09,3.0,13031.0
+22,Denmark,Restrictions on gatherings,2020-10-10,2020-10-20,2.0,4291.0
+23,Denmark,Restrictions on gatherings,2020-10-21,2020-10-25,3.0,3353.0
+24,Denmark,Restrictions on gatherings,2020-10-26,2021-04-09,4.0,194934.0
+29,Denmark,Restrictions on internal movement,2020-03-13,2020-05-21,1.0,10381.0
+30,Denmark,Restrictions on internal movement,2020-11-09,2020-11-18,1.0,9916.0
+0,Denmark,School closing,2020-03-13,2020-04-14,3.0,5710.0
+1,Denmark,School closing,2020-04-15,2020-07-31,2.0,7108.0
+2,Denmark,School closing,2020-08-01,2020-10-20,1.0,22584.0
+3,Denmark,School closing,2020-11-09,2020-11-18,2.0,9916.0
+4,Denmark,School closing,2020-11-19,2020-12-08,1.0,27694.0
+5,Denmark,School closing,2020-12-09,2021-01-03,2.0,71354.0
+6,Denmark,School closing,2021-01-04,2021-02-07,3.0,30834.0
+7,Denmark,School closing,2021-02-08,2021-03-28,2.0,25962.0
+8,Denmark,School closing,2021-03-29,2021-04-11,3.0,8409.0
+26,Denmark,Stay at home requirements,2020-03-03,2020-10-20,1.0,36367.0
+27,Denmark,Stay at home requirements,2020-11-09,2020-11-18,1.0,9916.0
+28,Denmark,Stay at home requirements,2020-11-23,2021-04-09,1.0,164692.0
+48,Denmark,Testing policy,2020-03-11,2020-04-19,1.0,6942.0
+49,Denmark,Testing policy,2020-04-20,2020-05-11,2.0,2998.0
+50,Denmark,Testing policy,2020-05-12,2021-04-09,3.0,225755.0
+57,Denmark,Vaccination policy,2020-12-27,2020-12-31,2.0,10132.0
+58,Denmark,Vaccination policy,2021-01-01,2021-04-09,3.0,70416.0
+9,Denmark,Workplace closing,2020-03-11,2020-03-17,1.0,535.0
+10,Denmark,Workplace closing,2020-03-18,2020-10-09,2.0,30581.0
+11,Denmark,Workplace closing,2020-10-10,2020-12-08,1.0,62717.0
+12,Denmark,Workplace closing,2020-12-09,2021-01-03,2.0,71354.0
+13,Denmark,Workplace closing,2021-01-04,2021-02-19,3.0,35830.0
+14,Denmark,Workplace closing,2021-02-20,2021-04-09,2.0,29265.0

@@ -1,0 +1,55 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Louisiana,Cancel public events,2020-03-10,2020-11-16,2.0,205057.0
+9,Louisiana,Cancel public events,2020-11-17,2021-01-28,1.0,187224.0
+10,Louisiana,Cancel public events,2021-01-29,2021-04-05,2.0,49461.0
+18,Louisiana,Close public transport,2020-03-17,2021-04-05,1.0,446541.0
+39,Louisiana,Contact tracing,2020-01-21,2020-11-16,1.0,205057.0
+40,Louisiana,Contact tracing,2020-11-17,2020-12-04,2.0,39492.0
+41,Louisiana,Contact tracing,2020-12-05,2021-04-05,1.0,199560.0
+29,Louisiana,Debt/contract relief,2020-03-13,2020-06-14,2.0,46590.0
+30,Louisiana,Debt/contract relief,2020-06-15,2020-07-24,1.0,56562.0
+31,Louisiana,Debt/contract relief,2020-09-01,2021-04-05,1.0,297154.0
+42,Louisiana,Facial Coverings,2020-04-04,2020-04-30,1.0,15505.0
+43,Louisiana,Facial Coverings,2020-05-01,2020-05-15,2.0,5126.0
+44,Louisiana,Facial Coverings,2020-05-16,2021-01-10,3.0,312712.0
+45,Louisiana,Facial Coverings,2021-01-20,2021-04-05,3.0,72155.0
+26,Louisiana,Income support,2020-01-27,2020-01-27,1.0,0.0
+27,Louisiana,Income support,2020-03-27,2020-07-30,2.0,111737.0
+28,Louisiana,Income support,2020-07-31,2021-04-05,1.0,330457.0
+24,Louisiana,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+25,Louisiana,International travel controls,2020-03-02,2021-04-05,3.0,446737.0
+51,Louisiana,Protection of elderly people,2020-03-12,2020-09-17,3.0,160324.0
+52,Louisiana,Protection of elderly people,2020-09-18,2021-03-08,2.0,272967.0
+53,Louisiana,Protection of elderly people,2021-03-10,2021-04-05,2.0,11223.0
+32,Louisiana,Public information campaigns,2020-03-10,2020-03-11,1.0,5.0
+33,Louisiana,Public information campaigns,2020-03-12,2021-04-05,2.0,446718.0
+11,Louisiana,Restrictions on gatherings,2020-03-13,2020-03-22,2.0,808.0
+12,Louisiana,Restrictions on gatherings,2020-03-23,2020-04-30,4.0,26829.0
+13,Louisiana,Restrictions on gatherings,2020-05-01,2020-07-17,2.0,59879.0
+14,Louisiana,Restrictions on gatherings,2020-07-18,2021-01-28,3.0,306319.0
+15,Louisiana,Restrictions on gatherings,2021-01-29,2021-03-11,4.0,38659.0
+16,Louisiana,Restrictions on gatherings,2021-03-12,2021-04-01,3.0,8987.0
+17,Louisiana,Restrictions on gatherings,2021-04-02,2021-04-05,2.0,1268.0
+23,Louisiana,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,446622.0
+0,Louisiana,School closing,2020-03-13,2020-03-15,1.0,58.0
+1,Louisiana,School closing,2020-03-16,2020-03-20,2.0,422.0
+2,Louisiana,School closing,2020-03-21,2020-08-23,3.0,142180.0
+3,Louisiana,School closing,2020-08-24,2021-04-05,2.0,303171.0
+19,Louisiana,Stay at home requirements,2020-03-23,2020-05-14,2.0,32317.0
+20,Louisiana,Stay at home requirements,2020-05-15,2021-02-11,1.0,383578.0
+21,Louisiana,Stay at home requirements,2021-02-12,2021-02-16,2.0,1809.0
+22,Louisiana,Stay at home requirements,2021-02-17,2021-04-05,1.0,25719.0
+34,Louisiana,Testing policy,2020-01-21,2020-05-28,1.0,38802.0
+35,Louisiana,Testing policy,2020-05-29,2021-02-22,2.0,385842.0
+36,Louisiana,Testing policy,2021-02-23,2021-02-27,3.0,2544.0
+37,Louisiana,Testing policy,2021-02-28,2021-03-22,2.0,10966.0
+38,Louisiana,Testing policy,2021-03-23,2021-04-05,3.0,4966.0
+46,Louisiana,Vaccination policy,2020-12-14,2020-12-29,1.0,34842.0
+47,Louisiana,Vaccination policy,2020-12-30,2021-02-07,2.0,100583.0
+48,Louisiana,Vaccination policy,2021-02-08,2021-03-21,3.0,26748.0
+49,Louisiana,Vaccination policy,2021-03-22,2021-03-28,4.0,2003.0
+50,Louisiana,Vaccination policy,2021-03-29,2021-04-05,5.0,2832.0
+4,Louisiana,Workplace closing,2020-03-12,2020-03-13,1.0,10.0
+5,Louisiana,Workplace closing,2020-03-14,2020-11-16,2.0,204980.0
+6,Louisiana,Workplace closing,2020-11-17,2020-12-22,1.0,83275.0
+7,Louisiana,Workplace closing,2020-12-23,2021-04-05,2.0,152803.0

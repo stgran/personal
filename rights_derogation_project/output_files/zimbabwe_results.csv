@@ -1,0 +1,60 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+16,Zimbabwe,Cancel public events,2020-03-17,2021-03-01,2.0,36115.0
+17,Zimbabwe,Cancel public events,2021-03-02,2021-03-08,1.0,141.0
+18,Zimbabwe,Cancel public events,2021-03-09,2021-04-10,2.0,952.0
+22,Zimbabwe,Close public transport,2020-03-30,2021-01-17,1.0,27196.0
+23,Zimbabwe,Close public transport,2021-01-18,2021-03-01,2.0,8223.0
+24,Zimbabwe,Close public transport,2021-03-16,2021-04-10,1.0,738.0
+45,Zimbabwe,Contact tracing,2020-03-24,2021-03-01,1.0,36112.0
+46,Zimbabwe,Emergency investment in healthcare,2020-03-31,2020-03-31,50.0,0.0
+49,Zimbabwe,Facial Coverings,2020-05-04,2020-09-03,4.0,6644.0
+50,Zimbabwe,Facial Coverings,2020-09-04,2020-09-28,3.0,979.0
+51,Zimbabwe,Facial Coverings,2020-09-29,2020-10-25,1.0,439.0
+52,Zimbabwe,Facial Coverings,2020-10-26,2021-01-04,3.0,7526.0
+53,Zimbabwe,Facial Coverings,2021-01-05,2021-03-01,4.0,18921.0
+54,Zimbabwe,Facial Coverings,2021-03-02,2021-04-10,3.0,1125.0
+37,Zimbabwe,Fiscal measures,2020-03-31,2020-03-31,600000000.0,0.0
+38,Zimbabwe,Fiscal measures,2020-04-02,2020-04-02,715000000.0,0.0
+36,Zimbabwe,Income support,2020-04-08,2021-03-01,1.0,36104.0
+39,Zimbabwe,International support,2020-10-26,2020-10-26,3800000.0,0.0
+31,Zimbabwe,International travel controls,2020-01-28,2020-03-22,1.0,3.0
+32,Zimbabwe,International travel controls,2020-03-23,2020-09-30,4.0,7835.0
+33,Zimbabwe,International travel controls,2020-10-01,2021-01-04,2.0,7979.0
+34,Zimbabwe,International travel controls,2021-01-05,2021-01-17,4.0,10009.0
+35,Zimbabwe,International travel controls,2021-01-18,2021-04-10,1.0,9381.0
+47,Zimbabwe,Investment in vaccines,2020-03-31,2020-03-31,1.1,0.0
+48,Zimbabwe,Investment in vaccines,2021-02-22,2021-02-22,100000000.0,0.0
+58,Zimbabwe,Protection of elderly people,2020-03-30,2020-06-04,2.0,230.0
+40,Zimbabwe,Public information campaigns,2020-01-27,2020-03-26,1.0,3.0
+41,Zimbabwe,Public information campaigns,2020-03-27,2021-04-10,2.0,37268.0
+19,Zimbabwe,Restrictions on gatherings,2020-03-17,2021-01-04,3.0,15829.0
+20,Zimbabwe,Restrictions on gatherings,2021-01-05,2021-03-01,4.0,18921.0
+21,Zimbabwe,Restrictions on gatherings,2021-03-02,2021-04-10,3.0,1125.0
+29,Zimbabwe,Restrictions on internal movement,2020-03-23,2020-03-29,1.0,4.0
+30,Zimbabwe,Restrictions on internal movement,2020-03-30,2021-03-01,2.0,36108.0
+0,Zimbabwe,School closing,2020-03-24,2020-06-04,3.0,234.0
+1,Zimbabwe,School closing,2020-06-05,2020-07-23,2.0,1859.0
+2,Zimbabwe,School closing,2020-07-24,2020-09-13,3.0,5230.0
+3,Zimbabwe,School closing,2020-09-14,2020-11-08,2.0,1000.0
+4,Zimbabwe,School closing,2020-11-09,2021-01-04,1.0,7268.0
+5,Zimbabwe,School closing,2021-01-05,2021-02-15,2.0,18028.0
+6,Zimbabwe,School closing,2021-02-16,2021-03-01,3.0,800.0
+7,Zimbabwe,School closing,2021-03-02,2021-03-08,1.0,141.0
+8,Zimbabwe,School closing,2021-03-09,2021-03-22,2.0,363.0
+9,Zimbabwe,School closing,2021-03-23,2021-04-10,1.0,556.0
+25,Zimbabwe,Stay at home requirements,2020-03-23,2020-03-29,1.0,4.0
+26,Zimbabwe,Stay at home requirements,2020-03-30,2020-06-04,2.0,230.0
+27,Zimbabwe,Stay at home requirements,2020-06-05,2020-07-21,1.0,1555.0
+28,Zimbabwe,Stay at home requirements,2020-07-22,2021-04-10,2.0,35239.0
+42,Zimbabwe,Testing policy,2020-04-09,2021-01-17,1.0,27192.0
+43,Zimbabwe,Testing policy,2021-01-18,2021-02-15,2.0,7330.0
+44,Zimbabwe,Testing policy,2021-02-16,2021-04-10,3.0,1958.0
+55,Zimbabwe,Vaccination policy,2021-02-19,2021-03-01,1.0,405.0
+56,Zimbabwe,Vaccination policy,2021-03-02,2021-03-28,3.0,674.0
+57,Zimbabwe,Vaccination policy,2021-03-29,2021-04-10,4.0,434.0
+10,Zimbabwe,Workplace closing,2020-03-30,2020-06-04,3.0,230.0
+11,Zimbabwe,Workplace closing,2020-06-05,2020-12-17,1.0,11601.0
+12,Zimbabwe,Workplace closing,2020-12-18,2021-01-04,2.0,3782.0
+13,Zimbabwe,Workplace closing,2021-01-05,2021-03-01,3.0,18921.0
+14,Zimbabwe,Workplace closing,2021-03-02,2021-03-08,1.0,141.0
+15,Zimbabwe,Workplace closing,2021-03-09,2021-04-10,2.0,952.0

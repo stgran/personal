@@ -1,0 +1,30 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Acre,Cancel public events,2020-03-13,2020-03-19,1.0,4.0
+7,Acre,Cancel public events,2020-03-20,2021-03-19,2.0,64871.0
+11,Acre,Close public transport,2020-03-21,2020-03-22,1.0,0.0
+12,Acre,Close public transport,2020-03-23,2021-03-19,2.0,64861.0
+24,Acre,Contact tracing,2020-04-01,2021-03-19,2.0,64835.0
+21,Acre,Debt/contract relief,2020-03-17,2020-12-26,1.0,40733.0
+25,Acre,Facial Coverings,2020-04-17,2021-01-11,4.0,43211.0
+17,Acre,International travel controls,2020-03-13,2020-03-17,2.0,3.0
+18,Acre,International travel controls,2020-03-18,2020-03-26,3.0,20.0
+19,Acre,International travel controls,2020-03-27,2020-07-28,4.0,19107.0
+20,Acre,International travel controls,2020-07-29,2021-03-19,1.0,45512.0
+26,Acre,Protection of elderly people,2020-05-07,2020-09-03,1.0,24121.0
+27,Acre,Protection of elderly people,2020-09-05,2021-01-05,1.0,16762.0
+28,Acre,Protection of elderly people,2021-01-07,2021-03-19,1.0,22400.0
+22,Acre,Public information campaigns,2020-01-26,2021-03-19,2.0,64878.0
+8,Acre,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,0.0
+9,Acre,Restrictions on gatherings,2020-03-16,2020-03-19,3.0,4.0
+10,Acre,Restrictions on gatherings,2020-03-20,2021-03-19,4.0,64871.0
+15,Acre,Restrictions on internal movement,2020-03-18,2020-03-19,1.0,1.0
+16,Acre,Restrictions on internal movement,2020-03-20,2021-03-19,2.0,64871.0
+0,Acre,School closing,2020-03-17,2020-11-15,3.0,33153.0
+1,Acre,School closing,2020-11-16,2021-01-31,2.0,15172.0
+2,Acre,School closing,2021-02-01,2021-03-19,3.0,16058.0
+13,Acre,Stay at home requirements,2020-03-20,2021-01-24,1.0,46422.0
+14,Acre,Stay at home requirements,2021-01-25,2021-03-19,2.0,18339.0
+23,Acre,Testing policy,2020-05-06,2021-03-19,2.0,63935.0
+3,Acre,Workplace closing,2020-03-20,2020-07-20,3.0,17455.0
+4,Acre,Workplace closing,2020-07-21,2021-01-31,2.0,30767.0
+5,Acre,Workplace closing,2021-02-01,2021-03-19,3.0,16058.0

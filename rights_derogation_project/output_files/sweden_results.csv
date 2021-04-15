@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Sweden,Cancel public events,2020-03-12,2021-04-09,2.0,856630.0
+10,Sweden,Close public transport,2020-04-01,2021-04-09,1.0,852081.0
+36,Sweden,Contact tracing,2020-01-31,2020-03-22,2.0,1986.0
+37,Sweden,Contact tracing,2020-03-23,2021-04-09,1.0,855233.0
+16,Sweden,Debt/contract relief,2020-07-01,2020-12-31,1.0,368771.0
+17,Sweden,Debt/contract relief,2021-03-27,2021-04-02,1.0,33173.0
+38,Sweden,Emergency investment in healthcare,2020-03-11,2020-03-11,6949668.0,0.0
+39,Sweden,Emergency investment in healthcare,2020-04-13,2020-04-13,0.03,0.0
+40,Sweden,Emergency investment in healthcare,2020-06-04,2020-06-04,642000000.0,0.0
+42,Sweden,Facial Coverings,2021-01-07,2021-02-16,1.0,135585.0
+43,Sweden,Facial Coverings,2021-02-17,2021-04-09,2.0,235299.0
+18,Sweden,Fiscal measures,2020-03-19,2020-03-19,484840000.0,0.0
+19,Sweden,Fiscal measures,2020-03-20,2020-03-20,7640801000.0,0.0
+20,Sweden,Fiscal measures,2020-04-20,2020-04-20,14840000.0,0.0
+21,Sweden,Fiscal measures,2020-06-04,2020-06-04,10000000.0,0.0
+22,Sweden,Fiscal measures,2020-07-06,2020-07-06,10788500.0,0.0
+23,Sweden,Fiscal measures,2020-07-07,2020-07-07,899545.7,0.0
+15,Sweden,Income support,2020-03-11,2021-04-09,2.0,856781.0
+24,Sweden,International support,2020-03-09,2020-03-09,4253000.0,0.0
+25,Sweden,International support,2020-04-08,2020-04-08,11000000.0,0.0
+26,Sweden,International support,2020-05-25,2020-05-25,40000000.0,0.0
+27,Sweden,International support,2020-07-07,2020-07-07,12000000.0,0.0
+28,Sweden,International support,2020-09-03,2020-09-03,10000000.0,0.0
+29,Sweden,International support,2020-10-13,2020-10-13,26000000.0,0.0
+30,Sweden,International support,2020-11-10,2020-11-10,16247599.0,0.0
+31,Sweden,International support,2021-01-18,2021-01-18,12000000.0,0.0
+32,Sweden,International support,2021-02-12,2021-02-12,12027443.22,0.0
+14,Sweden,International travel controls,2020-03-19,2021-04-09,3.0,855848.0
+41,Sweden,Investment in vaccines,2020-04-22,2020-04-22,9900000.0,0.0
+45,Sweden,Protection of elderly people,2020-03-12,2021-03-09,3.0,695204.0
+46,Sweden,Protection of elderly people,2021-03-10,2021-04-09,2.0,155509.0
+33,Sweden,Public information campaigns,2020-03-09,2021-04-09,2.0,857075.0
+7,Sweden,Restrictions on gatherings,2020-03-12,2020-03-28,2.0,2892.0
+8,Sweden,Restrictions on gatherings,2020-03-29,2020-11-23,3.0,204352.0
+9,Sweden,Restrictions on gatherings,2020-11-24,2021-04-09,4.0,631841.0
+12,Sweden,Restrictions on internal movement,2020-04-04,2020-06-12,1.0,43535.0
+13,Sweden,Restrictions on internal movement,2020-11-10,2021-04-09,1.0,695161.0
+0,Sweden,School closing,2020-03-17,2020-08-16,2.0,80219.0
+1,Sweden,School closing,2020-08-17,2020-12-06,1.0,197254.0
+2,Sweden,School closing,2020-12-07,2021-03-22,2.0,465360.0
+3,Sweden,School closing,2021-03-23,2021-04-11,1.0,99066.0
+11,Sweden,Stay at home requirements,2020-03-25,2021-04-09,1.0,854689.0
+34,Sweden,Testing policy,2020-01-31,2020-06-03,1.0,41256.0
+35,Sweden,Testing policy,2020-06-04,2021-04-09,2.0,815106.0
+44,Sweden,Vaccination policy,2020-12-27,2021-04-09,2.0,461353.0
+4,Sweden,Workplace closing,2020-03-25,2020-11-23,1.0,205583.0
+5,Sweden,Workplace closing,2020-11-24,2021-04-09,2.0,631841.0

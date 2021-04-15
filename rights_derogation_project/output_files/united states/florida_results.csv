@@ -1,0 +1,55 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Florida,Cancel public events,2020-03-12,2020-03-15,1.0,70.0
+14,Florida,Cancel public events,2020-03-16,2020-09-24,2.0,692939.0
+15,Florida,Cancel public events,2020-09-25,2021-04-03,1.0,1381145.0
+19,Florida,Close public transport,2020-03-20,2020-11-14,1.0,874532.0
+40,Florida,Contact tracing,2020-01-21,2021-04-03,1.0,2077032.0
+33,Florida,Debt/contract relief,2020-03-13,2020-04-01,1.0,6906.0
+34,Florida,Debt/contract relief,2020-04-02,2020-09-30,2.0,697508.0
+35,Florida,Debt/contract relief,2020-10-01,2021-04-03,1.0,1367888.0
+41,Florida,Emergency investment in healthcare,2020-03-19,2020-03-19,25150000.0,0.0
+42,Florida,Emergency investment in healthcare,2020-03-20,2020-03-20,27296000.0,0.0
+43,Florida,Facial Coverings,2020-04-04,2020-04-08,1.0,3919.0
+44,Florida,Facial Coverings,2020-04-09,2020-04-12,2.0,3531.0
+45,Florida,Facial Coverings,2020-04-13,2021-01-10,3.0,1455991.0
+46,Florida,Facial Coverings,2021-01-20,2021-04-03,3.0,476021.0
+29,Florida,Income support,2020-01-27,2020-01-27,1.0,0.0
+30,Florida,Income support,2020-03-27,2020-07-30,2.0,458479.0
+31,Florida,Income support,2020-07-31,2020-09-10,1.0,184345.0
+32,Florida,Income support,2020-12-27,2021-04-03,1.0,805053.0
+27,Florida,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+28,Florida,International travel controls,2020-03-02,2021-04-03,3.0,2077031.0
+51,Florida,Protection of elderly people,2020-03-13,2020-03-14,1.0,26.0
+52,Florida,Protection of elderly people,2020-03-15,2021-03-08,3.0,1948207.0
+53,Florida,Protection of elderly people,2021-03-10,2021-04-03,3.0,119446.0
+36,Florida,Public information campaigns,2020-02-25,2020-02-29,1.0,0.0
+37,Florida,Public information campaigns,2020-03-01,2021-04-03,2.0,2077032.0
+16,Florida,Restrictions on gatherings,2020-03-17,2020-09-24,4.0,692850.0
+17,Florida,Restrictions on gatherings,2020-09-25,2020-10-01,3.0,13257.0
+18,Florida,Restrictions on gatherings,2020-12-16,2021-04-03,4.0,921697.0
+23,Florida,Restrictions on internal movement,2020-03-16,2020-03-23,1.0,1126.0
+24,Florida,Restrictions on internal movement,2020-03-24,2020-08-04,2.0,495918.0
+25,Florida,Restrictions on internal movement,2020-08-05,2021-03-19,1.0,1496518.0
+26,Florida,Restrictions on internal movement,2021-03-20,2021-04-03,2.0,72670.0
+0,Florida,School closing,2020-03-12,2020-03-16,2.0,71.0
+1,Florida,School closing,2020-03-17,2020-07-31,3.0,470196.0
+2,Florida,School closing,2020-08-01,2020-10-04,2.0,236431.0
+3,Florida,School closing,2020-10-05,2020-11-29,1.0,274786.0
+4,Florida,School closing,2020-11-30,2021-03-08,2.0,948988.0
+5,Florida,School closing,2021-03-09,2021-03-31,1.0,105002.0
+20,Florida,Stay at home requirements,2020-03-16,2020-06-07,2.0,63837.0
+21,Florida,Stay at home requirements,2020-06-08,2020-07-02,1.0,104202.0
+22,Florida,Stay at home requirements,2020-07-03,2021-04-03,2.0,1898438.0
+38,Florida,Testing policy,2020-01-21,2020-07-13,1.0,282435.0
+39,Florida,Testing policy,2020-07-14,2021-04-03,2.0,1785403.0
+47,Florida,Vaccination policy,2020-12-14,2020-12-17,1.0,34100.0
+48,Florida,Vaccination policy,2020-12-18,2021-02-25,2.0,710818.0
+49,Florida,Vaccination policy,2021-02-26,2021-03-02,3.0,19877.0
+50,Florida,Vaccination policy,2021-03-03,2021-04-03,4.0,152918.0
+6,Florida,Workplace closing,2020-03-12,2020-03-15,1.0,70.0
+7,Florida,Workplace closing,2020-03-16,2020-03-16,3.0,0.0
+8,Florida,Workplace closing,2020-03-17,2020-03-19,2.0,242.0
+9,Florida,Workplace closing,2020-03-20,2020-05-19,3.0,46380.0
+10,Florida,Workplace closing,2020-05-20,2020-10-01,2.0,661673.0
+11,Florida,Workplace closing,2020-10-02,2021-03-19,1.0,1287453.0
+12,Florida,Workplace closing,2021-03-20,2021-04-03,2.0,72670.0

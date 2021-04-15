@@ -1,0 +1,71 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+14,Cyprus,Cancel public events,2020-03-10,2020-06-23,2.0,987.0
+15,Cyprus,Cancel public events,2020-06-24,2020-10-22,1.0,2163.0
+16,Cyprus,Cancel public events,2020-10-23,2021-03-15,2.0,36555.0
+17,Cyprus,Cancel public events,2021-03-16,2021-04-06,1.0,8493.0
+27,Cyprus,Close public transport,2020-03-24,2020-06-08,2.0,846.0
+28,Cyprus,Close public transport,2020-06-09,2021-04-06,1.0,47865.0
+53,Cyprus,Contact tracing,2020-03-12,2020-04-15,1.0,709.0
+54,Cyprus,Contact tracing,2020-04-16,2021-04-06,2.0,48102.0
+45,Cyprus,Debt/contract relief,2020-03-01,2021-04-06,2.0,48837.0
+55,Cyprus,Emergency investment in healthcare,2020-03-15,2020-03-15,109760500.0,0.0
+56,Cyprus,Facial Coverings,2020-06-13,2020-07-30,2.0,110.0
+57,Cyprus,Facial Coverings,2020-07-31,2020-09-08,3.0,397.0
+58,Cyprus,Facial Coverings,2020-09-09,2020-10-13,2.0,616.0
+59,Cyprus,Facial Coverings,2020-10-14,2020-12-02,3.0,8994.0
+60,Cyprus,Facial Coverings,2020-12-03,2021-01-25,4.0,18620.0
+61,Cyprus,Facial Coverings,2021-01-26,2021-04-06,3.0,18585.0
+46,Cyprus,Fiscal measures,2020-03-15,2020-03-15,778334236.0,0.0
+47,Cyprus,Fiscal measures,2020-05-22,2020-05-22,94324711.0,0.0
+48,Cyprus,Fiscal measures,2020-05-27,2020-05-27,1370822320.0,0.0
+49,Cyprus,Fiscal measures,2020-11-01,2020-11-01,65178400.0,0.0
+44,Cyprus,Income support,2020-03-15,2021-04-06,2.0,48811.0
+41,Cyprus,International travel controls,2020-03-13,2020-03-14,2.0,12.0
+42,Cyprus,International travel controls,2020-03-15,2020-06-08,4.0,944.0
+43,Cyprus,International travel controls,2020-06-09,2021-04-06,3.0,47865.0
+65,Cyprus,Protection of elderly people,2020-03-24,2020-04-03,2.0,272.0
+66,Cyprus,Protection of elderly people,2020-04-04,2020-06-08,3.0,544.0
+67,Cyprus,Protection of elderly people,2020-06-09,2020-11-03,2.0,3962.0
+68,Cyprus,Protection of elderly people,2020-11-04,2021-03-07,3.0,31778.0
+69,Cyprus,Protection of elderly people,2021-03-08,2021-04-06,2.0,11607.0
+50,Cyprus,Public information campaigns,2020-03-05,2021-04-06,2.0,48837.0
+18,Cyprus,Restrictions on gatherings,2020-03-23,2020-05-20,4.0,806.0
+19,Cyprus,Restrictions on gatherings,2020-05-21,2020-07-11,3.0,91.0
+20,Cyprus,Restrictions on gatherings,2020-07-12,2020-08-21,2.0,385.0
+21,Cyprus,Restrictions on gatherings,2020-08-22,2020-10-22,3.0,1737.0
+22,Cyprus,Restrictions on gatherings,2020-10-23,2020-12-23,4.0,15569.0
+23,Cyprus,Restrictions on gatherings,2020-12-24,2020-12-25,3.0,50.0
+24,Cyprus,Restrictions on gatherings,2020-12-26,2020-12-31,4.0,2628.0
+25,Cyprus,Restrictions on gatherings,2021-01-01,2021-01-02,3.0,627.0
+26,Cyprus,Restrictions on gatherings,2021-01-03,2021-04-06,4.0,24863.0
+34,Cyprus,Restrictions on internal movement,2020-03-24,2020-05-20,2.0,798.0
+35,Cyprus,Restrictions on internal movement,2020-05-21,2020-06-07,1.0,41.0
+36,Cyprus,Restrictions on internal movement,2020-11-03,2020-11-29,2.0,5449.0
+37,Cyprus,Restrictions on internal movement,2020-12-21,2020-12-23,2.0,879.0
+38,Cyprus,Restrictions on internal movement,2020-12-24,2020-12-25,1.0,50.0
+39,Cyprus,Restrictions on internal movement,2020-12-26,2021-02-28,2.0,15316.0
+40,Cyprus,Restrictions on internal movement,2021-03-01,2021-04-06,1.0,13828.0
+0,Cyprus,School closing,2020-03-13,2020-05-20,3.0,908.0
+1,Cyprus,School closing,2020-05-21,2020-10-08,2.0,995.0
+2,Cyprus,School closing,2020-10-09,2020-12-02,1.0,9224.0
+3,Cyprus,School closing,2020-12-03,2021-03-15,2.0,28346.0
+4,Cyprus,School closing,2021-03-16,2021-04-01,3.0,5829.0
+5,Cyprus,School closing,2021-04-02,2021-04-06,2.0,1959.0
+29,Cyprus,Stay at home requirements,2020-03-24,2020-05-20,2.0,798.0
+30,Cyprus,Stay at home requirements,2020-05-21,2020-10-22,1.0,2231.0
+31,Cyprus,Stay at home requirements,2020-10-23,2020-12-28,2.0,17094.0
+32,Cyprus,Stay at home requirements,2020-12-29,2021-01-09,1.0,5696.0
+33,Cyprus,Stay at home requirements,2021-01-10,2021-04-06,2.0,21487.0
+51,Cyprus,Testing policy,2020-03-23,2020-04-10,1.0,479.0
+52,Cyprus,Testing policy,2020-04-11,2021-04-06,3.0,48221.0
+62,Cyprus,Vaccination policy,2020-12-27,2021-01-09,1.0,7354.0
+63,Cyprus,Vaccination policy,2021-01-10,2021-01-25,2.0,2793.0
+64,Cyprus,Vaccination policy,2021-01-26,2021-04-06,3.0,18585.0
+6,Cyprus,Workplace closing,2020-03-16,2020-04-15,2.0,682.0
+7,Cyprus,Workplace closing,2020-04-16,2020-05-03,3.0,137.0
+8,Cyprus,Workplace closing,2020-05-04,2020-06-23,2.0,116.0
+9,Cyprus,Workplace closing,2020-09-08,2020-10-17,2.0,1070.0
+10,Cyprus,Workplace closing,2020-10-18,2020-10-19,1.0,43.0
+11,Cyprus,Workplace closing,2020-10-20,2021-01-09,2.0,24172.0
+12,Cyprus,Workplace closing,2021-01-10,2021-01-31,3.0,3526.0
+13,Cyprus,Workplace closing,2021-02-01,2021-04-06,2.0,17841.0

@@ -1,0 +1,76 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Namibia,Cancel public events,2020-03-17,2020-05-31,2.0,22.0
+11,Namibia,Cancel public events,2020-06-01,2020-08-11,1.0,3204.0
+12,Namibia,Cancel public events,2020-08-12,2020-10-05,2.0,8248.0
+13,Namibia,Cancel public events,2020-10-06,2020-12-07,1.0,3546.0
+14,Namibia,Cancel public events,2020-12-08,2020-12-14,2.0,1428.0
+15,Namibia,Cancel public events,2020-12-15,2021-04-11,1.0,28410.0
+27,Namibia,Close public transport,2020-12-08,2020-12-14,1.0,1428.0
+28,Namibia,Close public transport,2021-03-02,2021-03-15,1.0,2242.0
+59,Namibia,Contact tracing,2020-03-14,2020-11-30,2.0,14378.0
+60,Namibia,Contact tracing,2020-12-08,2021-04-11,2.0,30025.0
+52,Namibia,Debt/contract relief,2020-03-26,2020-10-28,1.0,12798.0
+62,Namibia,Facial Coverings,2020-03-24,2020-05-04,1.0,9.0
+63,Namibia,Facial Coverings,2020-05-05,2020-06-02,2.0,9.0
+64,Namibia,Facial Coverings,2020-06-03,2020-11-30,3.0,14355.0
+65,Namibia,Facial Coverings,2020-12-08,2021-01-24,3.0,17127.0
+66,Namibia,Facial Coverings,2021-01-25,2021-02-01,4.0,1518.0
+67,Namibia,Facial Coverings,2021-02-02,2021-04-11,3.0,11053.0
+53,Namibia,Fiscal measures,2020-04-01,2020-04-01,441411500.91,0.0
+51,Namibia,Income support,2020-04-01,2020-04-01,2.0,0.0
+43,Namibia,International travel controls,2020-03-01,2020-03-13,1.0,0.0
+44,Namibia,International travel controls,2020-03-14,2020-03-23,3.0,2.0
+45,Namibia,International travel controls,2020-03-24,2020-07-25,4.0,1680.0
+46,Namibia,International travel controls,2020-07-26,2021-01-12,1.0,27096.0
+47,Namibia,International travel controls,2021-01-13,2021-01-18,2.0,1570.0
+48,Namibia,International travel controls,2021-01-19,2021-02-08,1.0,4075.0
+49,Namibia,International travel controls,2021-02-09,2021-02-15,2.0,1024.0
+50,Namibia,International travel controls,2021-02-16,2021-04-11,1.0,8957.0
+61,Namibia,Investment in vaccines,2021-01-13,2021-01-13,1626240.0,0.0
+69,Namibia,Protection of elderly people,2020-03-27,2020-05-04,2.0,8.0
+70,Namibia,Protection of elderly people,2020-05-05,2020-08-28,1.0,6890.0
+71,Namibia,Protection of elderly people,2020-08-29,2020-09-22,3.0,3491.0
+72,Namibia,Protection of elderly people,2020-09-23,2020-10-22,2.0,1797.0
+73,Namibia,Protection of elderly people,2020-12-23,2021-01-12,2.0,8887.0
+74,Namibia,Protection of elderly people,2021-01-13,2021-04-11,1.0,16140.0
+54,Namibia,Public information campaigns,2020-03-17,2021-04-11,2.0,45321.0
+16,Namibia,Restrictions on gatherings,2020-03-17,2020-05-04,3.0,14.0
+17,Namibia,Restrictions on gatherings,2020-05-05,2020-05-31,4.0,8.0
+18,Namibia,Restrictions on gatherings,2020-06-01,2020-06-28,3.0,158.0
+19,Namibia,Restrictions on gatherings,2020-06-29,2020-07-14,2.0,668.0
+20,Namibia,Restrictions on gatherings,2020-07-15,2020-07-25,4.0,727.0
+21,Namibia,Restrictions on gatherings,2020-07-26,2020-08-11,2.0,1454.0
+22,Namibia,Restrictions on gatherings,2020-08-12,2020-08-24,3.0,2624.0
+23,Namibia,Restrictions on gatherings,2020-08-25,2020-09-03,2.0,1922.0
+24,Namibia,Restrictions on gatherings,2020-09-04,2020-10-28,3.0,4483.0
+25,Namibia,Restrictions on gatherings,2020-10-29,2020-12-16,2.0,4418.0
+26,Namibia,Restrictions on gatherings,2020-12-17,2021-04-11,3.0,27716.0
+38,Namibia,Restrictions on internal movement,2020-03-27,2020-05-04,2.0,8.0
+39,Namibia,Restrictions on internal movement,2020-06-02,2020-06-22,2.0,38.0
+40,Namibia,Restrictions on internal movement,2020-07-15,2020-10-05,2.0,10694.0
+41,Namibia,Restrictions on internal movement,2020-10-06,2020-12-07,1.0,3546.0
+42,Namibia,Restrictions on internal movement,2021-02-09,2021-03-01,2.0,3832.0
+0,Namibia,School closing,2020-03-17,2020-06-02,3.0,23.0
+1,Namibia,School closing,2020-06-03,2020-08-03,2.0,2381.0
+2,Namibia,School closing,2020-08-04,2020-09-06,3.0,6215.0
+3,Namibia,School closing,2020-09-07,2020-09-21,2.0,1716.0
+4,Namibia,School closing,2020-09-22,2020-12-07,1.0,4612.0
+5,Namibia,School closing,2021-01-19,2021-01-25,3.0,1655.0
+6,Namibia,School closing,2021-01-26,2021-04-11,1.0,12366.0
+29,Namibia,Stay at home requirements,2020-03-27,2020-05-06,2.0,8.0
+30,Namibia,Stay at home requirements,2020-05-07,2020-09-03,1.0,8066.0
+31,Namibia,Stay at home requirements,2020-09-04,2020-10-05,2.0,3331.0
+32,Namibia,Stay at home requirements,2020-10-22,2020-10-28,1.0,346.0
+33,Namibia,Stay at home requirements,2020-12-24,2021-01-18,2.0,10174.0
+34,Namibia,Stay at home requirements,2021-01-19,2021-02-01,1.0,3173.0
+35,Namibia,Stay at home requirements,2021-02-02,2021-02-08,2.0,800.0
+36,Namibia,Stay at home requirements,2021-02-09,2021-03-15,1.0,6223.0
+37,Namibia,Stay at home requirements,2021-03-16,2021-04-11,2.0,3857.0
+55,Namibia,Testing policy,2020-03-14,2020-11-22,1.0,13863.0
+56,Namibia,Testing policy,2020-11-23,2020-11-30,2.0,483.0
+57,Namibia,Testing policy,2020-12-08,2020-12-14,1.0,1428.0
+58,Namibia,Testing policy,2020-12-15,2021-04-11,2.0,28410.0
+68,Namibia,Vaccination policy,2021-03-16,2021-04-11,4.0,3857.0
+7,Namibia,Workplace closing,2020-04-17,2020-05-04,1.0,0.0
+8,Namibia,Workplace closing,2020-05-05,2020-10-05,2.0,11638.0
+9,Namibia,Workplace closing,2020-10-06,2021-04-11,1.0,33650.0

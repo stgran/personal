@@ -1,0 +1,57 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Suriname,Cancel public events,2020-03-13,2020-05-19,2.0,11.0
+11,Suriname,Cancel public events,2020-05-20,2020-06-03,1.0,63.0
+12,Suriname,Cancel public events,2020-06-04,2021-04-04,2.0,9081.0
+19,Suriname,Close public transport,2020-04-06,2020-09-14,2.0,4601.0
+45,Suriname,Contact tracing,2020-03-15,2021-04-04,1.0,9162.0
+39,Suriname,Debt/contract relief,2020-06-01,2021-04-04,2.0,9119.0
+46,Suriname,Emergency investment in healthcare,2020-04-07,2020-04-07,53640000.0,0.0
+47,Suriname,Facial Coverings,2020-06-08,2020-07-27,1.0,1355.0
+48,Suriname,Facial Coverings,2020-07-28,2021-04-04,4.0,7653.0
+40,Suriname,Fiscal measures,2020-04-08,2020-04-08,53633680.0,0.0
+41,Suriname,Fiscal measures,2020-05-11,2020-05-11,93870000.0,0.0
+38,Suriname,Income support,2021-03-30,2021-04-04,1.0,54.0
+29,Suriname,International travel controls,2020-03-14,2020-07-26,4.0,1438.0
+30,Suriname,International travel controls,2020-07-27,2020-08-10,2.0,1006.0
+31,Suriname,International travel controls,2020-08-11,2020-09-27,4.0,2276.0
+32,Suriname,International travel controls,2020-09-28,2020-10-05,3.0,118.0
+33,Suriname,International travel controls,2020-10-06,2020-11-21,2.0,330.0
+34,Suriname,International travel controls,2020-11-22,2020-11-30,4.0,16.0
+35,Suriname,International travel controls,2020-12-01,2020-12-01,2.0,0.0
+36,Suriname,International travel controls,2020-12-02,2021-01-18,3.0,2304.0
+37,Suriname,International travel controls,2021-01-19,2021-04-04,4.0,1454.0
+51,Suriname,Protection of elderly people,2020-03-29,2020-07-25,2.0,1373.0
+52,Suriname,Protection of elderly people,2020-07-26,2020-08-10,1.0,1050.0
+53,Suriname,Protection of elderly people,2020-08-11,2020-08-27,2.0,1234.0
+54,Suriname,Protection of elderly people,2020-08-28,2020-09-14,3.0,763.0
+55,Suriname,Protection of elderly people,2020-09-15,2021-04-04,2.0,4538.0
+42,Suriname,Public information campaigns,2020-03-14,2021-04-04,2.0,9162.0
+13,Suriname,Restrictions on gatherings,2020-03-28,2020-05-09,4.0,2.0
+14,Suriname,Restrictions on gatherings,2020-05-10,2020-05-29,3.0,2.0
+15,Suriname,Restrictions on gatherings,2020-05-30,2020-05-30,2.0,0.0
+16,Suriname,Restrictions on gatherings,2020-05-31,2020-11-08,4.0,5216.0
+17,Suriname,Restrictions on gatherings,2020-11-09,2020-12-21,3.0,342.0
+18,Suriname,Restrictions on gatherings,2020-12-22,2021-04-04,4.0,3494.0
+27,Suriname,Restrictions on internal movement,2020-03-16,2020-06-20,2.0,302.0
+28,Suriname,Restrictions on internal movement,2020-07-05,2020-09-14,2.0,4017.0
+0,Suriname,School closing,2020-03-16,2020-09-30,3.0,4876.0
+1,Suriname,School closing,2020-10-01,2020-12-13,1.0,462.0
+2,Suriname,School closing,2020-12-14,2021-02-14,3.0,3444.0
+3,Suriname,School closing,2021-02-15,2021-02-28,2.0,118.0
+4,Suriname,School closing,2021-03-01,2021-03-31,1.0,189.0
+5,Suriname,School closing,2021-04-01,2021-04-04,3.0,41.0
+20,Suriname,Stay at home requirements,2020-03-28,2020-05-23,2.0,3.0
+21,Suriname,Stay at home requirements,2020-05-24,2020-05-25,1.0,0.0
+22,Suriname,Stay at home requirements,2020-05-26,2020-07-25,2.0,1370.0
+23,Suriname,Stay at home requirements,2020-07-26,2020-08-09,1.0,952.0
+24,Suriname,Stay at home requirements,2020-08-10,2020-08-27,2.0,1304.0
+25,Suriname,Stay at home requirements,2020-08-28,2020-09-14,3.0,763.0
+26,Suriname,Stay at home requirements,2020-09-15,2021-04-04,2.0,4538.0
+43,Suriname,Testing policy,2020-03-15,2020-07-26,1.0,1438.0
+44,Suriname,Testing policy,2020-07-27,2021-04-04,2.0,7680.0
+49,Suriname,Vaccination policy,2021-02-23,2021-03-14,1.0,144.0
+50,Suriname,Vaccination policy,2021-03-15,2021-04-04,3.0,135.0
+6,Suriname,Workplace closing,2020-06-04,2020-06-20,3.0,221.0
+7,Suriname,Workplace closing,2020-06-21,2020-09-10,2.0,4163.0
+8,Suriname,Workplace closing,2020-09-11,2020-09-14,3.0,82.0
+9,Suriname,Workplace closing,2020-09-15,2021-04-04,2.0,4538.0

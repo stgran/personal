@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Botswana,Cancel public events,2020-03-16,2020-05-19,2.0,25.0
+13,Botswana,Cancel public events,2020-05-20,2020-06-12,1.0,23.0
+14,Botswana,Cancel public events,2020-06-13,2020-06-15,2.0,0.0
+15,Botswana,Cancel public events,2020-06-16,2020-09-13,1.0,2192.0
+16,Botswana,Cancel public events,2020-09-14,2020-10-28,2.0,3820.0
+17,Botswana,Cancel public events,2020-10-29,2021-02-08,1.0,17793.0
+18,Botswana,Cancel public events,2021-02-09,2021-04-05,2.0,17275.0
+25,Botswana,Close public transport,2020-03-25,2020-05-21,1.0,29.0
+26,Botswana,Close public transport,2020-07-31,2020-08-02,1.0,0.0
+57,Botswana,Contact tracing,2020-03-31,2020-09-13,1.0,2248.0
+58,Botswana,Contact tracing,2020-09-14,2021-04-05,2.0,39247.0
+49,Botswana,Debt/contract relief,2020-03-31,2020-09-13,2.0,2248.0
+50,Botswana,Debt/contract relief,2020-09-14,2020-10-28,1.0,3820.0
+59,Botswana,Emergency investment in healthcare,2020-04-16,2020-04-16,1500000.0,0.0
+60,Botswana,Emergency investment in healthcare,2020-04-30,2020-04-30,3150000.0,0.0
+61,Botswana,Facial Coverings,2020-05-01,2020-10-09,3.0,3196.0
+62,Botswana,Facial Coverings,2020-10-10,2021-02-08,4.0,21216.0
+63,Botswana,Facial Coverings,2021-02-09,2021-03-28,3.0,14031.0
+64,Botswana,Facial Coverings,2021-03-29,2021-04-05,2.0,1862.0
+51,Botswana,Fiscal measures,2020-03-27,2020-03-27,176163091.0,0.0
+52,Botswana,Fiscal measures,2020-10-22,2020-10-22,175445385.96,0.0
+47,Botswana,Income support,2020-04-01,2020-09-24,1.0,2917.0
+48,Botswana,Income support,2021-03-02,2021-03-15,1.0,4272.0
+40,Botswana,International travel controls,2020-01-28,2020-03-15,1.0,0.0
+41,Botswana,International travel controls,2020-03-16,2020-03-18,3.0,0.0
+42,Botswana,International travel controls,2020-03-19,2020-08-13,4.0,1214.0
+43,Botswana,International travel controls,2020-08-14,2020-08-24,2.0,348.0
+44,Botswana,International travel controls,2020-08-25,2020-11-16,4.0,7541.0
+45,Botswana,International travel controls,2020-11-17,2021-01-03,2.0,5702.0
+46,Botswana,International travel controls,2021-01-04,2021-04-05,1.0,26342.0
+67,Botswana,Protection of elderly people,2021-02-09,2021-04-05,1.0,17275.0
+53,Botswana,Public information campaigns,2020-01-01,2020-01-23,1.0,0.0
+54,Botswana,Public information campaigns,2020-01-24,2021-04-05,2.0,41710.0
+19,Botswana,Restrictions on gatherings,2020-03-16,2020-04-01,3.0,4.0
+20,Botswana,Restrictions on gatherings,2020-04-02,2020-05-19,4.0,21.0
+21,Botswana,Restrictions on gatherings,2020-05-20,2020-07-30,3.0,779.0
+22,Botswana,Restrictions on gatherings,2020-07-31,2020-08-13,4.0,410.0
+23,Botswana,Restrictions on gatherings,2020-08-14,2021-02-22,3.0,26507.0
+24,Botswana,Restrictions on gatherings,2021-02-23,2021-04-05,4.0,13989.0
+34,Botswana,Restrictions on internal movement,2020-03-16,2020-04-01,1.0,4.0
+35,Botswana,Restrictions on internal movement,2020-04-02,2020-08-13,2.0,1210.0
+36,Botswana,Restrictions on internal movement,2020-08-14,2020-09-24,1.0,1707.0
+37,Botswana,Restrictions on internal movement,2020-09-25,2020-10-28,2.0,3362.0
+38,Botswana,Restrictions on internal movement,2020-10-29,2020-12-21,1.0,6980.0
+39,Botswana,Restrictions on internal movement,2020-12-22,2021-04-05,2.0,28088.0
+0,Botswana,School closing,2020-03-19,2020-06-01,3.0,38.0
+1,Botswana,School closing,2020-06-02,2020-06-12,2.0,8.0
+2,Botswana,School closing,2020-06-13,2020-06-15,3.0,0.0
+3,Botswana,School closing,2020-06-16,2020-07-25,2.0,626.0
+4,Botswana,School closing,2020-07-26,2021-04-05,1.0,41024.0
+27,Botswana,Stay at home requirements,2020-04-02,2020-05-19,2.0,21.0
+28,Botswana,Stay at home requirements,2020-05-20,2020-06-12,1.0,23.0
+29,Botswana,Stay at home requirements,2020-06-13,2020-06-15,3.0,0.0
+30,Botswana,Stay at home requirements,2020-06-16,2020-07-30,1.0,744.0
+31,Botswana,Stay at home requirements,2020-07-31,2020-08-13,2.0,410.0
+32,Botswana,Stay at home requirements,2020-08-14,2020-12-21,1.0,12408.0
+33,Botswana,Stay at home requirements,2020-12-22,2021-04-05,2.0,28088.0
+55,Botswana,Testing policy,2020-03-28,2020-10-21,1.0,5609.0
+56,Botswana,Testing policy,2020-10-22,2021-04-05,2.0,35787.0
+65,Botswana,Vaccination policy,2021-03-26,2021-03-28,1.0,0.0
+66,Botswana,Vaccination policy,2021-03-29,2021-04-05,2.0,1862.0
+5,Botswana,Workplace closing,2020-04-02,2020-05-07,3.0,19.0
+6,Botswana,Workplace closing,2020-05-08,2020-05-19,2.0,2.0
+7,Botswana,Workplace closing,2020-05-20,2020-06-12,1.0,23.0
+8,Botswana,Workplace closing,2020-06-13,2020-06-15,3.0,0.0
+9,Botswana,Workplace closing,2020-06-16,2020-11-08,1.0,7775.0
+10,Botswana,Workplace closing,2020-11-09,2020-12-06,2.0,3696.0
+11,Botswana,Workplace closing,2020-12-07,2021-04-05,1.0,29652.0

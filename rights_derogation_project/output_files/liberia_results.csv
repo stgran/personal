@@ -1,0 +1,43 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Liberia,Cancel public events,2020-03-22,2020-07-16,2.0,1067.0
+8,Liberia,Cancel public events,2020-07-17,2020-08-30,1.0,219.0
+9,Liberia,Cancel public events,2020-08-31,2020-10-07,2.0,51.0
+10,Liberia,Cancel public events,2020-10-08,2021-04-11,1.0,682.0
+13,Liberia,Close public transport,2020-03-17,2021-04-11,1.0,2041.0
+36,Liberia,Contact tracing,2020-03-16,2021-01-04,1.0,1778.0
+37,Liberia,Contact tracing,2021-01-05,2021-04-11,2.0,263.0
+38,Liberia,Facial Coverings,2020-04-24,2021-04-09,3.0,1925.0
+25,Liberia,Fiscal measures,2020-04-10,2020-04-10,25000000.0,0.0
+24,Liberia,Income support,2021-02-25,2021-04-09,1.0,33.0
+26,Liberia,International support,2020-04-09,2020-04-09,7500000.0,0.0
+27,Liberia,International support,2020-06-05,2020-06-05,50000000.0,0.0
+18,Liberia,International travel controls,2020-03-10,2020-03-15,2.0,0.0
+19,Liberia,International travel controls,2020-03-16,2020-06-03,3.0,315.0
+20,Liberia,International travel controls,2020-06-04,2020-06-04,4.0,0.0
+21,Liberia,International travel controls,2020-06-05,2020-07-08,3.0,592.0
+22,Liberia,International travel controls,2020-07-09,2020-10-07,2.0,398.0
+23,Liberia,International travel controls,2020-10-08,2021-04-09,1.0,682.0
+40,Liberia,Protection of elderly people,2020-03-21,2020-04-09,1.0,28.0
+41,Liberia,Protection of elderly people,2020-04-10,2020-07-20,2.0,1070.0
+28,Liberia,Public information campaigns,2020-01-29,2020-03-23,1.0,3.0
+29,Liberia,Public information campaigns,2020-03-24,2020-12-22,2.0,1776.0
+30,Liberia,Public information campaigns,2020-12-23,2021-01-25,1.0,148.0
+31,Liberia,Public information campaigns,2021-01-26,2021-04-10,2.0,110.0
+11,Liberia,Restrictions on gatherings,2020-03-22,2020-07-22,4.0,1111.0
+12,Liberia,Restrictions on gatherings,2020-07-23,2021-04-11,3.0,925.0
+16,Liberia,Restrictions on internal movement,2020-03-21,2020-08-30,2.0,1301.0
+17,Liberia,Restrictions on internal movement,2020-10-08,2020-12-22,1.0,419.0
+0,Liberia,School closing,2020-03-17,2020-06-28,3.0,767.0
+1,Liberia,School closing,2020-06-29,2020-11-30,2.0,825.0
+2,Liberia,School closing,2020-12-04,2020-12-09,3.0,0.0
+3,Liberia,School closing,2021-02-25,2021-03-01,1.0,5.0
+14,Liberia,Stay at home requirements,2020-03-21,2020-08-30,2.0,1301.0
+15,Liberia,Stay at home requirements,2020-08-31,2020-12-22,1.0,475.0
+32,Liberia,Testing policy,2020-03-16,2020-08-30,1.0,1303.0
+33,Liberia,Testing policy,2020-08-31,2020-10-07,3.0,51.0
+34,Liberia,Testing policy,2020-10-08,2021-01-04,1.0,419.0
+35,Liberia,Testing policy,2021-01-05,2021-04-10,3.0,263.0
+39,Liberia,Vaccination policy,2021-04-01,2021-04-09,2.0,0.0
+4,Liberia,Workplace closing,2020-03-22,2020-04-11,2.0,45.0
+5,Liberia,Workplace closing,2020-04-12,2020-05-22,3.0,199.0
+6,Liberia,Workplace closing,2020-05-23,2021-04-11,2.0,1787.0

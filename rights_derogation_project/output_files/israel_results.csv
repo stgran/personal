@@ -1,0 +1,98 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+19,Israel,Cancel public events,2020-03-04,2020-08-06,2.0,79948.0
+20,Israel,Cancel public events,2020-09-18,2020-10-27,2.0,130211.0
+21,Israel,Cancel public events,2020-10-28,2020-11-03,1.0,3844.0
+22,Israel,Cancel public events,2020-11-04,2021-02-20,2.0,427103.0
+23,Israel,Cancel public events,2021-02-21,2021-04-09,1.0,85631.0
+34,Israel,Close public transport,2020-03-16,2020-10-27,1.0,311823.0
+35,Israel,Close public transport,2020-12-15,2021-04-09,1.0,475044.0
+73,Israel,Contact tracing,2020-03-12,2020-03-16,1.0,170.0
+74,Israel,Contact tracing,2020-03-17,2020-06-07,2.0,17589.0
+75,Israel,Contact tracing,2020-06-08,2020-06-25,1.0,4585.0
+76,Israel,Contact tracing,2020-06-26,2020-07-04,2.0,6204.0
+77,Israel,Contact tracing,2020-07-05,2020-10-11,1.0,261473.0
+78,Israel,Contact tracing,2020-10-12,2021-04-09,2.0,540885.0
+56,Israel,Debt/contract relief,2020-03-08,2020-03-15,1.0,121.0
+57,Israel,Debt/contract relief,2020-03-16,2020-11-03,2.0,316390.0
+58,Israel,Debt/contract relief,2020-11-04,2021-04-09,1.0,518264.0
+79,Israel,Emergency investment in healthcare,2020-03-11,2020-03-11,281676000.0,0.0
+80,Israel,Emergency investment in healthcare,2020-03-30,2020-03-30,2800000000.0,0.0
+81,Israel,Emergency investment in healthcare,2020-07-13,2020-07-13,1019830000.0,0.0
+82,Israel,Emergency investment in healthcare,2021-03-16,2021-03-16,599696049.0,0.0
+86,Israel,Facial Coverings,2020-04-01,2020-10-11,3.0,285207.0
+87,Israel,Facial Coverings,2020-10-12,2020-12-14,4.0,64717.0
+88,Israel,Facial Coverings,2020-12-15,2021-04-09,3.0,475044.0
+59,Israel,Fiscal measures,2020-03-08,2020-03-08,1147372000.0,0.0
+60,Israel,Fiscal measures,2020-03-11,2020-03-11,1760563800.0,0.0
+61,Israel,Fiscal measures,2020-03-30,2020-03-30,19620000000.0,0.0
+62,Israel,Fiscal measures,2020-04-06,2020-04-06,1389511500.0,0.0
+63,Israel,Fiscal measures,2020-04-08,2020-04-08,277619680.0,0.0
+64,Israel,Fiscal measures,2020-04-26,2020-04-26,1727700060.0,0.0
+65,Israel,Fiscal measures,2020-06-30,2020-06-30,581000000.0,0.0
+66,Israel,Fiscal measures,2020-09-22,2020-09-22,3000000000.0,0.0
+53,Israel,Income support,2020-03-31,2020-10-10,2.0,284257.0
+54,Israel,Income support,2020-10-11,2020-11-03,1.0,25021.0
+55,Israel,Income support,2020-11-04,2021-04-09,2.0,518264.0
+48,Israel,International travel controls,2020-02-02,2020-03-11,3.0,60.0
+49,Israel,International travel controls,2020-03-12,2020-08-15,4.0,92261.0
+50,Israel,International travel controls,2020-08-16,2020-11-03,2.0,223231.0
+51,Israel,International travel controls,2020-11-04,2020-12-21,3.0,60849.0
+52,Israel,International travel controls,2020-12-22,2021-04-09,4.0,453187.0
+83,Israel,Investment in vaccines,2020-02-02,2020-03-15,1.0,177.0
+84,Israel,Investment in vaccines,2020-05-04,2020-05-04,60000000.0,0.0
+85,Israel,Investment in vaccines,2021-03-16,2021-03-16,81155015.19,0.0
+92,Israel,Protection of elderly people,2020-03-04,2020-03-09,1.0,45.0
+93,Israel,Protection of elderly people,2020-03-10,2020-05-03,3.0,16008.0
+94,Israel,Protection of elderly people,2020-05-04,2020-09-17,2.0,160374.0
+95,Israel,Protection of elderly people,2020-09-18,2021-02-06,3.0,503720.0
+96,Israel,Protection of elderly people,2021-02-07,2021-04-09,2.0,143573.0
+67,Israel,Public information campaigns,2020-01-27,2020-02-08,1.0,0.0
+68,Israel,Public information campaigns,2020-02-09,2021-04-09,2.0,835674.0
+24,Israel,Restrictions on gatherings,2020-03-04,2020-03-11,1.0,45.0
+25,Israel,Restrictions on gatherings,2020-03-12,2020-03-14,3.0,57.0
+26,Israel,Restrictions on gatherings,2020-03-15,2020-05-04,4.0,15972.0
+27,Israel,Restrictions on gatherings,2020-05-05,2020-05-19,3.0,411.0
+28,Israel,Restrictions on gatherings,2020-05-20,2020-07-05,2.0,13540.0
+29,Israel,Restrictions on gatherings,2020-07-06,2020-09-17,3.0,145242.0
+30,Israel,Restrictions on gatherings,2020-09-18,2020-10-27,4.0,130211.0
+31,Israel,Restrictions on gatherings,2020-10-28,2021-01-06,3.0,150651.0
+32,Israel,Restrictions on gatherings,2021-01-07,2021-03-06,4.0,328679.0
+33,Israel,Restrictions on gatherings,2021-03-07,2021-04-09,3.0,34099.0
+43,Israel,Restrictions on internal movement,2020-03-17,2020-04-02,1.0,6837.0
+44,Israel,Restrictions on internal movement,2020-04-03,2020-07-17,2.0,40354.0
+45,Israel,Restrictions on internal movement,2020-09-18,2020-10-27,2.0,130211.0
+46,Israel,Restrictions on internal movement,2020-11-04,2021-02-06,2.0,368173.0
+47,Israel,Restrictions on internal movement,2021-02-25,2021-02-27,2.0,5609.0
+0,Israel,School closing,2020-03-13,2020-05-02,3.0,15957.0
+1,Israel,School closing,2020-05-03,2020-06-29,2.0,8556.0
+2,Israel,School closing,2020-06-30,2020-07-05,1.0,4709.0
+3,Israel,School closing,2020-07-06,2020-07-12,2.0,8057.0
+4,Israel,School closing,2020-07-13,2020-09-17,1.0,135465.0
+5,Israel,School closing,2020-09-18,2020-10-28,3.0,130934.0
+6,Israel,School closing,2020-10-29,2021-04-09,2.0,522233.0
+36,Israel,Stay at home requirements,2020-03-17,2020-03-19,1.0,91.0
+37,Israel,Stay at home requirements,2020-03-20,2020-04-07,2.0,8940.0
+38,Israel,Stay at home requirements,2020-04-08,2020-04-18,3.0,3631.0
+39,Israel,Stay at home requirements,2020-04-19,2020-07-17,2.0,34270.0
+40,Israel,Stay at home requirements,2020-09-18,2020-10-27,2.0,130211.0
+41,Israel,Stay at home requirements,2020-11-04,2021-02-06,2.0,368173.0
+42,Israel,Stay at home requirements,2021-02-25,2021-02-27,2.0,5609.0
+69,Israel,Testing policy,2020-01-23,2020-05-30,1.0,16992.0
+70,Israel,Testing policy,2020-05-31,2020-10-11,2.0,274541.0
+71,Israel,Testing policy,2020-10-12,2020-11-03,1.0,21852.0
+72,Israel,Testing policy,2020-11-04,2021-04-09,3.0,518264.0
+89,Israel,Vaccination policy,2020-12-19,2021-01-17,3.0,178803.0
+90,Israel,Vaccination policy,2021-01-18,2021-02-20,4.0,186264.0
+91,Israel,Vaccination policy,2021-02-21,2021-04-09,5.0,85631.0
+7,Israel,Workplace closing,2020-03-15,2020-03-31,2.0,5540.0
+8,Israel,Workplace closing,2020-04-01,2020-04-25,3.0,8889.0
+9,Israel,Workplace closing,2020-04-26,2020-07-12,2.0,23953.0
+10,Israel,Workplace closing,2020-07-13,2020-09-17,1.0,135465.0
+11,Israel,Workplace closing,2020-09-18,2020-09-24,2.0,32634.0
+12,Israel,Workplace closing,2020-09-25,2020-10-27,3.0,89187.0
+13,Israel,Workplace closing,2020-10-28,2020-12-26,2.0,85867.0
+14,Israel,Workplace closing,2020-12-27,2021-02-06,3.0,284113.0
+15,Israel,Workplace closing,2021-02-07,2021-02-24,2.0,71655.0
+16,Israel,Workplace closing,2021-02-25,2021-02-27,3.0,5609.0
+17,Israel,Workplace closing,2021-02-28,2021-03-20,2.0,51413.0
+18,Israel,Workplace closing,2021-03-21,2021-04-09,1.0,7902.0

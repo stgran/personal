@@ -1,0 +1,33 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Gabon,Cancel public events,2020-03-13,2020-12-14,2.0,9351.0
+7,Gabon,Cancel public events,2020-12-15,2020-12-20,1.0,49.0
+8,Gabon,Cancel public events,2020-12-21,2021-04-05,2.0,10443.0
+12,Gabon,Close public transport,2020-03-20,2020-10-15,1.0,8866.0
+13,Gabon,Close public transport,2021-03-23,2021-04-05,1.0,1785.0
+27,Gabon,Contact tracing,2020-03-30,2021-03-15,2.0,16938.0
+21,Gabon,Debt/contract relief,2020-04-09,2021-03-15,2.0,16901.0
+28,Gabon,Emergency investment in healthcare,2020-03-27,2020-03-27,2000000.0,0.0
+29,Gabon,Facial Coverings,2020-07-01,2021-04-05,3.0,14350.0
+22,Gabon,Fiscal measures,2020-04-09,2020-04-09,415000000.0,0.0
+20,Gabon,Income support,2020-04-03,2021-01-25,2.0,10390.0
+16,Gabon,International travel controls,2020-02-07,2020-03-19,3.0,1.0
+17,Gabon,International travel controls,2020-03-20,2020-06-30,4.0,5391.0
+18,Gabon,International travel controls,2020-07-01,2021-03-22,3.0,12565.0
+19,Gabon,International travel controls,2021-03-23,2021-04-05,2.0,1785.0
+31,Gabon,Protection of elderly people,2020-03-21,2021-04-05,2.0,19859.0
+23,Gabon,Public information campaigns,2020-01-22,2020-05-13,1.0,1004.0
+24,Gabon,Public information campaigns,2020-05-14,2021-04-05,2.0,18759.0
+9,Gabon,Restrictions on gatherings,2020-03-13,2020-03-19,3.0,1.0
+10,Gabon,Restrictions on gatherings,2020-03-20,2020-10-30,4.0,8965.0
+11,Gabon,Restrictions on gatherings,2020-10-31,2021-04-05,3.0,10895.0
+15,Gabon,Restrictions on internal movement,2020-04-10,2021-04-05,2.0,19819.0
+0,Gabon,School closing,2020-03-16,2020-07-14,3.0,6025.0
+1,Gabon,School closing,2020-07-15,2020-11-16,2.0,2963.0
+2,Gabon,School closing,2020-11-17,2021-04-05,1.0,10779.0
+14,Gabon,Stay at home requirements,2020-03-21,2021-04-05,2.0,19859.0
+25,Gabon,Testing policy,2020-03-12,2020-04-23,2.0,167.0
+26,Gabon,Testing policy,2020-04-24,2021-04-05,3.0,19691.0
+30,Gabon,Vaccination policy,2021-03-23,2021-04-05,2.0,1785.0
+3,Gabon,Workplace closing,2020-03-20,2020-04-11,2.0,43.0
+4,Gabon,Workplace closing,2020-04-12,2020-04-26,3.0,127.0
+5,Gabon,Workplace closing,2020-04-27,2021-04-05,2.0,19652.0

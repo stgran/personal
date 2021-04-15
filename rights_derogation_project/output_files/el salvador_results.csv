@@ -1,0 +1,50 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,El Salvador,Cancel public events,2020-03-11,2020-03-20,1.0,1.0
+6,El Salvador,Cancel public events,2020-03-21,2020-09-18,2.0,27343.0
+7,El Salvador,Cancel public events,2020-09-19,2021-03-29,1.0,37003.0
+12,El Salvador,Close public transport,2020-03-18,2020-05-06,1.0,633.0
+13,El Salvador,Close public transport,2020-05-07,2020-08-23,2.0,23927.0
+14,El Salvador,Close public transport,2020-08-24,2020-09-29,1.0,4170.0
+34,El Salvador,Contact tracing,2020-05-15,2021-01-24,1.0,52008.0
+25,El Salvador,Debt/contract relief,2020-03-19,2020-05-04,1.0,554.0
+26,El Salvador,Debt/contract relief,2020-05-05,2021-03-29,2.0,63844.0
+35,El Salvador,Emergency investment in healthcare,2020-03-16,2020-03-16,31000000.0,0.0
+36,El Salvador,Emergency investment in healthcare,2020-03-23,2020-03-23,100000000.0,0.0
+37,El Salvador,Emergency investment in healthcare,2020-04-01,2020-04-01,42000000.0,0.0
+38,El Salvador,Emergency investment in healthcare,2020-06-24,2020-06-24,5800000.0,0.0
+39,El Salvador,Facial Coverings,2020-04-08,2021-01-24,3.0,53125.0
+40,El Salvador,Facial Coverings,2021-01-25,2021-03-29,4.0,10952.0
+27,El Salvador,Fiscal measures,2020-04-14,2020-04-14,389000000.0,0.0
+28,El Salvador,Fiscal measures,2020-05-05,2020-05-05,1000000000.0,0.0
+29,El Salvador,Fiscal measures,2020-06-01,2020-06-01,389000000.0,0.0
+30,El Salvador,Fiscal measures,2021-01-10,2021-01-10,20721902.0,0.0
+24,El Salvador,Income support,2020-04-01,2021-03-29,1.0,64399.0
+20,El Salvador,International travel controls,2020-01-31,2020-03-11,3.0,0.0
+21,El Salvador,International travel controls,2020-03-12,2020-09-18,4.0,27346.0
+22,El Salvador,International travel controls,2020-09-19,2021-01-24,1.0,25790.0
+23,El Salvador,International travel controls,2021-01-25,2021-03-29,3.0,10952.0
+43,El Salvador,Protection of elderly people,2020-03-16,2020-03-20,2.0,1.0
+44,El Salvador,Protection of elderly people,2020-03-21,2020-08-23,3.0,24619.0
+45,El Salvador,Protection of elderly people,2020-08-24,2020-09-16,2.0,2352.0
+46,El Salvador,Protection of elderly people,2020-09-17,2020-09-27,3.0,1381.0
+47,El Salvador,Protection of elderly people,2020-09-28,2021-01-24,2.0,24409.0
+48,El Salvador,Protection of elderly people,2021-01-25,2021-03-29,1.0,10952.0
+31,El Salvador,Public information campaigns,2020-01-23,2021-03-29,2.0,64431.0
+8,El Salvador,Restrictions on gatherings,2020-03-11,2020-04-20,2.0,218.0
+9,El Salvador,Restrictions on gatherings,2020-04-21,2020-06-29,4.0,5948.0
+10,El Salvador,Restrictions on gatherings,2020-06-30,2020-11-23,3.0,31281.0
+11,El Salvador,Restrictions on gatherings,2020-11-24,2021-01-24,1.0,15334.0
+18,El Salvador,Restrictions on internal movement,2020-03-18,2020-09-18,2.0,27346.0
+19,El Salvador,Restrictions on internal movement,2020-09-19,2021-03-29,1.0,37003.0
+0,El Salvador,School closing,2020-03-11,2021-03-29,3.0,64431.0
+15,El Salvador,Stay at home requirements,2020-03-21,2020-06-15,3.0,3823.0
+16,El Salvador,Stay at home requirements,2020-06-16,2021-01-24,2.0,49277.0
+17,El Salvador,Stay at home requirements,2021-01-25,2021-03-08,1.0,7919.0
+32,El Salvador,Testing policy,2020-03-11,2020-04-23,2.0,250.0
+33,El Salvador,Testing policy,2020-04-24,2021-03-29,3.0,64157.0
+41,El Salvador,Vaccination policy,2021-02-24,2021-03-20,1.0,3633.0
+42,El Salvador,Vaccination policy,2021-03-21,2021-03-29,4.0,1087.0
+1,El Salvador,Workplace closing,2020-03-16,2020-03-20,2.0,1.0
+2,El Salvador,Workplace closing,2020-03-21,2020-06-01,3.0,2579.0
+3,El Salvador,Workplace closing,2020-06-02,2020-08-23,2.0,21969.0
+4,El Salvador,Workplace closing,2020-08-24,2021-03-29,1.0,39620.0

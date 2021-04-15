@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Nebraska,Cancel public events,2020-03-13,2020-03-15,1.0,3.0
+11,Nebraska,Cancel public events,2020-03-16,2020-09-20,2.0,41065.0
+12,Nebraska,Cancel public events,2020-09-21,2020-11-11,1.0,48554.0
+13,Nebraska,Cancel public events,2020-11-12,2020-11-15,2.0,5608.0
+14,Nebraska,Cancel public events,2020-11-16,2021-03-29,1.0,106952.0
+20,Nebraska,Close public transport,2020-03-17,2021-03-29,1.0,208530.0
+42,Nebraska,Contact tracing,2020-01-21,2020-07-16,1.0,22134.0
+43,Nebraska,Contact tracing,2020-07-17,2021-03-29,2.0,186192.0
+32,Nebraska,Debt/contract relief,2020-03-13,2020-08-02,1.0,26688.0
+33,Nebraska,Debt/contract relief,2020-09-01,2020-11-12,1.0,57979.0
+34,Nebraska,Debt/contract relief,2020-11-13,2021-03-29,2.0,113631.0
+44,Nebraska,Facial Coverings,2020-04-04,2020-06-18,1.0,17093.0
+45,Nebraska,Facial Coverings,2020-06-19,2021-01-10,2.0,158438.0
+46,Nebraska,Facial Coverings,2021-01-20,2021-03-29,2.0,24071.0
+27,Nebraska,Income support,2020-01-27,2020-01-27,1.0,0.0
+28,Nebraska,Income support,2020-03-22,2020-03-26,1.0,23.0
+29,Nebraska,Income support,2020-03-27,2020-07-30,2.0,25684.0
+30,Nebraska,Income support,2020-07-31,2021-02-21,1.0,172738.0
+31,Nebraska,Income support,2021-02-22,2021-03-29,2.0,9508.0
+25,Nebraska,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+26,Nebraska,International travel controls,2020-03-02,2021-03-29,3.0,208553.0
+50,Nebraska,Protection of elderly people,2020-03-13,2020-05-25,1.0,12348.0
+51,Nebraska,Protection of elderly people,2020-05-26,2021-03-08,2.0,190408.0
+52,Nebraska,Protection of elderly people,2021-03-10,2021-03-29,2.0,4966.0
+35,Nebraska,Public information campaigns,2020-01-27,2020-03-15,1.0,17.0
+36,Nebraska,Public information campaigns,2020-03-16,2021-03-29,2.0,208535.0
+15,Nebraska,Restrictions on gatherings,2020-03-19,2020-06-21,4.0,17783.0
+16,Nebraska,Restrictions on gatherings,2020-06-22,2020-07-05,3.0,1966.0
+17,Nebraska,Restrictions on gatherings,2020-07-06,2020-11-10,1.0,67687.0
+18,Nebraska,Restrictions on gatherings,2020-11-11,2020-12-10,4.0,55832.0
+19,Nebraska,Restrictions on gatherings,2020-12-11,2021-01-28,2.0,42720.0
+24,Nebraska,Restrictions on internal movement,2020-03-16,2021-03-29,1.0,208535.0
+0,Nebraska,School closing,2020-03-13,2020-03-13,1.0,0.0
+1,Nebraska,School closing,2020-03-14,2020-03-18,2.0,6.0
+2,Nebraska,School closing,2020-03-19,2020-08-23,3.0,31860.0
+3,Nebraska,School closing,2020-08-24,2020-09-15,2.0,6923.0
+4,Nebraska,School closing,2020-09-16,2021-03-15,1.0,165334.0
+21,Nebraska,Stay at home requirements,2020-04-03,2020-12-02,1.0,132251.0
+22,Nebraska,Stay at home requirements,2020-12-03,2020-12-15,2.0,16151.0
+23,Nebraska,Stay at home requirements,2020-12-16,2021-03-29,1.0,56450.0
+37,Nebraska,Testing policy,2020-01-21,2020-05-11,1.0,8407.0
+38,Nebraska,Testing policy,2020-05-12,2020-05-31,2.0,5569.0
+39,Nebraska,Testing policy,2020-06-01,2020-10-01,3.0,31840.0
+40,Nebraska,Testing policy,2020-10-02,2020-10-27,2.0,18399.0
+41,Nebraska,Testing policy,2020-10-28,2021-03-29,3.0,142008.0
+47,Nebraska,Vaccination policy,2020-12-28,2021-01-12,1.0,14821.0
+48,Nebraska,Vaccination policy,2021-01-13,2021-03-28,3.0,29225.0
+49,Nebraska,Vaccination policy,2021-03-29,2021-03-29,4.0,0.0
+5,Nebraska,Workplace closing,2020-03-12,2020-03-18,1.0,14.0
+6,Nebraska,Workplace closing,2020-03-19,2020-06-21,2.0,17783.0
+7,Nebraska,Workplace closing,2020-06-22,2020-10-29,1.0,50187.0
+8,Nebraska,Workplace closing,2020-10-30,2020-11-08,2.0,14324.0
+9,Nebraska,Workplace closing,2020-11-09,2021-03-29,1.0,123002.0

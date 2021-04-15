@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Somalia,Cancel public events,2020-03-19,2020-06-30,2.0,2923.0
+8,Somalia,Cancel public events,2020-10-09,2021-01-02,1.0,969.0
+9,Somalia,Cancel public events,2021-02-23,2021-03-08,2.0,2192.0
+10,Somalia,Cancel public events,2021-03-09,2021-04-05,1.0,3331.0
+42,Somalia,Contact tracing,2020-08-21,2021-04-05,1.0,8643.0
+31,Somalia,Debt/contract relief,2020-07-28,2020-08-29,1.0,98.0
+32,Somalia,Debt/contract relief,2021-03-01,2021-03-08,1.0,1046.0
+33,Somalia,Debt/contract relief,2021-03-23,2021-04-05,1.0,1539.0
+43,Somalia,Facial Coverings,2020-08-21,2020-10-31,1.0,676.0
+44,Somalia,Facial Coverings,2020-11-01,2021-02-22,2.0,2305.0
+45,Somalia,Facial Coverings,2021-03-01,2021-04-05,3.0,4516.0
+34,Somalia,Fiscal measures,2020-03-19,2020-03-19,5000000.0,0.0
+23,Somalia,International travel controls,2020-03-14,2020-03-17,3.0,1.0
+24,Somalia,International travel controls,2020-03-18,2020-08-02,4.0,3219.0
+25,Somalia,International travel controls,2020-08-03,2020-08-29,1.0,90.0
+26,Somalia,International travel controls,2020-08-30,2020-09-24,2.0,155.0
+27,Somalia,International travel controls,2020-09-25,2020-10-08,3.0,280.0
+28,Somalia,International travel controls,2020-10-09,2021-03-01,1.0,3647.0
+29,Somalia,International travel controls,2021-03-02,2021-03-22,2.0,2696.0
+30,Somalia,International travel controls,2021-03-23,2021-04-05,1.0,1539.0
+47,Somalia,Protection of elderly people,2020-04-11,2020-04-14,1.0,39.0
+48,Somalia,Protection of elderly people,2020-04-15,2020-10-15,2.0,3784.0
+49,Somalia,Protection of elderly people,2020-10-16,2020-12-07,1.0,715.0
+35,Somalia,Public information campaigns,2020-03-19,2020-10-08,2.0,3744.0
+36,Somalia,Public information campaigns,2020-10-09,2020-11-07,1.0,484.0
+37,Somalia,Public information campaigns,2020-11-08,2021-02-08,2.0,633.0
+38,Somalia,Public information campaigns,2021-03-01,2021-04-05,1.0,4516.0
+11,Somalia,Restrictions on gatherings,2020-03-19,2020-05-28,3.0,1827.0
+12,Somalia,Restrictions on gatherings,2020-06-23,2020-06-30,2.0,112.0
+13,Somalia,Restrictions on gatherings,2020-09-25,2021-01-02,4.0,1249.0
+14,Somalia,Restrictions on gatherings,2021-02-23,2021-04-05,3.0,5662.0
+20,Somalia,Restrictions on internal movement,2020-08-30,2020-10-08,2.0,435.0
+21,Somalia,Restrictions on internal movement,2020-10-09,2020-10-15,1.0,119.0
+22,Somalia,Restrictions on internal movement,2021-03-03,2021-03-07,2.0,594.0
+0,Somalia,School closing,2020-03-21,2020-08-14,3.0,3249.0
+1,Somalia,School closing,2020-08-15,2021-01-17,1.0,1494.0
+2,Somalia,School closing,2021-02-22,2021-04-05,3.0,5662.0
+15,Somalia,Stay at home requirements,2020-04-11,2020-06-30,1.0,2903.0
+16,Somalia,Stay at home requirements,2020-09-11,2020-10-08,2.0,369.0
+17,Somalia,Stay at home requirements,2020-10-09,2021-01-17,1.0,999.0
+18,Somalia,Stay at home requirements,2021-01-31,2021-02-08,2.0,78.0
+19,Somalia,Stay at home requirements,2021-03-09,2021-04-05,1.0,3331.0
+39,Somalia,Testing policy,2020-03-25,2020-10-08,1.0,3744.0
+40,Somalia,Testing policy,2020-10-09,2021-03-08,2.0,4693.0
+41,Somalia,Testing policy,2021-03-09,2021-04-05,1.0,3331.0
+46,Somalia,Vaccination policy,2021-03-16,2021-04-05,2.0,2471.0
+3,Somalia,Workplace closing,2020-04-11,2020-05-28,1.0,1807.0
+4,Somalia,Workplace closing,2020-10-09,2020-11-07,1.0,484.0
+5,Somalia,Workplace closing,2021-03-03,2021-03-22,2.0,2487.0
+6,Somalia,Workplace closing,2021-03-23,2021-04-05,1.0,1539.0

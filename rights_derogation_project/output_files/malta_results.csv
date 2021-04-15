@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Malta,Cancel public events,2020-03-10,2020-03-11,1.0,1.0
+10,Malta,Cancel public events,2020-03-12,2020-06-04,2.0,616.0
+11,Malta,Cancel public events,2020-06-05,2020-07-31,1.0,199.0
+12,Malta,Cancel public events,2020-08-01,2021-04-11,2.0,28703.0
+19,Malta,Close public transport,2020-03-18,2020-07-04,1.0,634.0
+37,Malta,Contact tracing,2020-01-25,2021-04-11,2.0,29548.0
+31,Malta,Debt/contract relief,2020-03-13,2021-04-11,1.0,29536.0
+38,Malta,Facial Coverings,2020-05-04,2020-08-17,2.0,895.0
+39,Malta,Facial Coverings,2020-08-18,2020-10-16,3.0,2859.0
+40,Malta,Facial Coverings,2020-10-17,2021-04-11,4.0,25062.0
+30,Malta,Income support,2020-03-18,2021-04-11,2.0,29510.0
+25,Malta,International travel controls,2020-02-23,2020-02-24,1.0,0.0
+26,Malta,International travel controls,2020-02-25,2020-03-09,2.0,3.0
+27,Malta,International travel controls,2020-03-10,2020-03-20,3.0,59.0
+28,Malta,International travel controls,2020-03-21,2020-06-30,4.0,597.0
+29,Malta,International travel controls,2020-07-01,2021-04-11,3.0,28877.0
+45,Malta,Protection of elderly people,2020-03-13,2020-03-27,2.0,127.0
+46,Malta,Protection of elderly people,2020-03-28,2020-05-23,3.0,460.0
+47,Malta,Protection of elderly people,2020-05-24,2021-04-11,2.0,28938.0
+32,Malta,Public information campaigns,2020-01-25,2020-03-08,1.0,3.0
+33,Malta,Public information campaigns,2020-03-09,2021-04-11,2.0,29545.0
+13,Malta,Restrictions on gatherings,2020-03-10,2020-03-27,1.0,134.0
+14,Malta,Restrictions on gatherings,2020-03-28,2020-06-04,4.0,473.0
+15,Malta,Restrictions on gatherings,2020-06-05,2020-08-06,1.0,321.0
+16,Malta,Restrictions on gatherings,2020-08-07,2020-08-18,2.0,428.0
+17,Malta,Restrictions on gatherings,2020-08-19,2020-09-30,3.0,1588.0
+18,Malta,Restrictions on gatherings,2020-10-01,2021-04-11,4.0,26453.0
+22,Malta,Restrictions on internal movement,2020-03-13,2020-04-02,1.0,184.0
+23,Malta,Restrictions on internal movement,2020-04-03,2020-06-04,2.0,420.0
+24,Malta,Restrictions on internal movement,2021-03-11,2021-04-11,2.0,3908.0
+0,Malta,School closing,2020-03-13,2020-06-30,3.0,658.0
+1,Malta,School closing,2020-07-01,2021-03-14,1.0,25864.0
+2,Malta,School closing,2021-03-15,2021-04-11,3.0,2800.0
+20,Malta,Stay at home requirements,2020-03-13,2020-03-27,1.0,127.0
+21,Malta,Stay at home requirements,2020-03-28,2020-06-04,2.0,473.0
+34,Malta,Testing policy,2020-01-25,2020-03-09,1.0,3.0
+35,Malta,Testing policy,2020-03-10,2020-03-24,2.0,105.0
+36,Malta,Testing policy,2020-03-25,2021-04-11,3.0,29419.0
+41,Malta,Vaccination policy,2020-12-27,2020-12-31,1.0,449.0
+42,Malta,Vaccination policy,2021-01-01,2021-01-26,2.0,4090.0
+43,Malta,Vaccination policy,2021-01-27,2021-04-07,3.0,12216.0
+44,Malta,Vaccination policy,2021-04-08,2021-04-11,5.0,85.0
+3,Malta,Workplace closing,2020-03-13,2020-03-22,1.0,78.0
+4,Malta,Workplace closing,2020-03-23,2020-05-21,2.0,492.0
+5,Malta,Workplace closing,2020-05-22,2020-06-04,1.0,22.0
+6,Malta,Workplace closing,2020-10-19,2020-10-28,1.0,1023.0
+7,Malta,Workplace closing,2020-10-29,2021-03-10,2.0,19491.0
+8,Malta,Workplace closing,2021-03-11,2021-04-11,3.0,3908.0

@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Argentina,Cancel public events,2020-03-11,2021-04-05,2.0,2407140.0
+12,Argentina,Close public transport,2020-03-23,2021-04-05,2.0,2406858.0
+34,Argentina,Contact tracing,2020-03-04,2020-07-01,2.0,67196.0
+35,Argentina,Contact tracing,2020-07-03,2021-04-05,2.0,2334373.0
+23,Argentina,Debt/contract relief,2020-03-25,2020-07-01,2.0,66810.0
+24,Argentina,Debt/contract relief,2020-07-03,2021-01-31,2.0,1854453.0
+25,Argentina,Debt/contract relief,2021-02-01,2021-04-05,1.0,473306.0
+36,Argentina,Emergency investment in healthcare,2020-03-10,2020-03-10,26000000.0,0.0
+37,Argentina,Emergency investment in healthcare,2020-08-20,2020-08-20,47000000.0,0.0
+38,Argentina,Emergency investment in healthcare,2020-10-09,2020-10-09,129609250.74,0.0
+39,Argentina,Facial Coverings,2020-04-14,2021-04-05,3.0,2404882.0
+26,Argentina,Fiscal measures,2020-03-17,2020-03-17,10000000000.0,0.0
+27,Argentina,Fiscal measures,2020-03-31,2020-03-31,465872313.99,0.0
+28,Argentina,Fiscal measures,2020-04-29,2020-04-29,74971511.0,0.0
+21,Argentina,Income support,2020-03-23,2020-07-01,1.0,66896.0
+22,Argentina,Income support,2020-07-03,2021-04-05,1.0,2334373.0
+18,Argentina,International travel controls,2020-03-11,2020-03-15,2.0,26.0
+19,Argentina,International travel controls,2020-03-16,2020-11-05,4.0,1216972.0
+20,Argentina,International travel controls,2020-11-06,2021-04-05,3.0,1178345.0
+42,Argentina,Protection of elderly people,2020-03-02,2020-06-18,3.0,37510.0
+43,Argentina,Protection of elderly people,2020-06-19,2020-12-07,2.0,1426739.0
+44,Argentina,Protection of elderly people,2020-12-08,2021-04-05,1.0,937240.0
+29,Argentina,Public information campaigns,2020-01-23,2020-07-01,2.0,67197.0
+30,Argentina,Public information campaigns,2020-07-03,2021-04-05,2.0,2334373.0
+9,Argentina,Restrictions on gatherings,2020-03-19,2021-03-15,4.0,2201789.0
+10,Argentina,Restrictions on gatherings,2021-03-16,2021-03-22,3.0,42051.0
+11,Argentina,Restrictions on gatherings,2021-03-23,2021-04-05,4.0,145582.0
+15,Argentina,Restrictions on internal movement,2020-03-20,2020-04-26,2.0,3764.0
+16,Argentina,Restrictions on internal movement,2020-04-27,2020-05-10,1.0,2031.0
+17,Argentina,Restrictions on internal movement,2020-05-11,2021-04-05,2.0,2400881.0
+0,Argentina,School closing,2020-03-16,2021-03-07,3.0,2149580.0
+1,Argentina,School closing,2021-03-08,2021-04-05,1.0,252465.0
+13,Argentina,Stay at home requirements,2020-03-19,2020-04-26,3.0,3795.0
+14,Argentina,Stay at home requirements,2020-04-27,2021-04-05,2.0,2403156.0
+31,Argentina,Testing policy,2020-03-04,2020-07-01,1.0,67196.0
+32,Argentina,Testing policy,2020-07-03,2020-09-30,1.0,678215.0
+33,Argentina,Testing policy,2020-10-01,2021-04-05,2.0,1642157.0
+40,Argentina,Vaccination policy,2020-12-29,2021-02-21,1.0,462171.0
+41,Argentina,Vaccination policy,2021-02-22,2021-04-05,2.0,337408.0
+2,Argentina,Workplace closing,2020-03-19,2020-05-11,3.0,6181.0
+3,Argentina,Workplace closing,2020-05-12,2020-06-30,2.0,57967.0
+4,Argentina,Workplace closing,2020-07-01,2020-07-19,3.0,59558.0
+5,Argentina,Workplace closing,2020-07-20,2020-08-06,2.0,97421.0
+6,Argentina,Workplace closing,2020-08-07,2020-10-09,3.0,635791.0
+7,Argentina,Workplace closing,2020-10-10,2021-04-05,2.0,1523277.0

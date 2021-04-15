@@ -1,0 +1,73 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Papua New Guinea,Cancel public events,2020-03-24,2020-08-03,2.0,110.0
+13,Papua New Guinea,Cancel public events,2020-08-04,2021-01-02,1.0,666.0
+14,Papua New Guinea,Cancel public events,2021-01-03,2021-04-04,2.0,6239.0
+20,Papua New Guinea,Close public transport,2020-03-24,2020-04-06,2.0,1.0
+21,Papua New Guinea,Close public transport,2020-04-07,2020-04-08,1.0,0.0
+22,Papua New Guinea,Close public transport,2020-04-09,2020-04-13,2.0,0.0
+23,Papua New Guinea,Close public transport,2020-04-14,2020-04-15,1.0,0.0
+24,Papua New Guinea,Close public transport,2020-04-16,2020-04-30,2.0,1.0
+25,Papua New Guinea,Close public transport,2020-05-01,2020-08-06,1.0,155.0
+26,Papua New Guinea,Close public transport,2020-08-07,2020-08-11,2.0,26.0
+27,Papua New Guinea,Close public transport,2020-08-13,2020-09-24,1.0,260.0
+28,Papua New Guinea,Close public transport,2021-01-03,2021-02-01,2.0,68.0
+29,Papua New Guinea,Close public transport,2021-02-02,2021-04-04,1.0,6171.0
+59,Papua New Guinea,Contact tracing,2020-01-31,2020-07-08,2.0,11.0
+60,Papua New Guinea,Contact tracing,2020-07-09,2020-08-06,1.0,152.0
+61,Papua New Guinea,Contact tracing,2020-08-07,2021-04-04,2.0,6850.0
+50,Papua New Guinea,Debt/contract relief,2020-04-01,2020-04-01,1.0,0.0
+51,Papua New Guinea,Debt/contract relief,2020-04-02,2021-04-04,2.0,7037.0
+62,Papua New Guinea,Emergency investment in healthcare,2020-04-13,2020-04-13,20000000.0,0.0
+63,Papua New Guinea,Facial Coverings,2020-05-04,2020-07-28,2.0,55.0
+64,Papua New Guinea,Facial Coverings,2020-07-29,2021-02-15,3.0,851.0
+65,Papua New Guinea,Facial Coverings,2021-02-16,2021-03-07,2.0,628.0
+66,Papua New Guinea,Facial Coverings,2021-03-08,2021-04-04,3.0,5368.0
+52,Papua New Guinea,Fiscal measures,2020-04-02,2020-04-02,1652000000.0,0.0
+49,Papua New Guinea,Income support,2020-07-09,2020-11-30,1.0,645.0
+41,Papua New Guinea,International travel controls,2020-01-27,2020-01-28,1.0,0.0
+42,Papua New Guinea,International travel controls,2020-01-29,2020-03-20,3.0,1.0
+43,Papua New Guinea,International travel controls,2020-03-21,2020-04-24,4.0,7.0
+44,Papua New Guinea,International travel controls,2020-04-25,2020-08-03,2.0,103.0
+45,Papua New Guinea,International travel controls,2020-08-04,2020-09-24,3.0,417.0
+46,Papua New Guinea,International travel controls,2020-09-25,2021-01-02,2.0,248.0
+47,Papua New Guinea,International travel controls,2021-01-03,2021-01-19,3.0,35.0
+48,Papua New Guinea,International travel controls,2021-01-20,2021-04-04,2.0,6203.0
+68,Papua New Guinea,Protection of elderly people,2020-03-24,2020-04-17,1.0,6.0
+69,Papua New Guinea,Protection of elderly people,2020-04-18,2020-06-15,2.0,1.0
+70,Papua New Guinea,Protection of elderly people,2020-07-28,2020-08-11,2.0,151.0
+71,Papua New Guinea,Protection of elderly people,2021-02-02,2021-04-04,1.0,6171.0
+53,Papua New Guinea,Public information campaigns,2020-01-27,2020-04-07,1.0,2.0
+54,Papua New Guinea,Public information campaigns,2020-04-08,2021-04-04,2.0,7036.0
+15,Papua New Guinea,Restrictions on gatherings,2020-03-20,2020-04-15,2.0,1.0
+16,Papua New Guinea,Restrictions on gatherings,2020-04-16,2020-06-22,4.0,2.0
+17,Papua New Guinea,Restrictions on gatherings,2020-06-23,2020-08-11,3.0,205.0
+18,Papua New Guinea,Restrictions on gatherings,2020-08-17,2020-12-27,3.0,447.0
+19,Papua New Guinea,Restrictions on gatherings,2021-01-03,2021-04-04,3.0,6239.0
+35,Papua New Guinea,Restrictions on internal movement,2020-03-24,2020-05-12,2.0,7.0
+36,Papua New Guinea,Restrictions on internal movement,2020-08-07,2020-08-16,2.0,135.0
+37,Papua New Guinea,Restrictions on internal movement,2021-01-03,2021-02-01,2.0,68.0
+38,Papua New Guinea,Restrictions on internal movement,2021-02-02,2021-02-15,1.0,47.0
+39,Papua New Guinea,Restrictions on internal movement,2021-02-16,2021-03-07,2.0,628.0
+40,Papua New Guinea,Restrictions on internal movement,2021-03-08,2021-04-04,1.0,5368.0
+0,Papua New Guinea,School closing,2020-03-23,2020-04-26,3.0,7.0
+1,Papua New Guinea,School closing,2020-04-27,2020-05-03,2.0,0.0
+2,Papua New Guinea,School closing,2020-05-04,2020-08-06,1.0,155.0
+3,Papua New Guinea,School closing,2020-08-07,2020-08-16,3.0,135.0
+4,Papua New Guinea,School closing,2020-08-17,2020-11-09,1.0,266.0
+30,Papua New Guinea,Stay at home requirements,2020-04-08,2020-04-26,2.0,6.0
+31,Papua New Guinea,Stay at home requirements,2020-04-27,2020-06-22,1.0,1.0
+32,Papua New Guinea,Stay at home requirements,2020-08-04,2020-08-11,3.0,100.0
+33,Papua New Guinea,Stay at home requirements,2020-09-25,2020-10-28,1.0,56.0
+34,Papua New Guinea,Stay at home requirements,2021-01-03,2021-04-04,2.0,6239.0
+55,Papua New Guinea,Testing policy,2020-03-27,2020-04-07,1.0,1.0
+56,Papua New Guinea,Testing policy,2020-04-08,2020-08-06,2.0,161.0
+57,Papua New Guinea,Testing policy,2020-08-07,2021-01-11,1.0,631.0
+58,Papua New Guinea,Testing policy,2021-01-12,2021-04-04,2.0,6215.0
+67,Papua New Guinea,Vaccination policy,2021-03-30,2021-04-04,1.0,1418.0
+5,Papua New Guinea,Workplace closing,2020-03-24,2020-06-22,2.0,8.0
+6,Papua New Guinea,Workplace closing,2020-06-23,2020-08-03,1.0,102.0
+7,Papua New Guinea,Workplace closing,2020-08-04,2020-08-06,2.0,49.0
+8,Papua New Guinea,Workplace closing,2020-08-07,2020-08-11,3.0,26.0
+9,Papua New Guinea,Workplace closing,2020-08-12,2021-02-01,2.0,580.0
+10,Papua New Guinea,Workplace closing,2021-02-02,2021-02-15,1.0,47.0
+11,Papua New Guinea,Workplace closing,2021-02-16,2021-04-04,2.0,6083.0

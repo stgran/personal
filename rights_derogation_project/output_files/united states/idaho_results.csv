@@ -1,0 +1,59 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Idaho,Cancel public events,2020-03-15,2020-03-24,1.0,77.0
+13,Idaho,Cancel public events,2020-03-25,2020-05-29,2.0,2679.0
+14,Idaho,Cancel public events,2020-05-30,2020-11-13,1.0,76995.0
+15,Idaho,Cancel public events,2020-11-14,2020-12-29,2.0,57207.0
+16,Idaho,Cancel public events,2020-12-30,2021-04-05,1.0,41972.0
+22,Idaho,Close public transport,2020-03-25,2020-04-30,1.0,1893.0
+41,Idaho,Contact tracing,2020-01-21,2021-04-05,1.0,181836.0
+36,Idaho,Debt/contract relief,2020-03-27,2020-07-24,1.0,17060.0
+37,Idaho,Debt/contract relief,2020-09-01,2021-04-05,1.0,149483.0
+42,Idaho,Emergency investment in healthcare,2020-03-06,2020-03-06,2000000.0,0.0
+43,Idaho,Facial Coverings,2020-04-04,2020-07-13,1.0,10382.0
+44,Idaho,Facial Coverings,2020-07-14,2020-10-21,2.0,43930.0
+45,Idaho,Facial Coverings,2020-10-22,2021-01-10,3.0,93067.0
+46,Idaho,Facial Coverings,2021-01-20,2021-02-21,3.0,11562.0
+47,Idaho,Facial Coverings,2021-02-22,2021-04-05,2.0,12252.0
+32,Idaho,Income support,2020-01-27,2020-01-27,1.0,0.0
+33,Idaho,Income support,2020-03-27,2020-07-30,2.0,20037.0
+34,Idaho,Income support,2020-07-31,2020-09-10,1.0,13901.0
+35,Idaho,Income support,2020-12-27,2021-04-05,1.0,45621.0
+30,Idaho,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+31,Idaho,International travel controls,2020-03-02,2021-04-05,3.0,181836.0
+52,Idaho,Protection of elderly people,2020-03-13,2020-03-24,1.0,80.0
+53,Idaho,Protection of elderly people,2020-03-25,2020-04-30,3.0,1893.0
+54,Idaho,Protection of elderly people,2020-05-01,2020-10-26,1.0,58026.0
+55,Idaho,Protection of elderly people,2020-10-27,2021-02-01,2.0,102242.0
+56,Idaho,Protection of elderly people,2021-02-02,2021-03-08,1.0,9653.0
+57,Idaho,Protection of elderly people,2021-03-10,2021-04-05,1.0,7590.0
+38,Idaho,Public information campaigns,2020-03-12,2021-04-05,2.0,181836.0
+17,Idaho,Restrictions on gatherings,2020-03-25,2020-05-29,4.0,2679.0
+18,Idaho,Restrictions on gatherings,2020-05-30,2020-06-12,3.0,550.0
+19,Idaho,Restrictions on gatherings,2020-06-24,2020-08-10,3.0,20702.0
+20,Idaho,Restrictions on gatherings,2020-08-11,2021-02-21,4.0,143552.0
+21,Idaho,Restrictions on gatherings,2021-02-22,2021-04-05,3.0,12252.0
+25,Idaho,Restrictions on internal movement,2020-03-16,2020-03-24,1.0,77.0
+26,Idaho,Restrictions on internal movement,2020-03-25,2020-04-30,2.0,1893.0
+27,Idaho,Restrictions on internal movement,2020-05-01,2020-06-23,1.0,2239.0
+28,Idaho,Restrictions on internal movement,2020-06-24,2020-10-19,2.0,49388.0
+29,Idaho,Restrictions on internal movement,2020-10-20,2021-04-05,1.0,127173.0
+0,Idaho,School closing,2020-03-13,2020-03-22,1.0,41.0
+1,Idaho,School closing,2020-03-23,2020-08-16,3.0,27588.0
+2,Idaho,School closing,2020-08-17,2020-09-20,2.0,9554.0
+3,Idaho,School closing,2020-09-21,2020-11-15,1.0,44344.0
+4,Idaho,School closing,2020-11-16,2021-01-18,2.0,72210.0
+5,Idaho,School closing,2021-01-19,2021-04-05,1.0,25058.0
+23,Idaho,Stay at home requirements,2020-03-25,2020-04-30,2.0,1893.0
+24,Idaho,Stay at home requirements,2020-05-01,2021-04-01,1.0,178882.0
+39,Idaho,Testing policy,2020-01-21,2020-05-19,1.0,2455.0
+40,Idaho,Testing policy,2020-05-20,2021-04-05,2.0,179330.0
+48,Idaho,Vaccination policy,2020-12-14,2021-03-07,2.0,50714.0
+49,Idaho,Vaccination policy,2021-03-08,2021-03-28,3.0,6119.0
+50,Idaho,Vaccination policy,2021-03-29,2021-04-04,4.0,1418.0
+51,Idaho,Vaccination policy,2021-04-05,2021-04-05,5.0,0.0
+6,Idaho,Workplace closing,2020-03-12,2020-03-24,1.0,81.0
+7,Idaho,Workplace closing,2020-03-25,2020-04-30,3.0,1893.0
+8,Idaho,Workplace closing,2020-05-01,2020-06-10,2.0,1245.0
+9,Idaho,Workplace closing,2020-06-11,2020-06-22,1.0,996.0
+10,Idaho,Workplace closing,2020-06-23,2020-12-29,2.0,134270.0
+11,Idaho,Workplace closing,2020-12-30,2021-04-05,1.0,41972.0

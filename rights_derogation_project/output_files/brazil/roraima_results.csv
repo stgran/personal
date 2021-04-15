@@ -1,0 +1,32 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Roraima,Cancel public events,2020-03-13,2020-03-15,1.0,0.0
+6,Roraima,Cancel public events,2020-03-16,2021-03-19,2.0,87354.0
+9,Roraima,Close public transport,2020-03-22,2020-03-22,1.0,0.0
+10,Roraima,Close public transport,2020-03-23,2020-06-21,2.0,8186.0
+11,Roraima,Close public transport,2020-06-22,2021-03-19,1.0,77014.0
+23,Roraima,Contact tracing,2020-03-19,2021-03-19,2.0,87354.0
+18,Roraima,Debt/contract relief,2020-03-17,2020-05-06,1.0,932.0
+19,Roraima,Debt/contract relief,2020-05-07,2020-12-26,2.0,67244.0
+24,Roraima,Facial Coverings,2020-04-27,2020-04-27,2.0,0.0
+25,Roraima,Facial Coverings,2020-04-28,2020-06-02,3.0,4143.0
+26,Roraima,Facial Coverings,2020-06-03,2021-01-11,4.0,69888.0
+14,Roraima,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+15,Roraima,International travel controls,2020-03-18,2020-03-26,3.0,10.0
+16,Roraima,International travel controls,2020-03-27,2020-07-28,4.0,30984.0
+17,Roraima,International travel controls,2020-07-29,2021-03-19,1.0,55899.0
+27,Roraima,Protection of elderly people,2020-05-07,2021-01-05,1.0,68160.0
+28,Roraima,Protection of elderly people,2021-01-07,2021-02-08,1.0,6582.0
+29,Roraima,Protection of elderly people,2021-02-09,2021-02-12,3.0,874.0
+30,Roraima,Protection of elderly people,2021-02-13,2021-03-19,1.0,9894.0
+20,Roraima,Public information campaigns,2020-01-26,2021-03-19,2.0,87354.0
+7,Roraima,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,0.0
+8,Roraima,Restrictions on gatherings,2020-03-16,2021-03-19,4.0,87354.0
+13,Roraima,Restrictions on internal movement,2020-03-17,2021-03-19,2.0,87354.0
+0,Roraima,School closing,2020-03-16,2020-11-17,3.0,61001.0
+1,Roraima,School closing,2020-11-18,2021-03-19,2.0,26109.0
+12,Roraima,Stay at home requirements,2020-03-24,2021-03-19,2.0,87346.0
+21,Roraima,Testing policy,2020-03-19,2020-05-05,1.0,869.0
+22,Roraima,Testing policy,2020-05-06,2021-03-19,2.0,86422.0
+2,Roraima,Workplace closing,2020-03-17,2020-03-21,2.0,2.0
+3,Roraima,Workplace closing,2020-03-22,2020-08-30,3.0,43516.0
+4,Roraima,Workplace closing,2020-08-31,2021-03-19,2.0,43647.0

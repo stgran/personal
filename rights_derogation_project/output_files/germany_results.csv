@@ -1,0 +1,74 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Germany,Cancel public events,2020-02-29,2020-03-09,1.0,1097.0
+12,Germany,Cancel public events,2020-03-10,2021-04-09,2.0,2989267.0
+19,Germany,Close public transport,2020-11-30,2021-04-09,1.0,1920812.0
+53,Germany,Contact tracing,2020-01-22,2020-03-17,2.0,9257.0
+54,Germany,Contact tracing,2020-03-18,2020-06-14,1.0,175191.0
+55,Germany,Contact tracing,2020-06-15,2021-01-04,2.0,1608534.0
+56,Germany,Contact tracing,2021-01-05,2021-04-09,1.0,1176159.0
+40,Germany,Debt/contract relief,2020-04-01,2020-06-30,1.0,117546.0
+57,Germany,Emergency investment in healthcare,2020-03-23,2020-03-23,62997723800.0,0.0
+58,Germany,Emergency investment in healthcare,2020-03-27,2020-03-27,3100000000.0,0.0
+59,Germany,Emergency investment in healthcare,2020-04-29,2020-04-29,54269511.0,0.0
+60,Germany,Emergency investment in healthcare,2020-06-16,2020-06-16,0.01,0.0
+66,Germany,Facial Coverings,2020-04-01,2020-04-05,1.0,22251.0
+67,Germany,Facial Coverings,2020-04-06,2021-04-09,2.0,2887350.0
+41,Germany,Fiscal measures,2020-03-23,2020-03-23,68442949672.71,0.0
+42,Germany,Fiscal measures,2020-06-17,2020-06-17,28000000000.0,0.0
+43,Germany,Fiscal measures,2020-11-02,2020-11-02,11791900000.0,0.0
+37,Germany,Income support,2020-03-16,2020-12-07,2.0,1192734.0
+38,Germany,Income support,2020-12-08,2020-12-15,1.0,161817.0
+39,Germany,Income support,2020-12-16,2021-04-09,2.0,1566894.0
+44,Germany,International support,2020-05-04,2020-05-04,2023000000.0,0.0
+45,Germany,International support,2020-06-17,2020-06-17,1740000000.0,0.0
+46,Germany,International support,2020-12-17,2020-12-17,342890.0,0.0
+33,Germany,International travel controls,2020-02-28,2020-03-15,1.0,5747.0
+34,Germany,International travel controls,2020-03-16,2020-03-17,3.0,1985.0
+35,Germany,International travel controls,2020-03-18,2020-05-15,4.0,162906.0
+36,Germany,International travel controls,2020-05-16,2021-04-09,3.0,2814972.0
+61,Germany,Investment in vaccines,2020-02-06,2020-02-06,8010337.0,0.0
+62,Germany,Investment in vaccines,2020-03-23,2020-03-23,156510825.0,0.0
+63,Germany,Investment in vaccines,2020-05-04,2020-05-04,545000000.0,0.0
+64,Germany,Investment in vaccines,2020-05-11,2020-05-11,812000000.0,0.0
+65,Germany,Investment in vaccines,2020-06-17,2020-06-17,340000000.0,0.0
+70,Germany,Protection of elderly people,2020-02-28,2020-03-21,1.0,22165.0
+71,Germany,Protection of elderly people,2020-03-22,2020-05-18,3.0,151678.0
+72,Germany,Protection of elderly people,2020-05-19,2021-04-09,2.0,2812946.0
+47,Germany,Public information campaigns,2020-01-24,2020-02-11,1.0,16.0
+48,Germany,Public information campaigns,2020-02-12,2021-04-09,2.0,2990708.0
+13,Germany,Restrictions on gatherings,2020-03-10,2020-03-20,1.0,18391.0
+14,Germany,Restrictions on gatherings,2020-03-21,2020-07-06,4.0,175851.0
+15,Germany,Restrictions on gatherings,2020-07-07,2020-07-30,3.0,11192.0
+16,Germany,Restrictions on gatherings,2020-07-31,2020-08-07,4.0,5797.0
+17,Germany,Restrictions on gatherings,2020-08-08,2020-08-23,3.0,17591.0
+18,Germany,Restrictions on gatherings,2020-08-24,2021-04-09,4.0,2754602.0
+26,Germany,Restrictions on internal movement,2020-03-18,2020-03-18,1.0,0.0
+27,Germany,Restrictions on internal movement,2020-03-19,2020-09-03,2.0,233520.0
+28,Germany,Restrictions on internal movement,2020-10-15,2020-11-09,1.0,337039.0
+29,Germany,Restrictions on internal movement,2020-11-10,2020-11-29,2.0,339998.0
+30,Germany,Restrictions on internal movement,2020-11-30,2021-01-04,1.0,726304.0
+31,Germany,Restrictions on internal movement,2021-01-05,2021-03-19,2.0,840169.0
+32,Germany,Restrictions on internal movement,2021-03-20,2021-04-09,1.0,321491.0
+0,Germany,School closing,2020-02-26,2020-03-15,2.0,5768.0
+1,Germany,School closing,2020-03-16,2020-05-03,3.0,158392.0
+2,Germany,School closing,2020-05-04,2020-06-17,2.0,22452.0
+3,Germany,School closing,2020-06-18,2020-07-06,3.0,8247.0
+4,Germany,School closing,2020-07-07,2020-08-06,1.0,16696.0
+5,Germany,School closing,2020-08-07,2020-09-02,2.0,31215.0
+6,Germany,School closing,2020-09-03,2020-12-15,1.0,1142246.0
+7,Germany,School closing,2020-12-16,2021-04-09,3.0,1566894.0
+20,Germany,Stay at home requirements,2020-03-09,2020-03-20,1.0,18672.0
+21,Germany,Stay at home requirements,2020-03-21,2020-05-05,2.0,144794.0
+22,Germany,Stay at home requirements,2020-10-15,2020-10-21,1.0,45815.0
+23,Germany,Stay at home requirements,2020-10-22,2020-11-01,2.0,140472.0
+24,Germany,Stay at home requirements,2020-11-02,2020-12-15,1.0,821488.0
+25,Germany,Stay at home requirements,2020-12-16,2021-04-09,2.0,1566894.0
+49,Germany,Testing policy,2020-01-27,2020-04-28,1.0,159911.0
+50,Germany,Testing policy,2020-04-29,2020-11-10,3.0,554154.0
+51,Germany,Testing policy,2020-11-11,2021-03-19,1.0,1916640.0
+52,Germany,Testing policy,2021-03-20,2021-04-09,3.0,321491.0
+68,Germany,Vaccination policy,2020-12-27,2021-02-23,2.0,746624.0
+69,Germany,Vaccination policy,2021-02-24,2021-04-09,3.0,574687.0
+8,Germany,Workplace closing,2020-03-22,2020-12-15,2.0,1366213.0
+9,Germany,Workplace closing,2020-12-16,2021-02-28,3.0,1026465.0
+10,Germany,Workplace closing,2021-03-01,2021-04-09,2.0,535155.0

@@ -1,0 +1,35 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Sergipe,Cancel public events,2020-03-13,2020-03-16,1.0,5.0
+8,Sergipe,Cancel public events,2020-03-17,2020-07-29,2.0,56214.0
+9,Sergipe,Cancel public events,2020-07-31,2021-03-19,2.0,104815.0
+14,Sergipe,Close public transport,2020-03-20,2021-03-19,1.0,163521.0
+30,Sergipe,Contact tracing,2020-04-01,2021-03-19,2.0,163506.0
+26,Sergipe,Debt/contract relief,2020-03-17,2020-12-26,1.0,108166.0
+31,Sergipe,Facial Coverings,2020-04-27,2021-01-11,4.0,123625.0
+24,Sergipe,Income support,2020-04-01,2020-12-29,2.0,110782.0
+25,Sergipe,Income support,2020-12-31,2020-12-31,2.0,0.0
+20,Sergipe,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+21,Sergipe,International travel controls,2020-03-18,2020-03-26,3.0,-6.0
+22,Sergipe,International travel controls,2020-03-27,2020-07-28,4.0,54993.0
+23,Sergipe,International travel controls,2020-07-29,2021-03-19,3.0,107314.0
+32,Sergipe,Protection of elderly people,2020-05-07,2021-01-05,1.0,115565.0
+33,Sergipe,Protection of elderly people,2021-01-07,2021-03-19,1.0,44483.0
+27,Sergipe,Public information campaigns,2020-01-26,2021-03-19,2.0,163528.0
+10,Sergipe,Restrictions on gatherings,2020-03-13,2020-03-16,2.0,5.0
+11,Sergipe,Restrictions on gatherings,2020-03-17,2020-07-29,4.0,56214.0
+12,Sergipe,Restrictions on gatherings,2020-07-31,2020-09-20,4.0,17160.0
+13,Sergipe,Restrictions on gatherings,2020-09-21,2021-03-19,3.0,87455.0
+17,Sergipe,Restrictions on internal movement,2020-03-18,2020-03-23,1.0,-6.0
+18,Sergipe,Restrictions on internal movement,2020-03-24,2020-05-18,2.0,3551.0
+19,Sergipe,Restrictions on internal movement,2020-06-02,2020-09-30,1.0,69885.0
+0,Sergipe,School closing,2020-03-16,2020-11-02,3.0,84486.0
+1,Sergipe,School closing,2020-11-03,2021-03-10,2.0,72511.0
+2,Sergipe,School closing,2021-03-11,2021-03-19,3.0,6188.0
+15,Sergipe,Stay at home requirements,2020-03-16,2021-03-16,1.0,160368.0
+16,Sergipe,Stay at home requirements,2021-03-17,2021-03-19,2.0,1687.0
+28,Sergipe,Testing policy,2020-03-23,2020-05-05,1.0,898.0
+29,Sergipe,Testing policy,2020-05-06,2021-03-19,2.0,162530.0
+3,Sergipe,Workplace closing,2020-03-17,2020-03-19,2.0,0.0
+4,Sergipe,Workplace closing,2020-03-21,2020-07-29,3.0,56204.0
+5,Sergipe,Workplace closing,2020-07-31,2020-08-18,3.0,9986.0
+6,Sergipe,Workplace closing,2020-08-19,2021-03-19,2.0,94461.0

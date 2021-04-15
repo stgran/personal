@@ -1,0 +1,58 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Malawi,Cancel public events,2020-03-20,2020-12-22,2.0,6248.0
+8,Malawi,Cancel public events,2020-12-23,2021-01-11,1.0,2766.0
+9,Malawi,Cancel public events,2021-01-13,2021-01-16,2.0,2385.0
+10,Malawi,Cancel public events,2021-01-17,2021-04-04,1.0,21191.0
+16,Malawi,Close public transport,2021-01-17,2021-04-04,1.0,21191.0
+39,Malawi,Contact tracing,2020-04-02,2020-04-02,1.0,0.0
+40,Malawi,Contact tracing,2020-04-03,2021-01-16,2.0,11782.0
+41,Malawi,Contact tracing,2021-01-17,2021-03-08,1.0,19999.0
+42,Malawi,Contact tracing,2021-03-09,2021-04-04,2.0,1133.0
+26,Malawi,Debt/contract relief,2020-04-09,2021-01-11,2.0,9019.0
+27,Malawi,Debt/contract relief,2021-01-17,2021-02-06,1.0,14405.0
+28,Malawi,Debt/contract relief,2021-02-08,2021-04-04,1.0,6239.0
+43,Malawi,Emergency investment in healthcare,2020-03-27,2020-03-27,2240460.0,0.0
+44,Malawi,Emergency investment in healthcare,2020-04-08,2020-04-08,213000000.0,0.0
+45,Malawi,Emergency investment in healthcare,2020-04-15,2020-04-15,39240460.0,0.0
+46,Malawi,Emergency investment in healthcare,2020-05-18,2020-05-18,10000000.0,0.0
+47,Malawi,Emergency investment in healthcare,2020-09-13,2020-09-13,273000000.0,0.0
+48,Malawi,Facial Coverings,2020-04-04,2020-08-06,1.0,4487.0
+49,Malawi,Facial Coverings,2020-08-07,2020-09-17,3.0,1136.0
+50,Malawi,Facial Coverings,2020-09-18,2020-10-12,1.0,108.0
+51,Malawi,Facial Coverings,2020-10-13,2021-01-11,3.0,3200.0
+52,Malawi,Facial Coverings,2021-01-12,2021-01-16,1.0,2758.0
+53,Malawi,Facial Coverings,2021-01-17,2021-04-04,3.0,21191.0
+29,Malawi,Fiscal measures,2020-04-03,2020-04-03,16000000.0,0.0
+30,Malawi,Fiscal measures,2020-04-04,2020-04-04,20690000.0,0.0
+31,Malawi,Fiscal measures,2020-04-28,2020-04-28,50000000.0,0.0
+23,Malawi,Income support,2020-04-20,2020-04-30,1.0,20.0
+24,Malawi,Income support,2020-05-01,2020-09-17,2.0,5674.0
+25,Malawi,Income support,2020-10-13,2021-01-03,1.0,1017.0
+32,Malawi,International support,2020-05-27,2020-05-27,10000000.0,0.0
+19,Malawi,International travel controls,2020-03-20,2020-08-31,4.0,5566.0
+20,Malawi,International travel controls,2020-09-01,2020-12-22,2.0,672.0
+21,Malawi,International travel controls,2020-12-23,2021-01-11,4.0,2766.0
+22,Malawi,International travel controls,2021-01-17,2021-04-04,1.0,21191.0
+56,Malawi,Protection of elderly people,2021-03-22,2021-04-04,2.0,391.0
+33,Malawi,Public information campaigns,2020-02-11,2020-03-06,1.0,0.0
+34,Malawi,Public information campaigns,2020-03-07,2021-01-11,2.0,9027.0
+35,Malawi,Public information campaigns,2021-01-12,2021-01-16,1.0,2758.0
+36,Malawi,Public information campaigns,2021-01-17,2021-04-04,2.0,21191.0
+11,Malawi,Restrictions on gatherings,2020-03-20,2020-08-07,3.0,4575.0
+12,Malawi,Restrictions on gatherings,2020-08-08,2020-09-17,4.0,1087.0
+13,Malawi,Restrictions on gatherings,2020-09-18,2020-12-22,3.0,532.0
+14,Malawi,Restrictions on gatherings,2020-12-23,2021-01-16,2.0,5524.0
+15,Malawi,Restrictions on gatherings,2021-01-17,2021-04-04,3.0,21191.0
+0,Malawi,School closing,2020-03-23,2020-09-06,3.0,5614.0
+1,Malawi,School closing,2020-09-07,2021-01-03,2.0,1223.0
+2,Malawi,School closing,2021-01-04,2021-01-16,1.0,4850.0
+3,Malawi,School closing,2021-01-17,2021-02-21,3.0,18272.0
+17,Malawi,Stay at home requirements,2020-04-18,2020-10-12,1.0,5807.0
+18,Malawi,Stay at home requirements,2021-03-09,2021-04-04,2.0,1133.0
+37,Malawi,Testing policy,2020-04-07,2020-10-12,1.0,5816.0
+38,Malawi,Testing policy,2020-10-13,2021-04-04,2.0,27834.0
+54,Malawi,Vaccination policy,2021-01-17,2021-01-30,3.0,11027.0
+55,Malawi,Vaccination policy,2021-03-11,2021-04-04,3.0,988.0
+4,Malawi,Workplace closing,2020-04-04,2020-08-07,1.0,4571.0
+5,Malawi,Workplace closing,2020-08-08,2021-01-11,2.0,4403.0
+6,Malawi,Workplace closing,2021-01-17,2021-04-04,2.0,21191.0

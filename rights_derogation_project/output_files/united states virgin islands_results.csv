@@ -1,0 +1,38 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,United States Virgin Islands,Cancel public events,2020-03-25,2021-04-05,1.0,2928.0
+13,United States Virgin Islands,Close public transport,2020-03-23,2020-05-03,1.0,59.0
+28,United States Virgin Islands,Contact tracing,2020-02-01,2021-04-05,2.0,2945.0
+23,United States Virgin Islands,Debt/contract relief,2021-03-23,2021-04-05,1.0,178.0
+29,United States Virgin Islands,Facial Coverings,2020-10-23,2021-04-05,3.0,1599.0
+20,United States Virgin Islands,Income support,2020-09-09,2020-10-14,2.0,131.0
+21,United States Virgin Islands,Income support,2020-10-15,2020-12-31,1.0,702.0
+22,United States Virgin Islands,Income support,2021-03-15,2021-04-05,1.0,178.0
+19,United States Virgin Islands,International travel controls,2020-09-08,2021-04-05,2.0,1754.0
+34,United States Virgin Islands,Protection of elderly people,2020-03-25,2020-05-31,3.0,52.0
+35,United States Virgin Islands,Protection of elderly people,2020-06-01,2020-08-16,2.0,671.0
+36,United States Virgin Islands,Protection of elderly people,2020-08-17,2021-04-05,3.0,2185.0
+24,United States Virgin Islands,Public information campaigns,2020-03-13,2021-04-05,2.0,2945.0
+9,United States Virgin Islands,Restrictions on gatherings,2020-03-21,2020-11-15,3.0,1428.0
+10,United States Virgin Islands,Restrictions on gatherings,2020-11-16,2021-02-18,2.0,1124.0
+11,United States Virgin Islands,Restrictions on gatherings,2021-02-19,2021-03-29,3.0,332.0
+12,United States Virgin Islands,Restrictions on gatherings,2021-03-30,2021-04-05,2.0,38.0
+18,United States Virgin Islands,Restrictions on internal movement,2020-07-09,2020-11-21,2.0,1347.0
+0,United States Virgin Islands,School closing,2020-03-18,2020-10-05,3.0,1320.0
+1,United States Virgin Islands,School closing,2020-10-06,2020-10-30,2.0,41.0
+2,United States Virgin Islands,School closing,2020-11-09,2020-11-20,2.0,77.0
+3,United States Virgin Islands,School closing,2020-11-22,2021-04-05,2.0,1441.0
+14,United States Virgin Islands,Stay at home requirements,2020-03-25,2020-05-03,2.0,49.0
+15,United States Virgin Islands,Stay at home requirements,2020-05-04,2020-05-31,1.0,3.0
+16,United States Virgin Islands,Stay at home requirements,2020-08-17,2020-09-07,2.0,430.0
+17,United States Virgin Islands,Stay at home requirements,2020-09-08,2021-04-05,1.0,1754.0
+25,United States Virgin Islands,Testing policy,2020-02-01,2020-11-21,1.0,1491.0
+26,United States Virgin Islands,Testing policy,2020-11-22,2021-03-22,2.0,1263.0
+27,United States Virgin Islands,Testing policy,2021-03-23,2021-04-05,3.0,178.0
+30,United States Virgin Islands,Vaccination policy,2021-01-01,2021-01-17,2.0,224.0
+31,United States Virgin Islands,Vaccination policy,2021-01-18,2021-02-01,3.0,161.0
+32,United States Virgin Islands,Vaccination policy,2021-02-02,2021-03-14,4.0,341.0
+33,United States Virgin Islands,Vaccination policy,2021-03-15,2021-04-05,5.0,178.0
+4,United States Virgin Islands,Workplace closing,2020-03-23,2020-05-03,3.0,59.0
+5,United States Virgin Islands,Workplace closing,2020-08-13,2020-09-07,3.0,508.0
+6,United States Virgin Islands,Workplace closing,2020-09-08,2021-03-14,1.0,1576.0
+7,United States Virgin Islands,Workplace closing,2021-03-15,2021-04-05,2.0,178.0

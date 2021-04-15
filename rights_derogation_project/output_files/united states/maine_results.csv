@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Maine,Cancel public events,2020-03-12,2020-03-14,1.0,2.0
+10,Maine,Cancel public events,2020-03-15,2020-10-12,2.0,5750.0
+11,Maine,Cancel public events,2020-10-13,2021-04-05,1.0,46206.0
+14,Maine,Close public transport,2020-03-25,2020-08-31,2.0,4387.0
+15,Maine,Close public transport,2020-09-01,2021-01-23,1.0,32049.0
+49,Maine,Contact tracing,2020-01-21,2020-05-31,1.0,2325.0
+50,Maine,Contact tracing,2020-06-01,2021-04-05,2.0,49637.0
+27,Maine,Debt/contract relief,2020-03-16,2020-03-17,1.0,9.0
+28,Maine,Debt/contract relief,2020-03-18,2020-08-02,2.0,3923.0
+29,Maine,Debt/contract relief,2020-08-03,2021-04-05,1.0,48016.0
+51,Maine,Emergency investment in healthcare,2020-06-10,2020-06-10,1000000.0,0.0
+52,Maine,Emergency investment in healthcare,2020-07-20,2020-07-20,1000000.0,0.0
+53,Maine,Emergency investment in healthcare,2020-08-21,2020-08-21,1000000.0,0.0
+54,Maine,Emergency investment in healthcare,2020-11-18,2020-11-18,8000000.0,0.0
+55,Maine,Emergency investment in healthcare,2020-12-01,2020-12-01,30000000.0,0.0
+56,Maine,Facial Coverings,2020-04-04,2020-04-30,1.0,639.0
+57,Maine,Facial Coverings,2020-05-01,2020-11-03,2.0,5802.0
+58,Maine,Facial Coverings,2020-11-04,2021-01-10,3.0,22227.0
+59,Maine,Facial Coverings,2021-01-20,2021-04-05,3.0,17023.0
+30,Maine,Fiscal measures,2020-06-26,2020-06-26,127000.0,0.0
+31,Maine,Fiscal measures,2020-07-06,2020-07-06,500000.0,0.0
+32,Maine,Fiscal measures,2020-07-17,2020-07-17,8400000.0,0.0
+33,Maine,Fiscal measures,2020-07-30,2020-07-30,1000000.0,0.0
+34,Maine,Fiscal measures,2020-08-11,2020-08-11,4000000.0,0.0
+35,Maine,Fiscal measures,2020-08-20,2020-08-20,200000000.0,0.0
+36,Maine,Fiscal measures,2020-09-04,2020-09-04,1000000.0,0.0
+37,Maine,Fiscal measures,2020-09-23,2020-09-23,95000000.0,0.0
+38,Maine,Fiscal measures,2020-10-01,2020-10-01,1000000.0,0.0
+39,Maine,Fiscal measures,2020-10-02,2020-10-02,25000000.0,0.0
+40,Maine,Fiscal measures,2020-11-20,2020-11-20,6200000.0,0.0
+41,Maine,Fiscal measures,2020-11-25,2020-11-25,536000.0,0.0
+42,Maine,Fiscal measures,2020-11-30,2020-11-30,40000000.0,0.0
+43,Maine,Fiscal measures,2020-12-04,2020-12-04,12000000.0,0.0
+22,Maine,Income support,2020-01-27,2020-01-27,1.0,0.0
+23,Maine,Income support,2020-03-18,2020-03-26,1.0,120.0
+24,Maine,Income support,2020-03-27,2020-07-30,2.0,3720.0
+25,Maine,Income support,2020-07-31,2020-11-23,1.0,6632.0
+26,Maine,Income support,2020-12-09,2021-04-05,1.0,37532.0
+20,Maine,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+21,Maine,International travel controls,2020-03-02,2021-04-05,3.0,51986.0
+65,Maine,Protection of elderly people,2020-03-13,2021-03-08,1.0,45930.0
+66,Maine,Protection of elderly people,2021-03-10,2021-04-05,1.0,5725.0
+44,Maine,Public information campaigns,2020-02-10,2020-02-26,1.0,0.0
+45,Maine,Public information campaigns,2020-02-27,2021-04-05,2.0,51986.0
+12,Maine,Restrictions on gatherings,2020-03-15,2020-05-30,4.0,2280.0
+13,Maine,Restrictions on gatherings,2020-05-31,2021-04-05,3.0,49661.0
+18,Maine,Restrictions on internal movement,2020-03-16,2020-04-02,1.0,359.0
+19,Maine,Restrictions on internal movement,2020-04-03,2021-04-05,2.0,51554.0
+0,Maine,School closing,2020-03-13,2020-03-14,1.0,0.0
+1,Maine,School closing,2020-03-15,2020-03-24,2.0,116.0
+2,Maine,School closing,2020-03-25,2020-08-29,3.0,4350.0
+3,Maine,School closing,2020-08-30,2020-09-13,2.0,349.0
+4,Maine,School closing,2020-09-14,2021-04-05,1.0,47082.0
+16,Maine,Stay at home requirements,2020-03-25,2020-05-30,2.0,2140.0
+17,Maine,Stay at home requirements,2020-05-31,2021-04-05,1.0,49661.0
+46,Maine,Testing policy,2020-01-21,2020-05-17,1.0,1687.0
+47,Maine,Testing policy,2020-05-18,2020-07-19,2.0,1974.0
+48,Maine,Testing policy,2020-07-20,2021-04-05,3.0,48275.0
+60,Maine,Vaccination policy,2020-12-15,2020-12-20,1.0,2186.0
+61,Maine,Vaccination policy,2020-12-21,2021-02-01,2.0,20258.0
+62,Maine,Vaccination policy,2021-02-02,2021-02-14,3.0,2569.0
+63,Maine,Vaccination policy,2021-02-15,2021-03-02,1.0,2267.0
+64,Maine,Vaccination policy,2021-03-03,2021-04-05,3.0,6895.0
+5,Maine,Workplace closing,2020-03-12,2020-03-24,1.0,117.0
+6,Maine,Workplace closing,2020-03-25,2020-04-30,3.0,953.0
+7,Maine,Workplace closing,2020-05-01,2020-11-19,2.0,8611.0
+8,Maine,Workplace closing,2020-11-20,2021-04-05,1.0,42028.0

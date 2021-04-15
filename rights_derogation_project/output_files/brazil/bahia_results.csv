@@ -1,0 +1,44 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Bahia,Cancel public events,2020-03-13,2021-03-13,2.0,740141.0
+15,Bahia,Close public transport,2020-03-19,2021-01-20,1.0,549284.0
+16,Bahia,Close public transport,2021-01-21,2021-03-13,2.0,186378.0
+36,Bahia,Contact tracing,2020-04-01,2021-03-19,2.0,762370.0
+30,Bahia,Debt/contract relief,2020-03-17,2020-04-06,1.0,423.0
+31,Bahia,Debt/contract relief,2020-04-07,2020-07-07,2.0,91492.0
+32,Bahia,Debt/contract relief,2020-07-08,2020-12-26,1.0,386577.0
+37,Bahia,Facial Coverings,2020-03-27,2020-04-15,1.0,761.0
+38,Bahia,Facial Coverings,2020-04-16,2020-04-19,2.0,282.0
+39,Bahia,Facial Coverings,2020-04-20,2020-04-22,3.0,268.0
+40,Bahia,Facial Coverings,2020-04-23,2021-01-11,4.0,511911.0
+26,Bahia,International travel controls,2020-03-13,2020-03-17,2.0,7.0
+27,Bahia,International travel controls,2020-03-18,2020-03-26,3.0,81.0
+28,Bahia,International travel controls,2020-03-27,2020-07-28,4.0,153190.0
+29,Bahia,International travel controls,2020-07-29,2021-03-19,1.0,605282.0
+41,Bahia,Protection of elderly people,2020-03-25,2021-01-05,2.0,499809.0
+42,Bahia,Protection of elderly people,2021-01-07,2021-03-19,2.0,256698.0
+33,Bahia,Public information campaigns,2020-01-26,2021-03-19,2.0,762616.0
+9,Bahia,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,2.0
+10,Bahia,Restrictions on gatherings,2020-03-16,2020-09-11,3.0,279499.0
+11,Bahia,Restrictions on gatherings,2020-09-12,2021-02-03,2.0,314475.0
+12,Bahia,Restrictions on gatherings,2021-02-04,2021-02-05,4.0,3357.0
+13,Bahia,Restrictions on gatherings,2021-02-06,2021-02-21,2.0,47273.0
+14,Bahia,Restrictions on gatherings,2021-02-22,2021-03-13,4.0,84667.0
+22,Bahia,Restrictions on internal movement,2020-03-18,2020-03-18,1.0,0.0
+23,Bahia,Restrictions on internal movement,2020-03-19,2020-11-30,2.0,403040.0
+24,Bahia,Restrictions on internal movement,2020-12-31,2021-01-01,2.0,1284.0
+25,Bahia,Restrictions on internal movement,2021-02-20,2021-03-19,2.0,111132.0
+0,Bahia,School closing,2020-03-16,2020-11-02,3.0,354566.0
+1,Bahia,School closing,2020-11-03,2021-03-13,2.0,385165.0
+17,Bahia,Stay at home requirements,2020-03-20,2020-05-11,1.0,5774.0
+18,Bahia,Stay at home requirements,2020-05-12,2020-08-20,2.0,222392.0
+19,Bahia,Stay at home requirements,2020-08-21,2020-10-08,1.0,92055.0
+20,Bahia,Stay at home requirements,2020-12-01,2021-02-18,1.0,237055.0
+21,Bahia,Stay at home requirements,2021-02-19,2021-03-13,2.0,92764.0
+34,Bahia,Testing policy,2020-01-28,2020-05-05,1.0,4040.0
+35,Bahia,Testing policy,2020-05-06,2021-03-19,2.0,758315.0
+2,Bahia,Workplace closing,2020-03-16,2020-03-27,2.0,113.0
+3,Bahia,Workplace closing,2020-03-28,2020-09-03,3.0,265612.0
+4,Bahia,Workplace closing,2020-09-04,2021-01-31,2.0,319969.0
+5,Bahia,Workplace closing,2021-02-01,2021-02-03,3.0,6906.0
+6,Bahia,Workplace closing,2021-02-04,2021-02-25,2.0,70386.0
+7,Bahia,Workplace closing,2021-02-26,2021-03-13,3.0,65764.0

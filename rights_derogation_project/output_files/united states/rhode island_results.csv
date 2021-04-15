@@ -1,0 +1,58 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Rhode Island,Cancel public events,2020-03-12,2020-07-28,2.0,18722.0
+13,Rhode Island,Cancel public events,2020-07-29,2020-08-27,1.0,2789.0
+14,Rhode Island,Cancel public events,2020-08-28,2020-10-27,2.0,9762.0
+15,Rhode Island,Cancel public events,2020-10-28,2020-11-29,1.0,22010.0
+16,Rhode Island,Cancel public events,2020-11-30,2020-12-20,2.0,21089.0
+17,Rhode Island,Cancel public events,2020-12-21,2021-04-05,1.0,58942.0
+44,Rhode Island,Contact tracing,2020-01-21,2020-07-06,1.0,16991.0
+45,Rhode Island,Contact tracing,2020-07-07,2021-04-05,2.0,122019.0
+38,Rhode Island,Debt/contract relief,2020-03-16,2020-03-16,1.0,0.0
+39,Rhode Island,Debt/contract relief,2020-03-17,2021-04-05,2.0,139150.0
+46,Rhode Island,Facial Coverings,2020-04-04,2020-04-17,1.0,3371.0
+47,Rhode Island,Facial Coverings,2020-04-18,2020-05-07,2.0,6039.0
+48,Rhode Island,Facial Coverings,2020-05-08,2021-01-10,3.0,86835.0
+49,Rhode Island,Facial Coverings,2021-01-20,2021-04-05,3.0,31297.0
+34,Rhode Island,Income support,2020-01-27,2020-01-27,1.0,0.0
+35,Rhode Island,Income support,2020-03-09,2021-01-02,2.0,87946.0
+36,Rhode Island,Income support,2021-01-03,2021-03-29,1.0,48470.0
+37,Rhode Island,Income support,2021-04-03,2021-04-05,1.0,918.0
+32,Rhode Island,International travel controls,2020-02-02,2020-03-01,2.0,1.0
+33,Rhode Island,International travel controls,2020-03-02,2021-04-05,3.0,139171.0
+53,Rhode Island,Protection of elderly people,2020-03-07,2020-03-12,1.0,0.0
+54,Rhode Island,Protection of elderly people,2020-03-13,2021-02-18,3.0,122847.0
+55,Rhode Island,Protection of elderly people,2021-02-19,2021-03-08,2.0,5836.0
+56,Rhode Island,Protection of elderly people,2021-03-10,2021-04-05,2.0,9578.0
+40,Rhode Island,Public information campaigns,2020-01-31,2021-04-05,2.0,139173.0
+18,Rhode Island,Restrictions on gatherings,2020-03-16,2020-03-20,3.0,33.0
+19,Rhode Island,Restrictions on gatherings,2020-03-21,2020-05-31,4.0,14862.0
+20,Rhode Island,Restrictions on gatherings,2020-06-01,2020-10-29,3.0,17321.0
+21,Rhode Island,Restrictions on gatherings,2020-10-30,2020-11-15,4.0,8655.0
+22,Rhode Island,Restrictions on gatherings,2020-11-16,2020-11-29,3.0,10031.0
+23,Rhode Island,Restrictions on gatherings,2020-11-30,2021-02-04,4.0,60568.0
+24,Rhode Island,Restrictions on gatherings,2021-02-05,2021-04-05,3.0,21282.0
+30,Rhode Island,Restrictions on internal movement,2020-03-16,2020-03-23,1.0,85.0
+31,Rhode Island,Restrictions on internal movement,2020-03-24,2021-04-05,2.0,139049.0
+0,Rhode Island,School closing,2020-03-13,2020-03-15,1.0,8.0
+1,Rhode Island,School closing,2020-03-16,2020-09-13,3.0,22884.0
+2,Rhode Island,School closing,2020-09-14,2020-11-29,2.0,30824.0
+3,Rhode Island,School closing,2020-11-30,2020-12-07,1.0,9095.0
+4,Rhode Island,School closing,2020-12-08,2021-01-18,2.0,37376.0
+5,Rhode Island,School closing,2021-01-19,2021-04-05,1.0,32107.0
+25,Rhode Island,Stay at home requirements,2020-03-16,2020-03-23,1.0,85.0
+26,Rhode Island,Stay at home requirements,2020-03-24,2020-05-07,2.0,10406.0
+27,Rhode Island,Stay at home requirements,2020-05-08,2020-11-04,1.0,24343.0
+28,Rhode Island,Stay at home requirements,2020-11-05,2020-11-29,2.0,18204.0
+29,Rhode Island,Stay at home requirements,2020-11-30,2021-04-05,1.0,82450.0
+41,Rhode Island,Testing policy,2020-01-21,2020-04-01,1.0,566.0
+42,Rhode Island,Testing policy,2020-04-02,2020-04-27,2.0,7063.0
+43,Rhode Island,Testing policy,2020-04-28,2021-04-05,3.0,131246.0
+50,Rhode Island,Vaccination policy,2020-12-14,2020-12-31,1.0,13878.0
+51,Rhode Island,Vaccination policy,2021-01-01,2021-02-17,2.0,34491.0
+52,Rhode Island,Vaccination policy,2021-02-18,2021-04-05,3.0,16314.0
+6,Rhode Island,Workplace closing,2020-03-12,2020-03-21,1.0,63.0
+7,Rhode Island,Workplace closing,2020-03-22,2020-03-29,2.0,211.0
+8,Rhode Island,Workplace closing,2020-03-30,2020-05-31,3.0,14520.0
+9,Rhode Island,Workplace closing,2020-06-01,2020-06-28,2.0,1670.0
+10,Rhode Island,Workplace closing,2020-06-29,2020-08-27,1.0,4825.0
+11,Rhode Island,Workplace closing,2020-08-28,2021-04-05,2.0,117490.0

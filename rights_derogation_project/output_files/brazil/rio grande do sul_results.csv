@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Rio Grande do Sul,Cancel public events,2020-03-13,2020-03-15,1.0,-4.0
+12,Rio Grande do Sul,Cancel public events,2020-03-16,2021-03-19,2.0,780178.0
+18,Rio Grande do Sul,Close public transport,2020-03-19,2021-03-19,1.0,780155.0
+37,Rio Grande do Sul,Contact tracing,2020-02-02,2020-03-22,1.0,77.0
+38,Rio Grande do Sul,Contact tracing,2020-04-01,2021-03-19,2.0,779870.0
+33,Rio Grande do Sul,Debt/contract relief,2020-03-17,2020-12-26,1.0,430780.0
+39,Rio Grande do Sul,Facial Coverings,2020-04-11,2020-04-16,1.0,139.0
+40,Rio Grande do Sul,Facial Coverings,2020-04-17,2020-05-03,2.0,859.0
+41,Rio Grande do Sul,Facial Coverings,2020-05-04,2021-01-11,4.0,480294.0
+29,Rio Grande do Sul,International travel controls,2020-03-13,2020-03-17,2.0,-4.0
+30,Rio Grande do Sul,International travel controls,2020-03-18,2020-03-26,3.0,171.0
+31,Rio Grande do Sul,International travel controls,2020-03-27,2020-07-28,4.0,62150.0
+32,Rio Grande do Sul,International travel controls,2020-07-29,2021-03-19,1.0,715690.0
+42,Rio Grande do Sul,Protection of elderly people,2020-03-10,2020-03-25,1.0,161.0
+43,Rio Grande do Sul,Protection of elderly people,2020-03-26,2020-04-01,2.0,126.0
+44,Rio Grande do Sul,Protection of elderly people,2020-04-02,2020-05-01,1.0,1233.0
+45,Rio Grande do Sul,Protection of elderly people,2021-01-04,2021-01-05,1.0,5283.0
+46,Rio Grande do Sul,Protection of elderly people,2021-01-07,2021-03-19,1.0,310048.0
+34,Rio Grande do Sul,Public information campaigns,2020-01-26,2021-03-19,2.0,780186.0
+13,Rio Grande do Sul,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,-4.0
+14,Rio Grande do Sul,Restrictions on gatherings,2020-03-16,2020-03-29,3.0,222.0
+15,Rio Grande do Sul,Restrictions on gatherings,2020-03-30,2021-01-18,4.0,507804.0
+16,Rio Grande do Sul,Restrictions on gatherings,2021-01-19,2021-02-01,3.0,35719.0
+17,Rio Grande do Sul,Restrictions on gatherings,2021-02-02,2021-03-19,4.0,228869.0
+26,Rio Grande do Sul,Restrictions on internal movement,2020-03-18,2020-03-18,1.0,0.0
+27,Rio Grande do Sul,Restrictions on internal movement,2020-03-19,2020-05-09,2.0,2511.0
+28,Rio Grande do Sul,Restrictions on internal movement,2020-05-10,2021-03-19,1.0,777610.0
+0,Rio Grande do Sul,School closing,2020-03-16,2020-10-04,3.0,202711.0
+1,Rio Grande do Sul,School closing,2020-10-05,2021-01-25,2.0,325453.0
+2,Rio Grande do Sul,School closing,2021-01-26,2021-02-22,1.0,73470.0
+3,Rio Grande do Sul,School closing,2021-02-23,2021-03-19,2.0,167995.0
+19,Rio Grande do Sul,Stay at home requirements,2020-03-19,2020-03-31,1.0,274.0
+20,Rio Grande do Sul,Stay at home requirements,2020-04-01,2020-05-09,2.0,2226.0
+21,Rio Grande do Sul,Stay at home requirements,2020-05-10,2020-05-12,1.0,341.0
+22,Rio Grande do Sul,Stay at home requirements,2020-05-13,2020-08-31,2.0,122816.0
+23,Rio Grande do Sul,Stay at home requirements,2020-09-01,2020-10-29,1.0,115603.0
+24,Rio Grande do Sul,Stay at home requirements,2020-10-30,2021-01-18,2.0,261831.0
+25,Rio Grande do Sul,Stay at home requirements,2021-01-19,2021-03-19,1.0,267843.0
+35,Rio Grande do Sul,Testing policy,2020-01-21,2020-04-27,1.0,1256.0
+36,Rio Grande do Sul,Testing policy,2020-04-28,2021-03-19,2.0,778836.0
+4,Rio Grande do Sul,Workplace closing,2020-03-17,2020-03-18,1.0,19.0
+5,Rio Grande do Sul,Workplace closing,2020-03-19,2020-03-19,2.0,0.0
+6,Rio Grande do Sul,Workplace closing,2020-03-20,2020-05-18,3.0,3707.0
+7,Rio Grande do Sul,Workplace closing,2020-05-19,2020-09-20,2.0,170979.0
+8,Rio Grande do Sul,Workplace closing,2020-09-21,2020-10-28,3.0,65345.0
+9,Rio Grande do Sul,Workplace closing,2020-10-29,2021-02-22,2.0,363012.0
+10,Rio Grande do Sul,Workplace closing,2021-02-23,2021-03-19,3.0,167995.0

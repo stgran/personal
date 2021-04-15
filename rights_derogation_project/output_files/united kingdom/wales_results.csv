@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+14,Wales,Cancel public events,2020-03-17,2020-03-20,1.0,169.0
+15,Wales,Cancel public events,2020-03-21,2021-03-26,2.0,208678.0
+19,Wales,Close public transport,2020-03-20,2021-03-26,1.0,208753.0
+49,Wales,Contact tracing,2020-01-31,2020-05-31,1.0,14614.0
+50,Wales,Contact tracing,2020-06-01,2020-11-16,2.0,54706.0
+51,Wales,Contact tracing,2020-11-17,2021-03-26,1.0,138711.0
+38,Wales,Debt/contract relief,2020-03-17,2020-03-18,1.0,36.0
+39,Wales,Debt/contract relief,2020-03-19,2021-03-26,2.0,208826.0
+52,Wales,Emergency investment in healthcare,2020-05-22,2020-05-22,365208152.86,0.0
+53,Wales,Emergency investment in healthcare,2020-07-17,2020-07-17,3764384670.0,0.0
+54,Wales,Emergency investment in healthcare,2020-09-14,2020-09-14,4233454500.0,0.0
+55,Wales,Emergency investment in healthcare,2020-11-13,2020-11-13,20684994.54,0.0
+58,Wales,Facial Coverings,2020-06-09,2020-09-13,1.0,4775.0
+59,Wales,Facial Coverings,2020-09-14,2020-09-23,3.0,2480.0
+60,Wales,Facial Coverings,2020-09-25,2021-03-26,3.0,185824.0
+40,Wales,Fiscal measures,2020-07-08,2020-07-08,3523961707.1,0.0
+41,Wales,Fiscal measures,2020-09-12,2020-09-12,128334000.0,0.0
+42,Wales,Fiscal measures,2020-09-28,2020-09-28,186832758.0,0.0
+43,Wales,Fiscal measures,2020-11-05,2020-11-05,2229569777.29,0.0
+44,Wales,Fiscal measures,2020-12-18,2020-12-18,148000000.0,0.0
+36,Wales,Income support,2020-03-19,2020-09-21,2.0,21544.0
+37,Wales,Income support,2020-09-23,2021-03-26,2.0,186525.0
+34,Wales,International travel controls,2020-06-08,2020-12-23,2.0,124265.0
+35,Wales,International travel controls,2020-12-24,2021-03-26,3.0,68295.0
+56,Wales,Investment in vaccines,2020-03-23,2020-03-23,2989616.7,0.0
+57,Wales,Investment in vaccines,2020-03-26,2020-03-26,254591132.11,0.0
+63,Wales,Protection of elderly people,2020-03-23,2020-11-09,3.0,63020.0
+64,Wales,Protection of elderly people,2020-11-10,2020-12-17,2.0,59911.0
+65,Wales,Protection of elderly people,2020-12-18,2021-03-12,3.0,79539.0
+66,Wales,Protection of elderly people,2021-03-13,2021-03-26,2.0,2309.0
+45,Wales,Public information campaigns,2020-01-20,2020-01-30,1.0,0.0
+46,Wales,Public information campaigns,2020-01-31,2021-03-26,2.0,209135.0
+16,Wales,Restrictions on gatherings,2020-03-23,2020-12-24,4.0,140174.0
+17,Wales,Restrictions on gatherings,2020-12-25,2020-12-25,3.0,0.0
+18,Wales,Restrictions on gatherings,2020-12-26,2021-03-26,4.0,65759.0
+29,Wales,Restrictions on internal movement,2020-03-22,2020-03-22,1.0,0.0
+30,Wales,Restrictions on internal movement,2020-03-23,2020-07-05,2.0,16021.0
+31,Wales,Restrictions on internal movement,2020-09-08,2020-12-24,2.0,121694.0
+32,Wales,Restrictions on internal movement,2020-12-25,2020-12-25,1.0,0.0
+33,Wales,Restrictions on internal movement,2020-12-26,2021-03-26,2.0,65759.0
+0,Wales,School closing,2020-03-18,2020-03-19,1.0,60.0
+1,Wales,School closing,2020-03-20,2020-06-28,3.0,16132.0
+2,Wales,School closing,2020-06-29,2020-08-31,2.0,1602.0
+3,Wales,School closing,2020-09-01,2020-11-22,1.0,56448.0
+4,Wales,School closing,2020-11-23,2020-12-13,2.0,36228.0
+5,Wales,School closing,2020-12-14,2021-02-21,3.0,87119.0
+6,Wales,School closing,2021-02-22,2021-03-26,2.0,6218.0
+20,Wales,Stay at home requirements,2020-03-23,2020-06-01,2.0,14012.0
+21,Wales,Stay at home requirements,2020-06-02,2020-08-15,1.0,2849.0
+22,Wales,Stay at home requirements,2020-09-28,2020-10-22,1.0,19081.0
+23,Wales,Stay at home requirements,2020-10-23,2020-11-08,2.0,17940.0
+24,Wales,Stay at home requirements,2020-11-09,2020-12-19,1.0,65581.0
+25,Wales,Stay at home requirements,2020-12-20,2020-12-24,2.0,9365.0
+26,Wales,Stay at home requirements,2020-12-25,2020-12-25,1.0,0.0
+27,Wales,Stay at home requirements,2020-12-26,2021-03-12,2.0,63260.0
+28,Wales,Stay at home requirements,2021-03-13,2021-03-26,1.0,2309.0
+47,Wales,Testing policy,2020-01-20,2020-05-17,1.0,12945.0
+48,Wales,Testing policy,2020-05-18,2021-03-26,2.0,196022.0
+61,Wales,Vaccination policy,2020-12-08,2021-02-10,3.0,100029.0
+62,Wales,Vaccination policy,2021-02-15,2021-03-26,4.0,8562.0
+7,Wales,Workplace closing,2020-03-16,2020-03-20,1.0,206.0
+8,Wales,Workplace closing,2020-03-21,2020-05-10,3.0,11412.0
+9,Wales,Workplace closing,2020-05-11,2020-10-22,2.0,31491.0
+10,Wales,Workplace closing,2020-10-23,2020-11-08,3.0,17940.0
+11,Wales,Workplace closing,2020-11-09,2020-12-19,2.0,65581.0
+12,Wales,Workplace closing,2020-12-20,2021-03-14,3.0,75509.0
+13,Wales,Workplace closing,2021-03-15,2021-03-26,2.0,1955.0

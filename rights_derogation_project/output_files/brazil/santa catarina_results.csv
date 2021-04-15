@@ -1,0 +1,29 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+4,Santa Catarina,Cancel public events,2020-03-13,2020-03-15,1.0,3.0
+5,Santa Catarina,Cancel public events,2020-03-16,2020-12-09,2.0,411624.0
+10,Santa Catarina,Close public transport,2020-03-17,2020-08-31,2.0,177770.0
+11,Santa Catarina,Close public transport,2020-09-01,2020-12-09,1.0,231157.0
+22,Santa Catarina,Contact tracing,2020-04-01,2020-12-09,2.0,411384.0
+18,Santa Catarina,Debt/contract relief,2020-03-17,2020-12-09,1.0,411624.0
+23,Santa Catarina,Facial Coverings,2020-04-06,2020-04-16,1.0,509.0
+24,Santa Catarina,Facial Coverings,2020-04-17,2020-07-02,3.0,27613.0
+25,Santa Catarina,Facial Coverings,2020-07-03,2020-07-05,4.0,2708.0
+26,Santa Catarina,Facial Coverings,2020-07-06,2020-08-16,3.0,87058.0
+27,Santa Catarina,Facial Coverings,2020-08-17,2020-12-09,4.0,289965.0
+14,Santa Catarina,International travel controls,2020-03-13,2020-03-16,2.0,4.0
+15,Santa Catarina,International travel controls,2020-03-17,2020-03-26,3.0,142.0
+16,Santa Catarina,International travel controls,2020-03-27,2020-07-28,4.0,73608.0
+17,Santa Catarina,International travel controls,2020-07-29,2020-12-09,1.0,334630.0
+19,Santa Catarina,Public information campaigns,2020-01-26,2020-12-09,2.0,411631.0
+6,Santa Catarina,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,3.0
+7,Santa Catarina,Restrictions on gatherings,2020-03-16,2020-03-22,3.0,61.0
+8,Santa Catarina,Restrictions on gatherings,2020-03-23,2020-05-31,4.0,8951.0
+9,Santa Catarina,Restrictions on gatherings,2020-06-01,2020-12-09,3.0,402133.0
+13,Santa Catarina,Restrictions on internal movement,2020-03-17,2020-12-09,2.0,411624.0
+0,Santa Catarina,School closing,2020-03-15,2020-12-09,3.0,411625.0
+12,Santa Catarina,Stay at home requirements,2020-03-13,2020-12-09,1.0,411628.0
+20,Santa Catarina,Testing policy,2020-05-06,2020-12-09,2.0,408714.0
+21,Santa Catarina,Testing policy,2021-01-22,2021-03-19,2.0,201859.0
+1,Santa Catarina,Workplace closing,2020-03-16,2020-03-16,2.0,0.0
+2,Santa Catarina,Workplace closing,2020-03-17,2020-05-26,3.0,7009.0
+3,Santa Catarina,Workplace closing,2020-05-27,2020-12-09,2.0,404259.0

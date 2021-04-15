@@ -1,0 +1,52 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Wisconsin,Cancel public events,2020-03-15,2020-03-16,1.0,20.0
+9,Wisconsin,Cancel public events,2020-03-17,2020-05-25,2.0,15511.0
+10,Wisconsin,Cancel public events,2020-05-26,2021-04-06,1.0,624841.0
+14,Wisconsin,Close public transport,2020-03-18,2021-04-06,1.0,640593.0
+35,Wisconsin,Contact tracing,2020-01-21,2020-05-18,1.0,12687.0
+36,Wisconsin,Contact tracing,2020-05-19,2020-11-10,2.0,280927.0
+37,Wisconsin,Contact tracing,2020-11-11,2021-01-26,1.0,282692.0
+38,Wisconsin,Contact tracing,2021-01-27,2021-04-06,2.0,55104.0
+24,Wisconsin,Debt/contract relief,2020-03-13,2020-03-26,1.0,709.0
+25,Wisconsin,Debt/contract relief,2020-03-27,2020-05-26,2.0,14937.0
+26,Wisconsin,Debt/contract relief,2020-05-27,2021-04-06,1.0,624242.0
+39,Wisconsin,Emergency investment in healthcare,2020-04-30,2020-04-30,1000000.0,0.0
+40,Wisconsin,Facial Coverings,2020-04-04,2020-06-08,1.0,19008.0
+41,Wisconsin,Facial Coverings,2020-06-09,2020-07-15,2.0,17419.0
+42,Wisconsin,Facial Coverings,2020-07-16,2021-01-10,3.0,510633.0
+43,Wisconsin,Facial Coverings,2021-01-20,2021-04-06,3.0,67585.0
+27,Wisconsin,Fiscal measures,2020-03-20,2020-03-20,2000000.0,0.0
+28,Wisconsin,Fiscal measures,2020-05-19,2020-05-19,1000000000.0,0.0
+29,Wisconsin,Fiscal measures,2020-05-27,2020-05-27,200000000.0,0.0
+20,Wisconsin,Income support,2020-01-27,2020-01-27,1.0,0.0
+21,Wisconsin,Income support,2020-03-12,2020-03-26,1.0,720.0
+22,Wisconsin,Income support,2020-03-27,2020-07-30,2.0,51182.0
+23,Wisconsin,Income support,2020-07-31,2021-04-06,1.0,587764.0
+18,Wisconsin,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+19,Wisconsin,International travel controls,2020-03-02,2021-04-06,3.0,640704.0
+47,Wisconsin,Protection of elderly people,2020-03-13,2020-03-19,1.0,140.0
+48,Wisconsin,Protection of elderly people,2020-03-20,2020-06-30,2.0,28440.0
+49,Wisconsin,Protection of elderly people,2020-07-01,2021-03-08,1.0,592643.0
+50,Wisconsin,Protection of elderly people,2021-03-10,2021-04-06,1.0,17554.0
+30,Wisconsin,Public information campaigns,2020-01-17,2020-03-15,1.0,28.0
+31,Wisconsin,Public information campaigns,2020-03-16,2021-04-06,2.0,640656.0
+11,Wisconsin,Restrictions on gatherings,2020-03-17,2020-06-14,4.0,22685.0
+12,Wisconsin,Restrictions on gatherings,2020-06-15,2020-06-24,2.0,2831.0
+13,Wisconsin,Restrictions on gatherings,2020-06-25,2021-04-06,4.0,614477.0
+17,Wisconsin,Restrictions on internal movement,2020-03-12,2021-04-06,1.0,640696.0
+0,Wisconsin,School closing,2020-03-13,2020-03-17,1.0,54.0
+1,Wisconsin,School closing,2020-03-18,2020-09-01,3.0,76473.0
+2,Wisconsin,School closing,2020-09-02,2021-04-06,2.0,563575.0
+15,Wisconsin,Stay at home requirements,2020-03-25,2020-05-18,2.0,12066.0
+16,Wisconsin,Stay at home requirements,2020-05-19,2021-04-06,1.0,627819.0
+32,Wisconsin,Testing policy,2020-01-21,2020-04-19,1.0,4346.0
+33,Wisconsin,Testing policy,2020-04-20,2020-05-03,2.0,3465.0
+34,Wisconsin,Testing policy,2020-05-04,2021-04-06,3.0,632468.0
+44,Wisconsin,Vaccination policy,2020-12-15,2021-03-21,2.0,154067.0
+45,Wisconsin,Vaccination policy,2021-03-22,2021-04-04,3.0,9440.0
+46,Wisconsin,Vaccination policy,2021-04-05,2021-04-06,4.0,1151.0
+3,Wisconsin,Workplace closing,2020-03-12,2020-03-16,1.0,40.0
+4,Wisconsin,Workplace closing,2020-03-17,2020-03-24,2.0,408.0
+5,Wisconsin,Workplace closing,2020-03-25,2020-04-28,3.0,5668.0
+6,Wisconsin,Workplace closing,2020-04-29,2020-05-25,2.0,9064.0
+7,Wisconsin,Workplace closing,2020-05-26,2021-04-06,1.0,624841.0

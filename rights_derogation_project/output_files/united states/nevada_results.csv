@@ -1,0 +1,55 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+15,Nevada,Cancel public events,2020-03-15,2020-03-23,1.0,225.0
+16,Nevada,Cancel public events,2020-03-24,2020-09-29,2.0,79317.0
+17,Nevada,Cancel public events,2020-09-30,2021-04-06,1.0,225672.0
+41,Nevada,Contact tracing,2020-01-21,2021-03-28,1.0,303061.0
+32,Nevada,Debt/contract relief,2020-03-27,2020-04-30,1.0,4517.0
+33,Nevada,Debt/contract relief,2020-05-01,2020-06-30,2.0,13208.0
+34,Nevada,Debt/contract relief,2020-07-01,2021-03-28,1.0,283960.0
+42,Nevada,Emergency investment in healthcare,2020-04-01,2020-04-01,6250000.0,0.0
+43,Nevada,Facial Coverings,2020-04-03,2020-05-08,1.0,4406.0
+44,Nevada,Facial Coverings,2020-05-09,2020-06-23,2.0,7826.0
+45,Nevada,Facial Coverings,2020-06-24,2021-01-10,3.0,234207.0
+46,Nevada,Facial Coverings,2021-01-20,2021-03-28,3.0,37918.0
+35,Nevada,Fiscal measures,2020-03-29,2020-03-29,2000000.0,0.0
+28,Nevada,Income support,2020-01-27,2020-01-27,1.0,0.0
+29,Nevada,Income support,2020-03-18,2020-03-26,1.0,365.0
+30,Nevada,Income support,2020-03-27,2020-07-30,2.0,46288.0
+31,Nevada,Income support,2020-07-31,2021-03-28,1.0,254973.0
+26,Nevada,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+27,Nevada,International travel controls,2020-03-02,2021-03-28,3.0,303061.0
+50,Nevada,Protection of elderly people,2020-03-13,2020-03-30,1.0,994.0
+51,Nevada,Protection of elderly people,2020-03-31,2021-03-08,2.0,295279.0
+52,Nevada,Protection of elderly people,2021-03-10,2021-03-21,2.0,4031.0
+53,Nevada,Protection of elderly people,2021-03-28,2021-03-28,2.0,0.0
+36,Nevada,Public information campaigns,2020-02-28,2020-03-03,1.0,0.0
+37,Nevada,Public information campaigns,2020-03-04,2021-03-28,2.0,303061.0
+18,Nevada,Restrictions on gatherings,2020-03-24,2020-05-28,4.0,7970.0
+19,Nevada,Restrictions on gatherings,2020-05-29,2020-09-29,3.0,71219.0
+20,Nevada,Restrictions on gatherings,2020-09-30,2020-11-23,2.0,56247.0
+21,Nevada,Restrictions on gatherings,2020-11-24,2021-03-28,4.0,163963.0
+25,Nevada,Restrictions on internal movement,2020-03-16,2021-03-28,1.0,303016.0
+0,Nevada,School closing,2020-03-13,2020-03-15,1.0,2.0
+1,Nevada,School closing,2020-03-16,2020-03-17,2.0,10.0
+2,Nevada,School closing,2020-03-18,2020-06-30,3.0,18401.0
+3,Nevada,School closing,2020-07-01,2021-04-05,2.0,286256.0
+4,Nevada,School closing,2021-04-06,2021-04-06,1.0,0.0
+22,Nevada,Stay at home requirements,2020-03-20,2020-03-31,1.0,953.0
+23,Nevada,Stay at home requirements,2020-04-01,2020-05-08,2.0,4641.0
+24,Nevada,Stay at home requirements,2020-05-09,2021-03-28,1.0,296890.0
+38,Nevada,Testing policy,2020-01-21,2020-05-31,1.0,8628.0
+39,Nevada,Testing policy,2020-06-01,2020-11-23,2.0,127525.0
+40,Nevada,Testing policy,2020-11-24,2021-03-28,3.0,163963.0
+47,Nevada,Vaccination policy,2020-12-15,2021-01-13,1.0,62253.0
+48,Nevada,Vaccination policy,2021-01-14,2021-03-08,2.0,40221.0
+49,Nevada,Vaccination policy,2021-03-09,2021-03-27,3.0,6096.0
+5,Nevada,Workplace closing,2020-03-12,2020-03-16,1.0,35.0
+6,Nevada,Workplace closing,2020-03-17,2020-03-19,2.0,40.0
+7,Nevada,Workplace closing,2020-03-20,2020-04-27,3.0,4539.0
+8,Nevada,Workplace closing,2020-04-28,2020-06-03,2.0,4130.0
+9,Nevada,Workplace closing,2020-06-04,2020-07-09,1.0,15775.0
+10,Nevada,Workplace closing,2020-07-10,2020-09-16,2.0,48340.0
+11,Nevada,Workplace closing,2020-09-17,2020-11-23,1.0,61632.0
+12,Nevada,Workplace closing,2020-11-24,2020-12-27,2.0,78411.0
+13,Nevada,Workplace closing,2020-12-28,2021-02-21,1.0,72595.0
+14,Nevada,Workplace closing,2021-02-22,2021-04-06,2.0,14507.0

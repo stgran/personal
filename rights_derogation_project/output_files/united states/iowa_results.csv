@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Iowa,Cancel public events,2020-03-15,2020-03-16,1.0,5.0
+13,Iowa,Cancel public events,2020-03-17,2020-05-31,2.0,19529.0
+14,Iowa,Cancel public events,2020-06-01,2021-04-05,1.0,334130.0
+17,Iowa,Close public transport,2020-04-06,2020-08-22,1.0,55050.0
+34,Iowa,Contact tracing,2020-01-21,2020-04-20,1.0,3159.0
+35,Iowa,Contact tracing,2020-04-21,2020-08-25,2.0,53965.0
+36,Iowa,Contact tracing,2020-08-26,2021-04-05,1.0,295022.0
+25,Iowa,Debt/contract relief,2020-03-19,2020-03-21,1.0,25.0
+26,Iowa,Debt/contract relief,2020-03-22,2020-05-27,2.0,18279.0
+27,Iowa,Debt/contract relief,2020-05-28,2020-05-28,1.0,0.0
+28,Iowa,Debt/contract relief,2020-05-29,2020-12-04,2.0,222574.0
+29,Iowa,Debt/contract relief,2020-12-05,2021-04-05,1.0,110444.0
+37,Iowa,Facial Coverings,2020-04-04,2020-07-12,1.0,34623.0
+38,Iowa,Facial Coverings,2020-07-13,2020-07-20,2.0,3712.0
+39,Iowa,Facial Coverings,2020-07-21,2021-01-10,3.0,256961.0
+40,Iowa,Facial Coverings,2021-01-20,2021-03-16,3.0,35064.0
+41,Iowa,Facial Coverings,2021-03-17,2021-04-05,2.0,9562.0
+22,Iowa,Income support,2020-01-27,2020-01-27,1.0,0.0
+23,Iowa,Income support,2020-03-27,2021-03-09,2.0,340656.0
+24,Iowa,Income support,2021-03-10,2021-04-05,1.0,12451.0
+20,Iowa,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+21,Iowa,International travel controls,2020-03-02,2021-04-05,3.0,353829.0
+44,Iowa,Protection of elderly people,2020-03-12,2021-03-08,2.0,340114.0
+45,Iowa,Protection of elderly people,2021-03-10,2021-03-16,2.0,2473.0
+46,Iowa,Protection of elderly people,2021-03-17,2021-04-05,1.0,9562.0
+30,Iowa,Public information campaigns,2020-03-03,2020-03-15,1.0,18.0
+31,Iowa,Public information campaigns,2020-03-16,2021-04-05,2.0,353806.0
+15,Iowa,Restrictions on gatherings,2020-03-17,2020-05-31,4.0,19529.0
+16,Iowa,Restrictions on gatherings,2020-11-11,2020-12-16,3.0,92321.0
+19,Iowa,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,353806.0
+0,Iowa,School closing,2020-03-13,2020-04-01,1.0,530.0
+1,Iowa,School closing,2020-04-02,2020-08-23,3.0,55832.0
+2,Iowa,School closing,2020-08-24,2020-11-09,2.0,103001.0
+3,Iowa,School closing,2020-11-10,2020-11-10,1.0,0.0
+4,Iowa,School closing,2020-11-11,2021-01-10,2.0,128229.0
+5,Iowa,School closing,2021-01-11,2021-01-24,3.0,15363.0
+6,Iowa,School closing,2021-01-25,2021-04-05,2.0,39920.0
+18,Iowa,Stay at home requirements,2020-03-21,2021-04-01,1.0,352068.0
+32,Iowa,Testing policy,2020-01-21,2020-04-20,1.0,3159.0
+33,Iowa,Testing policy,2020-04-21,2021-04-05,2.0,350188.0
+42,Iowa,Vaccination policy,2020-12-14,2020-12-27,1.0,17988.0
+43,Iowa,Vaccination policy,2020-12-28,2021-04-05,2.0,77180.0
+7,Iowa,Workplace closing,2020-03-12,2020-03-16,1.0,9.0
+8,Iowa,Workplace closing,2020-03-17,2020-06-11,2.0,22950.0
+9,Iowa,Workplace closing,2020-06-12,2020-08-26,1.0,35457.0
+10,Iowa,Workplace closing,2020-08-27,2020-10-04,2.0,31256.0
+11,Iowa,Workplace closing,2020-10-05,2021-04-05,1.0,260569.0

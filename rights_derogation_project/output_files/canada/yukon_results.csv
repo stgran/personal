@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Yukon,Cancel public events,2020-01-01,2020-03-21,1.0,0.0
+6,Yukon,Cancel public events,2020-03-22,2020-07-31,2.0,14.0
+7,Yukon,Cancel public events,2020-08-01,2021-04-08,1.0,60.0
+11,Yukon,Close public transport,2020-03-26,2021-02-04,1.0,67.0
+37,Yukon,Contact tracing,2020-03-22,2021-04-08,2.0,74.0
+15,Yukon,Debt/contract relief,2020-03-26,2021-04-08,1.0,71.0
+38,Yukon,Emergency investment in healthcare,2021-03-08,2021-03-08,2462576.24,0.0
+39,Yukon,Facial Coverings,2020-04-20,2020-11-30,2.0,36.0
+40,Yukon,Facial Coverings,2020-12-01,2021-04-08,3.0,27.0
+16,Yukon,Fiscal measures,2020-03-27,2020-03-27,906592.89,0.0
+17,Yukon,Fiscal measures,2020-04-09,2020-04-09,15522446.21,0.0
+18,Yukon,Fiscal measures,2020-05-04,2020-05-04,2526974.25,0.0
+19,Yukon,Fiscal measures,2020-05-22,2020-05-22,534821.18,0.0
+20,Yukon,Fiscal measures,2020-06-18,2020-06-18,1201545.87,0.0
+21,Yukon,Fiscal measures,2020-07-10,2020-07-10,949061.79,0.0
+22,Yukon,Fiscal measures,2020-08-24,2020-08-24,1844857.72,0.0
+23,Yukon,Fiscal measures,2020-09-23,2020-09-23,56092.43,0.0
+24,Yukon,Fiscal measures,2020-10-19,2020-10-19,2189357.27,0.0
+25,Yukon,Fiscal measures,2020-10-30,2020-10-30,1404497.95,0.0
+26,Yukon,Fiscal measures,2020-11-09,2020-11-09,5470890.88,0.0
+27,Yukon,Fiscal measures,2020-11-10,2020-11-10,23076.84,0.0
+28,Yukon,Fiscal measures,2020-11-24,2020-11-24,921075.85,0.0
+29,Yukon,Fiscal measures,2020-11-30,2020-11-30,1001635.19,0.0
+30,Yukon,Fiscal measures,2020-12-14,2020-12-14,11730788.72,0.0
+31,Yukon,Fiscal measures,2021-01-22,2021-01-22,117979.91,0.0
+32,Yukon,Fiscal measures,2021-03-10,2021-03-10,1423600.62,0.0
+13,Yukon,Income support,2020-03-15,2020-12-01,2.0,47.0
+14,Yukon,Income support,2020-12-02,2021-04-08,1.0,25.0
+44,Yukon,Protection of elderly people,2020-03-16,2020-06-11,3.0,11.0
+45,Yukon,Protection of elderly people,2020-06-12,2021-04-08,2.0,63.0
+33,Yukon,Public information campaigns,2020-01-20,2020-03-06,1.0,0.0
+34,Yukon,Public information campaigns,2020-03-07,2021-04-08,2.0,74.0
+8,Yukon,Restrictions on gatherings,2020-03-16,2020-03-21,3.0,0.0
+9,Yukon,Restrictions on gatherings,2020-03-22,2020-06-30,4.0,11.0
+10,Yukon,Restrictions on gatherings,2020-07-01,2021-04-08,3.0,63.0
+12,Yukon,Restrictions on internal movement,2020-03-22,2021-04-08,2.0,74.0
+0,Yukon,School closing,2020-03-18,2020-08-19,3.0,15.0
+1,Yukon,School closing,2020-08-20,2021-04-08,1.0,59.0
+35,Yukon,Testing policy,2020-03-12,2020-03-24,1.0,2.0
+36,Yukon,Testing policy,2020-03-25,2021-03-29,2.0,70.0
+41,Yukon,Vaccination policy,2021-01-04,2021-02-09,2.0,5.0
+42,Yukon,Vaccination policy,2021-02-10,2021-02-17,5.0,2.0
+43,Yukon,Vaccination policy,2021-02-23,2021-04-08,5.0,2.0
+2,Yukon,Workplace closing,2020-03-16,2020-03-17,1.0,0.0
+3,Yukon,Workplace closing,2020-03-18,2020-06-30,2.0,11.0
+4,Yukon,Workplace closing,2020-07-01,2021-04-08,1.0,63.0

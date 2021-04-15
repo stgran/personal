@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Finland,Cancel public events,2020-03-12,2020-06-14,2.0,7045.0
+8,Finland,Cancel public events,2020-06-15,2020-07-08,1.0,157.0
+9,Finland,Cancel public events,2020-07-09,2020-07-16,2.0,20.0
+10,Finland,Cancel public events,2020-07-17,2020-11-22,1.0,14338.0
+11,Finland,Cancel public events,2020-11-23,2021-04-09,2.0,59325.0
+36,Finland,Contact tracing,2020-02-28,2021-04-09,1.0,81259.0
+26,Finland,Debt/contract relief,2020-06-05,2021-04-09,1.0,74320.0
+37,Finland,Emergency investment in healthcare,2020-07-09,2020-07-09,112986734.87,0.0
+39,Finland,Facial Coverings,2020-08-13,2021-03-12,1.0,57632.0
+40,Finland,Facial Coverings,2021-03-13,2021-04-09,2.0,15255.0
+27,Finland,Fiscal measures,2020-03-19,2020-03-19,536507.0,0.0
+28,Finland,Fiscal measures,2020-06-05,2020-06-05,346000000.0,0.0
+29,Finland,Fiscal measures,2020-06-11,2020-06-11,95000000.0,0.0
+30,Finland,Fiscal measures,2020-09-03,2020-09-03,70830360.0,0.0
+25,Finland,Income support,2020-03-16,2021-04-09,2.0,80984.0
+31,Finland,International support,2020-04-16,2020-04-16,6011700.0,0.0
+22,Finland,International travel controls,2020-02-06,2020-03-15,3.0,243.0
+23,Finland,International travel controls,2020-03-16,2020-05-13,4.0,5777.0
+24,Finland,International travel controls,2020-05-14,2021-04-09,3.0,75116.0
+38,Finland,Investment in vaccines,2020-03-12,2020-03-12,5543828.0,0.0
+44,Finland,Protection of elderly people,2020-03-16,2020-03-16,1.0,0.0
+45,Finland,Protection of elderly people,2020-03-17,2020-06-24,3.0,6846.0
+46,Finland,Protection of elderly people,2020-06-25,2021-04-09,2.0,74089.0
+32,Finland,Public information campaigns,2020-01-27,2020-02-26,1.0,2.0
+33,Finland,Public information campaigns,2020-02-27,2021-04-09,2.0,81259.0
+12,Finland,Restrictions on gatherings,2020-03-12,2020-03-15,1.0,185.0
+13,Finland,Restrictions on gatherings,2020-03-16,2020-04-13,4.0,2787.0
+14,Finland,Restrictions on gatherings,2020-04-14,2020-08-13,1.0,4522.0
+15,Finland,Restrictions on gatherings,2020-10-11,2020-11-29,3.0,12631.0
+16,Finland,Restrictions on gatherings,2020-11-30,2021-04-09,4.0,56349.0
+19,Finland,Restrictions on internal movement,2020-03-16,2020-03-26,1.0,681.0
+20,Finland,Restrictions on internal movement,2020-03-27,2020-04-19,2.0,2742.0
+21,Finland,Restrictions on internal movement,2020-04-20,2020-05-28,1.0,2875.0
+0,Finland,School closing,2020-03-18,2020-05-13,2.0,5718.0
+1,Finland,School closing,2020-05-14,2020-12-02,1.0,19737.0
+2,Finland,School closing,2020-12-03,2021-04-09,2.0,54839.0
+17,Finland,Stay at home requirements,2020-03-16,2020-05-31,1.0,6582.0
+18,Finland,Stay at home requirements,2020-12-07,2021-04-09,1.0,53380.0
+34,Finland,Testing policy,2020-02-26,2020-07-08,1.0,7263.0
+35,Finland,Testing policy,2020-07-09,2021-04-09,2.0,73988.0
+41,Finland,Vaccination policy,2020-12-27,2021-01-04,1.0,1942.0
+42,Finland,Vaccination policy,2021-01-05,2021-02-28,2.0,20454.0
+43,Finland,Vaccination policy,2021-03-01,2021-04-09,3.0,23197.0
+3,Finland,Workplace closing,2020-03-12,2020-04-13,1.0,3005.0
+4,Finland,Workplace closing,2020-04-14,2020-06-14,2.0,3943.0
+5,Finland,Workplace closing,2020-06-15,2020-11-29,1.0,17521.0
+6,Finland,Workplace closing,2020-11-30,2021-04-09,2.0,56349.0

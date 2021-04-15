@@ -1,0 +1,45 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Mozambique,Cancel public events,2020-03-19,2020-03-22,1.0,1.0
+11,Mozambique,Cancel public events,2020-03-23,2020-07-28,2.0,1719.0
+12,Mozambique,Cancel public events,2020-07-29,2020-08-06,1.0,372.0
+13,Mozambique,Cancel public events,2020-08-07,2021-04-05,2.0,66014.0
+16,Mozambique,Close public transport,2020-04-01,2020-05-28,1.0,223.0
+17,Mozambique,Close public transport,2020-10-22,2021-04-05,1.0,56668.0
+35,Mozambique,Contact tracing,2020-03-22,2021-04-05,2.0,68226.0
+36,Mozambique,Emergency investment in healthcare,2020-03-24,2020-03-24,19500000.0,0.0
+37,Mozambique,Emergency investment in healthcare,2020-04-12,2020-04-12,3300000.0,0.0
+38,Mozambique,Facial Coverings,2020-05-05,2021-04-05,3.0,68146.0
+30,Mozambique,Fiscal measures,2020-03-22,2020-03-22,500000000.0,0.0
+31,Mozambique,Fiscal measures,2020-08-03,2020-08-03,49593361.65,0.0
+23,Mozambique,International travel controls,2020-02-11,2020-03-19,1.0,0.0
+24,Mozambique,International travel controls,2020-03-20,2020-05-28,2.0,233.0
+25,Mozambique,International travel controls,2020-05-29,2020-08-20,4.0,2881.0
+26,Mozambique,International travel controls,2020-08-21,2020-10-21,2.0,8136.0
+27,Mozambique,International travel controls,2020-10-22,2020-10-28,3.0,856.0
+28,Mozambique,International travel controls,2020-10-29,2020-12-11,2.0,4155.0
+29,Mozambique,International travel controls,2020-12-12,2021-04-05,1.0,51415.0
+40,Mozambique,Protection of elderly people,2020-04-01,2020-05-28,1.0,223.0
+41,Mozambique,Protection of elderly people,2020-05-29,2020-07-29,2.0,1514.0
+42,Mozambique,Protection of elderly people,2020-07-30,2020-12-07,1.0,14518.0
+43,Mozambique,Protection of elderly people,2021-03-22,2021-04-05,3.0,1921.0
+32,Mozambique,Public information campaigns,2020-02-11,2020-03-21,1.0,0.0
+33,Mozambique,Public information campaigns,2020-03-22,2021-04-05,2.0,68226.0
+14,Mozambique,Restrictions on gatherings,2020-03-23,2020-07-28,3.0,1719.0
+15,Mozambique,Restrictions on gatherings,2020-08-07,2021-04-05,3.0,66014.0
+20,Mozambique,Restrictions on internal movement,2020-06-17,2020-07-28,2.0,1069.0
+21,Mozambique,Restrictions on internal movement,2020-07-29,2020-08-06,1.0,372.0
+22,Mozambique,Restrictions on internal movement,2020-08-07,2020-10-21,2.0,9118.0
+0,Mozambique,School closing,2020-03-23,2020-08-17,3.0,2913.0
+1,Mozambique,School closing,2020-08-18,2021-02-10,2.0,43745.0
+2,Mozambique,School closing,2021-02-11,2021-03-06,3.0,14341.0
+3,Mozambique,School closing,2021-03-07,2021-04-05,1.0,5707.0
+18,Mozambique,Stay at home requirements,2020-04-01,2020-10-28,1.0,12405.0
+19,Mozambique,Stay at home requirements,2021-01-15,2021-04-05,3.0,43223.0
+34,Mozambique,Testing policy,2020-03-20,2021-04-05,1.0,68227.0
+39,Mozambique,Vaccination policy,2021-03-07,2021-04-05,3.0,5707.0
+4,Mozambique,Workplace closing,2020-06-17,2020-07-28,2.0,1069.0
+5,Mozambique,Workplace closing,2020-07-29,2020-08-06,1.0,372.0
+6,Mozambique,Workplace closing,2020-08-07,2020-08-31,2.0,1703.0
+7,Mozambique,Workplace closing,2020-09-01,2020-10-21,1.0,7292.0
+8,Mozambique,Workplace closing,2020-10-22,2020-12-18,2.0,5779.0
+9,Mozambique,Workplace closing,2020-12-19,2021-04-05,1.0,50750.0

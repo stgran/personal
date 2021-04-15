@@ -1,0 +1,30 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Djibouti,Cancel public events,2020-03-23,2020-11-21,2.0,5658.0
+8,Djibouti,Cancel public events,2020-11-22,2021-04-05,1.0,3028.0
+10,Djibouti,Close public transport,2020-03-22,2020-05-16,1.0,1330.0
+22,Djibouti,Contact tracing,2020-03-18,2021-04-05,2.0,8695.0
+23,Djibouti,Emergency investment in healthcare,2020-04-02,2020-04-02,5000000.0,0.0
+24,Djibouti,Emergency investment in healthcare,2020-12-21,2020-12-21,50000.0,0.0
+25,Djibouti,Facial Coverings,2020-05-10,2020-10-19,3.0,4259.0
+26,Djibouti,Facial Coverings,2020-10-20,2021-03-21,2.0,1089.0
+27,Djibouti,Facial Coverings,2021-03-22,2021-04-05,3.0,2038.0
+16,Djibouti,Fiscal measures,2020-03-31,2020-03-31,5650000.0,0.0
+15,Djibouti,Income support,2020-04-29,2021-04-05,1.0,7619.0
+13,Djibouti,International travel controls,2020-03-18,2020-07-16,4.0,4992.0
+14,Djibouti,International travel controls,2020-07-17,2021-04-05,1.0,3693.0
+17,Djibouti,Public information campaigns,2020-03-18,2021-04-05,2.0,8695.0
+9,Djibouti,Restrictions on gatherings,2020-03-23,2021-04-05,4.0,8693.0
+12,Djibouti,Restrictions on internal movement,2020-03-23,2020-05-16,2.0,1328.0
+0,Djibouti,School closing,2020-03-19,2020-05-16,3.0,1330.0
+1,Djibouti,School closing,2020-05-17,2020-09-29,2.0,4015.0
+2,Djibouti,School closing,2020-09-30,2021-03-21,1.0,1172.0
+11,Djibouti,Stay at home requirements,2020-03-23,2020-05-16,3.0,1328.0
+18,Djibouti,Testing policy,2020-03-18,2020-04-30,2.0,1088.0
+19,Djibouti,Testing policy,2020-05-01,2020-08-05,3.0,4233.0
+20,Djibouti,Testing policy,2020-08-06,2020-12-21,2.0,453.0
+21,Djibouti,Testing policy,2020-12-22,2021-04-05,1.0,2910.0
+28,Djibouti,Vaccination policy,2021-03-06,2021-04-05,2.0,2562.0
+3,Djibouti,Workplace closing,2020-03-22,2020-03-22,2.0,0.0
+4,Djibouti,Workplace closing,2020-03-23,2020-05-16,3.0,1328.0
+5,Djibouti,Workplace closing,2020-05-17,2020-10-19,2.0,4068.0
+6,Djibouti,Workplace closing,2020-10-20,2021-04-05,1.0,3197.0

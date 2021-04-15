@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Mato Grosso do Sul,Cancel public events,2020-03-13,2020-03-15,1.0,2.0
+10,Mato Grosso do Sul,Cancel public events,2020-03-16,2020-12-21,2.0,123525.0
+11,Mato Grosso do Sul,Cancel public events,2020-12-22,2021-02-11,1.0,44127.0
+12,Mato Grosso do Sul,Cancel public events,2021-02-12,2021-02-17,2.0,3109.0
+13,Mato Grosso do Sul,Cancel public events,2021-02-18,2021-03-06,1.0,13509.0
+19,Mato Grosso do Sul,Close public transport,2020-03-20,2020-03-20,1.0,0.0
+20,Mato Grosso do Sul,Close public transport,2020-03-21,2020-04-02,2.0,37.0
+21,Mato Grosso do Sul,Close public transport,2020-04-03,2020-07-17,1.0,15946.0
+22,Mato Grosso do Sul,Close public transport,2020-07-18,2020-07-19,2.0,234.0
+23,Mato Grosso do Sul,Close public transport,2020-07-20,2020-07-24,1.0,3629.0
+24,Mato Grosso do Sul,Close public transport,2020-07-25,2020-07-26,2.0,288.0
+25,Mato Grosso do Sul,Close public transport,2020-07-27,2021-03-06,1.0,165172.0
+38,Mato Grosso do Sul,Contact tracing,2020-04-01,2021-03-05,2.0,187022.0
+34,Mato Grosso do Sul,Debt/contract relief,2020-03-17,2020-12-26,1.0,129255.0
+39,Mato Grosso do Sul,Facial Coverings,2020-03-22,2020-06-14,2.0,3530.0
+40,Mato Grosso do Sul,Facial Coverings,2020-06-15,2020-07-02,3.0,5603.0
+41,Mato Grosso do Sul,Facial Coverings,2020-07-03,2020-07-05,4.0,343.0
+42,Mato Grosso do Sul,Facial Coverings,2020-07-06,2020-08-18,3.0,28694.0
+43,Mato Grosso do Sul,Facial Coverings,2020-08-19,2021-01-11,4.0,104847.0
+30,Mato Grosso do Sul,International travel controls,2020-03-13,2020-03-17,2.0,6.0
+31,Mato Grosso do Sul,International travel controls,2020-03-18,2020-03-26,3.0,18.0
+32,Mato Grosso do Sul,International travel controls,2020-03-27,2020-07-28,4.0,23383.0
+33,Mato Grosso do Sul,International travel controls,2020-07-29,2021-03-05,1.0,162786.0
+44,Mato Grosso do Sul,Protection of elderly people,2020-03-16,2021-01-05,2.0,139148.0
+45,Mato Grosso do Sul,Protection of elderly people,2021-01-07,2021-03-05,2.0,45424.0
+35,Mato Grosso do Sul,Public information campaigns,2020-01-26,2021-03-05,2.0,187073.0
+14,Mato Grosso do Sul,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,2.0
+15,Mato Grosso do Sul,Restrictions on gatherings,2020-03-16,2020-04-02,3.0,49.0
+16,Mato Grosso do Sul,Restrictions on gatherings,2020-04-03,2020-12-21,4.0,123469.0
+17,Mato Grosso do Sul,Restrictions on gatherings,2020-12-22,2021-02-10,3.0,43427.0
+18,Mato Grosso do Sul,Restrictions on gatherings,2021-02-11,2021-03-06,2.0,18307.0
+27,Mato Grosso do Sul,Restrictions on internal movement,2020-03-18,2020-03-23,1.0,14.0
+28,Mato Grosso do Sul,Restrictions on internal movement,2020-03-24,2020-06-12,2.0,3211.0
+29,Mato Grosso do Sul,Restrictions on internal movement,2020-06-13,2020-09-30,1.0,66806.0
+0,Mato Grosso do Sul,School closing,2020-03-18,2020-09-20,3.0,64026.0
+1,Mato Grosso do Sul,School closing,2020-09-21,2021-03-05,2.0,122114.0
+26,Mato Grosso do Sul,Stay at home requirements,2020-03-21,2021-03-06,2.0,187599.0
+36,Mato Grosso do Sul,Testing policy,2020-03-09,2020-04-09,1.0,89.0
+37,Mato Grosso do Sul,Testing policy,2020-04-10,2021-03-05,2.0,186976.0
+2,Mato Grosso do Sul,Workplace closing,2020-03-16,2020-03-22,2.0,17.0
+3,Mato Grosso do Sul,Workplace closing,2020-03-23,2020-04-06,3.0,45.0
+4,Mato Grosso do Sul,Workplace closing,2020-04-07,2020-07-17,2.0,15926.0
+5,Mato Grosso do Sul,Workplace closing,2020-07-18,2020-07-19,3.0,234.0
+6,Mato Grosso do Sul,Workplace closing,2020-07-20,2020-07-24,2.0,3629.0
+7,Mato Grosso do Sul,Workplace closing,2020-07-25,2020-07-26,3.0,288.0
+8,Mato Grosso do Sul,Workplace closing,2020-07-27,2021-03-05,2.0,164630.0

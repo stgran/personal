@@ -1,0 +1,57 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Indonesia,Cancel public events,2020-03-03,2020-10-11,2.0,333447.0
+11,Indonesia,Cancel public events,2020-10-12,2020-11-18,1.0,142004.0
+12,Indonesia,Cancel public events,2020-11-19,2021-04-08,2.0,1069362.0
+14,Indonesia,Close public transport,2020-03-16,2020-03-16,1.0,0.0
+15,Indonesia,Close public transport,2020-03-23,2020-05-19,1.0,17917.0
+16,Indonesia,Close public transport,2020-09-14,2021-04-08,1.0,1331357.0
+47,Indonesia,Contact tracing,2020-03-15,2021-02-22,1.0,1288716.0
+48,Indonesia,Contact tracing,2021-02-23,2021-04-08,2.0,254272.0
+37,Indonesia,Debt/contract relief,2020-04-01,2021-04-08,1.0,1551203.0
+49,Indonesia,Emergency investment in healthcare,2020-07-01,2020-07-01,28600000.0,0.0
+51,Indonesia,Facial Coverings,2020-04-05,2020-04-05,1.0,0.0
+52,Indonesia,Facial Coverings,2020-04-06,2021-04-08,4.0,1550389.0
+38,Indonesia,Fiscal measures,2020-04-01,2020-04-01,24650000000.0,0.0
+39,Indonesia,Fiscal measures,2020-05-28,2020-05-28,43000000000.0,0.0
+40,Indonesia,Fiscal measures,2020-06-03,2020-06-03,2538941981.13,0.0
+41,Indonesia,Fiscal measures,2020-07-16,2020-07-16,341538775.0,0.0
+42,Indonesia,Fiscal measures,2020-09-24,2020-09-24,482841497.0,0.0
+36,Indonesia,Income support,2020-09-04,2021-04-08,1.0,1365343.0
+28,Indonesia,International travel controls,2020-01-18,2020-02-04,1.0,0.0
+29,Indonesia,International travel controls,2020-02-05,2020-03-18,3.0,227.0
+30,Indonesia,International travel controls,2020-03-19,2020-06-22,4.0,46534.0
+31,Indonesia,International travel controls,2020-06-23,2020-07-10,1.0,24451.0
+32,Indonesia,International travel controls,2020-07-11,2020-08-10,4.0,53065.0
+33,Indonesia,International travel controls,2020-08-11,2020-12-06,3.0,447020.0
+34,Indonesia,International travel controls,2020-12-07,2020-12-20,1.0,83380.0
+35,Indonesia,International travel controls,2020-12-21,2021-04-08,3.0,881102.0
+50,Indonesia,Investment in vaccines,2020-05-27,2020-05-27,338558.0,0.0
+54,Indonesia,Protection of elderly people,2020-04-10,2020-10-11,2.0,329937.0
+55,Indonesia,Protection of elderly people,2020-10-12,2021-04-08,1.0,1216164.0
+43,Indonesia,Public information campaigns,2020-01-03,2020-01-28,1.0,0.0
+44,Indonesia,Public information campaigns,2020-01-29,2021-04-08,2.0,1552880.0
+13,Indonesia,Restrictions on gatherings,2020-04-07,2021-04-08,4.0,1550142.0
+20,Indonesia,Restrictions on internal movement,2020-03-29,2020-04-23,1.0,6490.0
+21,Indonesia,Restrictions on internal movement,2020-04-24,2020-05-02,2.0,2632.0
+22,Indonesia,Restrictions on internal movement,2020-05-03,2020-09-13,1.0,207190.0
+23,Indonesia,Restrictions on internal movement,2020-09-14,2020-10-11,2.0,111926.0
+24,Indonesia,Restrictions on internal movement,2020-10-12,2020-11-18,1.0,142004.0
+25,Indonesia,Restrictions on internal movement,2020-11-19,2021-01-30,2.0,582795.0
+26,Indonesia,Restrictions on internal movement,2021-01-31,2021-02-07,1.0,79523.0
+27,Indonesia,Restrictions on internal movement,2021-02-08,2021-04-08,2.0,386801.0
+0,Indonesia,School closing,2020-02-03,2020-06-29,3.0,55092.0
+1,Indonesia,School closing,2020-06-30,2020-09-22,2.0,196538.0
+2,Indonesia,School closing,2020-09-23,2020-10-11,3.0,76061.0
+3,Indonesia,School closing,2020-10-12,2021-02-28,2.0,997918.0
+4,Indonesia,School closing,2021-03-01,2021-04-08,3.0,211566.0
+17,Indonesia,Stay at home requirements,2020-04-10,2020-10-11,2.0,329937.0
+18,Indonesia,Stay at home requirements,2020-10-12,2021-01-30,1.0,729597.0
+19,Indonesia,Stay at home requirements,2021-01-31,2021-04-08,2.0,474566.0
+45,Indonesia,Testing policy,2020-02-17,2021-02-07,1.0,1157837.0
+46,Indonesia,Testing policy,2021-02-08,2021-04-08,3.0,386801.0
+53,Indonesia,Vaccination policy,2021-01-12,2021-04-08,2.0,706115.0
+5,Indonesia,Workplace closing,2020-03-15,2020-04-09,1.0,3176.0
+6,Indonesia,Workplace closing,2020-04-10,2020-06-07,3.0,27674.0
+7,Indonesia,Workplace closing,2020-06-08,2020-09-13,2.0,186349.0
+8,Indonesia,Workplace closing,2020-09-14,2020-10-11,3.0,111926.0
+9,Indonesia,Workplace closing,2020-10-12,2021-04-08,2.0,1216164.0

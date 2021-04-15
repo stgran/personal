@@ -1,0 +1,82 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Peru,Cancel public events,2020-03-12,2020-12-09,2.0,976606.0
+9,Peru,Cancel public events,2020-12-10,2020-12-20,1.0,16788.0
+10,Peru,Cancel public events,2020-12-21,2021-04-05,2.0,592692.0
+15,Peru,Close public transport,2020-03-15,2020-04-30,1.0,36933.0
+16,Peru,Close public transport,2020-05-01,2020-06-30,2.0,244754.0
+17,Peru,Close public transport,2020-07-01,2020-07-23,1.0,82619.0
+18,Peru,Close public transport,2020-07-24,2020-10-26,2.0,512754.0
+19,Peru,Close public transport,2020-10-27,2020-12-09,1.0,86047.0
+20,Peru,Close public transport,2020-12-10,2020-12-20,2.0,16788.0
+21,Peru,Close public transport,2021-01-27,2021-02-05,1.0,57813.0
+22,Peru,Close public transport,2021-02-06,2021-04-05,2.0,417164.0
+57,Peru,Contact tracing,2020-03-06,2020-06-08,1.0,199695.0
+58,Peru,Contact tracing,2020-06-09,2021-04-05,2.0,1386473.0
+40,Peru,Debt/contract relief,2020-03-18,2020-11-16,2.0,936866.0
+41,Peru,Debt/contract relief,2020-11-17,2021-04-05,1.0,651941.0
+59,Peru,Emergency investment in healthcare,2020-03-11,2020-03-11,75498575.0,0.0
+60,Peru,Emergency investment in healthcare,2020-03-13,2020-03-13,9348442.0,0.0
+61,Peru,Emergency investment in healthcare,2020-03-15,2020-03-15,89706310.0,0.0
+62,Peru,Emergency investment in healthcare,2020-03-16,2020-03-16,34209974.0,0.0
+63,Peru,Emergency investment in healthcare,2020-03-19,2020-03-19,35465074.0,0.0
+64,Peru,Emergency investment in healthcare,2020-03-20,2020-03-20,8068568.0,0.0
+65,Peru,Emergency investment in healthcare,2020-03-23,2020-03-23,16408371.0,0.0
+66,Peru,Emergency investment in healthcare,2020-03-25,2020-03-25,38562996.0,0.0
+67,Peru,Emergency investment in healthcare,2020-04-04,2020-04-04,4240092.0,0.0
+68,Peru,Emergency investment in healthcare,2020-06-11,2020-06-11,170700000.0,0.0
+69,Peru,Emergency investment in healthcare,2020-08-16,2020-08-16,5466828.0,0.0
+70,Peru,Facial Coverings,2020-04-02,2020-10-07,3.0,831515.0
+71,Peru,Facial Coverings,2020-10-09,2021-01-31,3.0,299625.0
+72,Peru,Facial Coverings,2021-02-06,2021-02-22,3.0,110264.0
+73,Peru,Facial Coverings,2021-02-23,2021-04-05,4.0,303452.0
+42,Peru,Fiscal measures,2020-03-15,2020-03-15,56338028.0,0.0
+43,Peru,Fiscal measures,2020-03-16,2020-03-16,331944885.0,0.0
+44,Peru,Fiscal measures,2020-03-18,2020-03-18,1121076233.0,0.0
+45,Peru,Fiscal measures,2020-03-19,2020-03-19,84151473.0,0.0
+46,Peru,Fiscal measures,2020-03-27,2020-03-27,327728951.0,0.0
+47,Peru,Fiscal measures,2020-04-06,2020-04-06,8792497069.0,0.0
+48,Peru,Fiscal measures,2020-06-19,2020-06-19,1822323462.0,0.0
+39,Peru,Income support,2020-03-16,2021-04-05,1.0,1590123.0
+32,Peru,International travel controls,2020-03-06,2020-03-10,1.0,10.0
+33,Peru,International travel controls,2020-03-11,2020-03-15,2.0,32.0
+34,Peru,International travel controls,2020-03-16,2020-09-30,4.0,811682.0
+35,Peru,International travel controls,2020-10-01,2020-11-16,3.0,122182.0
+36,Peru,International travel controls,2020-11-17,2021-01-31,2.0,199971.0
+37,Peru,International travel controls,2021-02-01,2021-03-08,3.0,232937.0
+38,Peru,International travel controls,2021-03-09,2021-04-05,2.0,210186.0
+77,Peru,Protection of elderly people,2020-03-15,2020-06-01,3.0,169996.0
+78,Peru,Protection of elderly people,2020-06-02,2021-01-26,2.0,929074.0
+79,Peru,Protection of elderly people,2021-01-27,2021-03-14,3.0,300724.0
+80,Peru,Protection of elderly people,2021-03-16,2021-04-05,3.0,171235.0
+49,Peru,Public information campaigns,2020-03-05,2021-04-05,2.0,1590209.0
+11,Peru,Restrictions on gatherings,2020-03-12,2020-03-14,2.0,23.0
+12,Peru,Restrictions on gatherings,2020-03-15,2020-11-16,4.0,936968.0
+13,Peru,Restrictions on gatherings,2020-11-17,2020-12-20,3.0,57631.0
+14,Peru,Restrictions on gatherings,2020-12-21,2021-04-05,4.0,592692.0
+27,Peru,Restrictions on internal movement,2020-03-14,2020-03-14,1.0,0.0
+28,Peru,Restrictions on internal movement,2020-03-15,2020-10-21,2.0,874075.0
+29,Peru,Restrictions on internal movement,2020-10-22,2020-11-16,1.0,57135.0
+30,Peru,Restrictions on internal movement,2020-11-17,2020-12-20,2.0,57631.0
+31,Peru,Restrictions on internal movement,2021-01-27,2021-04-05,2.0,482970.0
+0,Peru,School closing,2020-03-12,2020-11-16,3.0,936996.0
+1,Peru,School closing,2020-11-17,2020-12-20,1.0,57631.0
+2,Peru,School closing,2020-12-21,2021-04-05,2.0,592692.0
+23,Peru,Stay at home requirements,2020-03-15,2020-03-17,2.0,74.0
+24,Peru,Stay at home requirements,2020-03-18,2020-05-10,3.0,67162.0
+25,Peru,Stay at home requirements,2020-05-11,2021-01-26,2.0,1038417.0
+26,Peru,Stay at home requirements,2021-01-27,2021-04-05,3.0,482970.0
+50,Peru,Testing policy,2020-01-31,2020-04-09,1.0,5256.0
+51,Peru,Testing policy,2020-04-10,2020-06-01,2.0,164142.0
+52,Peru,Testing policy,2020-06-02,2020-07-02,1.0,113839.0
+53,Peru,Testing policy,2020-07-03,2020-11-16,2.0,641412.0
+54,Peru,Testing policy,2020-11-17,2020-12-20,3.0,57631.0
+55,Peru,Testing policy,2020-12-21,2021-01-20,2.0,75697.0
+56,Peru,Testing policy,2021-01-21,2021-04-05,1.0,516995.0
+74,Peru,Vaccination policy,2021-02-06,2021-03-08,1.0,198131.0
+75,Peru,Vaccination policy,2021-03-09,2021-03-27,2.0,140950.0
+76,Peru,Vaccination policy,2021-03-28,2021-04-05,3.0,60327.0
+3,Peru,Workplace closing,2020-03-16,2020-04-30,3.0,36890.0
+4,Peru,Workplace closing,2020-05-01,2020-11-16,2.0,896552.0
+5,Peru,Workplace closing,2020-11-17,2020-12-20,1.0,57631.0
+6,Peru,Workplace closing,2020-12-21,2021-01-30,2.0,135505.0
+7,Peru,Workplace closing,2021-01-31,2021-04-05,3.0,451970.0

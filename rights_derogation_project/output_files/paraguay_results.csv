@@ -1,0 +1,81 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+14,Paraguay,Cancel public events,2020-03-10,2021-01-31,2.0,133226.0
+15,Paraguay,Cancel public events,2021-02-01,2021-03-26,1.0,70923.0
+16,Paraguay,Cancel public events,2021-03-27,2021-03-28,2.0,2058.0
+17,Paraguay,Cancel public events,2021-03-29,2021-04-10,1.0,23320.0
+27,Paraguay,Close public transport,2020-03-21,2020-04-08,2.0,101.0
+28,Paraguay,Close public transport,2020-04-09,2020-08-24,1.0,13478.0
+29,Paraguay,Close public transport,2021-03-27,2021-04-04,2.0,14610.0
+63,Paraguay,Contact tracing,2020-03-07,2020-03-19,2.0,11.0
+64,Paraguay,Contact tracing,2020-03-20,2020-06-01,1.0,982.0
+65,Paraguay,Contact tracing,2020-06-02,2021-04-04,2.0,220194.0
+45,Paraguay,Debt/contract relief,2020-04-01,2020-11-13,2.0,70323.0
+46,Paraguay,Debt/contract relief,2020-12-05,2021-01-10,2.0,28520.0
+66,Paraguay,Emergency investment in healthcare,2020-03-13,2020-03-13,80721805.0,0.0
+67,Paraguay,Emergency investment in healthcare,2020-03-18,2020-03-18,45454063.0,0.0
+68,Paraguay,Emergency investment in healthcare,2020-03-23,2020-03-23,45203.0,0.0
+69,Paraguay,Emergency investment in healthcare,2020-03-24,2020-03-24,1600000.0,0.0
+70,Paraguay,Emergency investment in healthcare,2020-03-27,2020-03-27,1055233.0,0.0
+71,Paraguay,Emergency investment in healthcare,2020-04-01,2020-04-01,100000000.0,0.0
+72,Paraguay,Emergency investment in healthcare,2021-03-12,2021-03-12,57937460.51,0.0
+74,Paraguay,Facial Coverings,2020-07-28,2020-11-13,3.0,65718.0
+75,Paraguay,Facial Coverings,2020-11-14,2020-11-26,2.0,8452.0
+76,Paraguay,Facial Coverings,2020-11-27,2021-04-04,3.0,140771.0
+47,Paraguay,Fiscal measures,2020-03-12,2020-03-12,513366.0,0.0
+48,Paraguay,Fiscal measures,2020-03-13,2020-03-13,76152646.0,0.0
+49,Paraguay,Fiscal measures,2020-03-20,2020-03-20,10000000.0,0.0
+50,Paraguay,Fiscal measures,2020-03-26,2020-03-26,2066226272.0,0.0
+51,Paraguay,Fiscal measures,2020-04-21,2020-04-21,274000000.0,0.0
+52,Paraguay,Fiscal measures,2020-05-18,2020-05-18,210000000.0,0.0
+53,Paraguay,Fiscal measures,2020-06-04,2020-06-04,43000000.0,0.0
+54,Paraguay,Fiscal measures,2020-06-10,2020-06-10,16000000.0,0.0
+55,Paraguay,Fiscal measures,2020-06-29,2020-06-29,2100000000.0,0.0
+56,Paraguay,Fiscal measures,2020-10-23,2020-10-23,40000000.0,0.0
+44,Paraguay,Income support,2020-03-31,2021-04-04,1.0,221142.0
+39,Paraguay,International travel controls,2020-03-16,2020-03-23,3.0,14.0
+40,Paraguay,International travel controls,2020-03-24,2020-10-14,4.0,51818.0
+41,Paraguay,International travel controls,2020-10-15,2020-11-16,3.0,19503.0
+42,Paraguay,International travel controls,2020-11-17,2020-12-04,2.0,13642.0
+43,Paraguay,International travel controls,2020-12-05,2021-04-10,1.0,146532.0
+73,Paraguay,Investment in vaccines,2021-01-15,2021-01-15,7000000.0,0.0
+78,Paraguay,Protection of elderly people,2020-03-18,2021-02-21,1.0,151707.0
+79,Paraguay,Protection of elderly people,2021-02-22,2021-04-04,2.0,68549.0
+57,Paraguay,Public information campaigns,2020-01-23,2020-03-22,1.0,22.0
+58,Paraguay,Public information campaigns,2020-03-23,2021-04-10,2.0,233723.0
+18,Paraguay,Restrictions on gatherings,2020-03-10,2020-03-20,3.0,12.0
+19,Paraguay,Restrictions on gatherings,2020-03-21,2020-06-14,4.0,1271.0
+20,Paraguay,Restrictions on gatherings,2020-06-15,2020-07-19,3.0,2425.0
+21,Paraguay,Restrictions on gatherings,2020-07-20,2020-10-04,4.0,40434.0
+22,Paraguay,Restrictions on gatherings,2020-10-05,2020-12-04,3.0,41784.0
+23,Paraguay,Restrictions on gatherings,2020-12-05,2021-01-10,2.0,28520.0
+24,Paraguay,Restrictions on gatherings,2021-01-11,2021-03-26,3.0,88169.0
+25,Paraguay,Restrictions on gatherings,2021-03-27,2021-03-28,4.0,2058.0
+26,Paraguay,Restrictions on gatherings,2021-03-29,2021-04-10,3.0,23320.0
+36,Paraguay,Restrictions on internal movement,2020-03-16,2020-05-24,2.0,854.0
+37,Paraguay,Restrictions on internal movement,2020-05-25,2020-06-14,1.0,424.0
+38,Paraguay,Restrictions on internal movement,2020-06-15,2020-10-04,2.0,42886.0
+0,Paraguay,School closing,2020-03-10,2020-07-04,3.0,2384.0
+1,Paraguay,School closing,2020-07-05,2020-08-24,2.0,11175.0
+2,Paraguay,School closing,2020-08-25,2021-03-01,3.0,146220.0
+3,Paraguay,School closing,2021-03-02,2021-03-26,2.0,43174.0
+4,Paraguay,School closing,2021-03-27,2021-04-04,3.0,14610.0
+30,Paraguay,Stay at home requirements,2020-03-10,2020-03-16,1.0,7.0
+31,Paraguay,Stay at home requirements,2020-03-17,2020-04-08,2.0,110.0
+32,Paraguay,Stay at home requirements,2020-04-09,2020-05-24,3.0,738.0
+33,Paraguay,Stay at home requirements,2020-05-25,2020-06-09,2.0,322.0
+34,Paraguay,Stay at home requirements,2020-06-10,2020-06-24,3.0,326.0
+35,Paraguay,Stay at home requirements,2020-06-25,2021-04-04,2.0,219638.0
+59,Paraguay,Testing policy,2020-03-07,2020-03-19,1.0,11.0
+60,Paraguay,Testing policy,2020-03-20,2020-06-01,2.0,982.0
+61,Paraguay,Testing policy,2020-06-02,2020-11-13,1.0,69379.0
+62,Paraguay,Testing policy,2020-11-14,2021-04-04,2.0,150142.0
+77,Paraguay,Vaccination policy,2021-02-22,2021-04-04,1.0,68549.0
+5,Paraguay,Workplace closing,2020-03-13,2020-05-24,3.0,856.0
+6,Paraguay,Workplace closing,2020-05-25,2020-11-13,2.0,69527.0
+7,Paraguay,Workplace closing,2020-11-14,2020-11-15,1.0,509.0
+8,Paraguay,Workplace closing,2020-11-16,2020-12-16,3.0,24110.0
+9,Paraguay,Workplace closing,2020-12-17,2021-03-05,1.0,68783.0
+10,Paraguay,Workplace closing,2021-03-06,2021-03-26,2.0,37735.0
+11,Paraguay,Workplace closing,2021-03-27,2021-03-28,3.0,2058.0
+12,Paraguay,Workplace closing,2021-03-29,2021-04-04,2.0,10782.0
+13,Paraguay,Workplace closing,2021-04-05,2021-04-10,1.0,11082.0

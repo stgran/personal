@@ -1,0 +1,68 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Rwanda,Cancel public events,2020-03-08,2021-01-11,2.0,9784.0
+12,Rwanda,Cancel public events,2021-01-12,2021-01-17,1.0,1082.0
+13,Rwanda,Cancel public events,2021-01-18,2021-04-09,2.0,12001.0
+19,Rwanda,Close public transport,2020-03-21,2020-05-03,2.0,242.0
+20,Rwanda,Close public transport,2020-09-04,2020-10-11,2.0,592.0
+21,Rwanda,Close public transport,2020-10-12,2020-11-01,1.0,241.0
+22,Rwanda,Close public transport,2020-12-14,2020-12-21,1.0,655.0
+23,Rwanda,Close public transport,2020-12-23,2021-01-11,1.0,2186.0
+24,Rwanda,Close public transport,2021-01-18,2021-02-07,2.0,5192.0
+25,Rwanda,Close public transport,2021-02-08,2021-04-09,1.0,6639.0
+56,Rwanda,Contact tracing,2020-03-08,2021-04-09,2.0,23260.0
+49,Rwanda,Debt/contract relief,2020-03-18,2021-04-09,2.0,23252.0
+57,Rwanda,Emergency investment in healthcare,2020-03-10,2020-03-10,16453484.0,0.0
+58,Rwanda,Facial Coverings,2020-04-30,2021-01-11,3.0,9541.0
+59,Rwanda,Facial Coverings,2021-01-12,2021-02-08,2.0,6671.0
+60,Rwanda,Facial Coverings,2021-02-09,2021-02-22,1.0,1388.0
+61,Rwanda,Facial Coverings,2021-02-23,2021-03-29,4.0,3165.0
+62,Rwanda,Facial Coverings,2021-03-30,2021-04-09,3.0,1615.0
+50,Rwanda,Fiscal measures,2020-03-23,2020-03-23,52972000.0,0.0
+51,Rwanda,Fiscal measures,2020-04-01,2020-04-01,109400000.0,0.0
+48,Rwanda,Income support,2020-07-30,2021-04-09,1.0,21266.0
+39,Rwanda,International travel controls,2020-01-27,2020-03-20,1.0,17.0
+40,Rwanda,International travel controls,2020-03-21,2020-08-25,4.0,3520.0
+41,Rwanda,International travel controls,2020-08-26,2020-11-24,2.0,2125.0
+42,Rwanda,International travel controls,2020-11-25,2020-12-07,1.0,412.0
+43,Rwanda,International travel controls,2020-12-08,2020-12-13,4.0,422.0
+44,Rwanda,International travel controls,2020-12-14,2020-12-21,1.0,655.0
+45,Rwanda,International travel controls,2020-12-22,2021-01-11,2.0,2273.0
+46,Rwanda,International travel controls,2021-01-12,2021-02-22,1.0,8249.0
+47,Rwanda,International travel controls,2021-02-23,2021-04-09,2.0,4935.0
+64,Rwanda,Protection of elderly people,2020-03-21,2020-05-03,3.0,242.0
+65,Rwanda,Protection of elderly people,2020-05-04,2020-12-07,2.0,5930.0
+66,Rwanda,Protection of elderly people,2021-03-05,2021-04-09,1.0,3834.0
+52,Rwanda,Public information campaigns,2020-01-21,2021-04-09,2.0,23260.0
+14,Rwanda,Restrictions on gatherings,2020-03-08,2020-05-03,2.0,259.0
+15,Rwanda,Restrictions on gatherings,2020-05-04,2020-12-21,3.0,7141.0
+16,Rwanda,Restrictions on gatherings,2020-12-22,2021-01-11,1.0,2273.0
+17,Rwanda,Restrictions on gatherings,2021-01-12,2021-01-17,3.0,1082.0
+18,Rwanda,Restrictions on gatherings,2021-01-18,2021-04-09,4.0,12001.0
+32,Rwanda,Restrictions on internal movement,2020-03-21,2020-05-03,2.0,242.0
+33,Rwanda,Restrictions on internal movement,2020-05-04,2020-06-01,1.0,116.0
+34,Rwanda,Restrictions on internal movement,2020-06-02,2020-06-15,2.0,228.0
+35,Rwanda,Restrictions on internal movement,2020-06-24,2020-09-24,2.0,3959.0
+36,Rwanda,Restrictions on internal movement,2020-09-25,2020-10-12,1.0,107.0
+37,Rwanda,Restrictions on internal movement,2020-11-25,2021-01-11,2.0,4005.0
+38,Rwanda,Restrictions on internal movement,2021-01-18,2021-04-09,2.0,12001.0
+0,Rwanda,School closing,2020-03-16,2020-10-11,3.0,4891.0
+1,Rwanda,School closing,2020-10-12,2020-12-07,2.0,1286.0
+2,Rwanda,School closing,2020-12-22,2021-01-11,1.0,2273.0
+3,Rwanda,School closing,2021-01-18,2021-02-22,3.0,6940.0
+4,Rwanda,School closing,2021-02-23,2021-04-09,1.0,4935.0
+26,Rwanda,Stay at home requirements,2020-03-21,2020-06-23,2.0,781.0
+27,Rwanda,Stay at home requirements,2020-06-24,2020-07-07,3.0,342.0
+28,Rwanda,Stay at home requirements,2020-07-08,2020-11-24,2.0,4556.0
+29,Rwanda,Stay at home requirements,2020-11-25,2020-12-21,1.0,1623.0
+30,Rwanda,Stay at home requirements,2020-12-22,2021-01-11,2.0,2273.0
+31,Rwanda,Stay at home requirements,2021-01-18,2021-04-09,2.0,12001.0
+53,Rwanda,Testing policy,2020-02-11,2020-03-20,2.0,17.0
+54,Rwanda,Testing policy,2020-03-21,2021-02-22,3.0,18182.0
+55,Rwanda,Testing policy,2021-02-23,2021-04-09,2.0,4935.0
+63,Rwanda,Vaccination policy,2021-02-09,2021-04-09,2.0,6449.0
+5,Rwanda,Workplace closing,2020-03-14,2020-03-20,1.0,16.0
+6,Rwanda,Workplace closing,2020-03-21,2020-05-03,3.0,242.0
+7,Rwanda,Workplace closing,2020-05-04,2020-11-24,2.0,5489.0
+8,Rwanda,Workplace closing,2020-12-08,2021-01-17,2.0,4795.0
+9,Rwanda,Workplace closing,2021-01-18,2021-02-07,3.0,5192.0
+10,Rwanda,Workplace closing,2021-02-08,2021-04-09,2.0,6639.0

@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+16,Italy,Cancel public events,2020-02-23,2021-04-09,2.0,3736371.0
+21,Italy,Close public transport,2020-03-11,2020-04-11,1.0,139809.0
+22,Italy,Close public transport,2020-04-12,2020-05-03,2.0,54354.0
+23,Italy,Close public transport,2020-10-06,2020-10-13,1.0,35204.0
+24,Italy,Close public transport,2020-10-23,2021-04-09,1.0,3251657.0
+57,Italy,Contact tracing,2020-01-31,2021-04-09,2.0,3736524.0
+39,Italy,Debt/contract relief,2020-03-17,2020-06-01,1.0,201691.0
+40,Italy,Debt/contract relief,2020-06-02,2021-04-09,2.0,3503011.0
+58,Italy,Emergency investment in healthcare,2020-03-16,2020-03-16,3564000000.0,0.0
+59,Italy,Emergency investment in healthcare,2020-04-20,2020-04-20,326220000.0,0.0
+60,Italy,Emergency investment in healthcare,2020-05-13,2020-05-13,3500000000.0,0.0
+61,Italy,Emergency investment in healthcare,2021-03-19,2021-03-19,4520000000.0,0.0
+63,Italy,Facial Coverings,2020-04-04,2021-04-09,4.0,3611894.0
+41,Italy,Fiscal measures,2020-02-28,2020-02-28,100000000.0,0.0
+42,Italy,Fiscal measures,2020-03-01,2020-03-01,4000000000.0,0.0
+43,Italy,Fiscal measures,2020-03-08,2020-03-08,8500000000.0,0.0
+44,Italy,Fiscal measures,2020-03-11,2020-03-11,2784500000.0,0.0
+45,Italy,Fiscal measures,2020-04-06,2020-04-06,452656343806.0,0.0
+46,Italy,Fiscal measures,2020-05-13,2020-05-13,59600000000.0,0.0
+47,Italy,Fiscal measures,2020-07-09,2020-07-09,237272143.24,0.0
+48,Italy,Fiscal measures,2020-08-08,2020-08-08,14144400000.0,0.0
+49,Italy,Fiscal measures,2020-10-27,2020-10-27,6318000000.0,0.0
+50,Italy,Fiscal measures,2020-11-23,2020-11-23,2368600000.0,0.0
+51,Italy,Fiscal measures,2020-11-30,2020-11-30,9550400000.0,0.0
+52,Italy,Fiscal measures,2021-01-15,2021-01-15,38720000000.0,0.0
+53,Italy,Fiscal measures,2021-03-19,2021-03-19,38090000000.0,0.0
+38,Italy,Income support,2020-03-17,2021-04-09,1.0,3705020.0
+34,Italy,International travel controls,2020-01-23,2020-01-29,1.0,0.0
+35,Italy,International travel controls,2020-01-30,2020-05-03,3.0,210717.0
+36,Italy,International travel controls,2020-05-04,2020-05-17,2.0,13497.0
+37,Italy,International travel controls,2020-05-18,2021-04-09,3.0,3510640.0
+62,Italy,Investment in vaccines,2020-08-16,2020-08-16,5953246.0,0.0
+65,Italy,Protection of elderly people,2020-02-23,2020-06-10,3.0,235608.0
+66,Italy,Protection of elderly people,2020-06-11,2020-09-30,2.0,78719.0
+67,Italy,Protection of elderly people,2020-10-01,2021-04-09,3.0,3419117.0
+54,Italy,Public information campaigns,2020-01-31,2021-04-09,2.0,3736524.0
+17,Italy,Restrictions on gatherings,2020-02-23,2020-05-17,4.0,225280.0
+18,Italy,Restrictions on gatherings,2020-06-15,2020-10-05,2.0,90296.0
+19,Italy,Restrictions on gatherings,2020-10-06,2020-10-22,3.0,135463.0
+20,Italy,Restrictions on gatherings,2020-10-23,2021-04-09,4.0,3251657.0
+30,Italy,Restrictions on internal movement,2020-02-21,2020-05-03,2.0,210697.0
+31,Italy,Restrictions on internal movement,2020-05-04,2020-05-17,1.0,13497.0
+32,Italy,Restrictions on internal movement,2020-05-18,2020-06-01,2.0,7311.0
+33,Italy,Restrictions on internal movement,2020-10-23,2021-04-09,2.0,3251657.0
+0,Italy,School closing,2020-02-23,2020-09-20,3.0,298001.0
+1,Italy,School closing,2020-09-21,2020-09-30,2.0,15355.0
+2,Italy,School closing,2020-10-01,2020-10-22,1.0,148317.0
+3,Italy,School closing,2020-10-23,2021-02-14,2.0,2237010.0
+4,Italy,School closing,2021-02-15,2021-04-05,3.0,949721.0
+5,Italy,School closing,2021-04-06,2021-04-09,2.0,49819.0
+25,Italy,Stay at home requirements,2020-02-23,2020-03-19,2.0,40880.0
+26,Italy,Stay at home requirements,2020-03-20,2020-04-09,3.0,96605.0
+27,Italy,Stay at home requirements,2020-04-10,2020-05-03,2.0,63140.0
+28,Italy,Stay at home requirements,2020-05-04,2020-07-26,1.0,34180.0
+29,Italy,Stay at home requirements,2020-10-23,2021-04-09,2.0,3251657.0
+55,Italy,Testing policy,2020-01-31,2020-02-25,1.0,320.0
+56,Italy,Testing policy,2020-02-26,2021-04-09,2.0,3736073.0
+64,Italy,Vaccination policy,2020-12-27,2021-04-09,2.0,1688830.0
+6,Italy,Workplace closing,2020-02-22,2020-05-03,3.0,210655.0
+7,Italy,Workplace closing,2020-05-04,2020-05-15,1.0,11947.0
+8,Italy,Workplace closing,2020-05-16,2020-07-26,2.0,21358.0
+9,Italy,Workplace closing,2020-07-27,2020-08-16,1.0,7629.0
+10,Italy,Workplace closing,2020-08-17,2020-11-05,2.0,570644.0
+11,Italy,Workplace closing,2020-11-06,2020-12-27,3.0,1185015.0
+12,Italy,Workplace closing,2020-12-28,2020-12-30,2.0,27412.0
+13,Italy,Workplace closing,2020-12-31,2021-01-06,3.0,94779.0
+14,Italy,Workplace closing,2021-01-07,2021-03-05,2.0,802768.0
+15,Italy,Workplace closing,2021-03-06,2021-04-09,3.0,689764.0

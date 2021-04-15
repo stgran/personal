@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Dominica,Cancel public events,2020-04-01,2020-06-26,2.0,6.0
+9,Dominica,Cancel public events,2020-06-27,2020-11-09,1.0,45.0
+10,Dominica,Cancel public events,2020-12-07,2020-12-21,2.0,3.0
+11,Dominica,Cancel public events,2021-02-13,2021-02-16,2.0,13.0
+21,Dominica,Close public transport,2020-11-10,2020-11-23,2.0,14.0
+41,Dominica,Contact tracing,2020-03-22,2021-02-22,2.0,133.0
+42,Dominica,Contact tracing,2021-02-23,2021-03-01,1.0,1.0
+43,Dominica,Contact tracing,2021-03-02,2021-03-29,2.0,17.0
+33,Dominica,Debt/contract relief,2020-05-19,2020-09-17,2.0,8.0
+34,Dominica,Debt/contract relief,2020-12-07,2020-12-21,1.0,3.0
+44,Dominica,Facial Coverings,2020-04-16,2020-09-30,3.0,14.0
+45,Dominica,Facial Coverings,2020-10-01,2020-10-12,2.0,1.0
+46,Dominica,Facial Coverings,2020-10-13,2020-10-28,3.0,6.0
+47,Dominica,Facial Coverings,2020-11-10,2020-12-21,3.0,25.0
+48,Dominica,Facial Coverings,2020-12-22,2021-03-29,2.0,73.0
+35,Dominica,Fiscal measures,2020-05-19,2020-05-19,8000000.0,0.0
+32,Dominica,Income support,2020-05-19,2021-03-29,1.0,145.0
+27,Dominica,International travel controls,2020-03-22,2020-03-27,1.0,10.0
+28,Dominica,International travel controls,2020-03-28,2020-03-31,3.0,1.0
+29,Dominica,International travel controls,2020-04-01,2020-08-06,4.0,6.0
+30,Dominica,International travel controls,2020-08-07,2020-10-12,1.0,14.0
+31,Dominica,International travel controls,2020-10-13,2021-03-29,2.0,129.0
+51,Dominica,Protection of elderly people,2020-03-23,2021-03-29,1.0,159.0
+36,Dominica,Public information campaigns,2020-03-22,2021-03-29,2.0,160.0
+12,Dominica,Restrictions on gatherings,2020-04-01,2020-06-26,4.0,6.0
+13,Dominica,Restrictions on gatherings,2020-06-27,2020-11-09,2.0,45.0
+14,Dominica,Restrictions on gatherings,2020-11-10,2020-11-23,1.0,14.0
+15,Dominica,Restrictions on gatherings,2020-11-24,2020-11-30,2.0,8.0
+16,Dominica,Restrictions on gatherings,2020-12-01,2020-12-06,1.0,0.0
+17,Dominica,Restrictions on gatherings,2020-12-07,2020-12-21,3.0,3.0
+18,Dominica,Restrictions on gatherings,2020-12-22,2021-02-12,2.0,33.0
+19,Dominica,Restrictions on gatherings,2021-02-13,2021-02-16,4.0,13.0
+20,Dominica,Restrictions on gatherings,2021-02-17,2021-03-29,2.0,27.0
+26,Dominica,Restrictions on internal movement,2020-04-01,2020-06-26,1.0,6.0
+0,Dominica,School closing,2020-03-23,2020-09-06,3.0,20.0
+1,Dominica,School closing,2020-09-07,2020-10-31,1.0,28.0
+2,Dominica,School closing,2020-11-01,2020-11-09,3.0,13.0
+3,Dominica,School closing,2020-11-10,2020-12-21,1.0,25.0
+4,Dominica,School closing,2021-01-07,2021-03-29,1.0,56.0
+22,Dominica,Stay at home requirements,2020-04-01,2020-05-11,2.0,4.0
+23,Dominica,Stay at home requirements,2020-05-12,2020-06-26,1.0,2.0
+24,Dominica,Stay at home requirements,2020-12-07,2020-12-21,2.0,3.0
+25,Dominica,Stay at home requirements,2020-12-22,2021-03-29,1.0,73.0
+37,Dominica,Testing policy,2020-03-22,2020-04-19,2.0,15.0
+38,Dominica,Testing policy,2020-04-20,2020-12-06,3.0,69.0
+39,Dominica,Testing policy,2020-12-07,2020-12-21,2.0,3.0
+40,Dominica,Testing policy,2020-12-22,2021-03-29,3.0,73.0
+49,Dominica,Vaccination policy,2021-02-16,2021-03-08,4.0,10.0
+50,Dominica,Vaccination policy,2021-03-09,2021-03-29,5.0,10.0
+5,Dominica,Workplace closing,2020-04-01,2020-05-06,3.0,4.0
+6,Dominica,Workplace closing,2020-05-07,2020-06-26,2.0,2.0
+7,Dominica,Workplace closing,2020-12-07,2020-12-21,1.0,3.0

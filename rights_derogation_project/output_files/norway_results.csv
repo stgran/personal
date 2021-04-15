@@ -1,0 +1,66 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Norway,Cancel public events,2020-03-24,2020-06-01,2.0,5583.0
+14,Norway,Cancel public events,2020-10-26,2021-04-11,2.0,84632.0
+19,Norway,Close public transport,2020-03-12,2020-05-13,1.0,7473.0
+20,Norway,Close public transport,2021-01-16,2021-04-11,1.0,44529.0
+49,Norway,Contact tracing,2020-04-01,2020-06-01,1.0,3583.0
+50,Norway,Contact tracing,2020-06-02,2021-04-11,2.0,94519.0
+51,Norway,Emergency investment in healthcare,2020-02-14,2020-02-14,1080950.0,0.0
+52,Norway,Emergency investment in healthcare,2020-03-31,2020-03-31,14115450.0,0.0
+53,Norway,Emergency investment in healthcare,2020-04-02,2020-04-02,9638900.0,0.0
+54,Norway,Emergency investment in healthcare,2020-04-11,2020-04-11,2943480.0,0.0
+58,Norway,Facial Coverings,2020-08-14,2020-10-26,1.0,8434.0
+59,Norway,Facial Coverings,2020-10-27,2021-04-11,2.0,84308.0
+31,Norway,Fiscal measures,2020-03-16,2020-03-16,9729500000.0,0.0
+32,Norway,Fiscal measures,2020-03-18,2020-03-18,81041400.0,0.0
+33,Norway,Fiscal measures,2020-03-20,2020-03-20,8666000000.0,0.0
+34,Norway,Fiscal measures,2020-03-30,2020-03-30,664363.0,0.0
+35,Norway,Fiscal measures,2020-04-03,2020-04-03,241066800.0,0.0
+36,Norway,Fiscal measures,2020-04-07,2020-04-07,14641200.0,0.0
+37,Norway,Fiscal measures,2020-04-09,2020-04-09,1952160.0,0.0
+38,Norway,Fiscal measures,2020-04-14,2020-04-14,58224000.0,0.0
+39,Norway,Fiscal measures,2020-04-19,2020-04-19,145414500.0,0.0
+40,Norway,Fiscal measures,2020-04-20,2020-04-20,593278200.0,0.0
+41,Norway,Fiscal measures,2020-04-21,2020-04-21,9428100.0,0.0
+42,Norway,Fiscal measures,2020-04-22,2020-04-22,18525800.0,0.0
+43,Norway,Fiscal measures,2020-05-29,2020-05-29,1613290760.81,0.0
+30,Norway,Income support,2020-03-20,2021-04-11,2.0,101060.0
+44,Norway,International support,2020-03-26,2020-03-26,1438898.7,0.0
+45,Norway,International support,2020-12-23,2020-12-23,232000000.0,0.0
+25,Norway,International travel controls,2020-03-14,2020-03-14,2.0,0.0
+26,Norway,International travel controls,2020-03-15,2020-06-14,4.0,7410.0
+27,Norway,International travel controls,2020-06-15,2020-08-20,3.0,1550.0
+28,Norway,International travel controls,2020-08-21,2021-01-28,2.0,52001.0
+29,Norway,International travel controls,2021-01-29,2021-04-11,3.0,40399.0
+55,Norway,Investment in vaccines,2020-02-14,2020-02-14,3891420.0,0.0
+56,Norway,Investment in vaccines,2020-03-27,2020-03-27,190372000.0,0.0
+57,Norway,Investment in vaccines,2020-10-20,2020-10-20,500000000.0,0.0
+63,Norway,Protection of elderly people,2020-12-03,2021-03-17,2.0,46148.0
+64,Norway,Protection of elderly people,2021-03-18,2021-04-11,3.0,18421.0
+46,Norway,Public information campaigns,2020-01-31,2021-04-11,2.0,102974.0
+15,Norway,Restrictions on gatherings,2020-03-11,2020-03-23,2.0,2023.0
+16,Norway,Restrictions on gatherings,2020-03-24,2020-04-20,4.0,4293.0
+17,Norway,Restrictions on gatherings,2020-04-21,2020-11-10,3.0,18696.0
+18,Norway,Restrictions on gatherings,2020-11-11,2021-04-11,4.0,76463.0
+22,Norway,Restrictions on internal movement,2020-03-16,2020-04-19,2.0,5745.0
+23,Norway,Restrictions on internal movement,2020-04-20,2020-09-20,1.0,5741.0
+24,Norway,Restrictions on internal movement,2020-11-05,2021-04-11,1.0,79745.0
+0,Norway,School closing,2020-03-12,2020-04-26,3.0,6825.0
+1,Norway,School closing,2020-04-27,2020-05-10,2.0,506.0
+2,Norway,School closing,2020-05-11,2021-01-03,1.0,42584.0
+3,Norway,School closing,2021-01-04,2021-02-22,2.0,17513.0
+4,Norway,School closing,2021-02-23,2021-03-15,1.0,12157.0
+5,Norway,School closing,2021-03-16,2021-04-11,2.0,20519.0
+21,Norway,Stay at home requirements,2020-11-05,2021-04-11,1.0,79745.0
+47,Norway,Testing policy,2020-02-26,2020-06-01,1.0,8445.0
+48,Norway,Testing policy,2020-06-02,2021-04-11,2.0,94519.0
+60,Norway,Vaccination policy,2020-12-18,2021-01-06,1.0,9760.0
+61,Norway,Vaccination policy,2021-01-07,2021-03-12,2.0,25154.0
+62,Norway,Vaccination policy,2021-03-13,2021-04-11,3.0,23174.0
+6,Norway,Workplace closing,2020-03-10,2020-03-11,1.0,198.0
+7,Norway,Workplace closing,2020-03-12,2020-06-01,2.0,7744.0
+8,Norway,Workplace closing,2020-06-02,2020-11-08,1.0,16277.0
+9,Norway,Workplace closing,2020-11-09,2021-01-22,2.0,35240.0
+10,Norway,Workplace closing,2021-01-23,2021-02-21,3.0,7729.0
+11,Norway,Workplace closing,2021-02-22,2021-03-01,2.0,2977.0
+12,Norway,Workplace closing,2021-03-02,2021-04-11,3.0,30740.0

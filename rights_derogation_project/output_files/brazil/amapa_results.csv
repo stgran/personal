@@ -1,0 +1,33 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Amapa,Cancel public events,2020-03-13,2020-03-14,1.0,0.0
+6,Amapa,Cancel public events,2020-03-15,2021-03-19,2.0,91077.0
+11,Amapa,Close public transport,2020-03-20,2020-12-02,1.0,59849.0
+12,Amapa,Close public transport,2020-12-03,2021-03-19,2.0,30686.0
+27,Amapa,Contact tracing,2020-04-01,2021-03-19,2.0,91066.0
+23,Amapa,Debt/contract relief,2020-03-17,2020-12-26,1.0,66293.0
+28,Amapa,Facial Coverings,2020-04-19,2020-05-18,2.0,3607.0
+29,Amapa,Facial Coverings,2020-05-19,2021-01-11,4.0,66977.0
+19,Amapa,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+20,Amapa,International travel controls,2020-03-18,2020-03-26,3.0,2.0
+21,Amapa,International travel controls,2020-03-27,2020-07-28,4.0,35694.0
+22,Amapa,International travel controls,2020-07-29,2021-03-19,1.0,55104.0
+30,Amapa,Protection of elderly people,2020-05-07,2021-01-05,1.0,66897.0
+31,Amapa,Protection of elderly people,2021-01-07,2021-03-19,1.0,21203.0
+24,Amapa,Public information campaigns,2020-01-26,2021-03-19,2.0,91077.0
+7,Amapa,Restrictions on gatherings,2020-03-13,2020-03-18,2.0,0.0
+8,Amapa,Restrictions on gatherings,2020-03-19,2020-03-19,3.0,0.0
+9,Amapa,Restrictions on gatherings,2020-03-20,2020-07-31,4.0,36467.0
+10,Amapa,Restrictions on gatherings,2020-08-01,2020-10-29,3.0,15280.0
+17,Amapa,Restrictions on internal movement,2020-03-18,2020-03-29,1.0,8.0
+18,Amapa,Restrictions on internal movement,2020-03-30,2021-03-19,2.0,91069.0
+0,Amapa,School closing,2020-03-18,2021-03-19,3.0,91077.0
+13,Amapa,Stay at home requirements,2020-03-19,2020-05-18,1.0,4023.0
+14,Amapa,Stay at home requirements,2020-05-19,2020-06-11,2.0,10856.0
+15,Amapa,Stay at home requirements,2020-06-12,2020-10-27,1.0,35744.0
+16,Amapa,Stay at home requirements,2020-10-28,2021-03-19,2.0,39554.0
+25,Amapa,Testing policy,2020-03-16,2020-05-05,1.0,1931.0
+26,Amapa,Testing policy,2020-05-06,2021-03-19,2.0,89031.0
+1,Amapa,Workplace closing,2020-03-20,2020-03-21,2.0,0.0
+2,Amapa,Workplace closing,2020-03-22,2020-06-02,3.0,10510.0
+3,Amapa,Workplace closing,2020-06-03,2021-03-16,2.0,78011.0
+4,Amapa,Workplace closing,2021-03-17,2021-03-19,3.0,1255.0

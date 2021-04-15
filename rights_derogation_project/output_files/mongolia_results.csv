@@ -1,0 +1,52 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Mongolia,Cancel public events,2020-01-27,2020-10-18,2.0,324.0
+11,Mongolia,Cancel public events,2020-10-19,2020-10-19,1.0,0.0
+12,Mongolia,Cancel public events,2020-10-20,2020-10-25,2.0,12.0
+13,Mongolia,Cancel public events,2020-10-26,2020-11-11,1.0,66.0
+14,Mongolia,Cancel public events,2020-11-12,2021-03-29,2.0,7658.0
+17,Mongolia,Close public transport,2020-02-21,2020-03-02,2.0,0.0
+18,Mongolia,Close public transport,2020-04-05,2020-05-04,1.0,26.0
+19,Mongolia,Close public transport,2020-05-05,2020-05-07,2.0,0.0
+20,Mongolia,Close public transport,2020-05-08,2020-05-08,1.0,0.0
+21,Mongolia,Close public transport,2020-11-12,2021-03-29,1.0,7658.0
+40,Mongolia,Contact tracing,2020-03-10,2021-03-29,2.0,8069.0
+32,Mongolia,Debt/contract relief,2020-04-13,2021-03-29,2.0,8053.0
+41,Mongolia,Emergency investment in healthcare,2020-03-27,2020-03-27,72066160.0,0.0
+42,Mongolia,Emergency investment in healthcare,2020-04-02,2020-04-02,29225962.3,0.0
+43,Mongolia,Emergency investment in healthcare,2020-08-05,2020-08-05,41628600.0,0.0
+44,Mongolia,Emergency investment in healthcare,2020-10-23,2020-10-23,1184003.0,0.0
+45,Mongolia,Emergency investment in healthcare,2020-11-15,2020-11-15,59178.0,0.0
+47,Mongolia,Facial Coverings,2020-01-10,2020-01-21,1.0,0.0
+48,Mongolia,Facial Coverings,2020-01-22,2020-11-11,2.0,406.0
+49,Mongolia,Facial Coverings,2020-11-12,2021-03-29,3.0,7658.0
+33,Mongolia,Fiscal measures,2020-03-27,2020-03-27,1837687080.0,0.0
+34,Mongolia,Fiscal measures,2020-05-06,2020-05-06,284902400.0,0.0
+35,Mongolia,Fiscal measures,2020-10-23,2020-10-23,44400147.0,0.0
+36,Mongolia,Fiscal measures,2020-10-26,2020-10-26,420000000.0,0.0
+31,Mongolia,Income support,2020-08-05,2021-03-29,1.0,7777.0
+29,Mongolia,International travel controls,2020-01-27,2020-03-23,3.0,10.0
+30,Mongolia,International travel controls,2020-03-24,2021-03-29,4.0,8060.0
+46,Mongolia,Investment in vaccines,2020-08-05,2020-08-05,7827300.0,0.0
+37,Mongolia,Public information campaigns,2020-01-01,2021-03-29,2.0,8070.0
+15,Mongolia,Restrictions on gatherings,2020-03-23,2020-07-02,4.0,210.0
+16,Mongolia,Restrictions on gatherings,2020-11-12,2021-03-29,4.0,7658.0
+26,Mongolia,Restrictions on internal movement,2020-02-21,2020-03-16,2.0,1.0
+27,Mongolia,Restrictions on internal movement,2020-04-28,2020-09-17,2.0,273.0
+28,Mongolia,Restrictions on internal movement,2020-11-12,2021-03-29,2.0,7658.0
+0,Mongolia,School closing,2020-01-27,2020-08-31,3.0,304.0
+1,Mongolia,School closing,2020-09-01,2020-09-29,2.0,7.0
+2,Mongolia,School closing,2020-09-30,2020-11-11,1.0,93.0
+3,Mongolia,School closing,2020-11-12,2021-03-29,3.0,7658.0
+22,Mongolia,Stay at home requirements,2020-05-05,2020-05-07,3.0,0.0
+23,Mongolia,Stay at home requirements,2020-11-12,2021-02-22,2.0,2311.0
+24,Mongolia,Stay at home requirements,2021-02-23,2021-03-14,1.0,1328.0
+25,Mongolia,Stay at home requirements,2021-03-15,2021-03-29,2.0,3860.0
+38,Mongolia,Testing policy,2020-03-10,2020-07-07,1.0,226.0
+39,Mongolia,Testing policy,2020-07-08,2021-03-29,2.0,7843.0
+50,Mongolia,Vaccination policy,2021-02-23,2021-03-29,1.0,5315.0
+4,Mongolia,Workplace closing,2020-01-27,2020-05-04,2.0,40.0
+5,Mongolia,Workplace closing,2020-05-05,2020-05-07,3.0,0.0
+6,Mongolia,Workplace closing,2020-05-08,2020-10-12,2.0,278.0
+7,Mongolia,Workplace closing,2020-10-13,2020-11-11,1.0,86.0
+8,Mongolia,Workplace closing,2020-11-12,2021-01-10,3.0,1030.0
+9,Mongolia,Workplace closing,2021-01-11,2021-03-29,2.0,6614.0

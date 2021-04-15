@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Oregon,Cancel public events,2020-03-15,2020-03-15,1.0,0.0
+10,Oregon,Cancel public events,2020-03-16,2021-04-06,2.0,167619.0
+37,Oregon,Contact tracing,2020-01-21,2020-10-05,1.0,35049.0
+38,Oregon,Contact tracing,2020-10-06,2020-11-23,2.0,30994.0
+39,Oregon,Contact tracing,2020-11-24,2021-04-06,1.0,100325.0
+28,Oregon,Debt/contract relief,2020-03-17,2020-03-21,1.0,71.0
+29,Oregon,Debt/contract relief,2020-03-22,2021-04-06,2.0,167497.0
+40,Oregon,Emergency investment in healthcare,2020-12-22,2020-12-22,400000000.0,0.0
+41,Oregon,Facial Coverings,2020-04-04,2020-05-14,1.0,2580.0
+42,Oregon,Facial Coverings,2020-05-15,2020-06-23,2.0,3733.0
+43,Oregon,Facial Coverings,2020-06-24,2021-01-10,3.0,118239.0
+44,Oregon,Facial Coverings,2021-01-20,2021-04-06,3.0,32516.0
+30,Oregon,Fiscal measures,2020-05-29,2020-05-29,30000000.0,0.0
+31,Oregon,Fiscal measures,2020-11-17,2020-11-17,55000000.0,0.0
+32,Oregon,Fiscal measures,2020-12-22,2020-12-22,300000000.0,0.0
+24,Oregon,Income support,2020-01-27,2020-01-27,1.0,0.0
+25,Oregon,Income support,2020-03-17,2020-03-26,1.0,250.0
+26,Oregon,Income support,2020-03-27,2020-07-30,2.0,17715.0
+27,Oregon,Income support,2020-07-31,2021-04-06,1.0,149166.0
+22,Oregon,International travel controls,2020-02-02,2020-03-01,2.0,1.0
+23,Oregon,International travel controls,2020-03-02,2021-04-06,3.0,167655.0
+48,Oregon,Protection of elderly people,2020-02-29,2020-03-16,2.0,38.0
+49,Oregon,Protection of elderly people,2020-03-17,2020-07-19,3.0,14513.0
+50,Oregon,Protection of elderly people,2020-07-20,2021-03-08,2.0,142668.0
+51,Oregon,Protection of elderly people,2021-03-10,2021-04-06,2.0,9367.0
+33,Oregon,Public information campaigns,2020-02-28,2020-03-15,1.0,36.0
+34,Oregon,Public information campaigns,2020-03-16,2021-04-06,2.0,167619.0
+11,Oregon,Restrictions on gatherings,2020-03-16,2020-03-26,3.0,277.0
+12,Oregon,Restrictions on gatherings,2020-03-27,2020-06-04,4.0,4058.0
+13,Oregon,Restrictions on gatherings,2020-06-05,2020-07-14,3.0,8235.0
+14,Oregon,Restrictions on gatherings,2020-07-15,2021-04-06,4.0,154577.0
+19,Oregon,Restrictions on internal movement,2020-03-16,2020-03-23,1.0,152.0
+20,Oregon,Restrictions on internal movement,2020-03-24,2020-05-04,2.0,2549.0
+21,Oregon,Restrictions on internal movement,2020-05-05,2021-04-06,1.0,164819.0
+0,Oregon,School closing,2020-03-13,2020-03-15,1.0,6.0
+1,Oregon,School closing,2020-03-16,2020-03-17,2.0,27.0
+2,Oregon,School closing,2020-03-18,2020-09-07,3.0,28115.0
+3,Oregon,School closing,2020-09-08,2021-04-06,2.0,139302.0
+15,Oregon,Stay at home requirements,2020-03-27,2020-06-02,2.0,3919.0
+16,Oregon,Stay at home requirements,2020-06-03,2020-07-30,1.0,13732.0
+17,Oregon,Stay at home requirements,2020-07-31,2020-08-20,2.0,5673.0
+18,Oregon,Stay at home requirements,2020-08-21,2021-04-06,1.0,143237.0
+35,Oregon,Testing policy,2020-01-21,2020-10-06,1.0,35339.0
+36,Oregon,Testing policy,2020-10-07,2021-04-06,2.0,132024.0
+45,Oregon,Vaccination policy,2020-12-16,2020-12-20,1.0,5308.0
+46,Oregon,Vaccination policy,2020-12-21,2021-01-07,2.0,17330.0
+47,Oregon,Vaccination policy,2021-01-08,2021-04-06,3.0,44811.0
+4,Oregon,Workplace closing,2020-03-12,2020-03-15,1.0,12.0
+5,Oregon,Workplace closing,2020-03-16,2020-07-30,2.0,18092.0
+6,Oregon,Workplace closing,2020-07-31,2020-08-20,3.0,5673.0
+7,Oregon,Workplace closing,2020-08-21,2021-04-05,2.0,142707.0
+8,Oregon,Workplace closing,2021-04-06,2021-04-06,1.0,0.0

@@ -1,0 +1,65 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Quebec,Cancel public events,2020-01-01,2020-03-10,1.0,0.0
+14,Quebec,Cancel public events,2020-03-11,2021-04-06,2.0,318525.0
+48,Quebec,Contact tracing,2020-10-05,2021-04-06,2.0,238882.0
+30,Quebec,Debt/contract relief,2020-03-17,2021-04-06,1.0,318482.0
+49,Quebec,Emergency investment in healthcare,2020-03-30,2020-03-30,102897378.5,0.0
+50,Quebec,Emergency investment in healthcare,2020-04-02,2020-04-02,222910030.0,0.0
+51,Quebec,Emergency investment in healthcare,2020-05-15,2020-05-15,4693020.0,0.0
+53,Quebec,Facial Coverings,2020-04-20,2020-07-17,2.0,37823.0
+54,Quebec,Facial Coverings,2020-07-18,2021-04-06,3.0,261232.0
+31,Quebec,Fiscal measures,2020-03-19,2020-03-19,1935250000.0,0.0
+32,Quebec,Fiscal measures,2020-03-27,2020-03-27,1934310.8,0.0
+33,Quebec,Fiscal measures,2020-04-03,2020-04-03,116482500.0,0.0
+34,Quebec,Fiscal measures,2020-04-06,2020-04-06,77650000.0,0.0
+35,Quebec,Fiscal measures,2020-04-17,2020-04-17,34983900.0,0.0
+36,Quebec,Fiscal measures,2020-04-24,2020-04-24,777000.0,0.0
+37,Quebec,Fiscal measures,2020-04-29,2020-04-29,16737368.0,0.0
+38,Quebec,Fiscal measures,2020-05-06,2020-05-06,24254847.95,0.0
+39,Quebec,Fiscal measures,2020-05-07,2020-05-07,54777100.0,0.0
+40,Quebec,Fiscal measures,2020-06-01,2020-06-01,312740000.0,0.0
+41,Quebec,Fiscal measures,2020-07-09,2020-07-09,319260.0,0.0
+42,Quebec,Fiscal measures,2020-10-02,2020-10-02,39093500.0,0.0
+29,Quebec,Income support,2020-03-15,2021-04-06,2.0,318508.0
+27,Quebec,International travel controls,2020-03-11,2020-03-15,2.0,17.0
+28,Quebec,International travel controls,2020-03-16,2021-04-06,4.0,318493.0
+52,Quebec,Investment in vaccines,2020-03-21,2020-03-21,5417650.0,0.0
+59,Quebec,Protection of elderly people,2020-03-12,2020-03-13,2.0,4.0
+60,Quebec,Protection of elderly people,2020-03-14,2020-05-04,3.0,32606.0
+61,Quebec,Protection of elderly people,2020-05-05,2020-09-30,2.0,40871.0
+62,Quebec,Protection of elderly people,2020-10-01,2021-02-23,3.0,208445.0
+63,Quebec,Protection of elderly people,2021-02-24,2021-04-06,2.0,34060.0
+43,Quebec,Public information campaigns,2020-01-20,2020-03-11,1.0,7.0
+44,Quebec,Public information campaigns,2020-03-12,2021-04-06,2.0,318519.0
+15,Quebec,Restrictions on gatherings,2020-03-12,2020-03-20,2.0,126.0
+16,Quebec,Restrictions on gatherings,2020-03-21,2020-06-21,4.0,54564.0
+17,Quebec,Restrictions on gatherings,2020-06-22,2020-09-30,3.0,19453.0
+18,Quebec,Restrictions on gatherings,2020-10-01,2021-04-06,4.0,243311.0
+24,Quebec,Restrictions on internal movement,2020-03-19,2020-03-27,1.0,1900.0
+25,Quebec,Restrictions on internal movement,2020-03-28,2020-05-17,2.0,40422.0
+26,Quebec,Restrictions on internal movement,2020-10-01,2021-04-06,1.0,243311.0
+0,Quebec,School closing,2020-03-10,2020-03-12,1.0,13.0
+1,Quebec,School closing,2020-03-13,2020-03-15,2.0,7.0
+2,Quebec,School closing,2020-03-16,2020-08-31,3.0,62453.0
+3,Quebec,School closing,2020-09-01,2020-09-30,1.0,11674.0
+4,Quebec,School closing,2020-10-01,2021-02-07,2.0,194837.0
+5,Quebec,School closing,2021-02-08,2021-03-31,1.0,40180.0
+6,Quebec,School closing,2021-04-01,2021-04-06,2.0,6170.0
+19,Quebec,Stay at home requirements,2020-03-16,2020-03-22,1.0,182.0
+20,Quebec,Stay at home requirements,2020-03-23,2020-05-24,2.0,47190.0
+21,Quebec,Stay at home requirements,2020-05-25,2020-06-21,1.0,6782.0
+22,Quebec,Stay at home requirements,2020-10-01,2021-01-08,1.0,147885.0
+23,Quebec,Stay at home requirements,2021-01-09,2021-04-06,2.0,92299.0
+45,Quebec,Testing policy,2020-03-09,2020-05-11,1.0,38465.0
+46,Quebec,Testing policy,2020-05-12,2020-05-21,3.0,6270.0
+47,Quebec,Testing policy,2020-05-22,2021-03-29,2.0,263061.0
+55,Quebec,Vaccination policy,2020-12-14,2020-12-20,1.0,11450.0
+56,Quebec,Vaccination policy,2020-12-21,2021-02-17,2.0,99894.0
+57,Quebec,Vaccination policy,2021-02-23,2021-02-28,2.0,4074.0
+58,Quebec,Vaccination policy,2021-03-01,2021-04-06,3.0,30179.0
+7,Quebec,Workplace closing,2020-03-11,2020-03-14,1.0,10.0
+8,Quebec,Workplace closing,2020-03-15,2020-03-22,2.0,197.0
+9,Quebec,Workplace closing,2020-03-23,2020-05-24,3.0,47190.0
+10,Quebec,Workplace closing,2020-05-25,2021-01-08,2.0,175122.0
+11,Quebec,Workplace closing,2021-01-09,2021-02-07,3.0,43825.0
+12,Quebec,Workplace closing,2021-02-08,2021-04-06,2.0,47621.0

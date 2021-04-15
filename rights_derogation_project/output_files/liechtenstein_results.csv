@@ -1,0 +1,21 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Liechtenstein,Cancel public events,2020-02-28,2020-06-16,2.0,82.0
+6,Liechtenstein,Cancel public events,2020-11-30,2021-02-28,2.0,1297.0
+7,Liechtenstein,Cancel public events,2021-03-01,2021-03-16,1.0,40.0
+17,Liechtenstein,Facial Coverings,2020-07-06,2020-12-31,2.0,2052.0
+18,Liechtenstein,Facial Coverings,2021-03-01,2021-03-16,3.0,40.0
+15,Liechtenstein,Fiscal measures,2020-03-16,2020-03-16,111640000.0,0.0
+13,Liechtenstein,International travel controls,2020-03-16,2020-05-23,2.0,78.0
+14,Liechtenstein,International travel controls,2021-02-08,2021-03-30,2.0,138.0
+19,Liechtenstein,Protection of elderly people,2020-03-16,2020-05-23,1.0,78.0
+16,Liechtenstein,Public information campaigns,2020-03-16,2020-06-02,1.0,78.0
+8,Liechtenstein,Restrictions on gatherings,2020-02-28,2020-03-12,1.0,1.0
+9,Liechtenstein,Restrictions on gatherings,2020-03-13,2020-03-16,4.0,3.0
+10,Liechtenstein,Restrictions on gatherings,2020-03-17,2020-04-26,3.0,75.0
+11,Liechtenstein,Restrictions on gatherings,2020-04-27,2020-06-16,4.0,0.0
+12,Liechtenstein,Restrictions on gatherings,2020-11-30,2021-03-16,4.0,1345.0
+0,Liechtenstein,School closing,2020-03-13,2020-05-10,3.0,81.0
+1,Liechtenstein,School closing,2020-05-11,2020-07-16,1.0,2.0
+2,Liechtenstein,Workplace closing,2020-03-13,2020-04-26,3.0,81.0
+3,Liechtenstein,Workplace closing,2020-04-27,2020-06-16,2.0,0.0
+4,Liechtenstein,Workplace closing,2020-11-30,2021-02-28,2.0,1297.0

@@ -1,0 +1,96 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+15,Bulgaria,Cancel public events,2020-03-11,2020-03-12,1.0,0.0
+16,Bulgaria,Cancel public events,2020-03-13,2020-05-29,2.0,2462.0
+17,Bulgaria,Cancel public events,2020-05-30,2020-07-08,1.0,3843.0
+18,Bulgaria,Cancel public events,2020-07-09,2020-07-12,2.0,580.0
+19,Bulgaria,Cancel public events,2020-07-13,2020-11-26,1.0,129217.0
+20,Bulgaria,Cancel public events,2020-11-27,2021-04-11,2.0,231576.0
+67,Bulgaria,Contact tracing,2020-04-29,2021-04-11,2.0,370084.0
+50,Bulgaria,Debt/contract relief,2020-04-10,2020-06-09,2.0,2254.0
+51,Bulgaria,Debt/contract relief,2020-06-10,2020-12-14,1.0,178551.0
+52,Bulgaria,Debt/contract relief,2020-12-15,2020-12-21,2.0,8185.0
+53,Bulgaria,Debt/contract relief,2020-12-22,2021-04-11,1.0,177260.0
+68,Bulgaria,Emergency investment in healthcare,2020-03-17,2020-03-17,11314041.0,0.0
+69,Bulgaria,Emergency investment in healthcare,2020-03-24,2020-03-24,22309557.26,0.0
+70,Bulgaria,Emergency investment in healthcare,2020-07-27,2020-07-27,201407095.0,0.0
+71,Bulgaria,Emergency investment in healthcare,2020-10-14,2020-10-14,1202079.0,0.0
+72,Bulgaria,Emergency investment in healthcare,2020-11-09,2020-11-09,49238847.0,0.0
+73,Bulgaria,Emergency investment in healthcare,2020-12-16,2020-12-16,9337580.78,0.0
+74,Bulgaria,Emergency investment in healthcare,2020-12-22,2020-12-22,48996143.2,0.0
+75,Bulgaria,Emergency investment in healthcare,2021-03-10,2021-03-10,4258847.03,0.0
+76,Bulgaria,Emergency investment in healthcare,2021-03-26,2021-03-26,57914607.97,0.0
+79,Bulgaria,Facial Coverings,2020-03-30,2020-03-30,3.0,0.0
+80,Bulgaria,Facial Coverings,2020-03-31,2020-04-11,1.0,262.0
+81,Bulgaria,Facial Coverings,2020-04-12,2020-04-30,3.0,831.0
+82,Bulgaria,Facial Coverings,2020-05-01,2020-06-21,1.0,2350.0
+83,Bulgaria,Facial Coverings,2020-06-22,2020-10-22,2.0,30946.0
+84,Bulgaria,Facial Coverings,2020-10-23,2021-04-11,3.0,335012.0
+54,Bulgaria,Fiscal measures,2020-03-16,2020-03-16,284000000.0,0.0
+55,Bulgaria,Fiscal measures,2020-03-19,2020-03-19,5140000000.0,0.0
+56,Bulgaria,Fiscal measures,2020-07-27,2020-07-27,497328915.6,0.0
+57,Bulgaria,Fiscal measures,2020-12-16,2020-12-16,34860301.58,0.0
+58,Bulgaria,Fiscal measures,2020-12-30,2020-12-30,16770996.02,0.0
+59,Bulgaria,Fiscal measures,2021-01-13,2021-01-13,24867180.0,0.0
+60,Bulgaria,Fiscal measures,2021-02-01,2021-02-01,17974514.03,0.0
+61,Bulgaria,Fiscal measures,2021-02-03,2021-02-03,151851703.22,0.0
+62,Bulgaria,Fiscal measures,2021-02-08,2021-02-08,31408401.14,0.0
+63,Bulgaria,Fiscal measures,2021-03-10,2021-03-10,2596223.57,0.0
+47,Bulgaria,Income support,2020-03-30,2020-12-14,2.0,181185.0
+48,Bulgaria,Income support,2020-12-15,2020-12-22,1.0,9984.0
+49,Bulgaria,Income support,2020-12-23,2021-04-11,2.0,175645.0
+39,Bulgaria,International travel controls,2020-02-03,2020-03-16,1.0,52.0
+40,Bulgaria,International travel controls,2020-03-17,2020-05-13,3.0,2002.0
+41,Bulgaria,International travel controls,2020-05-14,2020-05-21,4.0,231.0
+42,Bulgaria,International travel controls,2020-05-22,2020-06-18,3.0,1302.0
+43,Bulgaria,International travel controls,2020-06-19,2020-07-09,2.0,2917.0
+44,Bulgaria,International travel controls,2020-07-10,2021-03-14,3.0,271593.0
+45,Bulgaria,International travel controls,2021-03-15,2021-03-21,2.0,20229.0
+46,Bulgaria,International travel controls,2021-03-22,2021-04-11,3.0,63641.0
+77,Bulgaria,Investment in vaccines,2020-12-09,2020-12-09,13757559.1,0.0
+78,Bulgaria,Investment in vaccines,2020-12-22,2020-12-22,65336487.63,0.0
+90,Bulgaria,Protection of elderly people,2020-03-18,2020-03-30,3.0,267.0
+91,Bulgaria,Protection of elderly people,2020-04-15,2020-04-27,3.0,616.0
+92,Bulgaria,Protection of elderly people,2021-01-28,2021-01-31,1.0,1174.0
+93,Bulgaria,Protection of elderly people,2021-02-10,2021-03-07,1.0,33334.0
+94,Bulgaria,Protection of elderly people,2021-03-15,2021-03-21,1.0,20229.0
+64,Bulgaria,Public information campaigns,2020-02-11,2020-02-23,1.0,0.0
+65,Bulgaria,Public information campaigns,2020-02-24,2021-04-11,2.0,371531.0
+21,Bulgaria,Restrictions on gatherings,2020-03-13,2020-05-30,4.0,2476.0
+22,Bulgaria,Restrictions on gatherings,2020-05-31,2020-06-09,3.0,376.0
+23,Bulgaria,Restrictions on gatherings,2020-06-10,2020-07-08,1.0,3349.0
+24,Bulgaria,Restrictions on gatherings,2020-07-09,2020-07-12,3.0,580.0
+25,Bulgaria,Restrictions on gatherings,2020-07-13,2020-07-30,1.0,4009.0
+26,Bulgaria,Restrictions on gatherings,2020-07-31,2020-08-03,3.0,469.0
+27,Bulgaria,Restrictions on gatherings,2020-08-04,2020-09-11,2.0,5385.0
+28,Bulgaria,Restrictions on gatherings,2020-09-12,2020-10-22,1.0,17039.0
+29,Bulgaria,Restrictions on gatherings,2020-10-23,2020-12-14,3.0,145025.0
+30,Bulgaria,Restrictions on gatherings,2020-12-15,2020-12-21,2.0,8185.0
+31,Bulgaria,Restrictions on gatherings,2020-12-22,2021-03-12,3.0,81588.0
+32,Bulgaria,Restrictions on gatherings,2021-03-13,2021-03-14,4.0,679.0
+33,Bulgaria,Restrictions on gatherings,2021-03-15,2021-04-11,3.0,88337.0
+38,Bulgaria,Restrictions on internal movement,2020-03-18,2020-05-05,2.0,1612.0
+0,Bulgaria,School closing,2020-03-05,2020-03-12,2.0,7.0
+1,Bulgaria,School closing,2020-03-13,2020-05-20,3.0,2269.0
+2,Bulgaria,School closing,2020-05-21,2020-09-14,2.0,15730.0
+3,Bulgaria,School closing,2020-09-15,2020-10-28,1.0,27245.0
+4,Bulgaria,School closing,2020-10-29,2020-11-26,2.0,88478.0
+5,Bulgaria,School closing,2020-11-27,2020-11-29,3.0,2531.0
+6,Bulgaria,School closing,2020-11-30,2021-03-21,2.0,158123.0
+7,Bulgaria,School closing,2021-03-22,2021-03-31,3.0,34743.0
+8,Bulgaria,School closing,2021-04-01,2021-04-11,2.0,25204.0
+34,Bulgaria,Stay at home requirements,2020-03-18,2020-03-31,2.0,307.0
+35,Bulgaria,Stay at home requirements,2020-04-01,2020-04-14,1.0,291.0
+36,Bulgaria,Stay at home requirements,2020-04-15,2020-05-07,2.0,1082.0
+37,Bulgaria,Stay at home requirements,2020-05-08,2020-05-30,1.0,627.0
+66,Bulgaria,Testing policy,2020-03-08,2021-04-11,1.0,371527.0
+85,Bulgaria,Vaccination policy,2020-12-27,2021-01-17,1.0,14097.0
+86,Bulgaria,Vaccination policy,2021-01-18,2021-01-31,3.0,6365.0
+87,Bulgaria,Vaccination policy,2021-02-01,2021-02-09,1.0,6481.0
+88,Bulgaria,Vaccination policy,2021-02-10,2021-02-21,3.0,9692.0
+89,Bulgaria,Vaccination policy,2021-02-22,2021-04-11,5.0,132940.0
+9,Bulgaria,Workplace closing,2020-03-13,2020-10-28,1.0,45438.0
+10,Bulgaria,Workplace closing,2020-10-29,2020-12-14,2.0,133394.0
+11,Bulgaria,Workplace closing,2020-12-15,2020-12-21,3.0,8185.0
+12,Bulgaria,Workplace closing,2020-12-22,2021-03-21,2.0,109152.0
+13,Bulgaria,Workplace closing,2021-03-22,2021-03-31,3.0,34743.0
+14,Bulgaria,Workplace closing,2021-04-01,2021-04-11,2.0,25204.0

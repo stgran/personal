@@ -1,0 +1,58 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Seychelles,Cancel public events,2020-03-15,2020-03-21,1.0,5.0
+10,Seychelles,Cancel public events,2020-03-22,2020-05-31,2.0,4.0
+11,Seychelles,Cancel public events,2020-09-22,2021-01-02,1.0,142.0
+12,Seychelles,Cancel public events,2021-01-03,2021-03-29,2.0,3817.0
+16,Seychelles,Close public transport,2020-04-09,2020-05-03,2.0,0.0
+17,Seychelles,Close public transport,2021-01-06,2021-03-29,1.0,3741.0
+39,Seychelles,Contact tracing,2020-03-15,2021-03-29,2.0,4112.0
+33,Seychelles,Debt/contract relief,2020-03-23,2021-03-29,1.0,4107.0
+40,Seychelles,Emergency investment in healthcare,2020-04-07,2020-04-07,3440000000.0,0.0
+41,Seychelles,Facial Coverings,2020-06-15,2020-09-13,1.0,128.0
+42,Seychelles,Facial Coverings,2020-09-14,2020-10-18,3.0,9.0
+43,Seychelles,Facial Coverings,2020-10-19,2020-11-17,2.0,11.0
+44,Seychelles,Facial Coverings,2020-11-18,2021-01-05,1.0,194.0
+45,Seychelles,Facial Coverings,2021-01-06,2021-01-17,2.0,332.0
+46,Seychelles,Facial Coverings,2021-01-18,2021-01-28,3.0,403.0
+47,Seychelles,Facial Coverings,2021-01-29,2021-02-14,1.0,730.0
+48,Seychelles,Facial Coverings,2021-02-15,2021-03-14,2.0,1405.0
+49,Seychelles,Facial Coverings,2021-03-15,2021-03-29,3.0,772.0
+34,Seychelles,Fiscal measures,2020-03-23,2020-03-23,28000000.0,0.0
+35,Seychelles,Fiscal measures,2020-04-07,2020-04-07,8500000000.0,0.0
+32,Seychelles,Income support,2020-04-01,2021-03-29,2.0,4104.0
+25,Seychelles,International travel controls,2020-02-07,2020-03-09,2.0,0.0
+26,Seychelles,International travel controls,2020-03-10,2020-05-03,3.0,11.0
+27,Seychelles,International travel controls,2020-05-04,2020-05-31,4.0,0.0
+28,Seychelles,International travel controls,2020-06-01,2021-01-13,3.0,601.0
+29,Seychelles,International travel controls,2021-01-14,2021-01-25,1.0,442.0
+30,Seychelles,International travel controls,2021-01-26,2021-03-03,3.0,1774.0
+31,Seychelles,International travel controls,2021-03-04,2021-03-29,1.0,1186.0
+54,Seychelles,Protection of elderly people,2020-04-08,2020-05-03,3.0,0.0
+55,Seychelles,Protection of elderly people,2020-05-05,2020-05-31,3.0,0.0
+56,Seychelles,Protection of elderly people,2021-01-06,2021-03-29,3.0,3741.0
+36,Seychelles,Public information campaigns,2020-01-29,2021-03-29,2.0,4114.0
+13,Seychelles,Restrictions on gatherings,2020-03-30,2020-05-31,4.0,3.0
+14,Seychelles,Restrictions on gatherings,2020-10-12,2021-01-22,1.0,824.0
+15,Seychelles,Restrictions on gatherings,2021-01-23,2021-03-29,4.0,3081.0
+22,Seychelles,Restrictions on internal movement,2020-04-08,2020-05-03,2.0,0.0
+23,Seychelles,Restrictions on internal movement,2021-01-18,2021-01-25,2.0,323.0
+24,Seychelles,Restrictions on internal movement,2021-01-26,2021-03-29,1.0,2998.0
+0,Seychelles,School closing,2020-03-16,2020-05-17,3.0,8.0
+1,Seychelles,School closing,2020-05-18,2021-01-22,1.0,961.0
+2,Seychelles,School closing,2021-01-23,2021-03-14,3.0,2282.0
+3,Seychelles,School closing,2021-03-15,2021-03-29,2.0,772.0
+18,Seychelles,Stay at home requirements,2020-04-08,2020-05-03,2.0,0.0
+19,Seychelles,Stay at home requirements,2020-05-04,2020-05-31,1.0,0.0
+20,Seychelles,Stay at home requirements,2021-01-06,2021-02-28,2.0,2245.0
+21,Seychelles,Stay at home requirements,2021-03-01,2021-03-29,1.0,1426.0
+37,Seychelles,Testing policy,2020-03-14,2021-03-14,2.0,3313.0
+38,Seychelles,Testing policy,2021-03-15,2021-03-29,3.0,772.0
+50,Seychelles,Vaccination policy,2021-01-10,2021-01-27,1.0,598.0
+51,Seychelles,Vaccination policy,2021-01-28,2021-02-22,2.0,1315.0
+52,Seychelles,Vaccination policy,2021-02-23,2021-03-22,4.0,1284.0
+53,Seychelles,Vaccination policy,2021-03-23,2021-03-29,5.0,316.0
+4,Seychelles,Workplace closing,2020-04-08,2020-05-03,3.0,0.0
+5,Seychelles,Workplace closing,2020-05-04,2020-05-31,2.0,0.0
+6,Seychelles,Workplace closing,2021-01-06,2021-01-17,2.0,332.0
+7,Seychelles,Workplace closing,2021-01-18,2021-02-14,3.0,1146.0
+8,Seychelles,Workplace closing,2021-02-15,2021-03-29,2.0,2204.0

@@ -1,0 +1,59 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+17,Malaysia,Cancel public events,2020-03-07,2020-03-17,1.0,580.0
+18,Malaysia,Cancel public events,2020-03-18,2020-12-06,2.0,71904.0
+19,Malaysia,Cancel public events,2020-12-07,2021-01-12,1.0,67239.0
+20,Malaysia,Cancel public events,2021-01-13,2021-04-05,2.0,207511.0
+25,Malaysia,Close public transport,2020-10-26,2021-03-15,1.0,297166.0
+49,Malaysia,Contact tracing,2020-01-24,2021-04-05,2.0,352029.0
+39,Malaysia,Debt/contract relief,2020-04-01,2021-04-05,2.0,349121.0
+50,Malaysia,Emergency investment in healthcare,2020-02-27,2020-02-27,35625000.0,0.0
+51,Malaysia,Emergency investment in healthcare,2020-03-27,2020-03-27,346650000.0,0.0
+52,Malaysia,Facial Coverings,2020-03-01,2020-09-20,2.0,10190.0
+53,Malaysia,Facial Coverings,2020-09-21,2021-04-05,3.0,341753.0
+40,Malaysia,Fiscal measures,2020-02-27,2020-02-27,6600000000.0,0.0
+41,Malaysia,Fiscal measures,2020-03-27,2020-03-27,57800000000.0,0.0
+42,Malaysia,Fiscal measures,2020-06-05,2020-06-05,8200000000.0,0.0
+43,Malaysia,Fiscal measures,2020-11-06,2020-11-06,4800000000.0,0.0
+44,Malaysia,Fiscal measures,2021-01-18,2021-01-18,3700000000.0,0.0
+45,Malaysia,Fiscal measures,2021-03-17,2021-03-17,4830000000.0,0.0
+38,Malaysia,Income support,2020-04-06,2021-04-05,1.0,348236.0
+32,Malaysia,International travel controls,2020-01-30,2020-05-22,3.0,7129.0
+33,Malaysia,International travel controls,2020-05-23,2020-06-18,4.0,1344.0
+34,Malaysia,International travel controls,2020-06-19,2020-09-20,3.0,1684.0
+35,Malaysia,International travel controls,2020-09-21,2020-11-02,2.0,23063.0
+36,Malaysia,International travel controls,2020-11-03,2020-12-06,4.0,38301.0
+37,Malaysia,International travel controls,2020-12-07,2021-04-05,3.0,277735.0
+57,Malaysia,Protection of elderly people,2020-03-21,2021-04-05,3.0,350846.0
+46,Malaysia,Public information campaigns,2020-01-16,2021-04-05,2.0,352029.0
+21,Malaysia,Restrictions on gatherings,2020-03-12,2020-05-22,2.0,6988.0
+22,Malaysia,Restrictions on gatherings,2020-05-23,2020-06-09,3.0,1151.0
+23,Malaysia,Restrictions on gatherings,2020-06-10,2020-11-02,2.0,25001.0
+24,Malaysia,Restrictions on gatherings,2020-11-03,2021-04-05,4.0,317636.0
+28,Malaysia,Restrictions on internal movement,2020-03-18,2020-06-09,2.0,7546.0
+29,Malaysia,Restrictions on internal movement,2020-08-03,2020-12-06,2.0,63693.0
+30,Malaysia,Restrictions on internal movement,2020-12-07,2021-01-12,1.0,67239.0
+31,Malaysia,Restrictions on internal movement,2021-01-13,2021-04-05,2.0,207511.0
+0,Malaysia,School closing,2020-03-14,2020-06-23,3.0,8352.0
+1,Malaysia,School closing,2020-06-24,2020-07-21,2.0,219.0
+2,Malaysia,School closing,2020-07-22,2020-08-02,1.0,168.0
+3,Malaysia,School closing,2020-08-03,2020-09-10,2.0,627.0
+4,Malaysia,School closing,2020-09-11,2020-10-08,1.0,4558.0
+5,Malaysia,School closing,2020-10-09,2021-02-28,3.0,286030.0
+6,Malaysia,School closing,2021-03-01,2021-04-04,2.0,48379.0
+7,Malaysia,School closing,2021-04-05,2021-04-05,1.0,0.0
+26,Malaysia,Stay at home requirements,2020-03-18,2020-06-09,1.0,7546.0
+27,Malaysia,Stay at home requirements,2020-10-14,2021-04-05,2.0,334489.0
+47,Malaysia,Testing policy,2020-01-16,2020-04-07,1.0,3963.0
+48,Malaysia,Testing policy,2020-04-08,2021-04-05,3.0,347910.0
+54,Malaysia,Vaccination policy,2021-02-24,2021-03-15,2.0,33197.0
+55,Malaysia,Vaccination policy,2021-03-16,2021-03-22,1.0,8122.0
+56,Malaysia,Vaccination policy,2021-03-23,2021-04-05,2.0,16489.0
+8,Malaysia,Workplace closing,2020-03-18,2020-05-03,3.0,5508.0
+9,Malaysia,Workplace closing,2020-05-04,2020-09-28,2.0,4681.0
+10,Malaysia,Workplace closing,2020-09-29,2020-10-22,3.0,12669.0
+11,Malaysia,Workplace closing,2020-10-23,2020-11-02,2.0,8825.0
+12,Malaysia,Workplace closing,2020-11-03,2020-11-08,3.0,5816.0
+13,Malaysia,Workplace closing,2020-11-09,2020-11-09,2.0,0.0
+14,Malaysia,Workplace closing,2020-11-10,2020-12-06,3.0,30644.0
+15,Malaysia,Workplace closing,2020-12-07,2021-01-12,2.0,67239.0
+16,Malaysia,Workplace closing,2021-01-13,2021-04-05,3.0,207511.0

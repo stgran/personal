@@ -1,0 +1,70 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Estonia,Cancel public events,2020-03-12,2020-05-31,2.0,1853.0
+13,Estonia,Cancel public events,2020-06-01,2020-12-11,1.0,15086.0
+14,Estonia,Cancel public events,2020-12-12,2021-01-17,2.0,19366.0
+15,Estonia,Cancel public events,2021-01-18,2021-03-10,1.0,41629.0
+16,Estonia,Cancel public events,2021-03-11,2021-04-10,2.0,32807.0
+53,Estonia,Contact tracing,2020-08-20,2021-03-07,1.0,72776.0
+54,Estonia,Contact tracing,2021-03-08,2021-04-10,2.0,37553.0
+35,Estonia,Debt/contract relief,2020-03-13,2020-04-26,1.0,1564.0
+36,Estonia,Debt/contract relief,2020-04-27,2021-04-10,2.0,112089.0
+55,Estonia,Emergency investment in healthcare,2020-04-16,2020-04-16,325949.0,0.0
+56,Estonia,Emergency investment in healthcare,2020-11-03,2020-11-03,1044942.0,0.0
+57,Estonia,Facial Coverings,2020-05-08,2020-09-13,1.0,951.0
+58,Estonia,Facial Coverings,2020-09-14,2020-10-19,2.0,1387.0
+59,Estonia,Facial Coverings,2020-10-20,2020-11-11,1.0,2381.0
+60,Estonia,Facial Coverings,2020-11-12,2021-04-10,2.0,106855.0
+37,Estonia,Fiscal measures,2020-03-16,2020-03-16,434.0,0.0
+38,Estonia,Fiscal measures,2020-03-19,2020-03-19,2160000000.0,0.0
+39,Estonia,Fiscal measures,2020-04-24,2020-04-24,569170000.0,0.0
+40,Estonia,Fiscal measures,2020-04-28,2020-04-28,37815296.0,0.0
+41,Estonia,Fiscal measures,2020-05-06,2020-05-06,11884807.0,0.0
+42,Estonia,Fiscal measures,2020-05-14,2020-05-14,76600000.0,0.0
+43,Estonia,Fiscal measures,2020-05-21,2020-05-21,161260000.0,0.0
+44,Estonia,Fiscal measures,2020-12-17,2020-12-17,6134750.0,0.0
+45,Estonia,Fiscal measures,2020-12-23,2020-12-23,28039300.0,0.0
+46,Estonia,Fiscal measures,2021-01-07,2021-01-07,5226713.0,0.0
+32,Estonia,Income support,2020-03-01,2020-05-31,2.0,1868.0
+33,Estonia,Income support,2020-06-01,2020-06-30,1.0,119.0
+34,Estonia,Income support,2021-03-08,2021-04-10,2.0,37553.0
+47,Estonia,International support,2020-04-12,2020-04-12,111000.0,0.0
+48,Estonia,International support,2020-04-17,2020-04-17,220000.0,0.0
+27,Estonia,International travel controls,2020-03-12,2020-03-16,1.0,189.0
+28,Estonia,International travel controls,2020-03-17,2020-04-26,3.0,1418.0
+29,Estonia,International travel controls,2020-04-27,2020-09-13,2.0,1029.0
+30,Estonia,International travel controls,2020-09-14,2021-03-14,3.0,82109.0
+31,Estonia,International travel controls,2021-03-15,2021-04-10,2.0,27650.0
+64,Estonia,Protection of elderly people,2020-03-12,2020-04-02,1.0,842.0
+65,Estonia,Protection of elderly people,2020-04-03,2020-05-31,3.0,908.0
+66,Estonia,Protection of elderly people,2020-06-01,2020-09-13,2.0,806.0
+67,Estonia,Protection of elderly people,2020-09-14,2020-12-13,1.0,15357.0
+68,Estonia,Protection of elderly people,2021-02-16,2021-04-10,2.0,60292.0
+49,Estonia,Public information campaigns,2020-03-12,2021-04-10,2.0,113720.0
+17,Estonia,Restrictions on gatherings,2020-03-25,2020-05-31,4.0,1465.0
+18,Estonia,Restrictions on gatherings,2020-06-01,2020-06-30,3.0,119.0
+19,Estonia,Restrictions on gatherings,2020-07-01,2020-07-27,2.0,45.0
+20,Estonia,Restrictions on gatherings,2020-07-28,2020-11-15,1.0,5599.0
+21,Estonia,Restrictions on gatherings,2020-11-16,2021-02-02,4.0,37130.0
+22,Estonia,Restrictions on gatherings,2021-02-03,2021-03-10,2.0,33310.0
+23,Estonia,Restrictions on gatherings,2021-03-11,2021-04-10,4.0,32807.0
+26,Estonia,Restrictions on internal movement,2020-03-14,2020-05-07,2.0,1605.0
+0,Estonia,School closing,2020-03-16,2020-05-14,3.0,1553.0
+1,Estonia,School closing,2020-05-15,2020-12-13,1.0,16289.0
+2,Estonia,School closing,2020-12-14,2021-01-10,3.0,15131.0
+3,Estonia,School closing,2021-01-11,2021-01-28,2.0,8851.0
+4,Estonia,School closing,2021-01-29,2021-03-10,1.0,35630.0
+5,Estonia,School closing,2021-03-11,2021-03-15,3.0,5157.0
+6,Estonia,School closing,2021-03-16,2021-04-10,2.0,26188.0
+24,Estonia,Stay at home requirements,2020-03-29,2020-05-17,2.0,1095.0
+25,Estonia,Stay at home requirements,2021-03-11,2021-04-10,1.0,32807.0
+50,Estonia,Testing policy,2020-03-12,2020-04-07,1.0,1133.0
+51,Estonia,Testing policy,2020-04-08,2021-03-15,2.0,84901.0
+52,Estonia,Testing policy,2021-03-16,2021-04-10,1.0,26188.0
+61,Estonia,Vaccination policy,2020-12-27,2021-01-09,1.0,7697.0
+62,Estonia,Vaccination policy,2021-01-10,2021-03-07,2.0,41487.0
+63,Estonia,Vaccination policy,2021-03-08,2021-04-10,3.0,37553.0
+7,Estonia,Workplace closing,2020-03-27,2020-05-10,3.0,1164.0
+8,Estonia,Workplace closing,2020-05-11,2020-05-31,2.0,128.0
+9,Estonia,Workplace closing,2020-06-01,2020-12-11,1.0,15086.0
+10,Estonia,Workplace closing,2020-12-12,2021-03-10,2.0,61260.0
+11,Estonia,Workplace closing,2021-03-11,2021-04-10,3.0,32807.0

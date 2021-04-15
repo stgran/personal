@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Manitoba,Cancel public events,2020-01-01,2020-03-12,1.0,0.0
+14,Manitoba,Cancel public events,2020-03-13,2021-04-04,2.0,34418.0
+44,Manitoba,Contact tracing,2020-01-28,2021-04-04,2.0,34419.0
+30,Manitoba,Debt/contract relief,2020-03-25,2020-04-02,1.0,141.0
+31,Manitoba,Debt/contract relief,2020-04-03,2020-09-30,2.0,1829.0
+45,Manitoba,Emergency investment in healthcare,2020-03-10,2020-03-10,25639158.0,0.0
+46,Manitoba,Emergency investment in healthcare,2020-03-27,2020-03-27,3214286.0,0.0
+47,Manitoba,Emergency investment in healthcare,2020-04-03,2020-04-03,35000000.0,0.0
+48,Manitoba,Emergency investment in healthcare,2020-04-08,2020-04-08,5714285.71,0.0
+49,Manitoba,Emergency investment in healthcare,2020-04-15,2020-04-15,355000000.0,0.0
+50,Manitoba,Emergency investment in healthcare,2020-04-17,2020-04-17,107000000.0,0.0
+52,Manitoba,Facial Coverings,2020-04-20,2020-08-23,2.0,698.0
+53,Manitoba,Facial Coverings,2020-08-24,2020-09-17,3.0,507.0
+54,Manitoba,Facial Coverings,2020-09-18,2020-09-27,2.0,340.0
+55,Manitoba,Facial Coverings,2020-09-28,2020-10-03,3.0,189.0
+56,Manitoba,Facial Coverings,2020-10-04,2020-11-11,4.0,7168.0
+57,Manitoba,Facial Coverings,2020-11-12,2021-03-04,3.0,22269.0
+58,Manitoba,Facial Coverings,2021-03-05,2021-04-04,4.0,2320.0
+32,Manitoba,Fiscal measures,2020-03-20,2020-03-20,19252232.0,0.0
+33,Manitoba,Fiscal measures,2020-04-01,2020-04-01,12676056.0,0.0
+34,Manitoba,Fiscal measures,2020-04-03,2020-04-03,35000000.0,0.0
+35,Manitoba,Fiscal measures,2020-04-15,2020-04-15,355000000.0,0.0
+36,Manitoba,Fiscal measures,2020-04-17,2020-04-17,107000000.0,0.0
+37,Manitoba,Fiscal measures,2020-04-22,2020-04-22,84507042.0,0.0
+38,Manitoba,Fiscal measures,2020-05-05,2020-05-05,32142857.01,0.0
+39,Manitoba,Fiscal measures,2020-05-26,2020-05-26,3333333.33,0.0
+28,Manitoba,Income support,2020-03-15,2020-12-01,2.0,17103.0
+29,Manitoba,Income support,2020-12-02,2021-04-04,1.0,17035.0
+27,Manitoba,International travel controls,2020-03-16,2021-04-04,4.0,34415.0
+51,Manitoba,Investment in vaccines,2020-03-23,2020-03-23,551724.0,0.0
+63,Manitoba,Protection of elderly people,2020-03-14,2020-03-14,1.0,0.0
+64,Manitoba,Protection of elderly people,2020-03-15,2020-03-16,2.0,0.0
+65,Manitoba,Protection of elderly people,2020-03-17,2020-05-28,3.0,276.0
+66,Manitoba,Protection of elderly people,2020-05-29,2020-08-26,2.0,760.0
+67,Manitoba,Protection of elderly people,2020-08-27,2021-04-04,3.0,33355.0
+40,Manitoba,Public information campaigns,2020-01-20,2020-03-24,1.0,11.0
+41,Manitoba,Public information campaigns,2020-03-25,2021-04-04,2.0,34408.0
+15,Manitoba,Restrictions on gatherings,2020-03-13,2020-03-17,2.0,6.0
+16,Manitoba,Restrictions on gatherings,2020-03-18,2020-10-18,3.0,3294.0
+17,Manitoba,Restrictions on gatherings,2020-10-19,2021-03-25,4.0,30312.0
+18,Manitoba,Restrictions on gatherings,2021-03-26,2021-04-04,3.0,609.0
+23,Manitoba,Restrictions on internal movement,2020-03-13,2020-04-16,1.0,238.0
+24,Manitoba,Restrictions on internal movement,2020-04-17,2020-06-20,2.0,63.0
+25,Manitoba,Restrictions on internal movement,2020-06-21,2020-09-02,1.0,942.0
+26,Manitoba,Restrictions on internal movement,2020-09-03,2021-04-04,2.0,33155.0
+0,Manitoba,School closing,2020-03-12,2020-03-22,1.0,11.0
+1,Manitoba,School closing,2020-03-23,2020-09-07,2.0,1327.0
+2,Manitoba,School closing,2020-09-08,2020-10-25,1.0,2900.0
+3,Manitoba,School closing,2020-10-26,2021-04-04,2.0,30070.0
+19,Manitoba,Stay at home requirements,2020-03-13,2020-10-03,1.0,2107.0
+20,Manitoba,Stay at home requirements,2020-10-04,2021-02-20,2.0,29189.0
+21,Manitoba,Stay at home requirements,2021-02-21,2021-03-04,1.0,665.0
+22,Manitoba,Stay at home requirements,2021-03-05,2021-04-04,2.0,2320.0
+42,Manitoba,Testing policy,2020-01-28,2020-04-27,1.0,261.0
+43,Manitoba,Testing policy,2020-04-28,2021-03-29,2.0,33714.0
+59,Manitoba,Vaccination policy,2020-12-16,2021-01-10,1.0,4491.0
+60,Manitoba,Vaccination policy,2021-01-11,2021-02-17,2.0,4558.0
+61,Manitoba,Vaccination policy,2021-02-23,2021-03-28,2.0,2377.0
+62,Manitoba,Vaccination policy,2021-03-29,2021-04-04,3.0,444.0
+4,Manitoba,Workplace closing,2020-03-12,2020-03-17,1.0,7.0
+5,Manitoba,Workplace closing,2020-03-18,2020-03-31,2.0,83.0
+6,Manitoba,Workplace closing,2020-04-01,2020-05-03,3.0,161.0
+7,Manitoba,Workplace closing,2020-05-04,2020-05-31,2.0,14.0
+8,Manitoba,Workplace closing,2020-06-01,2020-10-18,1.0,3018.0
+9,Manitoba,Workplace closing,2020-10-19,2020-11-01,2.0,2652.0
+10,Manitoba,Workplace closing,2020-11-02,2021-02-11,3.0,24232.0
+11,Manitoba,Workplace closing,2021-02-12,2021-03-04,2.0,1463.0
+12,Manitoba,Workplace closing,2021-03-05,2021-04-04,3.0,2320.0

@@ -1,0 +1,76 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+18,Prince Edward Island,Cancel public events,2020-01-01,2020-03-15,1.0,1.0
+19,Prince Edward Island,Cancel public events,2020-03-16,2020-06-25,2.0,26.0
+20,Prince Edward Island,Cancel public events,2020-06-26,2020-12-06,1.0,53.0
+21,Prince Edward Island,Cancel public events,2020-12-07,2020-12-17,2.0,6.0
+22,Prince Edward Island,Cancel public events,2020-12-18,2021-02-27,1.0,37.0
+23,Prince Edward Island,Cancel public events,2021-02-28,2021-03-12,2.0,11.0
+24,Prince Edward Island,Cancel public events,2021-03-13,2021-04-08,1.0,18.0
+59,Prince Edward Island,Contact tracing,2020-03-15,2021-04-08,2.0,160.0
+41,Prince Edward Island,Debt/contract relief,2020-03-18,2020-03-19,1.0,1.0
+42,Prince Edward Island,Debt/contract relief,2020-03-20,2020-12-30,2.0,94.0
+43,Prince Edward Island,Debt/contract relief,2020-12-31,2021-03-29,1.0,60.0
+60,Prince Edward Island,Emergency investment in healthcare,2021-01-12,2021-01-12,172000.0,0.0
+61,Prince Edward Island,Emergency investment in healthcare,2021-02-22,2021-02-22,476000.0,0.0
+62,Prince Edward Island,Facial Coverings,2020-04-27,2020-11-19,2.0,42.0
+63,Prince Edward Island,Facial Coverings,2020-11-20,2021-04-08,3.0,93.0
+44,Prince Edward Island,Fiscal measures,2020-03-16,2020-03-16,17900000.0,0.0
+45,Prince Edward Island,Fiscal measures,2020-03-20,2020-03-20,1392000.0,0.0
+46,Prince Edward Island,Fiscal measures,2020-04-02,2020-04-02,710000.0,0.0
+47,Prince Edward Island,Fiscal measures,2020-04-03,2020-04-03,10650000.0,0.0
+48,Prince Edward Island,Fiscal measures,2020-04-09,2020-04-09,536000.0,0.0
+49,Prince Edward Island,Fiscal measures,2020-04-14,2020-04-14,70000.0,0.0
+50,Prince Edward Island,Fiscal measures,2020-04-16,2020-04-16,46660000.0,0.0
+51,Prince Edward Island,Fiscal measures,2020-04-23,2020-04-23,9650000.0,0.0
+52,Prince Edward Island,Fiscal measures,2020-05-07,2020-05-07,11960000.0,0.0
+53,Prince Edward Island,Fiscal measures,2020-10-15,2020-10-15,755000.0,0.0
+54,Prince Edward Island,Fiscal measures,2020-11-09,2020-11-09,916000.0,0.0
+39,Prince Edward Island,Income support,2020-03-15,2020-12-01,2.0,71.0
+40,Prince Edward Island,Income support,2020-12-02,2021-04-08,1.0,89.0
+37,Prince Edward Island,International travel controls,2020-02-28,2020-03-15,2.0,1.0
+38,Prince Edward Island,International travel controls,2020-03-16,2021-04-08,4.0,160.0
+68,Prince Edward Island,Protection of elderly people,2020-03-09,2020-03-14,1.0,0.0
+69,Prince Edward Island,Protection of elderly people,2020-03-15,2020-05-31,3.0,26.0
+70,Prince Edward Island,Protection of elderly people,2020-06-01,2020-08-31,2.0,17.0
+71,Prince Edward Island,Protection of elderly people,2020-09-01,2020-11-23,1.0,25.0
+72,Prince Edward Island,Protection of elderly people,2020-11-24,2020-12-06,2.0,11.0
+73,Prince Edward Island,Protection of elderly people,2020-12-07,2020-12-17,3.0,6.0
+74,Prince Edward Island,Protection of elderly people,2020-12-18,2021-04-08,2.0,71.0
+55,Prince Edward Island,Public information campaigns,2020-01-20,2020-03-10,1.0,0.0
+56,Prince Edward Island,Public information campaigns,2020-03-11,2021-04-08,2.0,161.0
+25,Prince Edward Island,Restrictions on gatherings,2020-03-16,2020-05-31,4.0,26.0
+26,Prince Edward Island,Restrictions on gatherings,2020-06-01,2020-12-06,3.0,53.0
+27,Prince Edward Island,Restrictions on gatherings,2020-12-07,2020-12-17,4.0,6.0
+28,Prince Edward Island,Restrictions on gatherings,2020-12-18,2021-02-28,3.0,42.0
+29,Prince Edward Island,Restrictions on gatherings,2021-03-01,2021-03-03,4.0,5.0
+30,Prince Edward Island,Restrictions on gatherings,2021-03-04,2021-04-08,3.0,23.0
+36,Prince Edward Island,Restrictions on internal movement,2020-03-21,2021-04-08,2.0,159.0
+0,Prince Edward Island,School closing,2020-03-16,2020-03-16,2.0,0.0
+1,Prince Edward Island,School closing,2020-03-17,2020-07-05,3.0,31.0
+2,Prince Edward Island,School closing,2020-07-06,2020-09-07,2.0,19.0
+3,Prince Edward Island,School closing,2020-09-08,2020-12-06,1.0,27.0
+4,Prince Edward Island,School closing,2020-12-07,2021-01-05,2.0,13.0
+5,Prince Edward Island,School closing,2021-01-06,2021-02-28,1.0,31.0
+6,Prince Edward Island,School closing,2021-03-01,2021-03-03,3.0,5.0
+7,Prince Edward Island,School closing,2021-03-04,2021-04-08,1.0,23.0
+31,Prince Edward Island,Stay at home requirements,2020-03-17,2020-12-06,1.0,79.0
+32,Prince Edward Island,Stay at home requirements,2020-12-07,2020-12-17,2.0,6.0
+33,Prince Edward Island,Stay at home requirements,2020-12-18,2021-02-28,1.0,42.0
+34,Prince Edward Island,Stay at home requirements,2021-03-01,2021-03-03,2.0,5.0
+35,Prince Edward Island,Stay at home requirements,2021-03-04,2021-04-08,1.0,23.0
+57,Prince Edward Island,Testing policy,2020-03-14,2020-09-07,1.0,51.0
+58,Prince Edward Island,Testing policy,2020-09-08,2021-03-29,2.0,103.0
+64,Prince Edward Island,Vaccination policy,2020-12-16,2021-01-03,1.0,7.0
+65,Prince Edward Island,Vaccination policy,2021-01-04,2021-01-10,2.0,6.0
+66,Prince Edward Island,Vaccination policy,2021-01-11,2021-02-17,3.0,12.0
+67,Prince Edward Island,Vaccination policy,2021-02-23,2021-04-08,3.0,46.0
+8,Prince Edward Island,Workplace closing,2020-03-16,2020-03-17,2.0,0.0
+9,Prince Edward Island,Workplace closing,2020-03-18,2020-04-30,3.0,26.0
+10,Prince Edward Island,Workplace closing,2020-05-01,2020-07-19,2.0,9.0
+11,Prince Edward Island,Workplace closing,2020-07-20,2020-12-06,1.0,44.0
+12,Prince Edward Island,Workplace closing,2020-12-07,2020-12-17,2.0,6.0
+13,Prince Edward Island,Workplace closing,2020-12-18,2021-02-27,1.0,37.0
+14,Prince Edward Island,Workplace closing,2021-02-28,2021-02-28,2.0,0.0
+15,Prince Edward Island,Workplace closing,2021-03-01,2021-03-03,3.0,5.0
+16,Prince Edward Island,Workplace closing,2021-03-04,2021-03-12,2.0,5.0
+17,Prince Edward Island,Workplace closing,2021-03-13,2021-04-08,1.0,18.0

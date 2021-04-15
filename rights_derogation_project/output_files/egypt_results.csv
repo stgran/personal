@@ -1,0 +1,39 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+3,Egypt,Cancel public events,2020-03-21,2021-03-29,2.0,200445.0
+7,Egypt,Close public transport,2020-03-25,2020-06-06,2.0,32156.0
+8,Egypt,Close public transport,2020-06-07,2020-10-15,1.0,70954.0
+9,Egypt,Close public transport,2020-10-16,2020-11-01,2.0,2577.0
+29,Egypt,Contact tracing,2020-02-14,2021-03-21,2.0,195417.0
+20,Egypt,Debt/contract relief,2020-03-22,2021-03-29,2.0,200412.0
+30,Egypt,Emergency investment in healthcare,2020-03-14,2020-03-14,23980000.0,0.0
+31,Egypt,Emergency investment in healthcare,2020-03-25,2020-03-25,64000000.0,0.0
+32,Egypt,Emergency investment in healthcare,2020-05-06,2020-05-06,507000000.0,0.0
+33,Egypt,Facial Coverings,2020-04-26,2020-10-20,2.0,101171.0
+34,Egypt,Facial Coverings,2020-10-21,2021-01-02,3.0,34995.0
+35,Egypt,Facial Coverings,2021-01-03,2021-03-29,4.0,58552.0
+21,Egypt,Fiscal measures,2020-03-14,2020-03-14,6367000000.0,0.0
+22,Egypt,Fiscal measures,2020-03-22,2020-03-22,1269000000.0,0.0
+23,Egypt,Fiscal measures,2020-04-07,2020-04-07,6130000000.0,0.0
+24,Egypt,Fiscal measures,2020-05-27,2020-05-27,3157761778.5,0.0
+25,Egypt,Fiscal measures,2020-10-06,2020-10-06,216557.0,0.0
+19,Egypt,Income support,2020-05-31,2021-03-29,1.0,175754.0
+15,Egypt,International travel controls,2020-03-19,2020-06-30,4.0,68055.0
+16,Egypt,International travel controls,2020-08-03,2020-10-15,1.0,10393.0
+17,Egypt,International travel controls,2020-10-16,2020-11-01,2.0,2577.0
+18,Egypt,International travel controls,2020-11-02,2021-03-29,1.0,92814.0
+26,Egypt,Public information campaigns,2020-03-24,2021-03-29,2.0,200337.0
+4,Egypt,Restrictions on gatherings,2020-03-25,2020-10-15,1.0,104577.0
+5,Egypt,Restrictions on gatherings,2020-10-16,2020-12-21,2.0,21114.0
+6,Egypt,Restrictions on gatherings,2020-12-22,2021-03-29,4.0,73678.0
+14,Egypt,Restrictions on internal movement,2020-03-25,2021-01-17,2.0,155941.0
+0,Egypt,School closing,2020-03-15,2020-06-06,3.0,32502.0
+1,Egypt,School closing,2020-06-07,2021-03-29,2.0,166660.0
+10,Egypt,Stay at home requirements,2020-03-25,2020-06-06,2.0,32156.0
+11,Egypt,Stay at home requirements,2020-06-07,2020-10-15,1.0,70954.0
+12,Egypt,Stay at home requirements,2020-10-16,2020-11-01,2.0,2577.0
+13,Egypt,Stay at home requirements,2020-11-02,2021-03-21,1.0,87493.0
+27,Egypt,Testing policy,2020-02-14,2020-05-24,1.0,17264.0
+28,Egypt,Testing policy,2020-05-25,2021-03-29,2.0,182772.0
+36,Egypt,Vaccination policy,2021-01-24,2021-03-03,1.0,22351.0
+37,Egypt,Vaccination policy,2021-03-04,2021-03-29,3.0,15984.0
+2,Egypt,Workplace closing,2020-03-16,2021-03-29,2.0,200589.0

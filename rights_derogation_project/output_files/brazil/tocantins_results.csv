@@ -1,0 +1,42 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Tocantins,Cancel public events,2020-03-13,2020-03-15,1.0,0.0
+13,Tocantins,Cancel public events,2020-03-16,2021-03-19,2.0,131765.0
+17,Tocantins,Close public transport,2020-03-21,2021-02-25,1.0,112821.0
+18,Tocantins,Close public transport,2021-02-26,2021-03-19,2.0,18171.0
+35,Tocantins,Contact tracing,2020-04-01,2021-03-19,2.0,131753.0
+31,Tocantins,Debt/contract relief,2020-03-17,2020-12-26,1.0,89289.0
+36,Tocantins,Facial Coverings,2020-04-05,2020-04-16,2.0,14.0
+37,Tocantins,Facial Coverings,2020-04-17,2021-01-11,4.0,93863.0
+27,Tocantins,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+28,Tocantins,International travel controls,2020-03-18,2020-03-26,3.0,7.0
+29,Tocantins,International travel controls,2020-03-27,2020-07-28,4.0,23508.0
+30,Tocantins,International travel controls,2020-07-29,2021-03-19,1.0,107487.0
+38,Tocantins,Protection of elderly people,2020-03-14,2021-01-05,1.0,91596.0
+39,Tocantins,Protection of elderly people,2021-01-07,2021-02-28,1.0,22021.0
+40,Tocantins,Protection of elderly people,2021-03-01,2021-03-19,2.0,16424.0
+32,Tocantins,Public information campaigns,2020-01-26,2021-03-19,2.0,131765.0
+14,Tocantins,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,0.0
+15,Tocantins,Restrictions on gatherings,2020-03-16,2020-03-20,3.0,1.0
+16,Tocantins,Restrictions on gatherings,2020-03-21,2021-03-19,4.0,131763.0
+23,Tocantins,Restrictions on internal movement,2020-03-18,2020-03-21,1.0,1.0
+24,Tocantins,Restrictions on internal movement,2020-03-22,2020-10-08,2.0,70699.0
+25,Tocantins,Restrictions on internal movement,2020-12-29,2020-12-31,2.0,489.0
+26,Tocantins,Restrictions on internal movement,2021-02-19,2021-03-19,2.0,22247.0
+0,Tocantins,School closing,2020-03-14,2020-03-17,2.0,0.0
+1,Tocantins,School closing,2020-03-18,2020-03-20,3.0,0.0
+2,Tocantins,School closing,2020-03-21,2020-04-21,2.0,34.0
+3,Tocantins,School closing,2020-04-22,2020-09-29,3.0,67966.0
+4,Tocantins,School closing,2020-09-30,2021-02-25,2.0,44217.0
+5,Tocantins,School closing,2021-02-26,2021-03-19,3.0,18171.0
+19,Tocantins,Stay at home requirements,2020-03-21,2020-05-15,1.0,1277.0
+20,Tocantins,Stay at home requirements,2020-05-16,2020-05-23,2.0,1048.0
+21,Tocantins,Stay at home requirements,2020-05-24,2021-02-28,1.0,111771.0
+22,Tocantins,Stay at home requirements,2021-03-01,2021-03-19,2.0,16424.0
+33,Tocantins,Testing policy,2020-04-22,2020-05-05,1.0,314.0
+34,Tocantins,Testing policy,2020-05-06,2021-03-19,2.0,131342.0
+6,Tocantins,Workplace closing,2020-03-16,2020-03-17,2.0,0.0
+7,Tocantins,Workplace closing,2020-03-18,2020-06-14,3.0,7136.0
+8,Tocantins,Workplace closing,2020-06-15,2020-07-12,2.0,7998.0
+9,Tocantins,Workplace closing,2020-07-13,2020-08-30,3.0,34971.0
+10,Tocantins,Workplace closing,2020-08-31,2021-03-02,2.0,64409.0
+11,Tocantins,Workplace closing,2021-03-03,2021-03-19,3.0,14853.0

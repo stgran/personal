@@ -1,0 +1,73 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Belgium,Cancel public events,2020-03-10,2020-03-13,1.0,292.0
+14,Belgium,Cancel public events,2020-03-14,2020-09-29,2.0,116426.0
+15,Belgium,Cancel public events,2020-09-30,2020-11-01,1.0,322566.0
+16,Belgium,Cancel public events,2020-11-02,2021-04-09,2.0,470562.0
+20,Belgium,Close public transport,2021-04-03,2021-04-09,1.0,20443.0
+56,Belgium,Contact tracing,2020-02-26,2020-03-12,2.0,313.0
+57,Belgium,Contact tracing,2020-03-13,2020-05-17,1.0,54721.0
+58,Belgium,Contact tracing,2020-05-18,2021-04-09,2.0,862358.0
+36,Belgium,Debt/contract relief,2020-03-06,2020-03-30,1.0,11790.0
+37,Belgium,Debt/contract relief,2020-03-31,2020-07-17,2.0,50724.0
+38,Belgium,Debt/contract relief,2020-07-18,2020-10-22,1.0,206426.0
+39,Belgium,Debt/contract relief,2020-10-23,2021-01-11,2.0,377523.0
+40,Belgium,Debt/contract relief,2021-01-12,2021-04-09,1.0,250595.0
+59,Belgium,Emergency investment in healthcare,2020-03-20,2020-03-20,1076350000.0,0.0
+60,Belgium,Emergency investment in healthcare,2020-06-06,2020-06-06,565000000.0,0.0
+63,Belgium,Facial Coverings,2020-04-24,2020-05-03,1.0,5613.0
+64,Belgium,Facial Coverings,2020-05-04,2020-07-24,2.0,14932.0
+65,Belgium,Facial Coverings,2020-07-25,2020-09-29,3.0,51388.0
+66,Belgium,Facial Coverings,2020-09-30,2020-09-30,2.0,0.0
+67,Belgium,Facial Coverings,2020-10-01,2021-04-09,3.0,796858.0
+41,Belgium,Fiscal measures,2020-03-18,2020-03-18,260000000.0,0.0
+42,Belgium,Fiscal measures,2020-03-20,2020-03-20,9608192466.0,0.0
+43,Belgium,Fiscal measures,2020-04-22,2020-04-22,320000000.0,0.0
+44,Belgium,Fiscal measures,2020-06-03,2020-06-03,505000000.0,0.0
+45,Belgium,Fiscal measures,2020-06-06,2020-06-06,3950000000.0,0.0
+46,Belgium,Fiscal measures,2020-06-12,2020-06-12,123000000.0,0.0
+47,Belgium,Fiscal measures,2020-07-09,2020-07-09,63000000.0,0.0
+48,Belgium,Fiscal measures,2020-07-22,2020-07-22,588000.0,0.0
+49,Belgium,Fiscal measures,2020-09-09,2020-09-09,66000000.0,0.0
+50,Belgium,Fiscal measures,2020-09-24,2020-09-24,61818321.78,0.0
+51,Belgium,Fiscal measures,2021-01-21,2021-01-21,90035800.0,0.0
+33,Belgium,Income support,2020-03-06,2020-10-10,2.0,156822.0
+34,Belgium,Income support,2020-10-11,2020-10-22,1.0,107874.0
+35,Belgium,Income support,2020-10-23,2021-04-09,2.0,630217.0
+29,Belgium,International travel controls,2020-03-04,2020-03-19,1.0,1772.0
+30,Belgium,International travel controls,2020-03-20,2020-05-04,4.0,48010.0
+31,Belgium,International travel controls,2020-05-05,2021-01-26,3.0,646133.0
+32,Belgium,International travel controls,2021-01-27,2021-04-09,4.0,218255.0
+61,Belgium,Investment in vaccines,2020-04-05,2020-04-05,5427500.0,0.0
+62,Belgium,Investment in vaccines,2020-05-10,2020-05-10,22000000.0,0.0
+71,Belgium,Protection of elderly people,2020-03-11,2021-04-09,2.0,917603.0
+52,Belgium,Public information campaigns,2020-01-28,2020-01-30,1.0,0.0
+53,Belgium,Public information campaigns,2020-01-31,2021-04-09,2.0,917917.0
+17,Belgium,Restrictions on gatherings,2020-03-18,2020-06-07,4.0,57740.0
+18,Belgium,Restrictions on gatherings,2020-06-08,2020-07-28,3.0,7314.0
+19,Belgium,Restrictions on gatherings,2020-07-29,2021-04-09,4.0,850582.0
+26,Belgium,Restrictions on internal movement,2020-03-14,2020-06-07,2.0,58537.0
+27,Belgium,Restrictions on internal movement,2020-07-28,2020-08-08,1.0,6739.0
+28,Belgium,Restrictions on internal movement,2020-08-09,2020-08-11,2.0,856.0
+0,Belgium,School closing,2020-03-14,2020-06-30,2.0,60738.0
+1,Belgium,School closing,2020-07-01,2020-10-28,1.0,306828.0
+2,Belgium,School closing,2020-10-29,2020-11-15,2.0,143681.0
+3,Belgium,School closing,2020-11-16,2021-03-28,1.0,332886.0
+4,Belgium,School closing,2021-03-29,2021-04-09,3.0,44981.0
+21,Belgium,Stay at home requirements,2020-03-18,2020-06-07,2.0,57740.0
+22,Belgium,Stay at home requirements,2020-07-29,2020-08-06,2.0,4681.0
+23,Belgium,Stay at home requirements,2020-08-07,2020-08-11,1.0,2224.0
+24,Belgium,Stay at home requirements,2020-08-12,2020-08-26,2.0,7383.0
+25,Belgium,Stay at home requirements,2020-10-19,2021-04-09,2.0,687437.0
+54,Belgium,Testing policy,2020-03-01,2020-05-03,1.0,49904.0
+55,Belgium,Testing policy,2020-05-04,2021-04-09,2.0,867650.0
+68,Belgium,Vaccination policy,2020-12-28,2021-01-18,1.0,40037.0
+69,Belgium,Vaccination policy,2021-01-19,2021-04-08,2.0,231807.0
+70,Belgium,Vaccination policy,2021-04-09,2021-04-09,3.0,0.0
+5,Belgium,Workplace closing,2020-03-13,2020-03-13,1.0,0.0
+6,Belgium,Workplace closing,2020-03-14,2020-03-17,2.0,554.0
+7,Belgium,Workplace closing,2020-03-18,2020-05-10,3.0,51595.0
+8,Belgium,Workplace closing,2020-05-11,2020-07-28,2.0,13213.0
+9,Belgium,Workplace closing,2020-07-29,2020-08-11,3.0,7673.0
+10,Belgium,Workplace closing,2020-08-12,2020-11-01,2.0,365371.0
+11,Belgium,Workplace closing,2020-11-02,2020-11-30,3.0,129990.0
+12,Belgium,Workplace closing,2020-12-01,2021-04-09,2.0,338705.0

@@ -1,0 +1,50 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Timor-Leste,Cancel public events,2020-03-28,2020-05-26,2.0,23.0
+9,Timor-Leste,Cancel public events,2020-12-30,2021-03-08,1.0,85.0
+10,Timor-Leste,Cancel public events,2021-03-09,2021-04-10,2.0,805.0
+14,Timor-Leste,Close public transport,2020-03-28,2020-04-29,2.0,23.0
+15,Timor-Leste,Close public transport,2021-03-10,2021-04-10,2.0,802.0
+40,Timor-Leste,Contact tracing,2020-03-03,2021-04-10,2.0,947.0
+31,Timor-Leste,Debt/contract relief,2020-03-30,2020-04-16,1.0,17.0
+32,Timor-Leste,Debt/contract relief,2020-04-17,2020-07-22,2.0,6.0
+41,Timor-Leste,Emergency investment in healthcare,2020-04-07,2020-04-07,63631833.0,0.0
+42,Timor-Leste,Facial Coverings,2020-04-21,2020-09-30,2.0,5.0
+43,Timor-Leste,Facial Coverings,2020-10-01,2021-03-01,3.0,85.0
+44,Timor-Leste,Facial Coverings,2021-03-02,2021-04-10,4.0,834.0
+33,Timor-Leste,Fiscal measures,2020-04-07,2020-04-07,86368167.0,0.0
+28,Timor-Leste,Income support,2020-05-01,2020-09-22,2.0,3.0
+29,Timor-Leste,Income support,2020-09-23,2021-02-08,1.0,53.0
+30,Timor-Leste,Income support,2021-02-25,2021-04-10,1.0,837.0
+22,Timor-Leste,International travel controls,2020-02-03,2020-02-06,1.0,0.0
+23,Timor-Leste,International travel controls,2020-02-07,2020-03-19,2.0,0.0
+24,Timor-Leste,International travel controls,2020-03-20,2020-04-12,3.0,2.0
+25,Timor-Leste,International travel controls,2020-04-13,2020-11-16,4.0,26.0
+26,Timor-Leste,International travel controls,2020-11-17,2020-12-23,2.0,3.0
+27,Timor-Leste,International travel controls,2020-12-24,2021-04-10,4.0,906.0
+46,Timor-Leste,Protection of elderly people,2020-03-28,2020-05-26,3.0,23.0
+47,Timor-Leste,Protection of elderly people,2020-05-27,2020-06-27,1.0,0.0
+48,Timor-Leste,Protection of elderly people,2020-08-06,2020-09-04,1.0,2.0
+34,Timor-Leste,Public information campaigns,2020-01-30,2020-03-22,1.0,1.0
+35,Timor-Leste,Public information campaigns,2020-03-23,2021-04-10,2.0,946.0
+11,Timor-Leste,Restrictions on gatherings,2020-03-28,2020-05-26,4.0,23.0
+12,Timor-Leste,Restrictions on gatherings,2020-12-30,2021-02-15,4.0,58.0
+13,Timor-Leste,Restrictions on gatherings,2021-03-09,2021-04-10,4.0,805.0
+20,Timor-Leste,Restrictions on internal movement,2020-12-30,2021-01-18,1.0,8.0
+21,Timor-Leste,Restrictions on internal movement,2021-02-16,2021-04-10,2.0,845.0
+0,Timor-Leste,School closing,2020-03-23,2020-05-26,3.0,23.0
+1,Timor-Leste,School closing,2020-05-27,2020-10-29,2.0,6.0
+2,Timor-Leste,School closing,2020-10-30,2021-01-03,1.0,16.0
+3,Timor-Leste,School closing,2021-01-04,2021-01-17,3.0,3.0
+4,Timor-Leste,School closing,2021-03-01,2021-04-10,3.0,834.0
+16,Timor-Leste,Stay at home requirements,2020-03-28,2020-06-25,1.0,23.0
+17,Timor-Leste,Stay at home requirements,2020-11-17,2021-02-08,2.0,50.0
+18,Timor-Leste,Stay at home requirements,2021-02-09,2021-03-01,1.0,27.0
+19,Timor-Leste,Stay at home requirements,2021-03-09,2021-04-07,2.0,637.0
+36,Timor-Leste,Testing policy,2020-03-10,2020-08-19,2.0,25.0
+37,Timor-Leste,Testing policy,2020-08-20,2021-02-08,3.0,55.0
+38,Timor-Leste,Testing policy,2021-02-09,2021-03-01,2.0,27.0
+39,Timor-Leste,Testing policy,2021-03-02,2021-04-10,3.0,834.0
+45,Timor-Leste,Vaccination policy,2021-03-30,2021-04-10,1.0,384.0
+5,Timor-Leste,Workplace closing,2020-03-28,2020-05-26,2.0,23.0
+6,Timor-Leste,Workplace closing,2021-03-09,2021-03-12,2.0,28.0
+7,Timor-Leste,Workplace closing,2021-03-13,2021-04-10,3.0,769.0

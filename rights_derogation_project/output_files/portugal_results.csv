@@ -1,0 +1,82 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+21,Portugal,Cancel public events,2020-03-19,2021-04-08,2.0,824848.0
+25,Portugal,Close public transport,2020-03-19,2021-04-08,1.0,824848.0
+67,Portugal,Contact tracing,2020-01-26,2020-03-24,2.0,2362.0
+68,Portugal,Contact tracing,2020-04-10,2021-02-25,1.0,786274.0
+69,Portugal,Contact tracing,2021-02-26,2021-04-08,2.0,22860.0
+52,Portugal,Debt/contract relief,2020-03-09,2020-03-19,1.0,755.0
+53,Portugal,Debt/contract relief,2020-03-20,2020-05-16,2.0,27790.0
+54,Portugal,Debt/contract relief,2020-05-17,2020-07-15,1.0,18390.0
+55,Portugal,Debt/contract relief,2020-07-16,2020-09-17,2.0,18631.0
+56,Portugal,Debt/contract relief,2020-09-18,2020-12-31,1.0,346502.0
+57,Portugal,Debt/contract relief,2021-01-01,2021-04-08,2.0,405004.0
+70,Portugal,Emergency investment in healthcare,2021-02-09,2021-02-09,21085737.6,0.0
+73,Portugal,Facial Coverings,2020-05-03,2020-10-27,2.0,99150.0
+74,Portugal,Facial Coverings,2020-10-28,2021-04-08,3.0,697241.0
+58,Portugal,Fiscal measures,2020-03-12,2020-03-12,285040000.0,0.0
+59,Portugal,Fiscal measures,2020-03-18,2020-03-18,10121400000.0,0.0
+60,Portugal,Fiscal measures,2020-10-22,2020-10-22,24366828678.0,0.0
+61,Portugal,Fiscal measures,2021-01-14,2021-01-14,51051559.35,0.0
+62,Portugal,Fiscal measures,2021-03-11,2021-03-11,8461861543.0,0.0
+51,Portugal,Income support,2020-03-13,2021-04-08,1.0,825521.0
+50,Portugal,International travel controls,2020-03-10,2021-04-08,3.0,825592.0
+71,Portugal,Investment in vaccines,2020-05-04,2020-05-04,10819830.0,0.0
+72,Portugal,Investment in vaccines,2020-12-02,2020-12-02,242461000.0,0.0
+77,Portugal,Protection of elderly people,2020-03-07,2020-05-17,3.0,29016.0
+78,Portugal,Protection of elderly people,2020-05-18,2020-10-18,2.0,70702.0
+79,Portugal,Protection of elderly people,2020-10-19,2021-01-03,1.0,325394.0
+80,Portugal,Protection of elderly people,2021-01-04,2021-04-08,2.0,394010.0
+63,Portugal,Public information campaigns,2020-01-26,2021-04-08,2.0,825633.0
+22,Portugal,Restrictions on gatherings,2020-03-19,2020-07-05,4.0,43112.0
+23,Portugal,Restrictions on gatherings,2020-07-06,2020-07-15,3.0,3297.0
+24,Portugal,Restrictions on gatherings,2020-07-16,2021-04-08,4.0,777868.0
+31,Portugal,Restrictions on internal movement,2020-03-19,2020-04-08,1.0,12356.0
+32,Portugal,Restrictions on internal movement,2020-04-09,2020-04-13,2.0,2978.0
+33,Portugal,Restrictions on internal movement,2020-04-14,2020-04-30,1.0,7597.0
+34,Portugal,Restrictions on internal movement,2020-05-01,2020-05-03,2.0,-69.0
+35,Portugal,Restrictions on internal movement,2020-05-04,2020-06-24,1.0,14580.0
+36,Portugal,Restrictions on internal movement,2020-06-25,2020-07-27,2.0,9884.0
+37,Portugal,Restrictions on internal movement,2020-10-30,2020-11-03,2.0,12171.0
+38,Portugal,Restrictions on internal movement,2020-12-31,2021-01-03,2.0,13576.0
+39,Portugal,Restrictions on internal movement,2021-01-09,2021-01-10,2.0,7502.0
+40,Portugal,Restrictions on internal movement,2021-01-22,2021-01-24,2.0,27054.0
+41,Portugal,Restrictions on internal movement,2021-01-29,2021-01-31,2.0,21933.0
+42,Portugal,Restrictions on internal movement,2021-02-05,2021-02-07,2.0,9640.0
+43,Portugal,Restrictions on internal movement,2021-02-12,2021-02-14,2.0,4533.0
+44,Portugal,Restrictions on internal movement,2021-02-19,2021-02-21,2.0,2756.0
+45,Portugal,Restrictions on internal movement,2021-02-26,2021-02-28,2.0,1789.0
+46,Portugal,Restrictions on internal movement,2021-03-05,2021-03-07,2.0,1689.0
+47,Portugal,Restrictions on internal movement,2021-03-12,2021-03-14,2.0,1105.0
+48,Portugal,Restrictions on internal movement,2021-03-19,2021-03-21,2.0,907.0
+49,Portugal,Restrictions on internal movement,2021-03-26,2021-04-04,2.0,3637.0
+0,Portugal,School closing,2020-03-09,2020-03-15,2.0,215.0
+1,Portugal,School closing,2020-03-16,2020-05-17,3.0,28705.0
+2,Portugal,School closing,2020-05-18,2020-08-24,2.0,26511.0
+3,Portugal,School closing,2020-08-25,2020-10-23,1.0,56528.0
+4,Portugal,School closing,2020-10-24,2020-11-05,3.0,45241.0
+5,Portugal,School closing,2020-11-06,2021-01-21,1.0,428249.0
+6,Portugal,School closing,2021-01-22,2021-03-14,3.0,205121.0
+7,Portugal,School closing,2021-03-15,2021-04-08,2.0,11120.0
+26,Portugal,Stay at home requirements,2020-03-19,2020-05-03,2.0,24497.0
+27,Portugal,Stay at home requirements,2020-05-04,2020-06-24,1.0,14580.0
+28,Portugal,Stay at home requirements,2020-06-25,2020-08-24,2.0,15305.0
+29,Portugal,Stay at home requirements,2020-10-23,2021-04-04,2.0,710895.0
+30,Portugal,Stay at home requirements,2021-04-05,2021-04-08,1.0,2139.0
+64,Portugal,Testing policy,2020-01-26,2020-03-25,1.0,2995.0
+65,Portugal,Testing policy,2020-03-26,2020-04-09,2.0,10412.0
+66,Portugal,Testing policy,2020-04-10,2021-04-08,3.0,810161.0
+75,Portugal,Vaccination policy,2020-12-27,2021-02-03,2.0,346371.0
+76,Portugal,Vaccination policy,2021-02-04,2021-04-08,3.0,76775.0
+8,Portugal,Workplace closing,2020-03-12,2020-03-18,2.0,389.0
+9,Portugal,Workplace closing,2020-03-19,2020-05-03,3.0,24497.0
+10,Portugal,Workplace closing,2020-05-04,2020-11-13,2.0,179140.0
+11,Portugal,Workplace closing,2020-11-14,2020-11-15,3.0,6035.0
+12,Portugal,Workplace closing,2020-11-16,2020-11-20,2.0,23826.0
+13,Portugal,Workplace closing,2020-11-21,2020-11-22,3.0,4788.0
+14,Portugal,Workplace closing,2020-11-23,2020-11-27,2.0,21036.0
+15,Portugal,Workplace closing,2020-11-28,2020-11-29,3.0,4093.0
+16,Portugal,Workplace closing,2020-11-30,2020-12-04,2.0,14492.0
+17,Portugal,Workplace closing,2020-12-05,2020-12-06,3.0,3834.0
+18,Portugal,Workplace closing,2020-12-07,2021-01-19,2.0,241887.0
+19,Portugal,Workplace closing,2021-01-20,2021-03-14,3.0,232652.0
+20,Portugal,Workplace closing,2021-03-15,2021-04-08,2.0,11120.0

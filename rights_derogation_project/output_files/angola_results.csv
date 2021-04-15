@@ -1,0 +1,78 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Angola,Cancel public events,2020-03-27,2020-10-08,2.0,5954.0
+9,Angola,Cancel public events,2020-10-09,2021-01-04,1.0,11653.0
+10,Angola,Cancel public events,2021-01-06,2021-02-04,1.0,2132.0
+11,Angola,Cancel public events,2021-02-05,2021-02-15,2.0,351.0
+12,Angola,Cancel public events,2021-02-16,2021-04-05,1.0,2328.0
+23,Angola,Close public transport,2020-03-27,2020-04-22,2.0,21.0
+24,Angola,Close public transport,2020-04-23,2021-01-04,1.0,17659.0
+25,Angola,Close public transport,2021-01-06,2021-04-05,1.0,4853.0
+48,Angola,Debt/contract relief,2020-04-09,2020-06-04,2.0,67.0
+49,Angola,Debt/contract relief,2020-08-21,2020-09-28,1.0,2729.0
+50,Angola,Debt/contract relief,2020-10-23,2020-11-22,1.0,5664.0
+63,Angola,Emergency investment in healthcare,2020-04-03,2020-04-03,40000000.0,0.0
+64,Angola,Emergency investment in healthcare,2020-04-17,2020-04-17,80000000.0,0.0
+65,Angola,Emergency investment in healthcare,2020-08-28,2020-08-28,120000000.0,0.0
+66,Angola,Facial Coverings,2020-04-09,2020-07-08,3.0,367.0
+67,Angola,Facial Coverings,2020-07-09,2020-09-15,4.0,3173.0
+68,Angola,Facial Coverings,2020-09-16,2020-09-28,3.0,1122.0
+69,Angola,Facial Coverings,2020-09-29,2020-10-20,4.0,3144.0
+70,Angola,Facial Coverings,2020-10-22,2020-10-31,4.0,2223.0
+71,Angola,Facial Coverings,2020-11-01,2021-01-04,3.0,6649.0
+72,Angola,Facial Coverings,2021-01-06,2021-04-05,3.0,4853.0
+51,Angola,Fiscal measures,2020-04-03,2020-04-03,9000000.0,0.0
+47,Angola,Income support,2020-04-24,2020-08-20,1.0,2019.0
+35,Angola,International travel controls,2020-02-06,2020-02-29,2.0,0.0
+36,Angola,International travel controls,2020-03-01,2020-03-19,3.0,0.0
+37,Angola,International travel controls,2020-03-20,2020-09-15,4.0,3568.0
+38,Angola,International travel controls,2020-09-16,2020-10-08,2.0,2283.0
+39,Angola,International travel controls,2020-10-09,2020-10-22,4.0,2551.0
+40,Angola,International travel controls,2020-10-23,2020-10-31,2.0,1976.0
+41,Angola,International travel controls,2020-11-01,2021-01-04,4.0,6649.0
+42,Angola,International travel controls,2021-01-06,2021-01-18,4.0,1062.0
+43,Angola,International travel controls,2021-01-19,2021-02-04,3.0,985.0
+44,Angola,International travel controls,2021-02-05,2021-02-15,2.0,351.0
+45,Angola,International travel controls,2021-02-16,2021-03-21,3.0,1344.0
+46,Angola,International travel controls,2021-03-22,2021-04-05,2.0,960.0
+76,Angola,Protection of elderly people,2021-03-22,2021-04-05,2.0,960.0
+52,Angola,Public information campaigns,2020-03-24,2020-05-16,1.0,45.0
+53,Angola,Public information campaigns,2020-05-17,2020-10-20,2.0,8001.0
+54,Angola,Public information campaigns,2020-10-22,2020-10-31,2.0,2223.0
+55,Angola,Public information campaigns,2020-11-01,2020-12-02,1.0,4284.0
+56,Angola,Public information campaigns,2020-12-03,2021-01-04,2.0,2323.0
+57,Angola,Public information campaigns,2021-01-06,2021-04-05,2.0,4853.0
+13,Angola,Restrictions on gatherings,2020-03-24,2020-03-26,2.0,1.0
+14,Angola,Restrictions on gatherings,2020-03-27,2020-05-07,4.0,32.0
+15,Angola,Restrictions on gatherings,2020-05-08,2020-07-08,3.0,343.0
+16,Angola,Restrictions on gatherings,2020-07-09,2020-10-31,4.0,10409.0
+17,Angola,Restrictions on gatherings,2020-11-01,2020-12-02,2.0,4284.0
+18,Angola,Restrictions on gatherings,2020-12-03,2021-01-04,3.0,2323.0
+19,Angola,Restrictions on gatherings,2021-01-06,2021-02-04,3.0,2132.0
+20,Angola,Restrictions on gatherings,2021-02-05,2021-03-21,4.0,1703.0
+21,Angola,Restrictions on gatherings,2021-03-22,2021-03-29,3.0,375.0
+22,Angola,Restrictions on gatherings,2021-03-30,2021-04-05,4.0,535.0
+32,Angola,Restrictions on internal movement,2020-03-27,2020-11-22,2.0,14489.0
+33,Angola,Restrictions on internal movement,2020-11-23,2021-01-04,1.0,3050.0
+34,Angola,Restrictions on internal movement,2021-01-06,2021-04-05,1.0,4853.0
+0,Angola,School closing,2020-03-24,2020-10-04,3.0,5399.0
+1,Angola,School closing,2020-10-05,2021-01-04,2.0,12154.0
+2,Angola,School closing,2021-01-06,2021-02-04,2.0,2132.0
+3,Angola,School closing,2021-02-05,2021-04-05,1.0,2687.0
+26,Angola,Stay at home requirements,2020-03-27,2020-05-25,2.0,66.0
+27,Angola,Stay at home requirements,2020-05-26,2020-07-08,1.0,316.0
+28,Angola,Stay at home requirements,2020-07-09,2020-09-15,2.0,3173.0
+29,Angola,Stay at home requirements,2020-09-16,2021-01-04,1.0,14009.0
+30,Angola,Stay at home requirements,2021-01-06,2021-03-21,1.0,3869.0
+31,Angola,Stay at home requirements,2021-03-22,2021-04-05,2.0,960.0
+58,Angola,Testing policy,2020-02-26,2020-03-31,1.0,7.0
+59,Angola,Testing policy,2020-04-01,2020-10-20,2.0,8041.0
+60,Angola,Testing policy,2020-10-21,2020-12-02,3.0,6981.0
+61,Angola,Testing policy,2020-12-03,2021-01-04,2.0,2323.0
+62,Angola,Testing policy,2021-01-06,2021-04-05,2.0,4853.0
+73,Angola,Vaccination policy,2021-03-04,2021-03-13,3.0,342.0
+74,Angola,Vaccination policy,2021-03-14,2021-03-21,4.0,353.0
+75,Angola,Vaccination policy,2021-03-22,2021-04-05,3.0,960.0
+4,Angola,Workplace closing,2020-03-27,2020-04-22,3.0,21.0
+5,Angola,Workplace closing,2020-04-23,2021-01-04,2.0,17659.0
+6,Angola,Workplace closing,2021-01-06,2021-02-04,2.0,2132.0
+7,Angola,Workplace closing,2021-02-05,2021-04-05,1.0,2687.0

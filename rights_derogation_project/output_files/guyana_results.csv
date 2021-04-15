@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Guyana,Cancel public events,2020-03-11,2020-04-02,1.0,19.0
+10,Guyana,Cancel public events,2020-04-03,2021-04-05,2.0,10583.0
+14,Guyana,Close public transport,2020-04-09,2020-12-28,1.0,6261.0
+37,Guyana,Contact tracing,2020-03-12,2021-04-05,2.0,10605.0
+30,Guyana,Debt/contract relief,2020-03-26,2021-04-04,1.0,10575.0
+38,Guyana,Emergency investment in healthcare,2020-08-24,2020-08-24,21500000.0,0.0
+40,Guyana,Facial Coverings,2020-04-01,2020-04-06,1.0,12.0
+41,Guyana,Facial Coverings,2020-04-07,2020-07-16,2.0,282.0
+42,Guyana,Facial Coverings,2020-07-17,2021-04-05,3.0,10286.0
+31,Guyana,Fiscal measures,2020-08-19,2020-08-19,60000000.0,0.0
+32,Guyana,Fiscal measures,2020-12-31,2020-12-31,9585880.0,0.0
+28,Guyana,Income support,2020-06-15,2020-08-17,1.0,550.0
+29,Guyana,Income support,2021-02-02,2021-04-04,1.0,2902.0
+23,Guyana,International travel controls,2020-01-18,2020-03-17,1.0,7.0
+24,Guyana,International travel controls,2020-03-18,2020-03-26,3.0,-2.0
+25,Guyana,International travel controls,2020-03-27,2020-10-11,4.0,3464.0
+26,Guyana,International travel controls,2020-10-12,2021-02-01,1.0,4133.0
+27,Guyana,International travel controls,2021-02-02,2021-04-05,3.0,2928.0
+39,Guyana,Investment in vaccines,2021-03-04,2021-03-04,3589867.5,0.0
+46,Guyana,Protection of elderly people,2020-04-03,2020-12-05,3.0,5614.0
+47,Guyana,Protection of elderly people,2020-12-06,2021-02-01,1.0,1989.0
+48,Guyana,Protection of elderly people,2021-02-02,2021-03-28,2.0,2490.0
+49,Guyana,Protection of elderly people,2021-03-29,2021-04-05,3.0,424.0
+33,Guyana,Public information campaigns,2020-02-05,2020-02-06,1.0,0.0
+34,Guyana,Public information campaigns,2020-02-07,2021-04-05,2.0,10606.0
+11,Guyana,Restrictions on gatherings,2020-04-03,2020-09-08,4.0,1590.0
+12,Guyana,Restrictions on gatherings,2020-09-09,2020-09-21,3.0,699.0
+13,Guyana,Restrictions on gatherings,2020-09-22,2021-04-05,4.0,8169.0
+19,Guyana,Restrictions on internal movement,2020-03-11,2020-04-02,1.0,19.0
+20,Guyana,Restrictions on internal movement,2020-04-03,2020-09-08,2.0,1590.0
+21,Guyana,Restrictions on internal movement,2020-09-09,2020-09-21,1.0,699.0
+22,Guyana,Restrictions on internal movement,2020-09-22,2020-12-31,2.0,3895.0
+0,Guyana,School closing,2020-03-16,2020-06-07,3.0,150.0
+1,Guyana,School closing,2020-06-08,2020-09-08,2.0,1459.0
+2,Guyana,School closing,2020-09-09,2020-11-08,3.0,2811.0
+3,Guyana,School closing,2020-11-09,2021-04-05,2.0,6082.0
+15,Guyana,Stay at home requirements,2020-03-26,2020-04-02,1.0,14.0
+16,Guyana,Stay at home requirements,2020-04-03,2020-06-16,2.0,148.0
+17,Guyana,Stay at home requirements,2020-06-17,2020-07-02,1.0,79.0
+18,Guyana,Stay at home requirements,2020-07-03,2021-04-05,2.0,10350.0
+35,Guyana,Testing policy,2020-02-21,2020-09-08,1.0,1613.0
+36,Guyana,Testing policy,2020-09-09,2021-04-05,2.0,8903.0
+43,Guyana,Vaccination policy,2021-02-02,2021-03-07,1.0,1129.0
+44,Guyana,Vaccination policy,2021-03-08,2021-03-28,2.0,1354.0
+45,Guyana,Vaccination policy,2021-03-29,2021-04-05,3.0,424.0
+4,Guyana,Workplace closing,2020-03-28,2020-04-08,3.0,29.0
+5,Guyana,Workplace closing,2020-04-09,2020-07-31,2.0,376.0
+6,Guyana,Workplace closing,2020-09-09,2020-11-08,1.0,2811.0
+7,Guyana,Workplace closing,2020-11-09,2020-11-15,2.0,299.0
+8,Guyana,Workplace closing,2020-11-16,2021-04-05,1.0,5732.0

@@ -1,0 +1,36 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Espirito Santo,Cancel public events,2020-03-13,2020-03-16,1.0,6.0
+8,Espirito Santo,Cancel public events,2020-03-17,2021-03-12,2.0,342438.0
+13,Espirito Santo,Close public transport,2020-03-18,2021-03-12,1.0,342435.0
+29,Espirito Santo,Contact tracing,2020-04-01,2021-03-12,2.0,342326.0
+25,Espirito Santo,Debt/contract relief,2020-03-17,2020-12-26,1.0,238418.0
+30,Espirito Santo,Facial Coverings,2020-03-31,2020-05-04,2.0,3254.0
+31,Espirito Santo,Facial Coverings,2020-05-05,2020-05-31,3.0,10150.0
+32,Espirito Santo,Facial Coverings,2020-06-01,2021-01-11,4.0,251271.0
+23,Espirito Santo,Income support,2020-04-17,2020-12-29,2.0,243299.0
+24,Espirito Santo,Income support,2020-12-31,2020-12-31,2.0,0.0
+19,Espirito Santo,International travel controls,2020-03-13,2020-03-17,2.0,6.0
+20,Espirito Santo,International travel controls,2020-03-18,2020-03-26,3.0,37.0
+21,Espirito Santo,International travel controls,2020-03-27,2020-07-28,4.0,79414.0
+22,Espirito Santo,International travel controls,2020-07-29,2021-03-12,1.0,261799.0
+33,Espirito Santo,Protection of elderly people,2020-05-07,2021-01-05,1.0,251623.0
+34,Espirito Santo,Protection of elderly people,2021-01-07,2021-03-12,1.0,83505.0
+26,Espirito Santo,Public information campaigns,2020-01-26,2021-03-12,2.0,342446.0
+9,Espirito Santo,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,2.0
+10,Espirito Santo,Restrictions on gatherings,2020-03-16,2020-04-16,3.0,927.0
+11,Espirito Santo,Restrictions on gatherings,2020-04-17,2020-11-22,4.0,177207.0
+12,Espirito Santo,Restrictions on gatherings,2020-11-23,2021-03-12,2.0,162929.0
+17,Espirito Santo,Restrictions on internal movement,2020-03-18,2020-03-26,1.0,37.0
+18,Espirito Santo,Restrictions on internal movement,2020-03-27,2021-03-12,2.0,342392.0
+0,Espirito Santo,School closing,2020-03-17,2020-03-19,2.0,5.0
+1,Espirito Santo,School closing,2020-03-20,2020-09-13,3.0,119532.0
+2,Espirito Santo,School closing,2020-09-14,2021-02-21,2.0,197487.0
+3,Espirito Santo,School closing,2021-02-22,2021-03-12,1.0,23634.0
+14,Espirito Santo,Stay at home requirements,2020-03-17,2020-05-04,1.0,3343.0
+15,Espirito Santo,Stay at home requirements,2020-05-05,2020-09-18,2.0,119733.0
+16,Espirito Santo,Stay at home requirements,2020-09-19,2021-03-12,1.0,218726.0
+27,Espirito Santo,Testing policy,2020-04-02,2020-05-05,1.0,3401.0
+28,Espirito Santo,Testing policy,2020-05-06,2021-03-12,2.0,338732.0
+4,Espirito Santo,Workplace closing,2020-03-16,2020-03-20,2.0,8.0
+5,Espirito Santo,Workplace closing,2020-03-21,2020-07-30,3.0,81860.0
+6,Espirito Santo,Workplace closing,2020-07-31,2021-03-12,2.0,259154.0

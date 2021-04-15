@@ -1,0 +1,27 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+2,Taiwan,Cancel public events,2020-03-05,2020-05-07,1.0,396.0
+3,Taiwan,Cancel public events,2021-01-21,2021-04-05,1.0,167.0
+17,Taiwan,Contact tracing,2020-01-21,2021-04-05,2.0,1048.0
+9,Taiwan,Debt/contract relief,2020-03-10,2021-04-05,1.0,1001.0
+18,Taiwan,Emergency investment in healthcare,2020-02-27,2020-02-27,560790000.0,0.0
+20,Taiwan,Facial Coverings,2020-01-24,2020-04-21,1.0,422.0
+21,Taiwan,Facial Coverings,2020-04-22,2020-05-12,4.0,14.0
+22,Taiwan,Facial Coverings,2020-05-13,2020-08-04,1.0,36.0
+23,Taiwan,Facial Coverings,2020-08-05,2021-04-05,2.0,572.0
+10,Taiwan,Fiscal measures,2020-02-25,2020-02-25,1417589723.0,0.0
+11,Taiwan,Fiscal measures,2020-04-02,2020-04-02,32761907413.0,0.0
+8,Taiwan,Income support,2020-04-21,2021-04-05,1.0,623.0
+4,Taiwan,International travel controls,2020-01-01,2020-01-22,1.0,1.0
+5,Taiwan,International travel controls,2020-01-23,2020-03-18,3.0,99.0
+6,Taiwan,International travel controls,2020-03-19,2020-06-21,4.0,338.0
+7,Taiwan,International travel controls,2020-06-22,2021-04-05,3.0,602.0
+19,Taiwan,Investment in vaccines,2020-02-27,2020-02-27,1733514.0,0.0
+25,Taiwan,Protection of elderly people,2020-05-04,2021-04-05,2.0,610.0
+12,Taiwan,Public information campaigns,2020-01-02,2020-01-19,1.0,0.0
+13,Taiwan,Public information campaigns,2020-01-20,2021-04-05,2.0,1048.0
+0,Taiwan,School closing,2020-02-02,2020-02-24,3.0,20.0
+1,Taiwan,School closing,2020-02-25,2020-11-30,1.0,644.0
+14,Taiwan,Testing policy,2020-01-20,2020-02-15,1.0,18.0
+15,Taiwan,Testing policy,2020-02-16,2020-05-22,2.0,421.0
+16,Taiwan,Testing policy,2020-05-23,2021-04-05,3.0,607.0
+24,Taiwan,Vaccination policy,2021-03-22,2021-04-05,1.0,42.0

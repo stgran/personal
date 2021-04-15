@@ -1,0 +1,62 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Missouri,Cancel public events,2020-03-13,2020-06-21,2.0,18547.0
+9,Missouri,Cancel public events,2020-06-22,2020-07-22,1.0,18765.0
+10,Missouri,Cancel public events,2020-07-23,2020-11-30,2.0,282901.0
+11,Missouri,Cancel public events,2020-12-02,2021-04-05,2.0,255288.0
+43,Missouri,Contact tracing,2020-01-21,2020-11-29,1.0,317567.0
+44,Missouri,Contact tracing,2020-11-30,2021-01-04,2.0,132057.0
+45,Missouri,Contact tracing,2021-01-05,2021-04-05,1.0,126325.0
+32,Missouri,Debt/contract relief,2020-03-16,2020-07-24,1.0,40649.0
+33,Missouri,Debt/contract relief,2020-08-06,2021-04-05,1.0,526846.0
+46,Missouri,Facial Coverings,2020-04-04,2020-06-30,1.0,19585.0
+47,Missouri,Facial Coverings,2020-07-01,2021-01-10,3.0,457982.0
+48,Missouri,Facial Coverings,2021-01-20,2021-04-05,3.0,75923.0
+27,Missouri,Income support,2020-01-27,2020-01-27,1.0,0.0
+28,Missouri,Income support,2020-03-27,2020-07-30,2.0,49269.0
+29,Missouri,Income support,2020-07-31,2020-09-10,1.0,49283.0
+30,Missouri,Income support,2020-12-27,2020-12-29,1.0,6919.0
+31,Missouri,Income support,2020-12-30,2021-04-05,2.0,149135.0
+25,Missouri,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+26,Missouri,International travel controls,2020-03-02,2021-04-05,3.0,584555.0
+56,Missouri,Protection of elderly people,2020-03-12,2020-03-22,1.0,163.0
+57,Missouri,Protection of elderly people,2020-03-23,2020-04-05,2.0,2443.0
+58,Missouri,Protection of elderly people,2020-04-06,2020-08-30,3.0,82824.0
+59,Missouri,Protection of elderly people,2020-08-31,2021-03-08,2.0,480558.0
+60,Missouri,Protection of elderly people,2021-03-10,2021-04-05,2.0,16114.0
+34,Missouri,Public information campaigns,2020-01-22,2020-03-15,1.0,8.0
+35,Missouri,Public information campaigns,2020-03-16,2021-04-05,2.0,584542.0
+12,Missouri,Restrictions on gatherings,2020-03-13,2020-03-14,2.0,1.0
+13,Missouri,Restrictions on gatherings,2020-03-15,2020-03-19,3.0,50.0
+14,Missouri,Restrictions on gatherings,2020-03-20,2020-06-28,4.0,21038.0
+15,Missouri,Restrictions on gatherings,2020-07-31,2020-11-13,3.0,193297.0
+16,Missouri,Restrictions on gatherings,2020-11-14,2020-12-07,4.0,97341.0
+17,Missouri,Restrictions on gatherings,2020-12-08,2021-01-04,3.0,98302.0
+18,Missouri,Restrictions on gatherings,2021-01-05,2021-03-07,4.0,108987.0
+19,Missouri,Restrictions on gatherings,2021-03-08,2021-04-05,3.0,16821.0
+24,Missouri,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,584542.0
+0,Missouri,School closing,2020-03-13,2020-03-16,1.0,7.0
+1,Missouri,School closing,2020-03-17,2020-08-23,3.0,77013.0
+2,Missouri,School closing,2020-08-24,2020-11-11,2.0,156628.0
+3,Missouri,School closing,2020-11-12,2021-04-05,1.0,344525.0
+20,Missouri,Stay at home requirements,2020-03-23,2020-05-18,2.0,11067.0
+21,Missouri,Stay at home requirements,2020-05-19,2020-11-16,1.0,248476.0
+22,Missouri,Stay at home requirements,2020-11-17,2020-11-30,2.0,56054.0
+23,Missouri,Stay at home requirements,2020-12-02,2021-04-05,2.0,255288.0
+36,Missouri,Testing policy,2020-01-21,2020-05-20,1.0,11662.0
+37,Missouri,Testing policy,2020-05-21,2020-09-08,2.0,86249.0
+38,Missouri,Testing policy,2020-09-09,2020-09-22,3.0,20230.0
+39,Missouri,Testing policy,2020-09-23,2020-10-22,2.0,49455.0
+40,Missouri,Testing policy,2020-10-23,2020-11-05,3.0,35424.0
+41,Missouri,Testing policy,2020-11-06,2020-11-24,2.0,85545.0
+42,Missouri,Testing policy,2020-11-25,2021-04-05,3.0,280959.0
+49,Missouri,Vaccination policy,2020-12-22,2020-12-29,2.0,20177.0
+50,Missouri,Vaccination policy,2020-12-30,2021-01-04,3.0,18595.0
+51,Missouri,Vaccination policy,2021-01-05,2021-01-17,2.0,43833.0
+52,Missouri,Vaccination policy,2021-01-18,2021-01-31,3.0,29007.0
+53,Missouri,Vaccination policy,2021-02-01,2021-02-02,4.0,1782.0
+54,Missouri,Vaccination policy,2021-02-03,2021-02-08,3.0,7346.0
+55,Missouri,Vaccination policy,2021-02-09,2021-04-05,4.0,38302.0
+4,Missouri,Workplace closing,2020-03-12,2020-04-05,1.0,2716.0
+5,Missouri,Workplace closing,2020-04-06,2020-05-03,3.0,5643.0
+6,Missouri,Workplace closing,2020-05-04,2020-06-14,2.0,7187.0
+7,Missouri,Workplace closing,2020-06-15,2021-04-05,1.0,567948.0

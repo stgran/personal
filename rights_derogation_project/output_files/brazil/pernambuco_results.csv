@@ -1,0 +1,39 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Pernambuco,Cancel public events,2020-03-13,2020-03-13,1.0,0.0
+7,Pernambuco,Cancel public events,2020-03-14,2020-09-07,2.0,132413.0
+8,Pernambuco,Cancel public events,2020-09-08,2020-12-07,1.0,58571.0
+9,Pernambuco,Cancel public events,2020-12-08,2021-03-19,2.0,135129.0
+15,Pernambuco,Close public transport,2020-04-20,2020-05-10,2.0,10585.0
+16,Pernambuco,Close public transport,2020-05-16,2020-05-31,1.0,15962.0
+32,Pernambuco,Contact tracing,2020-04-01,2021-03-19,2.0,327431.0
+27,Pernambuco,Debt/contract relief,2020-03-17,2020-12-26,1.0,214931.0
+33,Pernambuco,Facial Coverings,2020-04-23,2020-04-23,1.0,0.0
+34,Pernambuco,Facial Coverings,2020-04-24,2020-05-15,2.0,12210.0
+35,Pernambuco,Facial Coverings,2020-05-16,2021-01-11,4.0,214268.0
+23,Pernambuco,International travel controls,2020-03-13,2020-03-17,2.0,16.0
+24,Pernambuco,International travel controls,2020-03-18,2020-03-26,3.0,29.0
+25,Pernambuco,International travel controls,2020-03-27,2020-07-28,4.0,89621.0
+26,Pernambuco,International travel controls,2020-07-29,2021-03-19,2.0,235990.0
+36,Pernambuco,Protection of elderly people,2020-03-13,2021-01-05,2.0,225334.0
+37,Pernambuco,Protection of elderly people,2021-01-07,2021-03-01,2.0,71653.0
+28,Pernambuco,Public information campaigns,2020-01-26,2021-03-19,2.0,327526.0
+10,Pernambuco,Restrictions on gatherings,2020-03-13,2020-03-17,2.0,16.0
+11,Pernambuco,Restrictions on gatherings,2020-03-18,2020-03-23,3.0,23.0
+12,Pernambuco,Restrictions on gatherings,2020-03-24,2020-09-07,4.0,132378.0
+13,Pernambuco,Restrictions on gatherings,2020-09-08,2021-03-02,3.0,168844.0
+14,Pernambuco,Restrictions on gatherings,2021-03-03,2021-03-19,4.0,24479.0
+22,Pernambuco,Restrictions on internal movement,2020-03-18,2021-03-19,2.0,327507.0
+0,Pernambuco,School closing,2020-03-18,2021-03-01,3.0,300085.0
+17,Pernambuco,Stay at home requirements,2020-03-17,2020-04-19,1.0,2441.0
+18,Pernambuco,Stay at home requirements,2020-04-20,2020-05-10,2.0,10585.0
+19,Pernambuco,Stay at home requirements,2020-05-11,2020-05-15,1.0,2441.0
+20,Pernambuco,Stay at home requirements,2020-05-16,2020-05-31,2.0,15962.0
+21,Pernambuco,Stay at home requirements,2020-06-01,2021-03-19,1.0,292626.0
+29,Pernambuco,Testing policy,2020-02-26,2020-03-17,2.0,18.0
+30,Pernambuco,Testing policy,2020-03-18,2020-05-05,1.0,9306.0
+31,Pernambuco,Testing policy,2020-05-06,2021-03-01,2.0,290223.0
+1,Pernambuco,Workplace closing,2020-03-14,2020-10-31,2.0,162886.0
+2,Pernambuco,Workplace closing,2020-11-01,2020-12-30,1.0,57307.0
+3,Pernambuco,Workplace closing,2020-12-31,2020-12-31,2.0,0.0
+4,Pernambuco,Workplace closing,2021-01-01,2021-02-11,1.0,53459.0
+5,Pernambuco,Workplace closing,2021-02-12,2021-03-19,2.0,49694.0

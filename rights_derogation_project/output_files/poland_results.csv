@@ -1,0 +1,62 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Poland,Cancel public events,2020-03-10,2020-05-29,2.0,23133.0
+11,Poland,Cancel public events,2020-05-30,2020-07-08,1.0,13118.0
+12,Poland,Cancel public events,2020-10-10,2020-10-16,2.0,35970.0
+13,Poland,Cancel public events,2020-10-24,2021-04-09,2.0,2286060.0
+18,Poland,Close public transport,2020-04-09,2020-07-08,1.0,31114.0
+19,Poland,Close public transport,2020-10-24,2021-04-09,1.0,2286060.0
+45,Poland,Contact tracing,2020-04-01,2021-04-09,1.0,2525452.0
+33,Poland,Debt/contract relief,2020-03-25,2021-04-09,1.0,2526955.0
+46,Poland,Emergency investment in healthcare,2020-03-13,2020-03-13,336870464.0,0.0
+49,Poland,Facial Coverings,2020-04-16,2020-05-29,3.0,15237.0
+50,Poland,Facial Coverings,2020-05-30,2020-08-05,2.0,25218.0
+51,Poland,Facial Coverings,2020-08-06,2020-10-08,3.0,62084.0
+52,Poland,Facial Coverings,2020-10-09,2020-10-09,2.0,0.0
+53,Poland,Facial Coverings,2020-10-10,2021-01-11,3.0,1268747.0
+54,Poland,Facial Coverings,2021-01-12,2021-04-09,2.0,1132227.0
+34,Poland,Fiscal measures,2020-03-18,2020-03-18,50740292000.0,0.0
+35,Poland,Fiscal measures,2020-04-07,2020-04-07,4331191680.0,0.0
+36,Poland,Fiscal measures,2020-04-08,2020-04-08,24062176000.0,0.0
+37,Poland,Fiscal measures,2020-05-05,2020-05-05,118721500.0,0.0
+38,Poland,Fiscal measures,2020-07-09,2020-07-09,33393533.0,0.0
+39,Poland,Fiscal measures,2020-12-17,2020-12-17,10659564000.0,0.0
+40,Poland,Fiscal measures,2021-01-20,2021-01-20,2302990000.0,0.0
+31,Poland,Income support,2020-03-18,2020-09-17,1.0,76320.0
+32,Poland,Income support,2020-09-18,2021-04-09,2.0,2450678.0
+28,Poland,International travel controls,2020-03-09,2020-03-14,1.0,87.0
+29,Poland,International travel controls,2020-03-15,2020-06-14,4.0,29273.0
+30,Poland,International travel controls,2020-06-15,2021-04-09,3.0,2498218.0
+47,Poland,Investment in vaccines,2020-06-22,2020-06-22,507361020.0,0.0
+48,Poland,Investment in vaccines,2021-03-03,2021-03-03,11000000.0,0.0
+57,Poland,Protection of elderly people,2020-02-15,2020-03-30,3.0,2055.0
+58,Poland,Protection of elderly people,2020-03-31,2020-10-09,1.0,114027.0
+59,Poland,Protection of elderly people,2020-10-10,2020-11-02,2.0,273842.0
+60,Poland,Protection of elderly people,2020-11-03,2021-04-09,3.0,2113162.0
+41,Poland,Public information campaigns,2020-01-23,2020-02-26,1.0,0.0
+42,Poland,Public information campaigns,2020-02-27,2021-04-09,2.0,2528006.0
+14,Poland,Restrictions on gatherings,2020-03-31,2020-05-29,4.0,20844.0
+15,Poland,Restrictions on gatherings,2020-05-30,2020-09-17,2.0,53000.0
+16,Poland,Restrictions on gatherings,2020-10-10,2020-10-16,2.0,35970.0
+17,Poland,Restrictions on gatherings,2020-10-17,2021-04-09,4.0,2360776.0
+23,Poland,Restrictions on internal movement,2020-03-12,2020-03-30,1.0,2006.0
+24,Poland,Restrictions on internal movement,2020-03-31,2020-06-01,2.0,21854.0
+25,Poland,Restrictions on internal movement,2020-10-24,2020-12-30,1.0,1039468.0
+26,Poland,Restrictions on internal movement,2020-12-31,2021-01-01,2.0,10896.0
+27,Poland,Restrictions on internal movement,2021-01-02,2021-04-09,1.0,1215226.0
+0,Poland,School closing,2020-03-12,2020-05-24,3.0,21277.0
+1,Poland,School closing,2020-05-25,2020-08-31,2.0,45741.0
+2,Poland,School closing,2020-09-01,2020-10-18,1.0,107844.0
+3,Poland,School closing,2020-10-19,2020-11-06,2.0,310517.0
+4,Poland,School closing,2020-11-07,2021-01-17,3.0,913942.0
+5,Poland,School closing,2021-01-18,2021-02-26,2.0,245874.0
+6,Poland,School closing,2021-02-27,2021-04-09,3.0,831121.0
+20,Poland,Stay at home requirements,2020-03-31,2020-04-08,2.0,2894.0
+21,Poland,Stay at home requirements,2020-04-09,2020-05-29,1.0,17580.0
+22,Poland,Stay at home requirements,2020-10-24,2021-04-09,1.0,2286060.0
+43,Poland,Testing policy,2020-03-22,2020-06-01,1.0,23531.0
+44,Poland,Testing policy,2020-06-02,2021-04-09,2.0,2503611.0
+55,Poland,Vaccination policy,2020-12-30,2021-03-31,2.0,1040303.0
+56,Poland,Vaccination policy,2021-04-01,2021-04-11,3.0,195928.0
+7,Poland,Workplace closing,2020-03-14,2020-09-17,2.0,76468.0
+8,Poland,Workplace closing,2020-10-24,2021-03-26,2.0,1948020.0
+9,Poland,Workplace closing,2021-03-27,2021-04-11,3.0,331173.0

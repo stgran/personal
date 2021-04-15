@@ -1,0 +1,102 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Ontario,Cancel public events,2020-01-01,2020-03-16,1.0,145.0
+14,Ontario,Cancel public events,2020-03-17,2020-07-16,2.0,36986.0
+15,Ontario,Cancel public events,2020-07-17,2020-11-22,1.0,66638.0
+16,Ontario,Cancel public events,2020-11-23,2021-04-08,2.0,268611.0
+22,Ontario,Close public transport,2020-03-18,2021-04-08,1.0,373923.0
+71,Ontario,Contact tracing,2020-01-25,2020-10-02,2.0,52980.0
+72,Ontario,Contact tracing,2020-10-03,2020-11-03,1.0,25072.0
+73,Ontario,Contact tracing,2020-11-04,2020-11-18,2.0,18470.0
+74,Ontario,Contact tracing,2020-11-19,2021-04-08,1.0,274740.0
+33,Ontario,Debt/contract relief,2020-03-25,2020-09-30,2.0,51022.0
+34,Ontario,Debt/contract relief,2020-10-01,2021-04-08,1.0,321864.0
+75,Ontario,Emergency investment in healthcare,2020-03-17,2020-03-17,214376046.0,0.0
+76,Ontario,Emergency investment in healthcare,2020-03-25,2020-03-25,1881702470.0,0.0
+77,Ontario,Emergency investment in healthcare,2020-04-01,2020-04-01,35171313.0,0.0
+78,Ontario,Emergency investment in healthcare,2020-04-02,2020-04-02,10190229.0,0.0
+79,Ontario,Emergency investment in healthcare,2020-04-03,2020-04-03,14147839.0,0.0
+80,Ontario,Emergency investment in healthcare,2020-06-18,2020-06-18,7356261.0,0.0
+81,Ontario,Emergency investment in healthcare,2020-07-15,2020-07-15,1294241286.0,0.0
+82,Ontario,Emergency investment in healthcare,2020-09-08,2020-09-08,98233727.0,0.0
+83,Ontario,Emergency investment in healthcare,2020-09-30,2020-09-30,2101572618.0,0.0
+84,Ontario,Emergency investment in healthcare,2020-12-21,2020-12-21,42341681.0,0.0
+85,Ontario,Emergency investment in healthcare,2021-02-24,2021-02-24,91718242.0,0.0
+86,Ontario,Emergency investment in healthcare,2021-03-18,2021-03-18,192121430.0,0.0
+87,Ontario,Emergency investment in healthcare,2021-03-22,2021-03-22,957554474.0,0.0
+88,Ontario,Emergency investment in healthcare,2021-03-24,2021-03-24,5037940435.0,0.0
+89,Ontario,Emergency investment in healthcare,2021-03-29,2021-03-29,61150673.0,0.0
+90,Ontario,Emergency investment in healthcare,2021-04-07,2021-04-07,673711.0,0.0
+94,Ontario,Facial Coverings,2020-04-20,2021-04-08,2.0,362928.0
+35,Ontario,Fiscal measures,2020-03-11,2020-03-11,72811199.0,0.0
+36,Ontario,Fiscal measures,2020-03-23,2020-03-23,138313662.0,0.0
+37,Ontario,Fiscal measures,2020-03-25,2020-03-25,9562063741.0,0.0
+38,Ontario,Fiscal measures,2020-03-30,2020-03-30,7058116.0,0.0
+39,Ontario,Fiscal measures,2020-03-31,2020-03-31,17645290.0,0.0
+40,Ontario,Fiscal measures,2020-04-04,2020-04-04,28157695.0,0.0
+41,Ontario,Fiscal measures,2020-04-17,2020-04-17,712782.0,0.0
+42,Ontario,Fiscal measures,2020-04-21,2020-04-21,7749928.0,0.0
+43,Ontario,Fiscal measures,2020-04-24,2020-04-24,866590.0,0.0
+44,Ontario,Fiscal measures,2020-05-08,2020-05-08,808133.0,0.0
+45,Ontario,Fiscal measures,2020-05-13,2020-05-13,709785.0,0.0
+46,Ontario,Fiscal measures,2020-05-14,2020-05-14,808133.0,0.0
+47,Ontario,Fiscal measures,2020-05-22,2020-05-22,10339876.0,0.0
+48,Ontario,Fiscal measures,2020-05-29,2020-05-29,174507477.0,0.0
+49,Ontario,Fiscal measures,2020-06-03,2020-06-03,111183883.0,0.0
+50,Ontario,Fiscal measures,2020-06-11,2020-06-11,42028758.0,0.0
+51,Ontario,Fiscal measures,2020-06-18,2020-06-18,11034391.0,0.0
+52,Ontario,Fiscal measures,2020-06-19,2020-06-19,7353216.0,0.0
+53,Ontario,Fiscal measures,2020-08-12,2020-08-12,1207343491.0,0.0
+54,Ontario,Fiscal measures,2020-12-15,2020-12-15,94238976.0,0.0
+55,Ontario,Fiscal measures,2020-12-16,2020-12-16,544819012.0,0.0
+56,Ontario,Fiscal measures,2020-12-17,2020-12-17,116374535.0,0.0
+57,Ontario,Fiscal measures,2020-12-21,2020-12-21,42875471.0,0.0
+58,Ontario,Fiscal measures,2021-02-09,2021-02-09,3540176.0,0.0
+59,Ontario,Fiscal measures,2021-03-04,2021-03-04,397312435.0,0.0
+60,Ontario,Fiscal measures,2021-03-10,2021-03-10,202629342.0,0.0
+61,Ontario,Fiscal measures,2021-03-12,2021-03-12,2004538.0,0.0
+62,Ontario,Fiscal measures,2021-03-15,2021-03-15,24020318.0,0.0
+63,Ontario,Fiscal measures,2021-03-17,2021-03-17,5851029.0,0.0
+64,Ontario,Fiscal measures,2021-03-19,2021-03-19,85530210.0,0.0
+65,Ontario,Fiscal measures,2021-03-24,2021-03-24,5689487514.0,0.0
+31,Ontario,Income support,2020-03-15,2020-12-01,2.0,118096.0
+32,Ontario,Income support,2020-12-02,2021-04-08,1.0,254190.0
+30,Ontario,International travel controls,2020-03-16,2021-04-08,4.0,373967.0
+91,Ontario,Investment in vaccines,2021-03-23,2021-03-23,2948906.0,0.0
+92,Ontario,Investment in vaccines,2021-03-24,2021-03-24,796512322.0,0.0
+93,Ontario,Investment in vaccines,2021-03-31,2021-03-31,43750403.0,0.0
+98,Ontario,Protection of elderly people,2020-03-16,2020-08-27,3.0,41668.0
+99,Ontario,Protection of elderly people,2020-08-28,2020-10-06,2.0,13427.0
+100,Ontario,Protection of elderly people,2020-10-07,2021-04-07,3.0,314872.0
+66,Ontario,Public information campaigns,2020-01-20,2020-01-25,1.0,0.0
+67,Ontario,Public information campaigns,2020-01-26,2021-04-08,2.0,374112.0
+17,Ontario,Restrictions on gatherings,2020-03-13,2020-03-16,2.0,66.0
+18,Ontario,Restrictions on gatherings,2020-03-17,2020-03-27,3.0,816.0
+19,Ontario,Restrictions on gatherings,2020-03-28,2020-08-09,4.0,39053.0
+20,Ontario,Restrictions on gatherings,2020-08-10,2020-10-09,3.0,17520.0
+21,Ontario,Restrictions on gatherings,2020-10-10,2021-04-08,4.0,315622.0
+28,Ontario,Restrictions on internal movement,2020-12-26,2021-04-07,1.0,201406.0
+29,Ontario,Restrictions on internal movement,2021-04-08,2021-04-08,2.0,0.0
+0,Ontario,School closing,2020-03-14,2020-03-16,1.0,66.0
+1,Ontario,School closing,2020-03-17,2020-09-06,3.0,42984.0
+2,Ontario,School closing,2020-09-07,2020-09-15,1.0,1907.0
+3,Ontario,School closing,2020-09-16,2020-10-22,2.0,22144.0
+4,Ontario,School closing,2020-10-23,2020-10-29,1.0,5466.0
+5,Ontario,School closing,2020-10-30,2020-12-18,2.0,76542.0
+6,Ontario,School closing,2020-12-19,2021-02-15,3.0,133218.0
+7,Ontario,School closing,2021-02-16,2021-04-08,2.0,86376.0
+23,Ontario,Stay at home requirements,2020-03-16,2020-05-18,1.0,22812.0
+24,Ontario,Stay at home requirements,2020-10-10,2020-12-25,1.0,108779.0
+25,Ontario,Stay at home requirements,2020-12-26,2021-03-07,2.0,138885.0
+26,Ontario,Stay at home requirements,2021-03-08,2021-04-07,1.0,60890.0
+27,Ontario,Stay at home requirements,2021-04-08,2021-04-08,2.0,0.0
+68,Ontario,Testing policy,2020-03-12,2020-05-28,1.0,26807.0
+69,Ontario,Testing policy,2020-05-29,2020-09-24,3.0,21286.0
+70,Ontario,Testing policy,2020-09-25,2021-03-29,2.0,296329.0
+95,Ontario,Vaccination policy,2020-12-14,2021-02-17,2.0,146462.0
+96,Ontario,Vaccination policy,2021-02-23,2021-03-11,2.0,18401.0
+97,Ontario,Vaccination policy,2021-03-12,2021-04-08,3.0,59221.0
+8,Ontario,Workplace closing,2020-03-16,2020-03-16,1.0,0.0
+9,Ontario,Workplace closing,2020-03-17,2020-03-24,2.0,411.0
+10,Ontario,Workplace closing,2020-03-25,2020-05-03,3.0,16865.0
+11,Ontario,Workplace closing,2020-05-04,2020-11-22,2.0,85989.0
+12,Ontario,Workplace closing,2020-11-23,2021-04-08,3.0,268611.0

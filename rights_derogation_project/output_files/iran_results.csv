@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Iran,Cancel public events,2020-02-20,2020-02-21,1.0,13.0
+8,Iran,Cancel public events,2020-02-22,2020-06-20,2.0,202556.0
+9,Iran,Cancel public events,2020-06-21,2020-07-12,1.0,52351.0
+10,Iran,Cancel public events,2020-07-13,2021-04-11,2.0,1789426.0
+17,Iran,Close public transport,2020-03-11,2020-10-25,1.0,559896.0
+18,Iran,Close public transport,2020-10-26,2020-10-29,2.0,22085.0
+19,Iran,Close public transport,2020-10-30,2021-03-22,1.0,1203470.0
+36,Iran,Contact tracing,2020-05-17,2020-10-05,2.0,355476.0
+37,Iran,Contact tracing,2020-11-25,2021-03-22,1.0,914037.0
+28,Iran,Debt/contract relief,2020-03-15,2020-10-05,2.0,461736.0
+29,Iran,Debt/contract relief,2020-11-25,2021-04-11,1.0,1154693.0
+38,Iran,Facial Coverings,2020-07-05,2020-10-14,2.0,272781.0
+39,Iran,Facial Coverings,2020-10-15,2020-12-02,3.0,471737.0
+40,Iran,Facial Coverings,2020-12-03,2021-01-11,1.0,289120.0
+41,Iran,Facial Coverings,2021-01-12,2021-04-11,3.0,750056.0
+30,Iran,Fiscal measures,2020-03-28,2020-03-28,23868898736.0,0.0
+31,Iran,Fiscal measures,2020-04-06,2020-04-06,1100000000.0,0.0
+26,Iran,Income support,2020-04-07,2020-10-05,1.0,413085.0
+27,Iran,Income support,2020-11-25,2021-04-11,1.0,1154693.0
+25,Iran,International travel controls,2020-07-11,2021-04-11,3.0,1793961.0
+43,Iran,Protection of elderly people,2020-03-19,2020-11-20,1.0,809970.0
+44,Iran,Protection of elderly people,2020-11-21,2021-03-22,2.0,967114.0
+32,Iran,Public information campaigns,2020-02-26,2021-01-11,1.0,1292475.0
+33,Iran,Public information campaigns,2021-01-12,2021-04-11,2.0,750056.0
+11,Iran,Restrictions on gatherings,2020-04-19,2020-05-25,1.0,55513.0
+12,Iran,Restrictions on gatherings,2020-07-11,2020-08-03,2.0,56918.0
+13,Iran,Restrictions on gatherings,2020-08-04,2020-10-05,1.0,160888.0
+14,Iran,Restrictions on gatherings,2020-10-06,2020-10-14,4.0,33394.0
+15,Iran,Restrictions on gatherings,2020-10-15,2020-11-24,3.0,362707.0
+16,Iran,Restrictions on gatherings,2020-11-25,2021-04-11,4.0,1154693.0
+24,Iran,Restrictions on internal movement,2020-03-05,2021-04-11,2.0,2045565.0
+0,Iran,School closing,2020-03-05,2020-05-15,3.0,113122.0
+1,Iran,School closing,2020-05-16,2020-07-12,2.0,138911.0
+2,Iran,School closing,2020-07-13,2021-04-11,3.0,1789426.0
+20,Iran,Stay at home requirements,2020-03-19,2020-10-05,1.0,457267.0
+21,Iran,Stay at home requirements,2020-10-06,2020-10-14,2.0,33394.0
+22,Iran,Stay at home requirements,2020-10-15,2020-11-20,1.0,310542.0
+23,Iran,Stay at home requirements,2020-11-21,2021-03-22,2.0,967114.0
+34,Iran,Testing policy,2020-05-17,2020-12-02,2.0,869374.0
+35,Iran,Testing policy,2020-12-03,2021-03-22,1.0,804928.0
+42,Iran,Vaccination policy,2021-02-09,2021-03-22,1.0,327026.0
+3,Iran,Workplace closing,2020-02-26,2020-03-21,1.0,20471.0
+4,Iran,Workplace closing,2020-03-22,2020-04-10,3.0,46554.0
+5,Iran,Workplace closing,2020-04-11,2020-09-14,2.0,334619.0
+6,Iran,Workplace closing,2020-10-26,2021-04-11,3.0,1474222.0

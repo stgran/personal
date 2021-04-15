@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,New Mexico,Cancel public events,2020-03-12,2021-03-20,2.0,189555.0
+10,New Mexico,Cancel public events,2021-03-21,2021-04-02,1.0,2421.0
+14,New Mexico,Close public transport,2020-03-17,2021-03-07,2.0,186899.0
+15,New Mexico,Close public transport,2021-03-08,2021-04-02,1.0,5112.0
+31,New Mexico,Contact tracing,2020-01-21,2020-04-24,1.0,2521.0
+32,New Mexico,Contact tracing,2020-04-25,2020-07-26,2.0,16382.0
+33,New Mexico,Contact tracing,2020-07-27,2020-11-28,1.0,74480.0
+34,New Mexico,Contact tracing,2020-11-29,2021-04-02,2.0,96735.0
+26,New Mexico,Debt/contract relief,2020-03-18,2021-04-02,1.0,192124.0
+35,New Mexico,Facial Coverings,2020-04-04,2020-05-04,1.0,3525.0
+36,New Mexico,Facial Coverings,2020-05-05,2020-05-14,2.0,1365.0
+37,New Mexico,Facial Coverings,2020-05-15,2021-01-10,3.0,150495.0
+38,New Mexico,Facial Coverings,2021-01-20,2021-04-02,3.0,26317.0
+22,New Mexico,Income support,2020-01-27,2020-01-27,1.0,0.0
+23,New Mexico,Income support,2020-03-17,2020-03-26,1.0,90.0
+24,New Mexico,Income support,2020-03-27,2020-07-30,2.0,20252.0
+25,New Mexico,Income support,2020-07-31,2021-04-02,1.0,171552.0
+20,New Mexico,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+21,New Mexico,International travel controls,2020-03-02,2021-04-02,3.0,192152.0
+42,New Mexico,Protection of elderly people,2020-03-13,2020-04-01,1.0,317.0
+43,New Mexico,Protection of elderly people,2020-04-02,2020-09-02,2.0,25239.0
+44,New Mexico,Protection of elderly people,2020-09-03,2021-03-08,3.0,161228.0
+45,New Mexico,Protection of elderly people,2021-03-10,2021-03-20,3.0,2073.0
+46,New Mexico,Protection of elderly people,2021-03-21,2021-04-02,2.0,2421.0
+27,New Mexico,Public information campaigns,2020-03-16,2021-04-02,2.0,192131.0
+11,New Mexico,Restrictions on gatherings,2020-03-12,2020-03-18,2.0,23.0
+12,New Mexico,Restrictions on gatherings,2020-03-19,2021-03-20,4.0,189525.0
+13,New Mexico,Restrictions on gatherings,2021-03-21,2021-04-02,3.0,2421.0
+17,New Mexico,Restrictions on internal movement,2020-03-16,2020-03-26,1.0,92.0
+18,New Mexico,Restrictions on internal movement,2020-03-27,2021-02-01,2.0,174414.0
+19,New Mexico,Restrictions on internal movement,2021-02-02,2021-04-02,1.0,17170.0
+0,New Mexico,School closing,2020-03-13,2020-03-14,1.0,3.0
+1,New Mexico,School closing,2020-03-15,2020-08-16,3.0,23395.0
+2,New Mexico,School closing,2020-08-17,2021-04-02,2.0,168652.0
+16,New Mexico,Stay at home requirements,2020-03-16,2021-04-02,1.0,192131.0
+28,New Mexico,Testing policy,2020-01-21,2020-03-17,1.0,23.0
+29,New Mexico,Testing policy,2020-03-18,2020-05-11,2.0,5041.0
+30,New Mexico,Testing policy,2020-05-12,2021-04-02,3.0,186940.0
+39,New Mexico,Vaccination policy,2020-12-14,2020-12-26,1.0,15927.0
+40,New Mexico,Vaccination policy,2020-12-27,2021-01-07,2.0,13851.0
+41,New Mexico,Vaccination policy,2021-01-08,2021-04-02,3.0,38696.0
+3,New Mexico,Workplace closing,2020-03-12,2020-03-18,1.0,23.0
+4,New Mexico,Workplace closing,2020-03-19,2020-03-23,2.0,48.0
+5,New Mexico,Workplace closing,2020-03-24,2020-05-14,3.0,5403.0
+6,New Mexico,Workplace closing,2020-05-15,2020-11-15,2.0,58539.0
+7,New Mexico,Workplace closing,2020-11-16,2020-12-01,3.0,33965.0
+8,New Mexico,Workplace closing,2020-12-02,2021-04-02,2.0,91189.0

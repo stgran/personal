@@ -1,0 +1,35 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+3,Rondonia,Cancel public events,2020-03-13,2020-03-16,1.0,0.0
+4,Rondonia,Cancel public events,2020-03-17,2021-03-19,2.0,173099.0
+8,Rondonia,Close public transport,2020-03-20,2020-06-05,1.0,6861.0
+9,Rondonia,Close public transport,2020-06-06,2020-06-15,2.0,4479.0
+10,Rondonia,Close public transport,2020-06-16,2020-12-16,1.0,74387.0
+11,Rondonia,Close public transport,2021-01-17,2021-03-19,2.0,64043.0
+29,Rondonia,Contact tracing,2020-04-01,2021-03-19,2.0,173090.0
+25,Rondonia,Debt/contract relief,2020-03-17,2020-12-26,1.0,92587.0
+30,Rondonia,Facial Coverings,2020-04-05,2020-05-13,2.0,1598.0
+31,Rondonia,Facial Coverings,2020-05-14,2021-01-11,4.0,100832.0
+24,Rondonia,Income support,2020-05-22,2020-12-16,1.0,84623.0
+20,Rondonia,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+21,Rondonia,International travel controls,2020-03-18,2020-03-26,3.0,6.0
+22,Rondonia,International travel controls,2020-03-27,2020-07-28,4.0,36843.0
+23,Rondonia,International travel controls,2020-07-29,2021-03-19,3.0,135465.0
+32,Rondonia,Protection of elderly people,2020-05-07,2021-01-05,1.0,96756.0
+33,Rondonia,Protection of elderly people,2021-01-07,2021-03-19,1.0,73504.0
+26,Rondonia,Public information campaigns,2020-01-26,2021-03-19,2.0,173099.0
+5,Rondonia,Restrictions on gatherings,2020-03-13,2020-03-17,2.0,0.0
+6,Rondonia,Restrictions on gatherings,2020-03-18,2020-03-19,3.0,0.0
+7,Rondonia,Restrictions on gatherings,2020-03-20,2021-03-19,4.0,173098.0
+18,Rondonia,Restrictions on internal movement,2020-03-18,2020-03-19,1.0,0.0
+19,Rondonia,Restrictions on internal movement,2020-03-20,2021-03-19,2.0,173098.0
+0,Rondonia,School closing,2020-03-17,2021-03-19,3.0,173099.0
+12,Rondonia,Stay at home requirements,2020-03-20,2020-05-13,1.0,1611.0
+13,Rondonia,Stay at home requirements,2020-05-14,2020-06-05,2.0,5176.0
+14,Rondonia,Stay at home requirements,2020-06-06,2020-06-15,3.0,4479.0
+15,Rondonia,Stay at home requirements,2020-06-16,2021-01-16,2.0,95163.0
+16,Rondonia,Stay at home requirements,2021-01-17,2021-03-01,3.0,40457.0
+17,Rondonia,Stay at home requirements,2021-03-02,2021-03-19,2.0,21911.0
+27,Rondonia,Testing policy,2020-04-01,2020-05-05,1.0,852.0
+28,Rondonia,Testing policy,2020-05-06,2021-03-19,2.0,172156.0
+1,Rondonia,Workplace closing,2020-03-17,2020-03-19,2.0,0.0
+2,Rondonia,Workplace closing,2020-03-20,2021-03-19,3.0,173098.0

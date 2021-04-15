@@ -1,0 +1,67 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Switzerland,Cancel public events,2020-02-25,2020-09-30,2.0,53281.0
+9,Switzerland,Cancel public events,2020-11-02,2021-04-09,2.0,441366.0
+46,Switzerland,Contact tracing,2020-02-15,2020-05-10,1.0,30305.0
+47,Switzerland,Contact tracing,2020-05-11,2021-04-09,2.0,587199.0
+24,Switzerland,Debt/contract relief,2020-03-19,2020-05-31,1.0,26787.0
+48,Switzerland,Emergency investment in healthcare,2020-03-20,2020-03-20,354000000.0,0.0
+49,Switzerland,Emergency investment in healthcare,2020-04-08,2020-04-08,1907000000.0,0.0
+50,Switzerland,Emergency investment in healthcare,2020-05-20,2020-05-20,104000000.0,0.0
+51,Switzerland,Emergency investment in healthcare,2020-06-24,2020-06-24,303000000.0,0.0
+52,Switzerland,Emergency investment in healthcare,2020-08-12,2020-08-12,34000000.0,0.0
+53,Switzerland,Emergency investment in healthcare,2021-04-01,2021-04-01,1247700000.0,0.0
+56,Switzerland,Facial Coverings,2020-04-30,2020-07-05,1.0,2682.0
+57,Switzerland,Facial Coverings,2020-07-06,2020-09-16,2.0,15950.0
+58,Switzerland,Facial Coverings,2020-09-17,2021-04-09,3.0,568748.0
+25,Switzerland,Fiscal measures,2020-03-13,2020-03-13,16000000.0,0.0
+26,Switzerland,Fiscal measures,2020-03-20,2020-03-20,31643000000.0,0.0
+27,Switzerland,Fiscal measures,2020-04-03,2020-04-03,20400000000.0,0.0
+28,Switzerland,Fiscal measures,2020-04-16,2020-04-16,1340000000.0,0.0
+29,Switzerland,Fiscal measures,2020-04-22,2020-04-22,103000000.0,0.0
+30,Switzerland,Fiscal measures,2020-04-29,2020-04-29,1931000000.0,0.0
+31,Switzerland,Fiscal measures,2020-05-06,2020-05-06,108000000.0,0.0
+32,Switzerland,Fiscal measures,2020-05-13,2020-05-13,283000000.0,0.0
+33,Switzerland,Fiscal measures,2020-05-20,2020-05-20,14654000000.0,0.0
+34,Switzerland,Fiscal measures,2020-08-12,2020-08-12,450000000.0,0.0
+22,Switzerland,Income support,2020-03-20,2020-08-31,2.0,36883.0
+23,Switzerland,Income support,2020-09-17,2021-04-09,2.0,568748.0
+35,Switzerland,International support,2020-04-30,2020-04-30,232000000.0,0.0
+36,Switzerland,International support,2020-05-13,2020-05-13,91000000.0,0.0
+37,Switzerland,International support,2020-09-08,2020-09-08,1650000.0,0.0
+19,Switzerland,International travel controls,2020-03-13,2020-10-09,3.0,59229.0
+20,Switzerland,International travel controls,2020-10-10,2020-10-19,2.0,22791.0
+21,Switzerland,International travel controls,2020-10-20,2021-04-09,3.0,531376.0
+54,Switzerland,Investment in vaccines,2020-03-06,2020-03-06,5335000.0,0.0
+55,Switzerland,Investment in vaccines,2020-08-07,2020-08-07,329000000.0,0.0
+61,Switzerland,Protection of elderly people,2020-02-28,2020-03-09,1.0,366.0
+62,Switzerland,Protection of elderly people,2020-03-10,2020-05-24,3.0,30245.0
+63,Switzerland,Protection of elderly people,2020-05-25,2020-12-09,2.0,332908.0
+64,Switzerland,Protection of elderly people,2020-12-10,2020-12-23,3.0,54604.0
+65,Switzerland,Protection of elderly people,2020-12-24,2021-04-09,2.0,189346.0
+38,Switzerland,Public information campaigns,2020-02-27,2020-03-02,1.0,34.0
+39,Switzerland,Public information campaigns,2020-03-03,2021-04-09,2.0,617487.0
+10,Switzerland,Restrictions on gatherings,2020-02-28,2020-03-16,1.0,2192.0
+11,Switzerland,Restrictions on gatherings,2020-03-17,2020-05-29,4.0,28128.0
+12,Switzerland,Restrictions on gatherings,2020-05-30,2020-06-21,3.0,447.0
+13,Switzerland,Restrictions on gatherings,2020-06-22,2020-07-02,1.0,657.0
+14,Switzerland,Restrictions on gatherings,2020-07-03,2020-10-28,3.0,103557.0
+15,Switzerland,Restrictions on gatherings,2020-10-29,2021-04-09,4.0,472499.0
+18,Switzerland,Restrictions on internal movement,2020-03-17,2020-06-05,1.0,28236.0
+0,Switzerland,School closing,2020-03-16,2020-05-10,3.0,28105.0
+1,Switzerland,School closing,2020-11-02,2021-04-09,2.0,441366.0
+16,Switzerland,Stay at home requirements,2020-03-17,2020-06-21,1.0,28592.0
+17,Switzerland,Stay at home requirements,2020-10-19,2021-04-09,1.0,534384.0
+40,Switzerland,Testing policy,2020-02-24,2020-03-06,2.0,214.0
+41,Switzerland,Testing policy,2020-03-07,2020-05-10,1.0,30037.0
+42,Switzerland,Testing policy,2020-05-11,2020-06-10,2.0,667.0
+43,Switzerland,Testing policy,2020-06-11,2020-09-17,3.0,17751.0
+44,Switzerland,Testing policy,2020-09-18,2021-03-18,2.0,529578.0
+45,Switzerland,Testing policy,2021-03-19,2021-04-09,3.0,36934.0
+59,Switzerland,Vaccination policy,2020-12-23,2021-01-03,1.0,28997.0
+60,Switzerland,Vaccination policy,2021-01-04,2021-04-09,2.0,155582.0
+2,Switzerland,Workplace closing,2020-03-17,2020-04-26,3.0,26361.0
+3,Switzerland,Workplace closing,2020-04-27,2020-06-05,2.0,1772.0
+4,Switzerland,Workplace closing,2020-06-06,2020-07-30,1.0,4066.0
+5,Switzerland,Workplace closing,2020-07-31,2020-11-01,2.0,119019.0
+6,Switzerland,Workplace closing,2020-11-02,2020-11-20,3.0,114424.0
+7,Switzerland,Workplace closing,2020-11-21,2021-04-09,2.0,326942.0

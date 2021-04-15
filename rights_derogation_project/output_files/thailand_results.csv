@@ -1,0 +1,71 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Thailand,Cancel public events,2020-03-10,2020-06-05,2.0,3049.0
+14,Thailand,Cancel public events,2020-06-06,2021-01-18,1.0,9490.0
+15,Thailand,Cancel public events,2021-01-19,2021-04-08,2.0,17657.0
+19,Thailand,Close public transport,2020-04-03,2020-09-06,1.0,1466.0
+20,Thailand,Close public transport,2020-11-22,2021-01-15,1.0,7760.0
+21,Thailand,Close public transport,2021-02-23,2021-04-08,1.0,4618.0
+53,Thailand,Contact tracing,2020-03-03,2020-04-13,1.0,2536.0
+54,Thailand,Contact tracing,2020-04-14,2020-08-03,2.0,707.0
+55,Thailand,Contact tracing,2020-08-04,2020-08-13,1.0,38.0
+56,Thailand,Contact tracing,2020-08-14,2020-11-02,2.0,421.0
+57,Thailand,Contact tracing,2020-11-22,2021-01-15,2.0,7760.0
+58,Thailand,Contact tracing,2021-01-16,2021-04-08,1.0,18256.0
+39,Thailand,Debt/contract relief,2020-04-01,2020-06-30,2.0,1400.0
+40,Thailand,Debt/contract relief,2020-07-01,2020-09-21,1.0,338.0
+41,Thailand,Debt/contract relief,2020-09-22,2021-02-09,2.0,20232.0
+42,Thailand,Debt/contract relief,2021-02-23,2021-04-08,2.0,4618.0
+59,Thailand,Emergency investment in healthcare,2020-05-31,2020-05-31,19354778041.0,0.0
+60,Thailand,Emergency investment in healthcare,2021-01-14,2021-01-14,193901711.0,0.0
+64,Thailand,Facial Coverings,2020-04-07,2021-01-15,3.0,9422.0
+65,Thailand,Facial Coverings,2021-01-16,2021-04-08,2.0,18256.0
+43,Thailand,Fiscal measures,2020-03-10,2020-03-10,12700000000.0,0.0
+44,Thailand,Fiscal measures,2020-03-26,2020-03-26,3560000000.0,0.0
+45,Thailand,Fiscal measures,2020-04-07,2020-04-07,58000000000.0,0.0
+46,Thailand,Fiscal measures,2020-05-31,2020-05-31,58000000000.0,0.0
+47,Thailand,Fiscal measures,2020-06-25,2020-06-25,7439324642.0,0.0
+48,Thailand,Fiscal measures,2021-01-14,2021-01-14,15769516.0,0.0
+37,Thailand,Income support,2020-04-01,2021-01-19,2.0,10882.0
+38,Thailand,Income support,2021-01-20,2021-04-08,1.0,17515.0
+31,Thailand,International travel controls,2020-03-06,2020-03-24,2.0,779.0
+32,Thailand,International travel controls,2020-03-25,2020-06-30,4.0,2237.0
+33,Thailand,International travel controls,2020-07-01,2020-11-21,3.0,749.0
+34,Thailand,International travel controls,2020-11-22,2021-01-15,2.0,7760.0
+35,Thailand,International travel controls,2021-01-16,2021-01-23,4.0,1248.0
+36,Thailand,International travel controls,2021-01-24,2021-04-08,2.0,16810.0
+61,Thailand,Investment in vaccines,2020-04-23,2020-04-23,1390000000.0,0.0
+62,Thailand,Investment in vaccines,2020-11-18,2020-11-18,190600000.0,0.0
+63,Thailand,Investment in vaccines,2020-11-27,2020-11-27,198938988.0,0.0
+66,Thailand,Protection of elderly people,2020-03-23,2020-05-15,2.0,2304.0
+67,Thailand,Protection of elderly people,2020-05-16,2020-12-31,1.0,4138.0
+68,Thailand,Protection of elderly people,2021-01-01,2021-01-21,2.0,5416.0
+69,Thailand,Protection of elderly people,2021-01-22,2021-04-08,1.0,17206.0
+49,Thailand,Public information campaigns,2020-03-06,2021-02-22,2.0,25456.0
+50,Thailand,Public information campaigns,2021-02-23,2021-04-08,1.0,4618.0
+16,Thailand,Restrictions on gatherings,2020-03-16,2020-06-05,3.0,2955.0
+17,Thailand,Restrictions on gatherings,2020-06-06,2021-01-14,2.0,8346.0
+18,Thailand,Restrictions on gatherings,2021-02-23,2021-04-08,4.0,4618.0
+25,Thailand,Restrictions on internal movement,2020-03-26,2020-08-13,2.0,2314.0
+26,Thailand,Restrictions on internal movement,2020-08-14,2020-12-20,1.0,1913.0
+27,Thailand,Restrictions on internal movement,2020-12-21,2021-01-31,2.0,13902.0
+28,Thailand,Restrictions on internal movement,2021-02-01,2021-02-09,1.0,3292.0
+29,Thailand,Restrictions on internal movement,2021-02-10,2021-02-28,2.0,1927.0
+30,Thailand,Restrictions on internal movement,2021-03-01,2021-04-08,1.0,4279.0
+0,Thailand,School closing,2020-03-15,2020-03-17,1.0,63.0
+1,Thailand,School closing,2020-03-18,2020-06-14,3.0,2923.0
+2,Thailand,School closing,2020-06-15,2020-06-30,2.0,36.0
+3,Thailand,School closing,2020-07-01,2020-12-20,1.0,2116.0
+4,Thailand,School closing,2020-12-21,2021-01-31,3.0,13902.0
+5,Thailand,School closing,2021-02-01,2021-04-08,1.0,9856.0
+22,Thailand,Stay at home requirements,2020-03-21,2021-01-15,1.0,11269.0
+23,Thailand,Stay at home requirements,2021-01-16,2021-01-21,2.0,741.0
+24,Thailand,Stay at home requirements,2021-01-22,2021-04-08,1.0,17206.0
+51,Thailand,Testing policy,2020-03-02,2020-04-30,1.0,2911.0
+52,Thailand,Testing policy,2020-05-01,2021-04-08,2.0,27350.0
+6,Thailand,Workplace closing,2020-03-17,2020-04-02,2.0,1698.0
+7,Thailand,Workplace closing,2020-04-03,2020-05-02,3.0,988.0
+8,Thailand,Workplace closing,2020-05-03,2020-06-05,2.0,133.0
+9,Thailand,Workplace closing,2020-06-06,2020-12-20,1.0,2185.0
+10,Thailand,Workplace closing,2020-12-21,2021-01-15,3.0,5964.0
+11,Thailand,Workplace closing,2021-01-16,2021-02-03,2.0,9195.0
+12,Thailand,Workplace closing,2021-02-04,2021-04-08,1.0,8252.0

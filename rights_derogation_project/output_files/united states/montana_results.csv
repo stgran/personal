@@ -1,0 +1,69 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+16,Montana,Cancel public events,2020-03-15,2020-03-27,1.0,103.0
+17,Montana,Cancel public events,2020-03-28,2020-05-31,2.0,386.0
+18,Montana,Cancel public events,2020-06-01,2021-04-06,1.0,104814.0
+23,Montana,Close public transport,2020-03-16,2020-09-10,1.0,8657.0
+45,Montana,Contact tracing,2020-01-21,2020-03-18,1.0,10.0
+46,Montana,Contact tracing,2020-03-19,2020-10-22,2.0,25629.0
+47,Montana,Contact tracing,2020-10-23,2021-02-11,1.0,70339.0
+48,Montana,Contact tracing,2021-02-12,2021-04-06,2.0,8270.0
+36,Montana,Debt/contract relief,2020-03-27,2020-03-29,1.0,45.0
+37,Montana,Debt/contract relief,2020-03-30,2020-05-24,2.0,308.0
+38,Montana,Debt/contract relief,2020-05-25,2021-04-06,1.0,104854.0
+49,Montana,Facial Coverings,2020-04-04,2020-06-25,1.0,538.0
+50,Montana,Facial Coverings,2020-06-26,2021-01-10,3.0,85495.0
+51,Montana,Facial Coverings,2021-01-20,2021-03-14,3.0,11505.0
+52,Montana,Facial Coverings,2021-03-15,2021-03-24,2.0,1733.0
+53,Montana,Facial Coverings,2021-03-25,2021-04-04,4.0,1312.0
+54,Montana,Facial Coverings,2021-04-05,2021-04-06,2.0,191.0
+31,Montana,Income support,2020-01-27,2020-01-27,1.0,0.0
+32,Montana,Income support,2020-03-17,2020-03-26,1.0,82.0
+33,Montana,Income support,2020-03-27,2020-07-30,2.0,3705.0
+34,Montana,Income support,2020-07-31,2020-09-10,1.0,4698.0
+35,Montana,Income support,2020-12-27,2021-04-06,1.0,25553.0
+29,Montana,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+30,Montana,International travel controls,2020-03-02,2021-04-06,3.0,105333.0
+59,Montana,Protection of elderly people,2020-03-13,2020-06-24,3.0,765.0
+60,Montana,Protection of elderly people,2020-06-25,2020-06-25,2.0,0.0
+61,Montana,Protection of elderly people,2020-06-26,2020-09-13,3.0,8192.0
+62,Montana,Protection of elderly people,2020-09-14,2020-10-14,2.0,11103.0
+63,Montana,Protection of elderly people,2020-10-15,2020-12-12,3.0,51711.0
+64,Montana,Protection of elderly people,2020-12-16,2021-03-04,3.0,25887.0
+65,Montana,Protection of elderly people,2021-03-05,2021-03-08,2.0,303.0
+66,Montana,Protection of elderly people,2021-03-10,2021-03-14,2.0,517.0
+67,Montana,Protection of elderly people,2021-03-15,2021-04-06,1.0,3400.0
+39,Montana,Public information campaigns,2020-02-25,2021-04-06,2.0,105333.0
+19,Montana,Restrictions on gatherings,2020-03-15,2020-03-23,3.0,28.0
+20,Montana,Restrictions on gatherings,2020-03-24,2020-05-31,4.0,464.0
+21,Montana,Restrictions on gatherings,2020-06-01,2021-04-04,3.0,104623.0
+22,Montana,Restrictions on gatherings,2021-04-05,2021-04-06,2.0,191.0
+28,Montana,Restrictions on internal movement,2020-03-16,2021-04-06,1.0,105327.0
+0,Montana,School closing,2020-03-13,2020-03-14,1.0,4.0
+1,Montana,School closing,2020-03-15,2020-03-22,2.0,28.0
+2,Montana,School closing,2020-03-23,2020-08-16,3.0,5716.0
+3,Montana,School closing,2020-08-17,2020-08-23,2.0,637.0
+4,Montana,School closing,2020-08-24,2020-10-04,1.0,8146.0
+5,Montana,School closing,2020-10-05,2020-10-18,2.0,7974.0
+6,Montana,School closing,2020-10-19,2020-11-05,1.0,13578.0
+7,Montana,School closing,2020-11-06,2020-11-30,2.0,24251.0
+8,Montana,School closing,2020-12-01,2021-01-18,1.0,26371.0
+9,Montana,School closing,2021-01-19,2021-02-07,2.0,5926.0
+10,Montana,School closing,2021-02-08,2021-04-06,1.0,9419.0
+24,Montana,Stay at home requirements,2020-03-27,2020-11-22,2.0,55571.0
+25,Montana,Stay at home requirements,2020-11-23,2020-12-02,1.0,7959.0
+26,Montana,Stay at home requirements,2020-12-03,2021-03-01,2.0,34881.0
+27,Montana,Stay at home requirements,2021-03-02,2021-04-01,1.0,4567.0
+40,Montana,Testing policy,2020-01-21,2020-03-22,1.0,34.0
+41,Montana,Testing policy,2020-03-23,2020-06-05,2.0,507.0
+42,Montana,Testing policy,2020-06-06,2020-07-22,3.0,2272.0
+43,Montana,Testing policy,2020-07-23,2020-07-28,2.0,565.0
+44,Montana,Testing policy,2020-07-29,2021-04-06,3.0,101657.0
+55,Montana,Vaccination policy,2020-12-14,2021-01-17,1.0,16090.0
+56,Montana,Vaccination policy,2021-01-18,2021-01-18,2.0,0.0
+57,Montana,Vaccination policy,2021-01-19,2021-04-05,3.0,15278.0
+58,Montana,Vaccination policy,2021-04-06,2021-04-06,4.0,0.0
+11,Montana,Workplace closing,2020-03-12,2020-03-15,1.0,6.0
+12,Montana,Workplace closing,2020-03-16,2020-03-27,2.0,103.0
+13,Montana,Workplace closing,2020-03-28,2020-04-26,3.0,319.0
+14,Montana,Workplace closing,2020-04-27,2020-05-31,2.0,66.0
+15,Montana,Workplace closing,2020-06-01,2021-04-06,1.0,104814.0

@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Connecticut,Cancel public events,2020-03-09,2020-07-02,2.0,46646.0
+8,Connecticut,Cancel public events,2020-07-03,2021-04-04,1.0,267239.0
+15,Connecticut,Close public transport,2020-03-27,2021-03-01,1.0,281335.0
+33,Connecticut,Contact tracing,2020-01-21,2020-05-17,1.0,37419.0
+34,Connecticut,Contact tracing,2020-05-18,2021-04-04,2.0,275840.0
+25,Connecticut,Debt/contract relief,2020-03-13,2020-03-30,1.0,2560.0
+26,Connecticut,Debt/contract relief,2020-03-31,2021-04-04,2.0,310828.0
+35,Connecticut,Emergency investment in healthcare,2021-02-04,2021-02-04,40000000.0,0.0
+36,Connecticut,Facial Coverings,2020-04-04,2020-04-19,1.0,12686.0
+37,Connecticut,Facial Coverings,2020-04-20,2021-01-10,3.0,186179.0
+38,Connecticut,Facial Coverings,2021-01-20,2021-04-04,3.0,79822.0
+27,Connecticut,Fiscal measures,2021-03-15,2021-03-15,4000000.0,0.0
+22,Connecticut,Income support,2020-01-27,2020-01-27,1.0,0.0
+23,Connecticut,Income support,2020-03-27,2020-07-30,2.0,48379.0
+24,Connecticut,Income support,2020-07-31,2021-04-04,1.0,264146.0
+20,Connecticut,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+21,Connecticut,International travel controls,2020-03-02,2021-04-04,3.0,313956.0
+43,Connecticut,Protection of elderly people,2020-03-09,2020-03-09,1.0,0.0
+44,Connecticut,Protection of elderly people,2020-03-10,2020-03-12,2.0,4.0
+45,Connecticut,Protection of elderly people,2020-03-13,2020-09-24,3.0,56461.0
+46,Connecticut,Protection of elderly people,2020-09-25,2021-03-08,2.0,230809.0
+47,Connecticut,Protection of elderly people,2021-03-10,2021-04-04,1.0,25299.0
+28,Connecticut,Public information campaigns,2020-01-27,2020-02-25,1.0,0.0
+29,Connecticut,Public information campaigns,2020-02-26,2021-04-04,2.0,313956.0
+9,Connecticut,Restrictions on gatherings,2020-03-12,2020-03-15,2.0,19.0
+10,Connecticut,Restrictions on gatherings,2020-03-16,2020-03-18,3.0,55.0
+11,Connecticut,Restrictions on gatherings,2020-03-19,2020-06-16,4.0,45190.0
+12,Connecticut,Restrictions on gatherings,2020-06-17,2020-11-05,3.0,31631.0
+13,Connecticut,Restrictions on gatherings,2020-11-06,2021-03-18,4.0,217359.0
+14,Connecticut,Restrictions on gatherings,2021-03-19,2021-04-04,3.0,17265.0
+17,Connecticut,Restrictions on internal movement,2020-03-16,2020-07-23,1.0,48191.0
+18,Connecticut,Restrictions on internal movement,2020-07-24,2021-03-18,2.0,246708.0
+19,Connecticut,Restrictions on internal movement,2021-03-19,2021-04-04,1.0,17265.0
+0,Connecticut,School closing,2020-03-11,2020-03-12,2.0,2.0
+1,Connecticut,School closing,2020-03-13,2020-08-25,3.0,52029.0
+2,Connecticut,School closing,2020-08-26,2021-04-04,2.0,261736.0
+16,Connecticut,Stay at home requirements,2020-03-22,2021-04-04,1.0,313629.0
+30,Connecticut,Testing policy,2020-01-21,2020-04-16,1.0,15884.0
+31,Connecticut,Testing policy,2020-04-17,2020-05-12,2.0,17524.0
+32,Connecticut,Testing policy,2020-05-13,2021-04-04,3.0,279101.0
+39,Connecticut,Vaccination policy,2020-12-14,2021-01-17,2.0,69430.0
+40,Connecticut,Vaccination policy,2021-01-18,2021-01-18,3.0,0.0
+41,Connecticut,Vaccination policy,2021-01-19,2021-02-28,2.0,47727.0
+42,Connecticut,Vaccination policy,2021-03-01,2021-04-04,4.0,31330.0
+3,Connecticut,Workplace closing,2020-03-12,2020-03-15,1.0,19.0
+4,Connecticut,Workplace closing,2020-03-16,2020-03-22,2.0,286.0
+5,Connecticut,Workplace closing,2020-03-23,2020-05-19,3.0,38015.0
+6,Connecticut,Workplace closing,2020-05-20,2021-04-04,2.0,274939.0

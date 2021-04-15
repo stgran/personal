@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Bangladesh,Cancel public events,2020-03-16,2020-03-20,1.0,12.0
+7,Bangladesh,Cancel public events,2020-03-21,2021-03-29,2.0,600870.0
+11,Bangladesh,Close public transport,2020-03-19,2020-05-30,2.0,44591.0
+12,Bangladesh,Close public transport,2020-05-31,2020-11-09,1.0,374768.0
+13,Bangladesh,Close public transport,2020-11-10,2021-03-29,2.0,177275.0
+39,Bangladesh,Contact tracing,2020-01-24,2021-03-16,1.0,560887.0
+40,Bangladesh,Contact tracing,2021-03-17,2021-03-29,2.0,38143.0
+27,Bangladesh,Debt/contract relief,2020-03-19,2020-04-03,1.0,44.0
+28,Bangladesh,Debt/contract relief,2020-04-04,2021-03-29,2.0,600825.0
+41,Bangladesh,Emergency investment in healthcare,2020-03-18,2020-03-18,29550000.0,0.0
+42,Bangladesh,Emergency investment in healthcare,2020-04-13,2020-04-13,100320307.0,0.0
+43,Bangladesh,Facial Coverings,2020-05-30,2021-03-29,4.0,556287.0
+29,Bangladesh,Fiscal measures,2020-03-25,2020-03-25,595000000.0,0.0
+30,Bangladesh,Fiscal measures,2020-04-05,2020-04-05,8564857500.0,0.0
+31,Bangladesh,Fiscal measures,2020-04-13,2020-04-13,91000000.0,0.0
+26,Bangladesh,Income support,2020-04-13,2020-05-13,1.0,17019.0
+32,Bangladesh,International support,2020-03-22,2020-03-22,1500000.0,0.0
+33,Bangladesh,International support,2021-03-19,2021-03-19,500000000.0,0.0
+22,Bangladesh,International travel controls,2020-01-22,2020-03-15,1.0,5.0
+23,Bangladesh,International travel controls,2020-03-16,2020-03-30,2.0,41.0
+24,Bangladesh,International travel controls,2020-03-31,2021-01-25,3.0,532350.0
+25,Bangladesh,International travel controls,2021-01-26,2021-03-29,2.0,67979.0
+47,Bangladesh,Protection of elderly people,2021-01-26,2021-03-29,3.0,67979.0
+34,Bangladesh,Public information campaigns,2020-01-21,2020-01-27,1.0,0.0
+35,Bangladesh,Public information campaigns,2020-01-28,2021-03-29,2.0,600895.0
+8,Bangladesh,Restrictions on gatherings,2020-03-19,2020-05-30,4.0,44591.0
+9,Bangladesh,Restrictions on gatherings,2020-05-31,2020-06-15,3.0,43466.0
+10,Bangladesh,Restrictions on gatherings,2020-06-16,2021-03-29,4.0,506414.0
+20,Bangladesh,Restrictions on internal movement,2020-03-19,2020-05-30,2.0,44591.0
+21,Bangladesh,Restrictions on internal movement,2020-06-16,2021-03-29,2.0,506414.0
+0,Bangladesh,School closing,2020-03-16,2021-03-29,3.0,600887.0
+14,Bangladesh,Stay at home requirements,2020-03-19,2020-03-24,2.0,22.0
+15,Bangladesh,Stay at home requirements,2020-03-25,2020-04-09,1.0,291.0
+16,Bangladesh,Stay at home requirements,2020-04-10,2020-05-30,2.0,44184.0
+17,Bangladesh,Stay at home requirements,2020-05-31,2020-06-15,1.0,43466.0
+18,Bangladesh,Stay at home requirements,2020-06-16,2021-01-25,2.0,437920.0
+19,Bangladesh,Stay at home requirements,2021-01-26,2021-03-29,3.0,67979.0
+36,Bangladesh,Testing policy,2020-03-01,2020-03-07,1.0,0.0
+37,Bangladesh,Testing policy,2020-03-08,2021-01-25,2.0,532398.0
+38,Bangladesh,Testing policy,2021-01-26,2021-03-29,3.0,67979.0
+44,Bangladesh,Vaccination policy,2020-12-14,2021-01-18,1.0,35997.0
+45,Bangladesh,Vaccination policy,2021-01-28,2021-02-23,1.0,10163.0
+46,Bangladesh,Vaccination policy,2021-02-24,2021-03-29,2.0,56351.0
+1,Bangladesh,Workplace closing,2020-03-19,2020-04-30,3.0,7650.0
+2,Bangladesh,Workplace closing,2020-05-01,2020-05-16,2.0,12757.0
+3,Bangladesh,Workplace closing,2020-05-17,2020-05-30,3.0,22340.0
+4,Bangladesh,Workplace closing,2020-05-31,2020-07-15,1.0,146437.0
+5,Bangladesh,Workplace closing,2020-07-16,2021-03-29,3.0,404572.0

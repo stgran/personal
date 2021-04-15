@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+11,Guam,Cancel public events,2020-03-16,2020-03-19,1.0,9.0
+12,Guam,Cancel public events,2020-03-20,2021-02-23,2.0,7713.0
+13,Guam,Cancel public events,2021-02-24,2021-03-24,1.0,60.0
+14,Guam,Cancel public events,2021-03-25,2021-04-05,2.0,29.0
+20,Guam,Close public transport,2020-04-11,2020-04-27,2.0,8.0
+21,Guam,Close public transport,2020-04-28,2020-09-09,1.0,1617.0
+43,Guam,Contact tracing,2020-04-08,2020-06-01,1.0,54.0
+44,Guam,Contact tracing,2020-06-02,2021-04-05,2.0,7648.0
+33,Guam,Debt/contract relief,2020-12-01,2021-02-28,1.0,847.0
+45,Guam,Facial Coverings,2020-05-10,2021-04-05,3.0,7672.0
+34,Guam,Fiscal measures,2020-03-28,2020-03-28,117968257.8,0.0
+35,Guam,Fiscal measures,2020-05-23,2020-05-23,276000000.0,0.0
+36,Guam,Fiscal measures,2020-06-01,2020-06-01,20000000.0,0.0
+37,Guam,Fiscal measures,2020-06-03,2020-06-03,41500000.0,0.0
+38,Guam,Fiscal measures,2021-01-12,2021-01-12,143800000.0,0.0
+31,Guam,Income support,2020-04-17,2021-02-15,1.0,7563.0
+32,Guam,Income support,2021-03-09,2021-03-24,1.0,37.0
+26,Guam,International travel controls,2020-03-16,2020-05-31,3.0,169.0
+27,Guam,International travel controls,2020-06-01,2020-09-09,2.0,1583.0
+28,Guam,International travel controls,2020-09-10,2020-09-21,1.0,301.0
+29,Guam,International travel controls,2020-09-22,2021-03-24,2.0,5599.0
+30,Guam,International travel controls,2021-03-25,2021-04-05,1.0,29.0
+49,Guam,Protection of elderly people,2020-03-16,2020-08-14,1.0,499.0
+50,Guam,Protection of elderly people,2020-08-15,2020-09-24,2.0,1747.0
+51,Guam,Protection of elderly people,2020-09-25,2021-04-05,1.0,5560.0
+39,Guam,Public information campaigns,2020-02-07,2021-04-05,2.0,7823.0
+15,Guam,Restrictions on gatherings,2020-03-16,2020-03-19,3.0,9.0
+16,Guam,Restrictions on gatherings,2020-03-20,2020-05-27,4.0,156.0
+17,Guam,Restrictions on gatherings,2020-05-28,2020-08-14,3.0,331.0
+18,Guam,Restrictions on gatherings,2020-08-15,2021-01-31,4.0,7063.0
+19,Guam,Restrictions on gatherings,2021-02-01,2021-04-05,3.0,215.0
+25,Guam,Restrictions on internal movement,2020-08-15,2021-02-15,1.0,7183.0
+0,Guam,School closing,2020-03-16,2020-10-28,3.0,4463.0
+1,Guam,School closing,2020-10-29,2021-01-25,2.0,3005.0
+2,Guam,School closing,2021-01-26,2021-04-05,1.0,257.0
+22,Guam,Stay at home requirements,2020-03-16,2020-08-14,1.0,499.0
+23,Guam,Stay at home requirements,2020-08-15,2020-09-24,2.0,1747.0
+24,Guam,Stay at home requirements,2020-09-25,2021-04-05,1.0,5560.0
+40,Guam,Testing policy,2020-03-12,2020-04-08,1.0,121.0
+41,Guam,Testing policy,2020-04-09,2020-05-06,2.0,21.0
+42,Guam,Testing policy,2020-05-07,2021-04-05,3.0,7674.0
+46,Guam,Vaccination policy,2021-01-05,2021-02-26,2.0,377.0
+47,Guam,Vaccination policy,2021-03-08,2021-03-24,4.0,38.0
+48,Guam,Vaccination policy,2021-03-25,2021-04-05,5.0,29.0
+3,Guam,Workplace closing,2020-03-16,2020-03-19,2.0,9.0
+4,Guam,Workplace closing,2020-03-20,2020-05-09,3.0,137.0
+5,Guam,Workplace closing,2020-05-10,2020-07-19,2.0,164.0
+6,Guam,Workplace closing,2020-07-20,2020-08-07,1.0,92.0
+7,Guam,Workplace closing,2020-08-08,2020-08-19,2.0,187.0
+8,Guam,Workplace closing,2020-08-20,2020-09-24,3.0,1559.0
+9,Guam,Workplace closing,2020-09-25,2021-02-23,2.0,5464.0
+10,Guam,Workplace closing,2021-02-24,2021-04-05,1.0,94.0

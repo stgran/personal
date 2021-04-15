@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Laos,Cancel public events,2020-03-11,2020-03-29,1.0,8.0
+8,Laos,Cancel public events,2020-03-30,2020-06-30,2.0,11.0
+9,Laos,Cancel public events,2020-08-01,2020-11-29,1.0,19.0
+13,Laos,Close public transport,2020-03-30,2020-05-17,2.0,11.0
+36,Laos,Contact tracing,2020-04-06,2021-04-05,2.0,37.0
+28,Laos,Debt/contract relief,2020-04-02,2020-06-30,2.0,9.0
+29,Laos,Debt/contract relief,2020-07-01,2020-10-13,1.0,4.0
+30,Laos,Debt/contract relief,2020-11-03,2021-04-05,2.0,25.0
+37,Laos,Emergency investment in healthcare,2020-05-07,2020-05-07,5700000.0,0.0
+38,Laos,Facial Coverings,2020-02-03,2020-09-21,4.0,23.0
+39,Laos,Facial Coverings,2020-09-22,2020-10-13,1.0,0.0
+40,Laos,Facial Coverings,2020-10-14,2021-04-05,4.0,26.0
+31,Laos,Fiscal measures,2020-03-20,2020-03-20,11000000.0,0.0
+32,Laos,Fiscal measures,2020-04-12,2020-04-12,1119654.09,0.0
+25,Laos,Income support,2020-05-01,2020-06-30,1.0,0.0
+26,Laos,Income support,2020-08-25,2020-10-13,2.0,1.0
+27,Laos,Income support,2020-11-03,2021-04-05,2.0,25.0
+16,Laos,International travel controls,2020-03-15,2020-03-25,2.0,3.0
+17,Laos,International travel controls,2020-03-26,2020-03-29,3.0,2.0
+18,Laos,International travel controls,2020-03-30,2020-05-31,4.0,11.0
+19,Laos,International travel controls,2020-06-01,2020-06-27,3.0,0.0
+20,Laos,International travel controls,2020-06-28,2020-07-31,2.0,1.0
+21,Laos,International travel controls,2020-08-01,2020-10-31,3.0,4.0
+22,Laos,International travel controls,2020-11-01,2020-11-29,2.0,15.0
+23,Laos,International travel controls,2020-11-30,2021-02-15,4.0,6.0
+24,Laos,International travel controls,2021-02-16,2021-04-05,2.0,4.0
+42,Laos,Protection of elderly people,2020-03-30,2020-05-03,3.0,11.0
+43,Laos,Protection of elderly people,2021-01-18,2021-03-28,2.0,8.0
+44,Laos,Protection of elderly people,2021-03-29,2021-04-05,3.0,0.0
+33,Laos,Public information campaigns,2020-03-30,2021-04-05,2.0,41.0
+10,Laos,Restrictions on gatherings,2020-03-30,2020-05-17,4.0,11.0
+11,Laos,Restrictions on gatherings,2020-05-18,2020-05-31,3.0,0.0
+12,Laos,Restrictions on gatherings,2020-06-01,2020-06-30,2.0,0.0
+15,Laos,Restrictions on internal movement,2020-03-30,2020-05-17,2.0,11.0
+0,Laos,School closing,2020-03-19,2020-05-17,3.0,19.0
+1,Laos,School closing,2020-05-18,2020-06-01,2.0,0.0
+2,Laos,School closing,2020-06-02,2020-11-29,1.0,20.0
+14,Laos,Stay at home requirements,2020-03-30,2020-05-03,2.0,11.0
+34,Laos,Testing policy,2020-03-17,2020-08-24,1.0,22.0
+35,Laos,Testing policy,2020-08-25,2021-04-05,2.0,27.0
+41,Laos,Vaccination policy,2021-01-18,2021-04-05,1.0,8.0
+3,Laos,Workplace closing,2020-03-11,2020-03-29,1.0,8.0
+4,Laos,Workplace closing,2020-03-30,2020-05-03,3.0,11.0
+5,Laos,Workplace closing,2020-05-04,2020-05-31,2.0,0.0
+6,Laos,Workplace closing,2020-08-01,2021-01-17,2.0,21.0

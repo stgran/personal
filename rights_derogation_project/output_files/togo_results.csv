@@ -1,0 +1,60 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Togo,Cancel public events,2020-03-16,2020-08-28,2.0,1364.0
+10,Togo,Cancel public events,2020-08-29,2020-12-19,1.0,2006.0
+11,Togo,Cancel public events,2020-12-20,2021-02-09,2.0,2160.0
+12,Togo,Cancel public events,2021-03-01,2021-04-04,2.0,4254.0
+18,Togo,Close public transport,2020-09-29,2021-01-11,1.0,2219.0
+19,Togo,Close public transport,2021-02-02,2021-02-09,1.0,410.0
+48,Togo,Contact tracing,2020-05-26,2020-08-28,2.0,974.0
+49,Togo,Contact tracing,2020-08-29,2021-01-11,1.0,2588.0
+50,Togo,Contact tracing,2021-01-12,2021-04-04,2.0,7142.0
+40,Togo,Debt/contract relief,2020-04-01,2020-06-30,1.0,614.0
+41,Togo,Debt/contract relief,2020-09-29,2021-02-01,2.0,3333.0
+42,Togo,Debt/contract relief,2021-02-10,2021-04-04,2.0,5581.0
+51,Togo,Emergency investment in healthcare,2020-05-27,2020-05-27,1004059.72,0.0
+52,Togo,Facial Coverings,2020-04-20,2020-06-05,1.0,401.0
+53,Togo,Facial Coverings,2020-06-06,2020-12-19,3.0,2909.0
+54,Togo,Facial Coverings,2020-12-20,2021-04-04,4.0,7771.0
+43,Togo,Fiscal measures,2020-03-16,2020-03-16,3401747.37,0.0
+44,Togo,Fiscal measures,2020-04-01,2020-04-01,666872981.0,0.0
+37,Togo,Income support,2020-04-08,2021-02-01,1.0,5022.0
+38,Togo,Income support,2021-02-10,2021-03-14,2.0,2464.0
+39,Togo,Income support,2021-03-15,2021-04-04,1.0,2965.0
+29,Togo,International travel controls,2020-03-20,2020-08-01,4.0,949.0
+30,Togo,International travel controls,2020-08-02,2020-08-28,2.0,404.0
+31,Togo,International travel controls,2020-08-29,2020-09-28,1.0,359.0
+32,Togo,International travel controls,2020-09-29,2021-01-11,2.0,2219.0
+33,Togo,International travel controls,2021-01-12,2021-02-01,1.0,1047.0
+34,Togo,International travel controls,2021-02-02,2021-02-09,2.0,410.0
+35,Togo,International travel controls,2021-02-10,2021-02-28,1.0,1295.0
+36,Togo,International travel controls,2021-03-01,2021-04-04,4.0,4254.0
+58,Togo,Protection of elderly people,2020-12-20,2021-01-03,2.0,286.0
+45,Togo,Public information campaigns,2020-03-16,2021-04-04,2.0,11186.0
+13,Togo,Restrictions on gatherings,2020-03-19,2020-08-28,2.0,1364.0
+14,Togo,Restrictions on gatherings,2020-08-29,2020-09-28,3.0,359.0
+15,Togo,Restrictions on gatherings,2020-10-16,2020-12-19,2.0,1369.0
+16,Togo,Restrictions on gatherings,2020-12-20,2021-02-21,3.0,2903.0
+17,Togo,Restrictions on gatherings,2021-03-01,2021-04-04,3.0,4254.0
+25,Togo,Restrictions on internal movement,2020-03-21,2020-06-08,2.0,481.0
+26,Togo,Restrictions on internal movement,2020-08-29,2020-09-28,1.0,359.0
+27,Togo,Restrictions on internal movement,2020-09-29,2021-02-01,2.0,3333.0
+28,Togo,Restrictions on internal movement,2021-02-10,2021-04-04,2.0,5581.0
+0,Togo,School closing,2020-03-20,2020-06-07,3.0,486.0
+1,Togo,School closing,2020-06-08,2020-11-01,2.0,1860.0
+2,Togo,School closing,2020-11-02,2021-01-11,1.0,1614.0
+3,Togo,School closing,2021-02-02,2021-02-09,1.0,410.0
+4,Togo,School closing,2021-03-01,2021-04-04,2.0,4254.0
+20,Togo,Stay at home requirements,2020-03-20,2020-04-01,1.0,27.0
+21,Togo,Stay at home requirements,2020-04-02,2020-06-08,2.0,458.0
+22,Togo,Stay at home requirements,2020-08-29,2020-11-16,1.0,1303.0
+23,Togo,Stay at home requirements,2020-12-20,2021-01-03,2.0,286.0
+24,Togo,Stay at home requirements,2021-03-01,2021-04-04,1.0,4254.0
+46,Togo,Testing policy,2020-03-06,2020-08-28,1.0,1364.0
+47,Togo,Testing policy,2020-10-26,2021-04-04,2.0,8983.0
+55,Togo,Vaccination policy,2021-03-08,2021-03-14,2.0,472.0
+56,Togo,Vaccination policy,2021-03-15,2021-03-28,1.0,1733.0
+57,Togo,Vaccination policy,2021-03-29,2021-04-04,2.0,1195.0
+5,Togo,Workplace closing,2020-03-20,2020-09-28,2.0,1740.0
+6,Togo,Workplace closing,2020-09-29,2020-11-16,1.0,934.0
+7,Togo,Workplace closing,2020-11-17,2021-01-11,2.0,1256.0
+8,Togo,Workplace closing,2021-03-08,2021-04-04,2.0,3589.0

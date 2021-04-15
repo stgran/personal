@@ -1,0 +1,61 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Nunavut,Cancel public events,2020-01-01,2020-04-26,1.0,0.0
+14,Nunavut,Cancel public events,2020-04-27,2020-06-28,2.0,0.0
+15,Nunavut,Cancel public events,2020-06-29,2020-11-05,1.0,0.0
+16,Nunavut,Cancel public events,2020-11-06,2021-01-11,2.0,265.0
+17,Nunavut,Cancel public events,2021-01-12,2021-01-23,1.0,1.0
+18,Nunavut,Cancel public events,2021-01-24,2021-03-09,2.0,101.0
+19,Nunavut,Cancel public events,2021-03-10,2021-04-06,1.0,14.0
+48,Nunavut,Contact tracing,2020-03-17,2021-04-06,2.0,395.0
+49,Nunavut,Facial Coverings,2020-04-20,2020-12-01,2.0,182.0
+50,Nunavut,Facial Coverings,2020-12-02,2021-04-06,3.0,202.0
+37,Nunavut,Fiscal measures,2020-03-30,2020-03-30,335156.0,0.0
+38,Nunavut,Fiscal measures,2020-04-03,2020-04-03,1547160.0,0.0
+39,Nunavut,Fiscal measures,2020-04-14,2020-04-14,23826264.0,0.0
+40,Nunavut,Fiscal measures,2020-04-22,2020-04-22,26000.0,0.0
+41,Nunavut,Fiscal measures,2020-07-20,2020-07-20,14620662.0,0.0
+42,Nunavut,Fiscal measures,2020-11-25,2020-11-25,14870000.0,0.0
+43,Nunavut,Fiscal measures,2020-11-27,2020-11-27,335156.0,0.0
+44,Nunavut,Fiscal measures,2021-02-22,2021-02-22,3806844.72,0.0
+35,Nunavut,Income support,2020-03-15,2020-12-01,2.0,182.0
+36,Nunavut,Income support,2020-12-02,2021-04-06,1.0,202.0
+33,Nunavut,International travel controls,2020-03-15,2020-03-15,2.0,0.0
+34,Nunavut,International travel controls,2020-03-16,2020-12-16,4.0,258.0
+53,Nunavut,Protection of elderly people,2020-03-17,2020-04-04,3.0,0.0
+54,Nunavut,Protection of elderly people,2020-04-06,2020-06-28,3.0,0.0
+55,Nunavut,Protection of elderly people,2020-06-29,2020-11-15,2.0,18.0
+56,Nunavut,Protection of elderly people,2020-11-16,2021-01-11,3.0,240.0
+57,Nunavut,Protection of elderly people,2021-01-12,2021-01-23,2.0,1.0
+58,Nunavut,Protection of elderly people,2021-01-24,2021-03-09,3.0,101.0
+59,Nunavut,Protection of elderly people,2021-03-10,2021-04-06,2.0,14.0
+45,Nunavut,Public information campaigns,2020-01-20,2020-03-24,1.0,0.0
+46,Nunavut,Public information campaigns,2020-03-25,2021-04-06,2.0,395.0
+20,Nunavut,Restrictions on gatherings,2020-04-27,2020-05-31,4.0,0.0
+21,Nunavut,Restrictions on gatherings,2020-06-01,2020-11-17,3.0,60.0
+22,Nunavut,Restrictions on gatherings,2020-11-18,2021-01-11,4.0,196.0
+23,Nunavut,Restrictions on gatherings,2021-01-12,2021-01-23,3.0,1.0
+24,Nunavut,Restrictions on gatherings,2021-01-24,2021-04-06,4.0,115.0
+31,Nunavut,Restrictions on internal movement,2020-03-11,2020-03-24,1.0,0.0
+32,Nunavut,Restrictions on internal movement,2020-03-25,2021-04-06,2.0,395.0
+0,Nunavut,School closing,2020-03-13,2020-04-20,1.0,0.0
+1,Nunavut,School closing,2020-04-21,2020-05-31,3.0,0.0
+2,Nunavut,School closing,2020-06-01,2020-08-31,2.0,0.0
+3,Nunavut,School closing,2020-09-01,2020-11-05,1.0,0.0
+4,Nunavut,School closing,2020-11-06,2021-01-11,3.0,265.0
+5,Nunavut,School closing,2021-01-12,2021-01-23,1.0,1.0
+6,Nunavut,School closing,2021-01-24,2021-03-09,3.0,101.0
+7,Nunavut,School closing,2021-03-10,2021-04-06,2.0,14.0
+25,Nunavut,Stay at home requirements,2020-03-18,2020-04-29,2.0,0.0
+26,Nunavut,Stay at home requirements,2020-04-30,2020-11-11,1.0,3.0
+27,Nunavut,Stay at home requirements,2020-11-12,2021-01-11,2.0,263.0
+28,Nunavut,Stay at home requirements,2021-01-12,2021-01-23,1.0,1.0
+29,Nunavut,Stay at home requirements,2021-01-24,2021-03-09,2.0,101.0
+30,Nunavut,Stay at home requirements,2021-03-10,2021-04-06,1.0,14.0
+47,Nunavut,Testing policy,2020-03-17,2021-03-29,1.0,395.0
+51,Nunavut,Vaccination policy,2021-01-06,2021-01-20,1.0,0.0
+52,Nunavut,Vaccination policy,2021-01-21,2021-02-17,2.0,58.0
+8,Nunavut,Workplace closing,2020-03-20,2020-11-05,2.0,0.0
+9,Nunavut,Workplace closing,2020-11-06,2021-01-11,3.0,265.0
+10,Nunavut,Workplace closing,2021-01-12,2021-01-23,2.0,1.0
+11,Nunavut,Workplace closing,2021-01-24,2021-03-09,3.0,101.0
+12,Nunavut,Workplace closing,2021-03-10,2021-04-06,2.0,14.0

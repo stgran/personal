@@ -1,0 +1,54 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Mato Grosso,Cancel public events,2020-03-13,2020-03-15,1.0,0.0
+11,Mato Grosso,Cancel public events,2020-03-16,2021-02-17,2.0,237239.0
+12,Mato Grosso,Cancel public events,2021-02-18,2021-03-02,1.0,15002.0
+13,Mato Grosso,Cancel public events,2021-03-03,2021-03-19,2.0,28720.0
+20,Mato Grosso,Close public transport,2020-03-21,2020-04-02,2.0,41.0
+21,Mato Grosso,Close public transport,2020-04-03,2020-04-07,1.0,34.0
+22,Mato Grosso,Close public transport,2020-04-08,2020-04-15,2.0,61.0
+23,Mato Grosso,Close public transport,2020-04-16,2021-03-19,1.0,284276.0
+46,Mato Grosso,Contact tracing,2020-04-01,2021-03-19,2.0,284404.0
+42,Mato Grosso,Debt/contract relief,2020-03-17,2020-12-26,1.0,176240.0
+47,Mato Grosso,Facial Coverings,2020-04-03,2020-04-12,1.0,79.0
+48,Mato Grosso,Facial Coverings,2020-04-13,2020-04-15,2.0,17.0
+49,Mato Grosso,Facial Coverings,2020-04-16,2021-01-11,4.0,190950.0
+40,Mato Grosso,Income support,2020-09-09,2020-12-29,1.0,77171.0
+41,Mato Grosso,Income support,2020-12-31,2020-12-31,1.0,0.0
+36,Mato Grosso,International travel controls,2020-03-13,2020-03-17,2.0,0.0
+37,Mato Grosso,International travel controls,2020-03-18,2020-03-26,3.0,11.0
+38,Mato Grosso,International travel controls,2020-03-27,2020-07-28,4.0,47034.0
+39,Mato Grosso,International travel controls,2020-07-29,2021-03-19,1.0,235578.0
+50,Mato Grosso,Protection of elderly people,2020-04-06,2020-04-21,2.0,105.0
+51,Mato Grosso,Protection of elderly people,2020-05-07,2021-01-05,1.0,183254.0
+52,Mato Grosso,Protection of elderly people,2021-01-07,2021-03-19,1.0,97601.0
+43,Mato Grosso,Public information campaigns,2020-01-26,2021-03-19,2.0,284432.0
+14,Mato Grosso,Restrictions on gatherings,2020-03-13,2020-03-24,2.0,7.0
+15,Mato Grosso,Restrictions on gatherings,2020-03-25,2021-01-15,4.0,197385.0
+16,Mato Grosso,Restrictions on gatherings,2021-01-16,2021-02-11,2.0,32041.0
+17,Mato Grosso,Restrictions on gatherings,2021-02-12,2021-02-17,4.0,5395.0
+18,Mato Grosso,Restrictions on gatherings,2021-02-18,2021-03-02,2.0,15002.0
+19,Mato Grosso,Restrictions on gatherings,2021-03-03,2021-03-19,3.0,28720.0
+28,Mato Grosso,Restrictions on internal movement,2020-03-18,2020-03-22,1.0,2.0
+29,Mato Grosso,Restrictions on internal movement,2020-03-23,2020-03-30,2.0,12.0
+30,Mato Grosso,Restrictions on internal movement,2020-03-31,2020-04-15,1.0,126.0
+31,Mato Grosso,Restrictions on internal movement,2020-04-16,2020-05-06,2.0,229.0
+32,Mato Grosso,Restrictions on internal movement,2020-05-07,2020-05-16,1.0,438.0
+33,Mato Grosso,Restrictions on internal movement,2020-06-02,2020-06-11,1.0,2269.0
+34,Mato Grosso,Restrictions on internal movement,2020-06-12,2021-02-19,2.0,235695.0
+35,Mato Grosso,Restrictions on internal movement,2021-02-20,2021-03-19,1.0,42974.0
+0,Mato Grosso,School closing,2020-03-18,2021-02-19,3.0,241085.0
+1,Mato Grosso,School closing,2021-02-20,2021-03-19,2.0,42974.0
+24,Mato Grosso,Stay at home requirements,2020-03-23,2020-06-02,1.0,2811.0
+25,Mato Grosso,Stay at home requirements,2020-06-03,2020-10-18,3.0,132921.0
+26,Mato Grosso,Stay at home requirements,2020-10-19,2021-02-19,2.0,104581.0
+27,Mato Grosso,Stay at home requirements,2021-02-20,2021-03-19,1.0,42974.0
+44,Mato Grosso,Testing policy,2020-02-01,2020-05-05,1.0,366.0
+45,Mato Grosso,Testing policy,2020-05-06,2021-03-19,2.0,284047.0
+2,Mato Grosso,Workplace closing,2020-03-18,2020-03-20,2.0,1.0
+3,Mato Grosso,Workplace closing,2020-03-21,2020-04-26,3.0,249.0
+4,Mato Grosso,Workplace closing,2020-04-27,2020-06-11,2.0,4830.0
+5,Mato Grosso,Workplace closing,2020-06-12,2020-07-28,3.0,41655.0
+6,Mato Grosso,Workplace closing,2020-07-29,2021-02-05,2.0,175562.0
+7,Mato Grosso,Workplace closing,2021-02-07,2021-02-19,2.0,15627.0
+8,Mato Grosso,Workplace closing,2021-02-20,2021-03-02,1.0,12325.0
+9,Mato Grosso,Workplace closing,2021-03-03,2021-03-19,2.0,28720.0

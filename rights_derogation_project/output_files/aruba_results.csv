@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Aruba,Cancel public events,2020-03-29,2020-11-23,2.0,4687.0
+14,Aruba,Cancel public events,2020-11-24,2021-01-06,1.0,1060.0
+15,Aruba,Cancel public events,2021-01-07,2021-03-22,2.0,2917.0
+45,Aruba,Contact tracing,2020-03-19,2021-03-08,1.0,8106.0
+46,Aruba,Contact tracing,2021-03-09,2021-03-22,2.0,623.0
+40,Aruba,Debt/contract relief,2020-03-30,2020-12-21,2.0,5126.0
+47,Aruba,Facial Coverings,2020-08-04,2020-08-26,2.0,1628.0
+48,Aruba,Facial Coverings,2020-08-28,2020-10-21,3.0,2463.0
+49,Aruba,Facial Coverings,2020-10-22,2020-11-30,2.0,456.0
+50,Aruba,Facial Coverings,2020-12-01,2021-03-22,3.0,3928.0
+38,Aruba,Income support,2020-04-01,2020-07-19,2.0,58.0
+39,Aruba,Income support,2020-07-20,2020-12-31,1.0,5374.0
+41,Aruba,International support,2020-03-30,2020-03-30,0.56,0.0
+34,Aruba,International travel controls,2020-03-17,2020-06-09,4.0,98.0
+35,Aruba,International travel controls,2020-06-10,2020-09-20,3.0,3450.0
+36,Aruba,International travel controls,2020-09-21,2021-01-25,1.0,3155.0
+37,Aruba,International travel controls,2021-01-26,2021-03-22,3.0,2032.0
+52,Aruba,Protection of elderly people,2020-03-18,2020-06-09,1.0,97.0
+53,Aruba,Protection of elderly people,2020-06-10,2020-08-06,2.0,162.0
+54,Aruba,Protection of elderly people,2020-08-07,2021-01-31,3.0,6570.0
+42,Aruba,Public information campaigns,2020-03-18,2021-03-22,2.0,8796.0
+16,Aruba,Restrictions on gatherings,2020-03-29,2020-05-17,4.0,51.0
+17,Aruba,Restrictions on gatherings,2020-08-04,2020-11-23,4.0,4605.0
+18,Aruba,Restrictions on gatherings,2020-11-24,2021-02-08,3.0,2487.0
+19,Aruba,Restrictions on gatherings,2021-02-09,2021-03-22,4.0,1514.0
+32,Aruba,Restrictions on internal movement,2020-03-29,2020-05-30,2.0,51.0
+33,Aruba,Restrictions on internal movement,2020-05-31,2020-09-06,1.0,2348.0
+0,Aruba,School closing,2020-03-16,2020-05-17,3.0,99.0
+1,Aruba,School closing,2020-05-18,2020-06-08,2.0,0.0
+2,Aruba,School closing,2020-06-09,2020-07-12,1.0,4.0
+3,Aruba,School closing,2020-08-18,2020-09-02,3.0,1006.0
+4,Aruba,School closing,2020-09-03,2020-11-09,2.0,2314.0
+5,Aruba,School closing,2020-11-10,2020-11-30,1.0,223.0
+20,Aruba,Stay at home requirements,2020-03-21,2020-03-28,1.0,41.0
+21,Aruba,Stay at home requirements,2020-03-29,2020-04-09,2.0,32.0
+22,Aruba,Stay at home requirements,2020-04-10,2020-04-10,3.0,0.0
+23,Aruba,Stay at home requirements,2020-04-11,2020-04-11,2.0,0.0
+24,Aruba,Stay at home requirements,2020-04-12,2020-04-13,3.0,0.0
+25,Aruba,Stay at home requirements,2020-04-14,2020-05-27,2.0,9.0
+26,Aruba,Stay at home requirements,2020-05-28,2020-08-27,1.0,1747.0
+27,Aruba,Stay at home requirements,2020-08-28,2020-10-21,2.0,2463.0
+28,Aruba,Stay at home requirements,2020-12-01,2020-12-31,1.0,617.0
+29,Aruba,Stay at home requirements,2021-01-01,2021-01-13,2.0,719.0
+30,Aruba,Stay at home requirements,2021-01-14,2021-01-18,1.0,155.0
+31,Aruba,Stay at home requirements,2021-01-19,2021-03-22,2.0,2277.0
+43,Aruba,Testing policy,2020-03-10,2020-06-24,1.0,101.0
+44,Aruba,Testing policy,2020-06-25,2021-03-22,2.0,8699.0
+51,Aruba,Vaccination policy,2021-02-17,2021-03-22,2.0,1287.0
+6,Aruba,Workplace closing,2020-03-21,2020-03-28,2.0,41.0
+7,Aruba,Workplace closing,2020-03-29,2020-05-03,3.0,50.0
+8,Aruba,Workplace closing,2020-05-04,2020-06-09,2.0,1.0
+9,Aruba,Workplace closing,2020-06-10,2020-08-06,1.0,162.0
+10,Aruba,Workplace closing,2020-08-07,2020-10-21,2.0,3973.0
+11,Aruba,Workplace closing,2020-12-05,2020-12-18,1.0,181.0
+12,Aruba,Workplace closing,2021-02-05,2021-03-22,2.0,1632.0

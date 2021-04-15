@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Alabama,Cancel public events,2020-03-13,2020-03-16,1.0,28.0
+13,Alabama,Cancel public events,2020-03-17,2020-06-05,2.0,19859.0
+14,Alabama,Cancel public events,2020-06-06,2021-04-06,1.0,496759.0
+17,Alabama,Close public transport,2020-03-24,2020-08-27,1.0,120743.0
+18,Alabama,Close public transport,2021-01-18,2021-03-21,1.0,87432.0
+35,Alabama,Contact tracing,2020-01-21,2020-03-30,1.0,1001.0
+36,Alabama,Contact tracing,2020-03-31,2020-10-22,2.0,179374.0
+37,Alabama,Contact tracing,2020-10-23,2021-04-06,1.0,334547.0
+29,Alabama,Debt/contract relief,2020-03-27,2021-04-05,1.0,516234.0
+38,Alabama,Facial Coverings,2020-04-04,2020-04-30,1.0,5460.0
+39,Alabama,Facial Coverings,2020-05-01,2021-01-10,3.0,394460.0
+40,Alabama,Facial Coverings,2021-01-20,2021-04-06,3.0,87459.0
+24,Alabama,Income support,2020-01-27,2020-01-27,1.0,0.0
+25,Alabama,Income support,2020-03-16,2020-03-26,1.0,538.0
+26,Alabama,Income support,2020-03-27,2020-07-30,2.0,85980.0
+27,Alabama,Income support,2020-07-31,2020-12-25,1.0,254160.0
+28,Alabama,Income support,2020-12-27,2021-04-06,1.0,171486.0
+22,Alabama,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+23,Alabama,International travel controls,2020-03-02,2021-04-06,3.0,517114.0
+45,Alabama,Protection of elderly people,2020-03-13,2020-10-01,3.0,155719.0
+46,Alabama,Protection of elderly people,2020-10-02,2021-03-08,2.0,342690.0
+47,Alabama,Protection of elderly people,2021-03-10,2021-04-06,2.0,15716.0
+30,Alabama,Public information campaigns,2020-03-10,2021-04-06,2.0,517114.0
+15,Alabama,Restrictions on gatherings,2020-03-17,2020-03-18,3.0,10.0
+16,Alabama,Restrictions on gatherings,2020-03-19,2020-05-20,4.0,13098.0
+21,Alabama,Restrictions on internal movement,2020-03-16,2021-04-06,1.0,517078.0
+0,Alabama,School closing,2020-03-13,2020-03-18,1.0,53.0
+1,Alabama,School closing,2020-03-19,2020-03-19,2.0,0.0
+2,Alabama,School closing,2020-03-20,2020-08-15,3.0,106811.0
+3,Alabama,School closing,2020-08-16,2021-04-04,2.0,409142.0
+4,Alabama,School closing,2021-04-05,2021-04-06,1.0,196.0
+19,Alabama,Stay at home requirements,2020-03-24,2020-06-19,2.0,28927.0
+20,Alabama,Stay at home requirements,2020-06-20,2021-04-06,1.0,487431.0
+31,Alabama,Testing policy,2020-01-21,2020-03-05,1.0,0.0
+32,Alabama,Testing policy,2020-03-06,2020-06-04,2.0,19262.0
+33,Alabama,Testing policy,2020-06-05,2021-01-31,3.0,439729.0
+34,Alabama,Testing policy,2021-02-01,2021-04-06,2.0,56254.0
+41,Alabama,Vaccination policy,2020-12-15,2020-12-21,1.0,23299.0
+42,Alabama,Vaccination policy,2020-12-22,2021-03-21,2.0,181649.0
+43,Alabama,Vaccination policy,2021-03-22,2021-04-04,3.0,5030.0
+44,Alabama,Vaccination policy,2021-04-05,2021-04-06,4.0,196.0
+5,Alabama,Workplace closing,2020-03-12,2020-03-16,1.0,32.0
+6,Alabama,Workplace closing,2020-03-17,2020-03-19,2.0,37.0
+7,Alabama,Workplace closing,2020-03-20,2020-04-29,3.0,6864.0
+8,Alabama,Workplace closing,2020-04-30,2020-06-06,2.0,13168.0
+9,Alabama,Workplace closing,2020-06-07,2020-08-23,1.0,94708.0
+10,Alabama,Workplace closing,2020-08-24,2020-09-07,2.0,16176.0
+11,Alabama,Workplace closing,2020-09-08,2021-04-06,1.0,384109.0

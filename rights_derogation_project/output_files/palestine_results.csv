@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Palestine,Cancel public events,2020-03-05,2020-10-23,2.0,49575.0
+13,Palestine,Cancel public events,2021-01-14,2021-04-05,2.0,103417.0
+20,Palestine,Close public transport,2020-03-05,2020-03-21,1.0,44.0
+21,Palestine,Close public transport,2020-03-22,2020-10-23,2.0,49527.0
+22,Palestine,Close public transport,2020-10-24,2021-02-14,1.0,117615.0
+23,Palestine,Close public transport,2021-02-15,2021-03-20,2.0,52947.0
+24,Palestine,Close public transport,2021-03-21,2021-04-05,1.0,30284.0
+46,Palestine,Contact tracing,2020-03-06,2021-03-08,1.0,198547.0
+47,Palestine,Contact tracing,2021-03-17,2021-03-29,1.0,22264.0
+37,Palestine,Debt/contract relief,2020-04-21,2020-10-23,2.0,49250.0
+48,Palestine,Facial Coverings,2020-12-15,2021-01-11,1.0,34762.0
+49,Palestine,Facial Coverings,2021-01-18,2021-03-16,1.0,61236.0
+50,Palestine,Facial Coverings,2021-03-17,2021-03-29,2.0,22264.0
+51,Palestine,Facial Coverings,2021-03-30,2021-04-05,3.0,13857.0
+38,Palestine,International support,2021-01-21,2021-01-21,1000000.0,0.0
+32,Palestine,International travel controls,2020-03-05,2020-07-27,4.0,10617.0
+33,Palestine,International travel controls,2020-07-28,2020-07-28,2.0,0.0
+34,Palestine,International travel controls,2020-07-29,2020-10-23,4.0,38295.0
+35,Palestine,International travel controls,2020-10-24,2021-01-11,2.0,98182.0
+36,Palestine,International travel controls,2021-01-12,2021-04-05,4.0,104954.0
+54,Palestine,Protection of elderly people,2020-03-22,2021-04-05,2.0,253870.0
+39,Palestine,Public information campaigns,2020-02-22,2020-03-04,1.0,0.0
+40,Palestine,Public information campaigns,2020-03-05,2021-03-08,2.0,198550.0
+41,Palestine,Public information campaigns,2021-03-09,2021-03-16,1.0,13409.0
+42,Palestine,Public information campaigns,2021-03-17,2021-04-05,2.0,37938.0
+14,Palestine,Restrictions on gatherings,2020-03-05,2020-03-21,2.0,44.0
+15,Palestine,Restrictions on gatherings,2020-03-22,2020-05-25,4.0,371.0
+16,Palestine,Restrictions on gatherings,2020-05-26,2020-10-23,3.0,49150.0
+17,Palestine,Restrictions on gatherings,2020-11-15,2021-02-27,3.0,118878.0
+18,Palestine,Restrictions on gatherings,2021-02-28,2021-03-16,2.0,30179.0
+19,Palestine,Restrictions on gatherings,2021-03-17,2021-04-05,4.0,37938.0
+31,Palestine,Restrictions on internal movement,2020-03-05,2021-04-05,2.0,253918.0
+0,Palestine,School closing,2020-03-06,2021-01-13,3.0,149762.0
+1,Palestine,School closing,2021-01-14,2021-04-05,2.0,103417.0
+25,Palestine,Stay at home requirements,2020-03-22,2020-10-23,2.0,49527.0
+26,Palestine,Stay at home requirements,2020-10-24,2020-11-14,1.0,12178.0
+27,Palestine,Stay at home requirements,2020-11-15,2021-01-11,3.0,85140.0
+28,Palestine,Stay at home requirements,2021-01-12,2021-01-13,2.0,801.0
+29,Palestine,Stay at home requirements,2021-01-14,2021-03-20,3.0,70886.0
+30,Palestine,Stay at home requirements,2021-03-21,2021-04-05,2.0,30284.0
+43,Palestine,Testing policy,2020-03-06,2020-10-23,1.0,49572.0
+44,Palestine,Testing policy,2020-11-11,2021-01-11,1.0,88106.0
+45,Palestine,Testing policy,2021-01-12,2021-04-05,2.0,104954.0
+52,Palestine,Vaccination policy,2021-02-04,2021-03-16,1.0,52704.0
+53,Palestine,Vaccination policy,2021-03-17,2021-04-05,3.0,37938.0
+2,Palestine,Workplace closing,2020-03-06,2020-03-21,2.0,41.0
+3,Palestine,Workplace closing,2020-03-22,2020-05-25,3.0,371.0
+4,Palestine,Workplace closing,2020-05-26,2020-09-17,2.0,33414.0
+5,Palestine,Workplace closing,2020-09-18,2020-10-23,3.0,15178.0
+6,Palestine,Workplace closing,2020-10-24,2020-11-14,1.0,12178.0
+7,Palestine,Workplace closing,2020-11-15,2021-01-13,3.0,86738.0
+8,Palestine,Workplace closing,2021-01-14,2021-02-27,1.0,31404.0
+9,Palestine,Workplace closing,2021-02-28,2021-03-08,3.0,14942.0
+10,Palestine,Workplace closing,2021-03-09,2021-03-20,2.0,21009.0
+11,Palestine,Workplace closing,2021-03-21,2021-04-05,1.0,30284.0

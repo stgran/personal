@@ -1,0 +1,53 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,New Hampshire,Cancel public events,2020-03-15,2020-03-16,1.0,10.0
+10,New Hampshire,Cancel public events,2020-03-17,2020-06-15,2.0,5319.0
+11,New Hampshire,Cancel public events,2020-06-16,2021-04-06,1.0,81157.0
+14,New Hampshire,Close public transport,2020-04-01,2020-06-07,2.0,4676.0
+15,New Hampshire,Close public transport,2020-06-08,2020-08-23,1.0,2028.0
+36,New Hampshire,Contact tracing,2020-01-21,2020-03-01,1.0,0.0
+37,New Hampshire,Contact tracing,2020-03-02,2020-11-11,2.0,13101.0
+38,New Hampshire,Contact tracing,2020-11-12,2021-02-01,1.0,52875.0
+39,New Hampshire,Contact tracing,2021-02-02,2021-04-06,2.0,19865.0
+28,New Hampshire,Debt/contract relief,2020-03-16,2020-06-30,2.0,5765.0
+29,New Hampshire,Debt/contract relief,2020-07-01,2020-07-24,1.0,573.0
+30,New Hampshire,Debt/contract relief,2020-09-01,2021-04-06,1.0,79224.0
+40,New Hampshire,Facial Coverings,2020-04-04,2020-05-21,1.0,3395.0
+41,New Hampshire,Facial Coverings,2020-05-22,2020-11-19,2.0,12101.0
+42,New Hampshire,Facial Coverings,2020-11-20,2021-01-10,3.0,36364.0
+43,New Hampshire,Facial Coverings,2021-01-20,2021-04-06,3.0,26630.0
+23,New Hampshire,Income support,2020-01-27,2020-01-27,1.0,0.0
+24,New Hampshire,Income support,2020-03-16,2020-03-26,1.0,120.0
+25,New Hampshire,Income support,2020-03-27,2020-07-30,2.0,6386.0
+26,New Hampshire,Income support,2020-07-31,2020-09-16,1.0,1198.0
+27,New Hampshire,Income support,2020-12-27,2021-04-06,1.0,44885.0
+21,New Hampshire,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+22,New Hampshire,International travel controls,2020-03-02,2021-04-06,3.0,86520.0
+48,New Hampshire,Protection of elderly people,2020-03-13,2020-03-14,1.0,1.0
+49,New Hampshire,Protection of elderly people,2020-03-15,2020-06-15,3.0,5338.0
+50,New Hampshire,Protection of elderly people,2020-06-16,2021-03-08,2.0,71696.0
+51,New Hampshire,Protection of elderly people,2021-03-10,2021-04-06,2.0,9058.0
+31,New Hampshire,Public information campaigns,2020-01-30,2020-03-11,1.0,5.0
+32,New Hampshire,Public information campaigns,2020-03-12,2021-04-06,2.0,86515.0
+12,New Hampshire,Restrictions on gatherings,2020-03-17,2020-03-22,3.0,47.0
+13,New Hampshire,Restrictions on gatherings,2020-03-23,2020-06-15,4.0,5244.0
+18,New Hampshire,Restrictions on internal movement,2020-03-16,2020-11-14,1.0,14195.0
+19,New Hampshire,Restrictions on internal movement,2020-11-15,2021-03-15,2.0,64261.0
+20,New Hampshire,Restrictions on internal movement,2021-03-16,2021-04-06,1.0,7451.0
+0,New Hampshire,School closing,2020-03-13,2020-03-15,1.0,1.0
+1,New Hampshire,School closing,2020-03-16,2020-03-18,2.0,20.0
+2,New Hampshire,School closing,2020-03-19,2020-08-21,3.0,7029.0
+3,New Hampshire,School closing,2020-08-22,2021-03-07,2.0,69767.0
+4,New Hampshire,School closing,2021-03-08,2021-04-06,1.0,9461.0
+16,New Hampshire,Stay at home requirements,2020-03-27,2020-06-15,2.0,5187.0
+17,New Hampshire,Stay at home requirements,2020-06-16,2021-04-06,1.0,81157.0
+33,New Hampshire,Testing policy,2020-01-21,2020-04-28,1.0,2010.0
+34,New Hampshire,Testing policy,2020-04-29,2020-05-28,2.0,2331.0
+35,New Hampshire,Testing policy,2020-05-29,2021-04-06,3.0,82029.0
+44,New Hampshire,Vaccination policy,2020-12-15,2020-12-21,1.0,4397.0
+45,New Hampshire,Vaccination policy,2020-12-22,2021-01-25,2.0,24606.0
+46,New Hampshire,Vaccination policy,2021-01-26,2021-03-28,3.0,19660.0
+47,New Hampshire,Vaccination policy,2021-03-29,2021-04-06,4.0,3181.0
+5,New Hampshire,Workplace closing,2020-03-12,2020-03-27,1.0,152.0
+6,New Hampshire,Workplace closing,2020-03-28,2020-05-10,3.0,2884.0
+7,New Hampshire,Workplace closing,2020-05-11,2020-06-28,2.0,2587.0
+8,New Hampshire,Workplace closing,2020-06-29,2021-04-06,1.0,80761.0

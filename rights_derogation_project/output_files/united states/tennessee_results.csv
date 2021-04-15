@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Tennessee,Cancel public events,2020-03-13,2020-03-21,1.0,278.0
+8,Tennessee,Cancel public events,2020-03-22,2021-01-18,2.0,687358.0
+9,Tennessee,Cancel public events,2021-01-19,2021-03-29,1.0,119627.0
+13,Tennessee,Close public transport,2020-03-30,2021-03-29,1.0,807775.0
+34,Tennessee,Contact tracing,2020-01-21,2021-03-29,1.0,809692.0
+24,Tennessee,Debt/contract relief,2020-03-27,2020-08-28,1.0,149497.0
+25,Tennessee,Debt/contract relief,2020-09-01,2021-03-29,1.0,653363.0
+35,Tennessee,Facial Coverings,2020-04-04,2020-07-02,1.0,43568.0
+36,Tennessee,Facial Coverings,2020-07-03,2021-01-10,3.0,605157.0
+37,Tennessee,Facial Coverings,2021-01-20,2021-03-29,3.0,115401.0
+26,Tennessee,Fiscal measures,2020-07-01,2020-07-01,200000000.0,0.0
+27,Tennessee,Fiscal measures,2020-10-07,2020-10-07,50000000.0,0.0
+28,Tennessee,Fiscal measures,2021-01-04,2021-01-04,100000000.0,0.0
+29,Tennessee,Fiscal measures,2021-03-05,2021-03-05,14900000.0,0.0
+19,Tennessee,Income support,2020-01-27,2020-01-27,1.0,0.0
+20,Tennessee,Income support,2020-03-17,2020-03-26,1.0,1023.0
+21,Tennessee,Income support,2020-03-27,2020-07-30,2.0,101553.0
+22,Tennessee,Income support,2020-07-31,2020-09-10,1.0,62278.0
+23,Tennessee,Income support,2020-12-27,2021-03-29,1.0,245612.0
+17,Tennessee,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+18,Tennessee,International travel controls,2020-03-02,2021-03-30,3.0,810529.0
+41,Tennessee,Protection of elderly people,2020-03-13,2020-03-21,1.0,278.0
+42,Tennessee,Protection of elderly people,2020-03-22,2020-06-14,3.0,29950.0
+43,Tennessee,Protection of elderly people,2020-06-15,2021-02-27,2.0,742883.0
+44,Tennessee,Protection of elderly people,2021-02-28,2021-03-08,1.0,8900.0
+45,Tennessee,Protection of elderly people,2021-03-10,2021-03-29,1.0,23095.0
+30,Tennessee,Public information campaigns,2020-03-05,2020-03-15,1.0,31.0
+31,Tennessee,Public information campaigns,2020-03-16,2021-03-29,2.0,809640.0
+10,Tennessee,Restrictions on gatherings,2020-03-22,2020-04-27,4.0,9525.0
+11,Tennessee,Restrictions on gatherings,2020-04-28,2020-11-22,3.0,330424.0
+12,Tennessee,Restrictions on gatherings,2020-11-23,2021-03-29,4.0,465142.0
+16,Tennessee,Restrictions on internal movement,2020-03-13,2021-03-30,1.0,810503.0
+0,Tennessee,School closing,2020-03-13,2020-03-16,1.0,26.0
+1,Tennessee,School closing,2020-03-17,2020-08-16,3.0,133634.0
+2,Tennessee,School closing,2020-08-17,2021-03-29,2.0,674948.0
+14,Tennessee,Stay at home requirements,2020-03-15,2020-05-07,2.0,14064.0
+15,Tennessee,Stay at home requirements,2020-05-08,2021-03-30,1.0,796088.0
+32,Tennessee,Testing policy,2020-01-21,2020-04-14,1.0,5827.0
+33,Tennessee,Testing policy,2020-04-15,2021-03-29,3.0,803865.0
+38,Tennessee,Vaccination policy,2020-12-16,2020-12-29,1.0,88304.0
+39,Tennessee,Vaccination policy,2020-12-30,2021-03-07,2.0,202675.0
+40,Tennessee,Vaccination policy,2021-03-08,2021-03-29,3.0,25788.0
+3,Tennessee,Workplace closing,2020-03-12,2020-03-16,1.0,34.0
+4,Tennessee,Workplace closing,2020-03-17,2020-08-16,2.0,133634.0
+5,Tennessee,Workplace closing,2020-08-17,2020-12-19,1.0,368907.0
+6,Tennessee,Workplace closing,2020-12-20,2021-03-29,2.0,290005.0

@@ -1,0 +1,59 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Serbia,Cancel public events,2020-03-15,2020-06-05,2.0,11619.0
+13,Serbia,Cancel public events,2020-06-06,2020-06-30,1.0,2823.0
+14,Serbia,Cancel public events,2020-07-01,2021-04-06,2.0,610937.0
+22,Serbia,Close public transport,2020-03-21,2020-05-16,2.0,10325.0
+23,Serbia,Close public transport,2021-03-29,2021-04-06,1.0,40267.0
+44,Serbia,Contact tracing,2020-03-06,2021-04-06,2.0,625772.0
+37,Serbia,Debt/contract relief,2020-03-31,2021-04-06,1.0,624873.0
+45,Serbia,Emergency investment in healthcare,2020-03-31,2020-03-31,16518385.0,0.0
+46,Serbia,Emergency investment in healthcare,2020-05-11,2020-05-11,109000000.0,0.0
+47,Serbia,Emergency investment in healthcare,2020-12-05,2020-12-05,96921120.0,0.0
+48,Serbia,Facial Coverings,2020-07-01,2020-09-03,2.0,16840.0
+49,Serbia,Facial Coverings,2020-09-04,2021-03-28,3.0,553734.0
+50,Serbia,Facial Coverings,2021-03-29,2021-04-06,2.0,40267.0
+35,Serbia,Income support,2020-03-31,2020-07-29,1.0,23992.0
+36,Serbia,Income support,2020-07-30,2021-04-06,2.0,600560.0
+29,Serbia,International travel controls,2020-01-22,2020-03-10,1.0,5.0
+30,Serbia,International travel controls,2020-03-11,2020-03-15,3.0,36.0
+31,Serbia,International travel controls,2020-03-16,2020-05-16,4.0,10441.0
+32,Serbia,International travel controls,2020-05-17,2020-05-21,1.0,309.0
+33,Serbia,International travel controls,2020-08-15,2021-03-28,1.0,556035.0
+34,Serbia,International travel controls,2021-03-29,2021-04-06,2.0,40267.0
+54,Serbia,Protection of elderly people,2020-03-15,2020-03-17,2.0,17.0
+55,Serbia,Protection of elderly people,2020-03-18,2020-05-06,3.0,9708.0
+56,Serbia,Protection of elderly people,2020-05-07,2020-12-18,1.0,282792.0
+57,Serbia,Protection of elderly people,2020-12-19,2021-04-06,2.0,329245.0
+38,Serbia,Public information campaigns,2020-02-25,2021-04-06,2.0,625773.0
+15,Serbia,Restrictions on gatherings,2020-03-11,2020-03-14,2.0,34.0
+16,Serbia,Restrictions on gatherings,2020-03-15,2020-05-16,4.0,10448.0
+17,Serbia,Restrictions on gatherings,2020-05-17,2020-05-31,3.0,802.0
+18,Serbia,Restrictions on gatherings,2020-06-01,2020-06-05,1.0,237.0
+19,Serbia,Restrictions on gatherings,2020-07-17,2020-10-24,4.0,18763.0
+20,Serbia,Restrictions on gatherings,2020-10-25,2020-11-05,3.0,16190.0
+21,Serbia,Restrictions on gatherings,2020-11-06,2021-04-06,4.0,567815.0
+27,Serbia,Restrictions on internal movement,2020-03-18,2020-05-16,2.0,10413.0
+28,Serbia,Restrictions on internal movement,2020-07-10,2021-03-07,1.0,467711.0
+0,Serbia,School closing,2020-03-16,2020-05-16,3.0,10441.0
+1,Serbia,School closing,2020-05-17,2020-08-31,2.0,20796.0
+2,Serbia,School closing,2020-09-01,2020-11-24,1.0,101547.0
+3,Serbia,School closing,2020-11-25,2021-01-17,2.0,231925.0
+4,Serbia,School closing,2021-01-18,2021-03-07,1.0,111328.0
+5,Serbia,School closing,2021-03-08,2021-03-28,2.0,95976.0
+6,Serbia,School closing,2021-03-29,2021-04-06,3.0,40267.0
+24,Serbia,Stay at home requirements,2020-03-15,2020-03-17,2.0,17.0
+25,Serbia,Stay at home requirements,2020-03-18,2020-05-06,3.0,9708.0
+26,Serbia,Stay at home requirements,2020-05-07,2021-04-06,1.0,615925.0
+39,Serbia,Testing policy,2020-02-27,2020-05-21,1.0,10919.0
+40,Serbia,Testing policy,2020-05-22,2020-06-29,3.0,3264.0
+41,Serbia,Testing policy,2020-06-30,2020-11-15,1.0,70004.0
+42,Serbia,Testing policy,2020-11-16,2021-03-28,2.0,498125.0
+43,Serbia,Testing policy,2021-03-29,2021-04-06,3.0,40267.0
+51,Serbia,Vaccination policy,2020-12-30,2021-01-03,1.0,8879.0
+52,Serbia,Vaccination policy,2021-01-04,2021-01-31,2.0,48678.0
+53,Serbia,Vaccination policy,2021-02-01,2021-04-06,4.0,228771.0
+7,Serbia,Workplace closing,2020-03-16,2020-03-20,1.0,80.0
+8,Serbia,Workplace closing,2020-03-21,2020-04-20,3.0,6459.0
+9,Serbia,Workplace closing,2020-04-21,2020-06-05,2.0,4777.0
+10,Serbia,Workplace closing,2020-07-01,2021-04-04,2.0,602833.0
+11,Serbia,Workplace closing,2021-04-05,2021-04-06,1.0,4398.0

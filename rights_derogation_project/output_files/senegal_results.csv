@@ -1,0 +1,48 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Senegal,Cancel public events,2020-03-14,2020-07-16,2.0,8471.0
+6,Senegal,Cancel public events,2020-09-18,2020-12-09,1.0,2020.0
+7,Senegal,Cancel public events,2020-12-10,2021-03-18,2.0,20662.0
+35,Senegal,Contact tracing,2020-03-06,2021-01-04,2.0,19799.0
+36,Senegal,Contact tracing,2021-01-05,2021-02-08,1.0,9093.0
+37,Senegal,Contact tracing,2021-02-09,2021-04-06,2.0,9882.0
+25,Senegal,Debt/contract relief,2020-04-01,2020-12-07,2.0,16363.0
+38,Senegal,Emergency investment in healthcare,2020-04-03,2020-04-03,106163400.0,0.0
+40,Senegal,Facial Coverings,2020-08-06,2020-09-17,2.0,3903.0
+41,Senegal,Facial Coverings,2020-09-18,2021-03-01,3.0,20087.0
+42,Senegal,Facial Coverings,2021-03-02,2021-04-06,4.0,4295.0
+26,Senegal,Fiscal measures,2020-03-23,2020-03-23,1648500000.0,0.0
+27,Senegal,Fiscal measures,2020-04-03,2020-04-03,329700000.0,0.0
+24,Senegal,Income support,2020-04-03,2020-12-07,1.0,16346.0
+18,Senegal,International travel controls,2020-03-15,2020-03-17,1.0,2.0
+19,Senegal,International travel controls,2020-03-18,2020-03-19,3.0,0.0
+20,Senegal,International travel controls,2020-03-20,2020-07-16,4.0,8443.0
+21,Senegal,International travel controls,2020-07-17,2021-03-01,3.0,26188.0
+22,Senegal,International travel controls,2021-03-02,2021-03-21,1.0,3001.0
+23,Senegal,International travel controls,2021-03-22,2021-04-06,3.0,1207.0
+39,Senegal,Investment in vaccines,2021-02-23,2021-02-23,3800000.0,0.0
+45,Senegal,Protection of elderly people,2020-03-25,2020-06-29,3.0,6599.0
+46,Senegal,Protection of elderly people,2021-01-06,2021-03-18,2.0,17272.0
+28,Senegal,Public information campaigns,2020-03-14,2021-04-06,2.0,39117.0
+8,Senegal,Restrictions on gatherings,2020-03-14,2020-03-22,2.0,57.0
+9,Senegal,Restrictions on gatherings,2020-03-23,2020-05-10,4.0,1630.0
+10,Senegal,Restrictions on gatherings,2020-05-11,2020-09-27,2.0,13023.0
+11,Senegal,Restrictions on gatherings,2020-09-28,2020-10-15,1.0,429.0
+12,Senegal,Restrictions on gatherings,2020-10-16,2021-01-06,2.0,4788.0
+13,Senegal,Restrictions on gatherings,2021-01-07,2021-03-18,3.0,17052.0
+16,Senegal,Restrictions on internal movement,2020-03-23,2020-06-06,2.0,4170.0
+17,Senegal,Restrictions on internal movement,2021-01-06,2021-01-11,2.0,1377.0
+0,Senegal,School closing,2020-03-16,2020-06-24,3.0,6105.0
+1,Senegal,School closing,2020-06-25,2020-11-11,2.0,9502.0
+14,Senegal,Stay at home requirements,2020-03-25,2020-06-29,3.0,6599.0
+15,Senegal,Stay at home requirements,2021-01-06,2021-03-18,2.0,17272.0
+29,Senegal,Testing policy,2020-03-06,2020-04-10,1.0,261.0
+30,Senegal,Testing policy,2020-04-11,2020-07-16,2.0,8203.0
+31,Senegal,Testing policy,2020-07-17,2020-08-06,3.0,2171.0
+32,Senegal,Testing policy,2020-08-07,2020-10-22,2.0,4621.0
+33,Senegal,Testing policy,2020-11-03,2021-01-04,2.0,4163.0
+34,Senegal,Testing policy,2021-01-05,2021-04-06,3.0,19163.0
+43,Senegal,Vaccination policy,2021-02-23,2021-02-23,3.0,0.0
+44,Senegal,Vaccination policy,2021-02-25,2021-04-06,3.0,5386.0
+2,Senegal,Workplace closing,2020-08-16,2020-10-22,2.0,3346.0
+3,Senegal,Workplace closing,2020-12-10,2021-02-24,2.0,16687.0
+4,Senegal,Workplace closing,2021-03-02,2021-03-18,2.0,2596.0

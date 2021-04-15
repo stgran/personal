@@ -1,0 +1,87 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Philippines,Cancel public events,2020-02-07,2020-03-14,1.0,108.0
+11,Philippines,Cancel public events,2020-03-15,2021-04-05,2.0,803258.0
+19,Philippines,Close public transport,2020-03-15,2020-05-28,2.0,15448.0
+20,Philippines,Close public transport,2020-05-29,2020-08-02,1.0,86551.0
+21,Philippines,Close public transport,2020-08-03,2020-12-07,2.0,335069.0
+22,Philippines,Close public transport,2020-12-08,2020-12-28,1.0,27865.0
+23,Philippines,Close public transport,2021-02-09,2021-02-21,1.0,20942.0
+24,Philippines,Close public transport,2021-02-22,2021-02-28,2.0,12896.0
+25,Philippines,Close public transport,2021-03-01,2021-04-05,1.0,225017.0
+62,Philippines,Contact tracing,2020-02-05,2021-02-21,2.0,561167.0
+63,Philippines,Contact tracing,2021-02-22,2021-04-03,1.0,220587.0
+64,Philippines,Contact tracing,2021-04-04,2021-04-05,2.0,8347.0
+50,Philippines,Debt/contract relief,2020-04-06,2020-05-05,2.0,6024.0
+51,Philippines,Debt/contract relief,2020-07-03,2020-09-10,1.0,208611.0
+52,Philippines,Debt/contract relief,2020-09-11,2020-12-31,2.0,221100.0
+53,Philippines,Debt/contract relief,2021-02-09,2021-02-21,1.0,20942.0
+65,Philippines,Emergency investment in healthcare,2020-03-31,2020-03-31,61000000.0,0.0
+66,Philippines,Emergency investment in healthcare,2020-09-11,2020-09-11,630000000.0,0.0
+69,Philippines,Facial Coverings,2020-07-22,2020-12-07,3.0,369130.0
+70,Philippines,Facial Coverings,2020-12-08,2020-12-14,2.0,7948.0
+71,Philippines,Facial Coverings,2020-12-15,2021-02-21,3.0,109330.0
+72,Philippines,Facial Coverings,2021-02-22,2021-04-05,4.0,239942.0
+54,Philippines,Fiscal measures,2020-04-08,2020-04-08,23000000000.0,0.0
+55,Philippines,Fiscal measures,2020-09-11,2020-09-11,1600000000.0,0.0
+56,Philippines,Fiscal measures,2021-02-09,2021-02-09,1135200000.0,0.0
+47,Philippines,Income support,2020-04-13,2020-07-22,1.0,67337.0
+48,Philippines,Income support,2020-09-11,2021-02-21,1.0,308205.0
+49,Philippines,Income support,2021-03-30,2021-04-05,1.0,62217.0
+37,Philippines,International travel controls,2020-01-31,2020-03-21,3.0,306.0
+38,Philippines,International travel controls,2020-03-22,2020-07-06,4.0,45953.0
+39,Philippines,International travel controls,2020-07-07,2020-08-24,3.0,146379.0
+40,Philippines,International travel controls,2020-08-25,2020-11-16,2.0,212410.0
+41,Philippines,International travel controls,2020-11-17,2020-11-23,3.0,9896.0
+42,Philippines,International travel controls,2020-11-24,2021-01-11,2.0,68014.0
+43,Philippines,International travel controls,2021-01-12,2021-01-31,3.0,34360.0
+44,Philippines,International travel controls,2021-02-01,2021-02-21,2.0,33897.0
+45,Philippines,International travel controls,2021-02-22,2021-03-21,3.0,100338.0
+46,Philippines,International travel controls,2021-03-22,2021-04-05,4.0,131606.0
+67,Philippines,Investment in vaccines,2020-07-31,2020-07-31,400000000.0,0.0
+68,Philippines,Investment in vaccines,2021-01-16,2021-01-16,1456847000.0,0.0
+76,Philippines,Protection of elderly people,2020-03-15,2020-05-28,2.0,15448.0
+77,Philippines,Protection of elderly people,2020-05-29,2020-06-13,1.0,8758.0
+78,Philippines,Protection of elderly people,2020-06-14,2020-08-18,2.0,143283.0
+79,Philippines,Protection of elderly people,2020-08-19,2020-09-30,1.0,137920.0
+80,Philippines,Protection of elderly people,2020-10-01,2020-10-14,2.0,32457.0
+81,Philippines,Protection of elderly people,2020-10-15,2020-10-22,3.0,15190.0
+82,Philippines,Protection of elderly people,2020-10-23,2020-11-16,2.0,43775.0
+83,Philippines,Protection of elderly people,2020-11-17,2020-11-27,3.0,15200.0
+84,Philippines,Protection of elderly people,2020-11-28,2021-02-21,2.0,133372.0
+85,Philippines,Protection of elderly people,2021-02-22,2021-04-05,3.0,239942.0
+57,Philippines,Public information campaigns,2020-01-24,2021-04-05,2.0,803398.0
+12,Philippines,Restrictions on gatherings,2020-03-15,2020-03-17,3.0,47.0
+13,Philippines,Restrictions on gatherings,2020-03-18,2020-12-07,4.0,441197.0
+14,Philippines,Restrictions on gatherings,2020-12-08,2020-12-28,3.0,27865.0
+15,Philippines,Restrictions on gatherings,2020-12-29,2021-02-21,2.0,89643.0
+16,Philippines,Restrictions on gatherings,2021-02-22,2021-02-28,4.0,12896.0
+17,Philippines,Restrictions on gatherings,2021-03-01,2021-03-16,2.0,52939.0
+18,Philippines,Restrictions on gatherings,2021-03-17,2021-04-05,4.0,167700.0
+34,Philippines,Restrictions on internal movement,2020-03-15,2020-05-28,2.0,15448.0
+35,Philippines,Restrictions on internal movement,2020-05-29,2021-01-11,1.0,473102.0
+36,Philippines,Restrictions on internal movement,2021-01-12,2021-04-05,2.0,312140.0
+0,Philippines,School closing,2020-03-10,2021-02-21,3.0,561136.0
+1,Philippines,School closing,2021-02-22,2021-03-16,2.0,67864.0
+2,Philippines,School closing,2021-03-17,2021-04-05,3.0,167700.0
+26,Philippines,Stay at home requirements,2020-03-15,2020-03-17,2.0,47.0
+27,Philippines,Stay at home requirements,2020-03-18,2020-04-30,3.0,8286.0
+28,Philippines,Stay at home requirements,2020-05-01,2020-05-28,2.0,6816.0
+29,Philippines,Stay at home requirements,2020-05-29,2020-06-14,1.0,9296.0
+30,Philippines,Stay at home requirements,2020-06-15,2020-07-22,3.0,45849.0
+31,Philippines,Stay at home requirements,2020-07-23,2020-08-18,2.0,94823.0
+32,Philippines,Stay at home requirements,2020-08-19,2020-09-30,1.0,137920.0
+33,Philippines,Stay at home requirements,2020-10-01,2021-04-05,2.0,489319.0
+58,Philippines,Testing policy,2020-01-24,2020-02-16,1.0,3.0
+59,Philippines,Testing policy,2020-02-17,2020-07-02,2.0,38802.0
+60,Philippines,Testing policy,2020-07-03,2020-07-22,3.0,31933.0
+61,Philippines,Testing policy,2020-07-23,2021-04-05,2.0,729008.0
+73,Philippines,Vaccination policy,2021-03-03,2021-03-27,1.0,130219.0
+74,Philippines,Vaccination policy,2021-03-28,2021-04-01,2.0,34307.0
+75,Philippines,Vaccination policy,2021-04-02,2021-04-05,3.0,31901.0
+3,Philippines,Workplace closing,2020-03-15,2020-03-17,2.0,47.0
+4,Philippines,Workplace closing,2020-03-18,2020-05-28,3.0,15386.0
+5,Philippines,Workplace closing,2020-05-29,2021-02-08,2.0,522361.0
+6,Philippines,Workplace closing,2021-02-22,2021-03-16,2.0,67864.0
+7,Philippines,Workplace closing,2021-03-17,2021-03-21,3.0,28096.0
+8,Philippines,Workplace closing,2021-03-22,2021-03-28,2.0,50100.0
+9,Philippines,Workplace closing,2021-03-29,2021-04-05,3.0,71504.0

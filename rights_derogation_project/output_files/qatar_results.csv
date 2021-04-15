@@ -1,0 +1,56 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Qatar,Cancel public events,2020-03-12,2020-03-21,1.0,219.0
+8,Qatar,Cancel public events,2020-03-22,2021-03-22,2.0,173734.0
+9,Qatar,Cancel public events,2021-03-26,2021-04-05,2.0,7813.0
+13,Qatar,Close public transport,2020-03-15,2020-08-31,2.0,118377.0
+14,Qatar,Close public transport,2020-09-01,2021-02-09,1.0,36008.0
+15,Qatar,Close public transport,2021-02-10,2021-02-23,2.0,5891.0
+16,Qatar,Close public transport,2021-02-24,2021-03-22,1.0,12425.0
+17,Qatar,Close public transport,2021-03-26,2021-04-05,2.0,7813.0
+44,Qatar,Contact tracing,2020-03-08,2021-03-22,2.0,174213.0
+45,Qatar,Contact tracing,2021-03-26,2021-04-05,2.0,7813.0
+30,Qatar,Debt/contract relief,2020-07-24,2021-02-09,1.0,46364.0
+31,Qatar,Debt/contract relief,2021-02-10,2021-03-14,2.0,14799.0
+32,Qatar,Debt/contract relief,2021-03-15,2021-04-05,1.0,13601.0
+46,Qatar,Facial Coverings,2020-04-26,2020-05-16,2.0,20685.0
+47,Qatar,Facial Coverings,2020-05-17,2020-06-03,4.0,29556.0
+48,Qatar,Facial Coverings,2020-06-04,2021-02-02,2.0,88354.0
+49,Qatar,Facial Coverings,2021-02-03,2021-03-22,4.0,21737.0
+50,Qatar,Facial Coverings,2021-03-26,2021-04-05,4.0,7813.0
+33,Qatar,Fiscal measures,2020-03-16,2020-03-16,20600000000.0,0.0
+34,Qatar,Fiscal measures,2020-04-01,2020-04-01,824000000.0,0.0
+29,Qatar,Income support,2020-03-28,2021-04-05,2.0,183744.0
+35,Qatar,International support,2020-04-21,2020-04-21,424000.0,0.0
+23,Qatar,International travel controls,2020-01-24,2020-02-02,1.0,0.0
+24,Qatar,International travel controls,2020-02-03,2020-03-17,3.0,439.0
+25,Qatar,International travel controls,2020-03-18,2020-06-14,4.0,79150.0
+26,Qatar,International travel controls,2020-06-15,2020-12-21,3.0,61283.0
+27,Qatar,International travel controls,2020-12-22,2021-03-22,2.0,31920.0
+28,Qatar,International travel controls,2021-03-26,2021-04-05,2.0,7813.0
+53,Qatar,Protection of elderly people,2020-03-17,2021-03-22,1.0,173789.0
+54,Qatar,Protection of elderly people,2021-03-26,2021-04-05,2.0,7813.0
+36,Qatar,Public information campaigns,2020-01-30,2020-03-27,1.0,562.0
+37,Qatar,Public information campaigns,2020-03-28,2021-03-22,2.0,173638.0
+38,Qatar,Public information campaigns,2021-03-26,2021-04-05,2.0,7813.0
+10,Qatar,Restrictions on gatherings,2020-03-22,2020-07-27,4.0,109103.0
+11,Qatar,Restrictions on gatherings,2020-07-28,2021-03-22,3.0,64348.0
+12,Qatar,Restrictions on gatherings,2021-03-26,2021-04-05,4.0,7813.0
+20,Qatar,Restrictions on internal movement,2020-03-17,2020-04-21,2.0,6094.0
+21,Qatar,Restrictions on internal movement,2020-04-22,2020-12-21,1.0,135018.0
+22,Qatar,Restrictions on internal movement,2021-03-26,2021-04-05,1.0,7813.0
+0,Qatar,School closing,2020-03-10,2020-08-31,3.0,118754.0
+1,Qatar,School closing,2020-09-01,2021-04-03,2.0,63554.0
+2,Qatar,School closing,2021-04-04,2021-04-05,3.0,910.0
+18,Qatar,Stay at home requirements,2020-03-17,2021-03-22,1.0,173789.0
+19,Qatar,Stay at home requirements,2021-03-26,2021-04-05,1.0,7813.0
+39,Qatar,Testing policy,2020-02-27,2020-05-12,1.0,25149.0
+40,Qatar,Testing policy,2020-05-13,2021-02-09,3.0,128463.0
+41,Qatar,Testing policy,2021-02-10,2021-02-23,2.0,5891.0
+42,Qatar,Testing policy,2021-02-24,2021-03-22,3.0,12425.0
+43,Qatar,Testing policy,2021-03-26,2021-04-05,3.0,7813.0
+51,Qatar,Vaccination policy,2020-12-23,2021-03-22,3.0,31780.0
+52,Qatar,Vaccination policy,2021-03-30,2021-04-05,4.0,5150.0
+3,Qatar,Workplace closing,2020-03-17,2020-08-31,2.0,118339.0
+4,Qatar,Workplace closing,2020-09-01,2021-02-02,1.0,33101.0
+5,Qatar,Workplace closing,2021-02-03,2021-03-22,2.0,21737.0
+6,Qatar,Workplace closing,2021-03-26,2021-04-05,2.0,7813.0

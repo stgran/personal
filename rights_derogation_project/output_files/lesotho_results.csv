@@ -1,0 +1,60 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+18,Lesotho,Cancel public events,2020-03-18,2020-05-05,2.0,0.0
+19,Lesotho,Cancel public events,2020-05-06,2020-07-18,1.0,359.0
+20,Lesotho,Cancel public events,2020-07-19,2020-10-01,2.0,1280.0
+21,Lesotho,Cancel public events,2020-10-02,2021-01-05,1.0,1526.0
+22,Lesotho,Cancel public events,2021-01-06,2021-03-29,2.0,6549.0
+28,Lesotho,Close public transport,2020-03-29,2020-09-06,1.0,1148.0
+29,Lesotho,Close public transport,2021-01-12,2021-03-29,1.0,4749.0
+51,Lesotho,Contact tracing,2020-05-10,2021-02-28,1.0,10491.0
+52,Lesotho,Contact tracing,2021-03-16,2021-03-29,1.0,156.0
+43,Lesotho,Debt/contract relief,2020-04-20,2020-10-01,2.0,1639.0
+44,Lesotho,Debt/contract relief,2020-10-02,2020-10-12,1.0,125.0
+53,Lesotho,Emergency investment in healthcare,2020-03-29,2020-03-29,37840000.0,0.0
+54,Lesotho,Facial Coverings,2020-04-02,2020-09-06,1.0,1148.0
+55,Lesotho,Facial Coverings,2020-09-07,2021-03-29,4.0,9538.0
+45,Lesotho,Fiscal measures,2020-04-13,2020-04-13,66152150.0,0.0
+46,Lesotho,Fiscal measures,2020-04-29,2020-04-29,3750000.0,0.0
+47,Lesotho,Fiscal measures,2021-03-01,2021-03-01,3861028.79,0.0
+36,Lesotho,International travel controls,2020-03-06,2020-03-28,2.0,0.0
+37,Lesotho,International travel controls,2020-03-29,2020-09-21,4.0,1424.0
+38,Lesotho,International travel controls,2020-09-22,2020-09-30,3.0,171.0
+39,Lesotho,International travel controls,2020-10-01,2020-11-30,2.0,470.0
+40,Lesotho,International travel controls,2020-12-01,2021-01-05,1.0,1069.0
+41,Lesotho,International travel controls,2021-01-06,2021-02-28,4.0,6354.0
+42,Lesotho,International travel controls,2021-03-01,2021-03-29,3.0,191.0
+57,Lesotho,Protection of elderly people,2020-12-01,2021-02-07,1.0,7243.0
+58,Lesotho,Protection of elderly people,2021-02-08,2021-03-29,2.0,1306.0
+48,Lesotho,Public information campaigns,2020-03-04,2020-03-18,1.0,0.0
+49,Lesotho,Public information campaigns,2020-03-19,2021-03-29,2.0,10686.0
+23,Lesotho,Restrictions on gatherings,2020-03-18,2020-05-05,4.0,0.0
+24,Lesotho,Restrictions on gatherings,2020-05-06,2020-11-30,3.0,2109.0
+25,Lesotho,Restrictions on gatherings,2020-12-01,2021-01-03,2.0,1069.0
+26,Lesotho,Restrictions on gatherings,2021-01-04,2021-01-05,3.0,0.0
+27,Lesotho,Restrictions on gatherings,2021-01-06,2021-03-29,4.0,6549.0
+33,Lesotho,Restrictions on internal movement,2020-03-18,2020-05-05,2.0,0.0
+34,Lesotho,Restrictions on internal movement,2020-05-06,2020-11-30,1.0,2109.0
+35,Lesotho,Restrictions on internal movement,2021-01-12,2021-02-28,1.0,4554.0
+0,Lesotho,School closing,2020-03-18,2020-05-05,3.0,0.0
+1,Lesotho,School closing,2020-05-06,2020-06-20,2.0,4.0
+2,Lesotho,School closing,2020-07-19,2020-10-05,2.0,1324.0
+3,Lesotho,School closing,2020-10-06,2021-01-03,1.0,1523.0
+4,Lesotho,School closing,2021-01-04,2021-01-05,2.0,0.0
+5,Lesotho,School closing,2021-01-06,2021-01-25,3.0,3907.0
+6,Lesotho,School closing,2021-01-26,2021-02-07,2.0,1333.0
+7,Lesotho,School closing,2021-02-08,2021-02-28,3.0,1111.0
+8,Lesotho,School closing,2021-03-01,2021-03-29,2.0,191.0
+30,Lesotho,Stay at home requirements,2020-03-18,2020-05-05,2.0,0.0
+31,Lesotho,Stay at home requirements,2020-05-06,2021-01-05,1.0,3206.0
+32,Lesotho,Stay at home requirements,2021-01-06,2021-03-29,2.0,6549.0
+50,Lesotho,Testing policy,2020-03-29,2021-03-29,1.0,10686.0
+56,Lesotho,Vaccination policy,2021-03-16,2021-03-29,1.0,156.0
+9,Lesotho,Workplace closing,2020-03-18,2020-03-28,2.0,0.0
+10,Lesotho,Workplace closing,2020-03-29,2020-05-05,3.0,0.0
+11,Lesotho,Workplace closing,2020-05-06,2020-07-14,1.0,256.0
+12,Lesotho,Workplace closing,2020-07-15,2020-09-21,2.0,1168.0
+13,Lesotho,Workplace closing,2020-09-22,2021-01-05,1.0,1782.0
+14,Lesotho,Workplace closing,2021-01-06,2021-02-01,2.0,4763.0
+15,Lesotho,Workplace closing,2021-02-02,2021-02-07,1.0,480.0
+16,Lesotho,Workplace closing,2021-02-08,2021-02-28,3.0,1111.0
+17,Lesotho,Workplace closing,2021-03-01,2021-03-29,1.0,191.0

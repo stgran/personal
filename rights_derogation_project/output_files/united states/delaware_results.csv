@@ -1,0 +1,61 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Delaware,Cancel public events,2020-03-12,2020-03-15,1.0,5.0
+7,Delaware,Cancel public events,2020-03-16,2020-09-03,2.0,17645.0
+8,Delaware,Cancel public events,2020-09-04,2020-12-13,1.0,27708.0
+9,Delaware,Cancel public events,2020-12-14,2021-02-18,2.0,37395.0
+10,Delaware,Cancel public events,2021-02-19,2021-04-05,1.0,12396.0
+17,Delaware,Close public transport,2020-03-18,2020-09-03,1.0,17634.0
+40,Delaware,Contact tracing,2020-01-21,2020-05-11,1.0,6565.0
+41,Delaware,Contact tracing,2020-05-12,2021-02-01,2.0,71754.0
+42,Delaware,Contact tracing,2021-02-02,2021-02-22,1.0,6394.0
+43,Delaware,Contact tracing,2021-02-23,2021-04-05,2.0,11349.0
+31,Delaware,Debt/contract relief,2020-03-23,2020-03-24,1.0,36.0
+32,Delaware,Debt/contract relief,2020-03-25,2020-06-30,2.0,11355.0
+33,Delaware,Debt/contract relief,2020-07-01,2020-08-30,1.0,5833.0
+34,Delaware,Debt/contract relief,2020-08-31,2021-04-05,2.0,79148.0
+44,Delaware,Facial Coverings,2020-04-04,2020-04-27,1.0,3569.0
+45,Delaware,Facial Coverings,2020-04-28,2020-12-13,3.0,40885.0
+46,Delaware,Facial Coverings,2020-12-14,2021-01-10,4.0,18816.0
+47,Delaware,Facial Coverings,2021-01-20,2021-02-11,4.0,10100.0
+48,Delaware,Facial Coverings,2021-02-12,2021-04-05,3.0,14314.0
+26,Delaware,Income support,2020-01-27,2020-01-27,1.0,0.0
+27,Delaware,Income support,2020-03-17,2020-03-26,1.0,114.0
+28,Delaware,Income support,2020-03-27,2020-07-30,2.0,14526.0
+29,Delaware,Income support,2020-07-31,2020-12-25,1.0,38865.0
+30,Delaware,Income support,2020-12-27,2021-04-05,1.0,41520.0
+24,Delaware,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+25,Delaware,International travel controls,2020-03-02,2021-04-05,3.0,96577.0
+51,Delaware,Protection of elderly people,2020-03-09,2020-03-23,1.0,68.0
+52,Delaware,Protection of elderly people,2020-03-24,2020-07-14,2.0,12865.0
+53,Delaware,Protection of elderly people,2020-07-15,2020-09-07,1.0,5199.0
+54,Delaware,Protection of elderly people,2020-09-08,2020-09-28,2.0,2081.0
+55,Delaware,Protection of elderly people,2020-09-29,2020-10-29,3.0,4022.0
+56,Delaware,Protection of elderly people,2020-10-30,2020-12-23,2.0,27484.0
+57,Delaware,Protection of elderly people,2020-12-24,2021-02-21,3.0,31717.0
+58,Delaware,Protection of elderly people,2021-02-22,2021-03-08,1.0,3473.0
+59,Delaware,Protection of elderly people,2021-03-10,2021-04-05,1.0,7686.0
+35,Delaware,Public information campaigns,2020-01-28,2020-03-01,1.0,0.0
+36,Delaware,Public information campaigns,2020-03-02,2021-04-05,2.0,96577.0
+11,Delaware,Restrictions on gatherings,2020-03-16,2020-04-01,3.0,360.0
+12,Delaware,Restrictions on gatherings,2020-04-02,2020-06-14,4.0,9871.0
+13,Delaware,Restrictions on gatherings,2020-06-15,2020-11-22,2.0,21468.0
+14,Delaware,Restrictions on gatherings,2020-11-23,2021-02-18,4.0,51641.0
+15,Delaware,Restrictions on gatherings,2021-02-19,2021-03-31,3.0,10621.0
+16,Delaware,Restrictions on gatherings,2021-04-01,2021-04-05,2.0,1389.0
+21,Delaware,Restrictions on internal movement,2020-03-13,2020-03-29,1.0,228.0
+22,Delaware,Restrictions on internal movement,2020-03-30,2020-05-31,2.0,9234.0
+23,Delaware,Restrictions on internal movement,2020-06-01,2021-04-05,1.0,86972.0
+0,Delaware,School closing,2020-03-13,2020-03-15,1.0,2.0
+1,Delaware,School closing,2020-03-16,2020-08-27,3.0,16968.0
+2,Delaware,School closing,2020-08-28,2021-04-05,2.0,79494.0
+18,Delaware,Stay at home requirements,2020-03-09,2020-03-23,1.0,68.0
+19,Delaware,Stay at home requirements,2020-03-24,2020-07-14,2.0,12865.0
+20,Delaware,Stay at home requirements,2020-07-15,2021-04-01,1.0,82138.0
+37,Delaware,Testing policy,2020-01-21,2020-05-07,1.0,5939.0
+38,Delaware,Testing policy,2020-05-08,2020-07-15,2.0,6939.0
+39,Delaware,Testing policy,2020-07-16,2021-04-06,3.0,83692.0
+49,Delaware,Vaccination policy,2020-12-17,2021-01-27,1.0,27064.0
+50,Delaware,Vaccination policy,2021-01-28,2021-04-05,3.0,20082.0
+3,Delaware,Workplace closing,2020-03-12,2020-03-15,1.0,5.0
+4,Delaware,Workplace closing,2020-03-16,2021-02-03,2.0,78974.0
+5,Delaware,Workplace closing,2021-02-04,2021-04-05,1.0,17352.0

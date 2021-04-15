@@ -1,0 +1,73 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+18,Vietnam,Cancel public events,2020-02-08,2020-06-15,2.0,321.0
+19,Vietnam,Cancel public events,2020-06-16,2020-07-26,1.0,86.0
+20,Vietnam,Cancel public events,2020-07-27,2020-09-25,2.0,638.0
+21,Vietnam,Cancel public events,2020-11-17,2021-04-05,1.0,1349.0
+27,Vietnam,Close public transport,2020-03-28,2020-04-24,2.0,96.0
+28,Vietnam,Close public transport,2020-04-25,2020-07-27,1.0,161.0
+29,Vietnam,Close public transport,2020-07-28,2020-11-02,2.0,746.0
+30,Vietnam,Close public transport,2021-01-26,2021-02-01,1.0,299.0
+31,Vietnam,Close public transport,2021-02-02,2021-02-15,2.0,387.0
+32,Vietnam,Close public transport,2021-02-16,2021-04-05,1.0,326.0
+63,Vietnam,Contact tracing,2020-02-07,2020-03-06,1.0,6.0
+64,Vietnam,Contact tracing,2020-03-07,2021-01-25,2.0,1531.0
+65,Vietnam,Contact tracing,2021-01-26,2021-04-05,1.0,1086.0
+50,Vietnam,Debt/contract relief,2020-07-15,2021-04-05,1.0,2256.0
+66,Vietnam,Emergency investment in healthcare,2020-08-13,2020-08-13,86180.0,0.0
+68,Vietnam,Facial Coverings,2020-03-16,2020-11-16,2.0,1222.0
+69,Vietnam,Facial Coverings,2020-11-17,2021-04-05,3.0,1349.0
+51,Vietnam,Fiscal measures,2020-04-06,2020-04-06,2600000000.0,0.0
+52,Vietnam,Fiscal measures,2020-04-08,2020-04-08,7630000000.0,0.0
+53,Vietnam,Fiscal measures,2020-05-07,2020-05-07,7630000000.0,0.0
+49,Vietnam,Income support,2020-04-09,2021-04-05,1.0,2382.0
+54,Vietnam,International support,2020-04-25,2020-04-25,50.0,0.0
+55,Vietnam,International support,2020-08-14,2020-08-14,60000.0,0.0
+56,Vietnam,International support,2020-10-08,2020-10-08,340000.0,0.0
+42,Vietnam,International travel controls,2020-01-25,2020-01-29,1.0,0.0
+43,Vietnam,International travel controls,2020-01-30,2020-01-31,2.0,0.0
+44,Vietnam,International travel controls,2020-02-01,2020-03-21,3.0,88.0
+45,Vietnam,International travel controls,2020-03-22,2020-06-24,4.0,239.0
+46,Vietnam,International travel controls,2020-06-25,2020-12-14,3.0,1050.0
+47,Vietnam,International travel controls,2020-12-15,2021-04-02,4.0,1215.0
+48,Vietnam,International travel controls,2021-04-03,2021-04-05,3.0,11.0
+67,Vietnam,Investment in vaccines,2021-04-02,2021-04-02,53966.0,0.0
+71,Vietnam,Protection of elderly people,2021-02-02,2021-04-05,2.0,755.0
+57,Vietnam,Public information campaigns,2020-01-29,2021-04-05,2.0,2635.0
+22,Vietnam,Restrictions on gatherings,2020-03-26,2020-03-31,2.0,59.0
+23,Vietnam,Restrictions on gatherings,2020-04-01,2020-04-21,4.0,50.0
+24,Vietnam,Restrictions on gatherings,2020-04-22,2020-08-11,3.0,598.0
+25,Vietnam,Restrictions on gatherings,2020-08-12,2020-09-25,4.0,186.0
+26,Vietnam,Restrictions on gatherings,2020-09-26,2021-04-05,3.0,1568.0
+36,Vietnam,Restrictions on internal movement,2020-02-13,2020-06-15,2.0,318.0
+37,Vietnam,Restrictions on internal movement,2020-06-16,2020-07-27,1.0,97.0
+38,Vietnam,Restrictions on internal movement,2020-07-28,2020-09-25,2.0,623.0
+39,Vietnam,Restrictions on internal movement,2020-09-26,2020-11-02,1.0,123.0
+40,Vietnam,Restrictions on internal movement,2021-01-26,2021-03-22,2.0,1024.0
+41,Vietnam,Restrictions on internal movement,2021-03-23,2021-04-05,1.0,62.0
+0,Vietnam,School closing,2020-01-29,2020-05-03,3.0,269.0
+1,Vietnam,School closing,2020-05-04,2020-05-14,2.0,41.0
+2,Vietnam,School closing,2020-05-15,2020-07-26,1.0,106.0
+3,Vietnam,School closing,2020-07-27,2020-09-01,3.0,613.0
+4,Vietnam,School closing,2020-09-02,2020-09-05,2.0,3.0
+5,Vietnam,School closing,2020-09-06,2020-09-13,3.0,14.0
+6,Vietnam,School closing,2020-09-14,2020-09-20,2.0,5.0
+7,Vietnam,School closing,2020-09-21,2020-12-02,1.0,290.0
+8,Vietnam,School closing,2020-12-03,2021-02-15,3.0,908.0
+9,Vietnam,School closing,2021-02-16,2021-04-05,1.0,326.0
+33,Vietnam,Stay at home requirements,2020-04-01,2020-04-21,2.0,50.0
+34,Vietnam,Stay at home requirements,2020-07-27,2021-03-22,2.0,2144.0
+35,Vietnam,Stay at home requirements,2021-03-23,2021-04-05,1.0,62.0
+58,Vietnam,Testing policy,2020-01-27,2020-02-06,1.0,8.0
+59,Vietnam,Testing policy,2020-02-07,2020-04-08,2.0,241.0
+60,Vietnam,Testing policy,2020-04-09,2020-08-06,3.0,495.0
+61,Vietnam,Testing policy,2020-08-07,2020-11-16,1.0,494.0
+62,Vietnam,Testing policy,2020-11-17,2021-04-05,3.0,1349.0
+70,Vietnam,Vaccination policy,2021-03-08,2021-04-05,1.0,113.0
+10,Vietnam,Workplace closing,2020-03-25,2020-03-26,2.0,12.0
+11,Vietnam,Workplace closing,2020-03-27,2020-04-21,3.0,105.0
+12,Vietnam,Workplace closing,2020-04-22,2020-07-29,2.0,191.0
+13,Vietnam,Workplace closing,2020-07-30,2020-09-25,3.0,560.0
+14,Vietnam,Workplace closing,2020-09-26,2021-02-01,2.0,781.0
+15,Vietnam,Workplace closing,2021-02-02,2021-02-15,3.0,387.0
+16,Vietnam,Workplace closing,2021-02-16,2021-03-22,2.0,264.0
+17,Vietnam,Workplace closing,2021-03-23,2021-04-05,1.0,62.0

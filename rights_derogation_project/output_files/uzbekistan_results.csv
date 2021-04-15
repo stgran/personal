@@ -1,0 +1,59 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Uzbekistan,Cancel public events,2020-03-16,2020-08-14,2.0,33815.0
+8,Uzbekistan,Cancel public events,2020-08-15,2021-01-18,1.0,43508.0
+9,Uzbekistan,Cancel public events,2021-01-19,2021-01-27,2.0,419.0
+10,Uzbekistan,Cancel public events,2021-01-28,2021-02-09,1.0,648.0
+11,Uzbekistan,Cancel public events,2021-02-13,2021-04-11,1.0,5343.0
+17,Uzbekistan,Close public transport,2020-03-16,2020-06-04,2.0,3933.0
+18,Uzbekistan,Close public transport,2020-06-05,2020-08-14,1.0,29814.0
+41,Uzbekistan,Contact tracing,2020-03-15,2021-01-03,2.0,77257.0
+42,Uzbekistan,Contact tracing,2021-01-04,2021-01-18,1.0,778.0
+43,Uzbekistan,Contact tracing,2021-01-26,2021-02-12,1.0,869.0
+44,Uzbekistan,Contact tracing,2021-03-15,2021-03-29,1.0,1858.0
+30,Uzbekistan,Debt/contract relief,2020-03-24,2021-01-03,1.0,77208.0
+31,Uzbekistan,Debt/contract relief,2021-01-26,2021-02-12,2.0,869.0
+32,Uzbekistan,Debt/contract relief,2021-02-21,2021-04-11,2.0,5070.0
+45,Uzbekistan,Emergency investment in healthcare,2020-03-17,2020-03-17,209424.0,0.0
+46,Uzbekistan,Emergency investment in healthcare,2020-03-20,2020-03-20,52356020.0,0.0
+47,Uzbekistan,Emergency investment in healthcare,2020-05-27,2020-05-27,14000000.0,0.0
+48,Uzbekistan,Emergency investment in healthcare,2020-08-11,2020-08-11,93000000.0,0.0
+49,Uzbekistan,Emergency investment in healthcare,2020-09-24,2020-09-24,968.0,0.0
+51,Uzbekistan,Facial Coverings,2020-03-25,2020-09-04,3.0,42938.0
+52,Uzbekistan,Facial Coverings,2020-09-05,2020-12-18,2.0,32382.0
+53,Uzbekistan,Facial Coverings,2020-12-19,2021-03-29,3.0,6730.0
+33,Uzbekistan,Fiscal measures,2020-03-20,2020-03-20,1047120400.0,0.0
+34,Uzbekistan,Fiscal measures,2020-04-03,2020-04-03,376402306.0,0.0
+35,Uzbekistan,Fiscal measures,2020-04-14,2020-04-14,29569324.0,0.0
+36,Uzbekistan,Fiscal measures,2020-05-13,2020-05-13,19726700.0,0.0
+37,Uzbekistan,Fiscal measures,2020-11-25,2020-11-25,330000000.0,0.0
+28,Uzbekistan,Income support,2020-04-01,2021-01-03,1.0,77077.0
+29,Uzbekistan,Income support,2021-01-21,2021-04-11,1.0,6505.0
+23,Uzbekistan,International travel controls,2020-03-01,2020-03-15,2.0,1.0
+24,Uzbekistan,International travel controls,2020-03-16,2020-06-18,4.0,5761.0
+25,Uzbekistan,International travel controls,2020-06-19,2020-08-31,3.0,35947.0
+26,Uzbekistan,International travel controls,2020-09-01,2020-12-21,2.0,33921.0
+27,Uzbekistan,International travel controls,2020-12-22,2021-04-11,3.0,8544.0
+50,Uzbekistan,Investment in vaccines,2021-01-28,2021-01-28,410000.0,0.0
+54,Uzbekistan,Protection of elderly people,2020-03-22,2020-03-31,1.0,129.0
+55,Uzbekistan,Protection of elderly people,2020-04-01,2020-08-14,3.0,33640.0
+56,Uzbekistan,Protection of elderly people,2020-08-15,2020-12-29,1.0,42379.0
+57,Uzbekistan,Protection of elderly people,2021-03-15,2021-03-29,1.0,1858.0
+38,Uzbekistan,Public information campaigns,2020-01-21,2021-04-11,2.0,84724.0
+12,Uzbekistan,Restrictions on gatherings,2020-03-23,2020-04-27,3.0,1858.0
+13,Uzbekistan,Restrictions on gatherings,2020-04-28,2020-05-31,4.0,1684.0
+14,Uzbekistan,Restrictions on gatherings,2020-06-01,2021-01-27,3.0,74808.0
+15,Uzbekistan,Restrictions on gatherings,2021-01-28,2021-02-12,2.0,784.0
+16,Uzbekistan,Restrictions on gatherings,2021-02-13,2021-04-11,3.0,5343.0
+21,Uzbekistan,Restrictions on internal movement,2020-03-24,2020-06-14,2.0,5030.0
+22,Uzbekistan,Restrictions on internal movement,2020-06-15,2020-08-14,1.0,28558.0
+0,Uzbekistan,School closing,2020-03-16,2020-08-14,3.0,33815.0
+1,Uzbekistan,School closing,2020-08-15,2020-10-18,2.0,28596.0
+2,Uzbekistan,School closing,2020-10-19,2021-04-11,1.0,21201.0
+19,Uzbekistan,Stay at home requirements,2020-03-27,2020-08-14,2.0,33733.0
+20,Uzbekistan,Stay at home requirements,2020-08-15,2021-01-03,1.0,42730.0
+39,Uzbekistan,Testing policy,2020-01-29,2021-01-25,1.0,78429.0
+40,Uzbekistan,Testing policy,2021-02-13,2021-04-11,1.0,5343.0
+3,Uzbekistan,Workplace closing,2020-03-16,2020-03-20,2.0,27.0
+4,Uzbekistan,Workplace closing,2020-03-21,2020-05-07,3.0,2255.0
+5,Uzbekistan,Workplace closing,2020-05-08,2020-09-04,2.0,40673.0
+6,Uzbekistan,Workplace closing,2020-09-05,2021-01-03,1.0,33965.0

@@ -1,0 +1,35 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Syria,Cancel public events,2020-03-16,2020-10-29,2.0,5633.0
+8,Syria,Cancel public events,2020-10-30,2021-02-15,1.0,9223.0
+9,Syria,Cancel public events,2021-02-16,2021-03-29,2.0,3687.0
+13,Syria,Close public transport,2020-03-23,2020-05-25,2.0,105.0
+14,Syria,Close public transport,2020-11-10,2021-02-01,1.0,7744.0
+28,Syria,Contact tracing,2020-12-22,2021-03-29,1.0,8196.0
+29,Syria,Emergency investment in healthcare,2020-04-05,2020-04-05,31000000.0,0.0
+30,Syria,Facial Coverings,2020-11-10,2020-12-13,1.0,2814.0
+31,Syria,Facial Coverings,2020-12-14,2021-04-09,2.0,10706.0
+21,Syria,International travel controls,2020-02-01,2020-03-09,1.0,0.0
+22,Syria,International travel controls,2020-03-10,2020-11-29,3.0,7797.0
+23,Syria,International travel controls,2020-11-30,2021-03-29,1.0,10751.0
+33,Syria,Protection of elderly people,2020-01-01,2021-02-01,1.0,14096.0
+24,Syria,Public information campaigns,2020-03-08,2020-08-29,2.0,2628.0
+25,Syria,Public information campaigns,2020-08-30,2021-02-15,1.0,12203.0
+26,Syria,Public information campaigns,2021-02-16,2021-03-29,2.0,3687.0
+10,Syria,Restrictions on gatherings,2020-03-16,2020-08-31,3.0,2765.0
+11,Syria,Restrictions on gatherings,2020-09-01,2021-02-01,2.0,11266.0
+12,Syria,Restrictions on gatherings,2021-02-02,2021-02-03,3.0,60.0
+19,Syria,Restrictions on internal movement,2020-03-25,2020-04-19,2.0,34.0
+20,Syria,Restrictions on internal movement,2020-04-22,2021-03-29,2.0,18596.0
+0,Syria,School closing,2020-03-14,2020-08-10,3.0,1255.0
+1,Syria,School closing,2020-08-11,2020-08-30,2.0,1376.0
+2,Syria,School closing,2020-08-31,2020-09-12,3.0,741.0
+3,Syria,School closing,2020-09-13,2021-02-01,2.0,10556.0
+4,Syria,School closing,2021-02-02,2021-02-03,1.0,60.0
+15,Syria,Stay at home requirements,2020-03-12,2020-03-24,1.0,1.0
+16,Syria,Stay at home requirements,2020-03-25,2020-05-25,2.0,101.0
+17,Syria,Stay at home requirements,2020-05-26,2020-08-02,1.0,688.0
+18,Syria,Stay at home requirements,2020-11-10,2021-02-01,1.0,7744.0
+27,Syria,Testing policy,2020-04-02,2021-03-29,1.0,18622.0
+32,Syria,Vaccination policy,2021-03-01,2021-03-29,1.0,2996.0
+5,Syria,Workplace closing,2020-03-13,2021-01-22,2.0,13479.0
+6,Syria,Workplace closing,2021-01-23,2021-02-15,1.0,1349.0

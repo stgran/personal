@@ -1,0 +1,28 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+17,Burundi,Contact tracing,2020-04-01,2020-05-07,2.0,13.0
+18,Burundi,Contact tracing,2020-05-08,2021-01-04,1.0,827.0
+19,Burundi,Contact tracing,2021-01-12,2021-01-31,1.0,613.0
+20,Burundi,Contact tracing,2021-02-16,2021-04-04,1.0,1056.0
+13,Burundi,Debt/contract relief,2020-12-02,2021-01-18,1.0,556.0
+21,Burundi,Emergency investment in healthcare,2020-11-03,2020-11-03,550000.0,0.0
+22,Burundi,Facial Coverings,2020-07-06,2020-10-12,1.0,334.0
+23,Burundi,Facial Coverings,2020-10-23,2021-01-31,1.0,1079.0
+24,Burundi,Facial Coverings,2021-02-01,2021-02-15,3.0,214.0
+25,Burundi,Facial Coverings,2021-02-16,2021-03-15,2.0,606.0
+26,Burundi,Facial Coverings,2021-03-16,2021-04-04,1.0,450.0
+12,Burundi,Income support,2020-10-02,2021-01-10,1.0,473.0
+6,Burundi,International travel controls,2020-03-05,2020-03-21,2.0,0.0
+7,Burundi,International travel controls,2020-03-22,2020-07-31,3.0,387.0
+8,Burundi,International travel controls,2020-08-01,2021-01-18,2.0,850.0
+9,Burundi,International travel controls,2021-01-19,2021-01-31,4.0,379.0
+10,Burundi,International travel controls,2021-02-01,2021-02-22,2.0,399.0
+11,Burundi,International travel controls,2021-03-16,2021-04-04,2.0,450.0
+14,Burundi,Public information campaigns,2020-02-01,2021-01-31,1.0,1632.0
+15,Burundi,Public information campaigns,2021-02-01,2021-04-04,2.0,1276.0
+4,Burundi,Restrictions on gatherings,2021-01-11,2021-01-11,3.0,0.0
+5,Burundi,Restrictions on gatherings,2021-02-16,2021-02-22,3.0,179.0
+0,Burundi,School closing,2020-09-07,2021-01-04,1.0,376.0
+1,Burundi,School closing,2021-01-12,2021-01-18,1.0,226.0
+2,Burundi,School closing,2021-02-01,2021-02-15,1.0,214.0
+16,Burundi,Testing policy,2020-03-31,2021-04-04,1.0,2909.0
+3,Burundi,Workplace closing,2021-02-01,2021-03-22,1.0,983.0

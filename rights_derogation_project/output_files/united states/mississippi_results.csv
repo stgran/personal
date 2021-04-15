@@ -1,0 +1,47 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+10,Mississippi,Cancel public events,2020-03-15,2020-04-02,1.0,1171.0
+11,Mississippi,Cancel public events,2020-04-03,2020-05-31,2.0,14165.0
+12,Mississippi,Cancel public events,2020-06-01,2021-03-31,1.0,289394.0
+18,Mississippi,Close public transport,2020-03-11,2020-07-15,1.0,38567.0
+33,Mississippi,Contact tracing,2020-01-21,2020-07-15,1.0,38567.0
+34,Mississippi,Contact tracing,2020-07-16,2020-09-29,2.0,57841.0
+35,Mississippi,Contact tracing,2020-09-30,2021-03-11,1.0,200934.0
+28,Mississippi,Debt/contract relief,2020-03-27,2020-06-27,1.0,24952.0
+29,Mississippi,Debt/contract relief,2020-06-28,2020-09-17,2.0,66043.0
+30,Mississippi,Debt/contract relief,2020-09-18,2021-03-11,1.0,206692.0
+36,Mississippi,Facial Coverings,2020-04-04,2020-06-03,1.0,14867.0
+37,Mississippi,Facial Coverings,2020-06-04,2021-01-10,3.0,222522.0
+38,Mississippi,Facial Coverings,2021-01-20,2021-03-31,3.0,48319.0
+24,Mississippi,Income support,2020-01-27,2020-01-27,1.0,0.0
+25,Mississippi,Income support,2020-03-27,2020-07-30,2.0,57000.0
+26,Mississippi,Income support,2020-07-31,2020-09-17,1.0,33188.0
+27,Mississippi,Income support,2020-12-27,2021-03-11,1.0,92736.0
+22,Mississippi,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+23,Mississippi,International travel controls,2020-03-02,2021-03-31,3.0,305146.0
+42,Mississippi,Protection of elderly people,2020-03-09,2020-03-12,1.0,1.0
+43,Mississippi,Protection of elderly people,2020-03-13,2020-09-20,3.0,93358.0
+44,Mississippi,Protection of elderly people,2020-09-21,2021-01-12,2.0,148401.0
+45,Mississippi,Protection of elderly people,2021-01-13,2021-02-12,1.0,41749.0
+31,Mississippi,Public information campaigns,2020-03-11,2021-03-11,2.0,299124.0
+13,Mississippi,Restrictions on gatherings,2020-04-03,2020-05-31,4.0,14165.0
+14,Mississippi,Restrictions on gatherings,2020-06-01,2020-07-09,3.0,17839.0
+15,Mississippi,Restrictions on gatherings,2020-07-10,2020-09-29,4.0,63016.0
+16,Mississippi,Restrictions on gatherings,2020-09-30,2020-10-20,3.0,13132.0
+17,Mississippi,Restrictions on gatherings,2020-10-21,2021-03-02,4.0,183172.0
+21,Mississippi,Restrictions on internal movement,2020-03-16,2021-03-31,1.0,305134.0
+0,Mississippi,School closing,2020-03-13,2020-03-18,1.0,28.0
+1,Mississippi,School closing,2020-03-19,2020-08-23,3.0,77844.0
+2,Mississippi,School closing,2020-08-24,2020-10-14,2.0,28412.0
+3,Mississippi,School closing,2020-10-15,2020-11-19,1.0,30652.0
+4,Mississippi,School closing,2020-11-20,2021-03-10,2.0,158016.0
+19,Mississippi,Stay at home requirements,2020-04-03,2020-05-31,2.0,14165.0
+20,Mississippi,Stay at home requirements,2020-06-01,2021-03-31,1.0,289394.0
+32,Mississippi,Testing policy,2020-01-21,2021-03-11,1.0,299124.0
+39,Mississippi,Vaccination policy,2020-12-14,2020-12-27,1.0,25293.0
+40,Mississippi,Vaccination policy,2020-12-28,2021-01-12,2.0,33868.0
+41,Mississippi,Vaccination policy,2021-03-20,2021-03-31,5.0,2469.0
+5,Mississippi,Workplace closing,2020-03-12,2020-04-23,1.0,5152.0
+6,Mississippi,Workplace closing,2020-04-24,2020-05-31,2.0,10089.0
+7,Mississippi,Workplace closing,2020-06-01,2020-07-12,1.0,20535.0
+8,Mississippi,Workplace closing,2020-07-13,2020-08-13,2.0,33306.0
+9,Mississippi,Workplace closing,2020-08-14,2021-03-31,1.0,234216.0

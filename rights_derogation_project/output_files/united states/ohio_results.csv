@@ -1,0 +1,49 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Ohio,Cancel public events,2020-03-05,2020-03-09,2.0,0.0
+10,Ohio,Cancel public events,2020-03-10,2020-03-16,1.0,47.0
+11,Ohio,Cancel public events,2020-03-17,2020-08-16,2.0,108220.0
+12,Ohio,Cancel public events,2020-08-17,2021-04-05,1.0,917867.0
+15,Ohio,Close public transport,2020-03-01,2020-04-30,1.0,18027.0
+33,Ohio,Contact tracing,2020-01-21,2020-06-04,1.0,37282.0
+34,Ohio,Contact tracing,2020-06-05,2021-04-05,2.0,989171.0
+27,Ohio,Debt/contract relief,2020-03-27,2021-04-05,1.0,1025792.0
+35,Ohio,Facial Coverings,2020-04-04,2020-04-27,1.0,12586.0
+36,Ohio,Facial Coverings,2020-04-28,2020-07-07,2.0,42135.0
+37,Ohio,Facial Coverings,2020-07-08,2021-01-10,3.0,716884.0
+38,Ohio,Facial Coverings,2021-01-20,2021-04-05,3.0,184496.0
+23,Ohio,Income support,2020-01-27,2020-01-27,1.0,0.0
+24,Ohio,Income support,2020-03-16,2020-03-26,1.0,818.0
+25,Ohio,Income support,2020-03-27,2020-07-30,2.0,88489.0
+26,Ohio,Income support,2020-07-31,2021-04-05,1.0,935770.0
+21,Ohio,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+22,Ohio,International travel controls,2020-03-02,2021-04-05,3.0,1026929.0
+45,Ohio,Protection of elderly people,2020-03-13,2020-06-07,3.0,38464.0
+46,Ohio,Protection of elderly people,2020-06-08,2021-03-08,2.0,940888.0
+47,Ohio,Protection of elderly people,2021-03-10,2021-04-05,2.0,43443.0
+28,Ohio,Public information campaigns,2020-01-23,2020-02-26,1.0,0.0
+29,Ohio,Public information campaigns,2020-02-27,2021-04-05,2.0,1026929.0
+13,Ohio,Restrictions on gatherings,2020-03-12,2020-03-22,3.0,351.0
+14,Ohio,Restrictions on gatherings,2020-03-23,2021-04-05,4.0,1026486.0
+20,Ohio,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,1026879.0
+0,Ohio,School closing,2020-03-10,2020-03-15,1.0,27.0
+1,Ohio,School closing,2020-03-16,2020-03-22,2.0,306.0
+2,Ohio,School closing,2020-03-23,2020-09-20,3.0,143866.0
+3,Ohio,School closing,2020-09-21,2021-04-05,2.0,881764.0
+16,Ohio,Stay at home requirements,2020-03-23,2020-05-19,2.0,28509.0
+17,Ohio,Stay at home requirements,2020-05-20,2020-11-18,1.0,289392.0
+18,Ohio,Stay at home requirements,2020-11-19,2021-02-10,2.0,602016.0
+19,Ohio,Stay at home requirements,2021-02-11,2021-04-01,1.0,88604.0
+30,Ohio,Testing policy,2020-01-21,2020-05-03,1.0,19914.0
+31,Ohio,Testing policy,2020-05-04,2020-06-10,2.0,19101.0
+32,Ohio,Testing policy,2020-06-11,2021-04-05,3.0,986925.0
+39,Ohio,Vaccination policy,2020-12-14,2020-12-17,1.0,25576.0
+40,Ohio,Vaccination policy,2020-12-18,2021-01-24,2.0,258460.0
+41,Ohio,Vaccination policy,2021-01-25,2021-02-10,3.0,59975.0
+42,Ohio,Vaccination policy,2021-02-11,2021-02-11,2.0,0.0
+43,Ohio,Vaccination policy,2021-02-12,2021-03-28,3.0,76880.0
+44,Ohio,Vaccination policy,2021-03-29,2021-04-05,4.0,13810.0
+4,Ohio,Workplace closing,2020-03-12,2020-03-14,1.0,21.0
+5,Ohio,Workplace closing,2020-03-15,2020-03-22,2.0,326.0
+6,Ohio,Workplace closing,2020-03-23,2020-04-29,3.0,16860.0
+7,Ohio,Workplace closing,2020-04-30,2020-09-20,2.0,126282.0
+8,Ohio,Workplace closing,2020-09-21,2021-04-05,1.0,881764.0

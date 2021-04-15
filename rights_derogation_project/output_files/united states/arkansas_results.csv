@@ -1,0 +1,62 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+13,Arkansas,Cancel public events,2020-03-13,2020-03-26,1.0,326.0
+14,Arkansas,Cancel public events,2020-03-27,2020-05-03,2.0,3056.0
+15,Arkansas,Cancel public events,2020-05-04,2021-04-05,1.0,327607.0
+22,Arkansas,Close public transport,2020-05-11,2021-04-05,1.0,327055.0
+45,Arkansas,Contact tracing,2020-01-21,2020-08-17,1.0,53077.0
+46,Arkansas,Contact tracing,2020-08-18,2021-04-05,2.0,277611.0
+34,Arkansas,Debt/contract relief,2020-03-17,2020-08-03,1.0,44594.0
+35,Arkansas,Debt/contract relief,2020-09-01,2021-04-05,1.0,269601.0
+47,Arkansas,Emergency investment in healthcare,2020-03-18,2020-03-18,12000000.0,0.0
+48,Arkansas,Facial Coverings,2020-04-03,2020-06-15,1.0,12213.0
+49,Arkansas,Facial Coverings,2020-06-16,2021-01-10,3.0,241885.0
+50,Arkansas,Facial Coverings,2021-01-20,2021-03-31,3.0,54284.0
+51,Arkansas,Facial Coverings,2021-04-01,2021-04-05,2.0,489.0
+36,Arkansas,Fiscal measures,2020-03-12,2020-03-12,750000.0,0.0
+37,Arkansas,Fiscal measures,2020-03-18,2020-03-18,16000000.0,0.0
+29,Arkansas,Income support,2020-01-27,2020-01-27,1.0,0.0
+30,Arkansas,Income support,2020-03-17,2020-03-26,1.0,332.0
+31,Arkansas,Income support,2020-03-27,2020-07-30,2.0,41378.0
+32,Arkansas,Income support,2020-07-31,2020-11-15,1.0,90529.0
+33,Arkansas,Income support,2020-12-27,2021-04-05,1.0,116221.0
+27,Arkansas,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+28,Arkansas,International travel controls,2020-03-02,2021-04-05,3.0,331098.0
+56,Arkansas,Protection of elderly people,2020-03-13,2020-06-30,3.0,20768.0
+57,Arkansas,Protection of elderly people,2020-07-01,2020-10-05,2.0,66233.0
+58,Arkansas,Protection of elderly people,2020-10-06,2021-02-28,3.0,234344.0
+59,Arkansas,Protection of elderly people,2021-03-01,2021-03-08,2.0,2442.0
+60,Arkansas,Protection of elderly people,2021-03-10,2021-04-05,2.0,5398.0
+38,Arkansas,Public information campaigns,2020-03-11,2020-03-15,1.0,3.0
+39,Arkansas,Public information campaigns,2020-03-16,2021-04-05,2.0,331095.0
+16,Arkansas,Restrictions on gatherings,2020-03-13,2020-03-15,2.0,-6.0
+17,Arkansas,Restrictions on gatherings,2020-03-16,2020-03-26,3.0,332.0
+18,Arkansas,Restrictions on gatherings,2020-03-27,2020-05-03,4.0,3056.0
+19,Arkansas,Restrictions on gatherings,2020-05-04,2021-01-01,3.0,225951.0
+20,Arkansas,Restrictions on gatherings,2021-01-02,2021-02-28,4.0,90973.0
+21,Arkansas,Restrictions on gatherings,2021-03-01,2021-03-15,2.0,4551.0
+24,Arkansas,Restrictions on internal movement,2020-03-16,2020-05-04,1.0,3488.0
+25,Arkansas,Restrictions on internal movement,2020-05-05,2020-06-14,2.0,8976.0
+26,Arkansas,Restrictions on internal movement,2020-06-15,2021-04-05,1.0,318181.0
+0,Arkansas,School closing,2020-03-12,2020-03-16,1.0,3.0
+1,Arkansas,School closing,2020-03-17,2020-08-23,3.0,56571.0
+2,Arkansas,School closing,2020-08-24,2020-08-26,2.0,1129.0
+3,Arkansas,School closing,2020-08-27,2020-09-28,1.0,23304.0
+4,Arkansas,School closing,2020-09-29,2020-10-18,2.0,16311.0
+5,Arkansas,School closing,2020-10-19,2020-11-02,1.0,14044.0
+6,Arkansas,School closing,2020-11-03,2021-02-27,2.0,204676.0
+7,Arkansas,School closing,2021-02-28,2021-04-05,1.0,8683.0
+23,Arkansas,Stay at home requirements,2020-04-03,2021-04-01,1.0,329905.0
+40,Arkansas,Testing policy,2020-01-21,2020-04-20,1.0,1973.0
+41,Arkansas,Testing policy,2020-04-21,2020-05-14,2.0,2376.0
+42,Arkansas,Testing policy,2020-05-15,2020-11-02,3.0,109178.0
+43,Arkansas,Testing policy,2020-11-03,2021-01-04,2.0,120262.0
+44,Arkansas,Testing policy,2021-01-05,2021-04-05,3.0,92210.0
+52,Arkansas,Vaccination policy,2020-12-14,2020-12-27,1.0,27820.0
+53,Arkansas,Vaccination policy,2020-12-28,2021-01-17,2.0,54626.0
+54,Arkansas,Vaccination policy,2021-01-18,2021-03-29,3.0,57745.0
+55,Arkansas,Vaccination policy,2021-03-30,2021-04-05,5.0,912.0
+8,Arkansas,Workplace closing,2020-03-12,2020-03-16,1.0,3.0
+9,Arkansas,Workplace closing,2020-03-17,2020-11-16,2.0,134345.0
+10,Arkansas,Workplace closing,2020-11-17,2020-12-18,1.0,61519.0
+11,Arkansas,Workplace closing,2020-12-19,2021-02-15,2.0,113234.0
+12,Arkansas,Workplace closing,2021-02-16,2021-04-05,1.0,17573.0

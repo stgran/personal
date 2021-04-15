@@ -1,0 +1,52 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,New Jersey,Cancel public events,2020-03-12,2020-03-15,1.0,43.0
+10,New Jersey,Cancel public events,2020-03-16,2020-06-08,2.0,164765.0
+11,New Jersey,Cancel public events,2020-06-09,2021-04-05,1.0,764769.0
+19,New Jersey,Close public transport,2020-04-13,2020-07-16,1.0,113553.0
+38,New Jersey,Contact tracing,2020-01-21,2020-07-23,1.0,179834.0
+39,New Jersey,Contact tracing,2020-07-24,2021-04-05,2.0,749694.0
+31,New Jersey,Debt/contract relief,2020-03-13,2020-04-08,1.0,47388.0
+32,New Jersey,Debt/contract relief,2020-04-09,2021-04-05,2.0,878999.0
+40,New Jersey,Facial Coverings,2020-04-04,2020-04-07,1.0,10292.0
+41,New Jersey,Facial Coverings,2020-04-08,2020-07-07,2.0,127652.0
+42,New Jersey,Facial Coverings,2020-07-08,2021-01-10,3.0,409540.0
+43,New Jersey,Facial Coverings,2021-01-20,2021-04-05,3.0,288886.0
+27,New Jersey,Income support,2020-01-27,2020-01-27,1.0,0.0
+28,New Jersey,Income support,2020-03-20,2020-03-26,1.0,5986.0
+29,New Jersey,Income support,2020-03-27,2020-07-30,2.0,174380.0
+30,New Jersey,Income support,2020-07-31,2021-04-05,1.0,746073.0
+25,New Jersey,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+26,New Jersey,International travel controls,2020-03-02,2021-04-05,3.0,930026.0
+47,New Jersey,Protection of elderly people,2020-03-13,2020-03-13,1.0,0.0
+48,New Jersey,Protection of elderly people,2020-03-14,2020-06-20,3.0,169453.0
+49,New Jersey,Protection of elderly people,2020-06-21,2021-03-08,2.0,645073.0
+50,New Jersey,Protection of elderly people,2021-03-10,2021-04-05,2.0,107209.0
+33,New Jersey,Public information campaigns,2020-02-02,2020-03-15,1.0,72.0
+34,New Jersey,Public information campaigns,2020-03-16,2021-04-05,2.0,929850.0
+12,New Jersey,Restrictions on gatherings,2020-03-16,2020-03-20,3.0,714.0
+13,New Jersey,Restrictions on gatherings,2020-03-21,2020-06-21,4.0,168516.0
+14,New Jersey,Restrictions on gatherings,2020-06-22,2020-08-03,3.0,14869.0
+15,New Jersey,Restrictions on gatherings,2020-08-04,2020-09-01,4.0,10469.0
+16,New Jersey,Restrictions on gatherings,2020-09-02,2020-11-16,3.0,106990.0
+17,New Jersey,Restrictions on gatherings,2020-11-17,2021-03-15,4.0,532727.0
+18,New Jersey,Restrictions on gatherings,2021-03-16,2021-04-05,3.0,85628.0
+24,New Jersey,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,929850.0
+0,New Jersey,School closing,2020-03-13,2020-03-17,1.0,201.0
+1,New Jersey,School closing,2020-03-18,2020-09-07,3.0,197840.0
+2,New Jersey,School closing,2020-09-08,2021-04-05,2.0,731438.0
+20,New Jersey,Stay at home requirements,2020-03-21,2020-06-08,2.0,163614.0
+21,New Jersey,Stay at home requirements,2020-06-09,2020-11-24,1.0,175414.0
+22,New Jersey,Stay at home requirements,2020-11-25,2020-12-04,2.0,45188.0
+23,New Jersey,Stay at home requirements,2020-12-05,2021-04-05,1.0,533507.0
+35,New Jersey,Testing policy,2020-01-21,2020-03-18,1.0,397.0
+36,New Jersey,Testing policy,2020-03-19,2020-05-09,2.0,136723.0
+37,New Jersey,Testing policy,2020-05-10,2021-04-05,3.0,791203.0
+44,New Jersey,Vaccination policy,2020-12-15,2020-12-27,1.0,59151.0
+45,New Jersey,Vaccination policy,2020-12-28,2021-01-13,2.0,89200.0
+46,New Jersey,Vaccination policy,2021-01-14,2021-04-05,3.0,320305.0
+3,New Jersey,Workplace closing,2020-03-12,2020-03-15,1.0,43.0
+4,New Jersey,Workplace closing,2020-03-16,2020-03-20,2.0,714.0
+5,New Jersey,Workplace closing,2020-03-21,2020-05-17,3.0,145326.0
+6,New Jersey,Workplace closing,2020-05-18,2020-11-01,2.0,103862.0
+7,New Jersey,Workplace closing,2020-11-02,2021-03-06,1.0,555879.0
+8,New Jersey,Workplace closing,2021-03-16,2021-04-05,1.0,85628.0

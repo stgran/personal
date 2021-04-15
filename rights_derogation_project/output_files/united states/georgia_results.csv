@@ -1,0 +1,46 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+7,Georgia,Cancel public events,2020-03-14,2020-04-01,1.0,4565.0
+8,Georgia,Cancel public events,2020-04-02,2021-02-25,2.0,992040.0
+9,Georgia,Cancel public events,2021-02-26,2021-04-05,1.0,64375.0
+12,Georgia,Close public transport,2020-04-20,2020-09-30,1.0,298619.0
+30,Georgia,Contact tracing,2020-01-21,2020-05-11,1.0,34002.0
+31,Georgia,Contact tracing,2020-05-12,2020-09-17,2.0,265979.0
+32,Georgia,Contact tracing,2020-09-18,2021-04-05,1.0,762343.0
+21,Georgia,Debt/contract relief,2020-03-26,2020-09-09,2.0,285775.0
+22,Georgia,Debt/contract relief,2020-09-10,2020-09-21,1.0,18216.0
+23,Georgia,Debt/contract relief,2020-09-22,2021-02-25,2.0,689094.0
+24,Georgia,Debt/contract relief,2021-02-26,2021-04-05,1.0,64375.0
+33,Georgia,Facial Coverings,2020-04-04,2020-08-16,1.0,230870.0
+34,Georgia,Facial Coverings,2020-08-17,2021-01-10,2.0,518184.0
+35,Georgia,Facial Coverings,2021-01-20,2021-04-05,2.0,228548.0
+25,Georgia,Fiscal measures,2020-03-20,2020-03-20,19552646.0,0.0
+17,Georgia,Income support,2020-01-27,2020-01-27,1.0,0.0
+18,Georgia,Income support,2020-03-27,2020-07-30,2.0,180286.0
+19,Georgia,Income support,2020-07-31,2020-09-10,1.0,102771.0
+20,Georgia,Income support,2020-12-27,2021-04-05,1.0,432898.0
+15,Georgia,International travel controls,2020-02-02,2020-03-01,2.0,0.0
+16,Georgia,International travel controls,2020-03-02,2021-04-05,3.0,1065197.0
+41,Georgia,Protection of elderly people,2020-03-13,2020-04-02,1.0,5306.0
+42,Georgia,Protection of elderly people,2020-04-03,2020-09-14,3.0,289506.0
+43,Georgia,Protection of elderly people,2020-09-15,2021-03-08,2.0,727937.0
+44,Georgia,Protection of elderly people,2021-03-10,2021-04-05,2.0,36765.0
+26,Georgia,Public information campaigns,2020-03-13,2021-04-05,2.0,1065155.0
+10,Georgia,Restrictions on gatherings,2020-04-02,2020-05-27,4.0,39290.0
+11,Georgia,Restrictions on gatherings,2020-05-28,2021-04-05,3.0,1019931.0
+14,Georgia,Restrictions on internal movement,2020-03-16,2021-04-05,1.0,1065076.0
+0,Georgia,School closing,2020-03-12,2020-03-17,1.0,115.0
+1,Georgia,School closing,2020-03-18,2020-08-16,3.0,236833.0
+2,Georgia,School closing,2020-08-17,2021-02-22,2.0,748180.0
+3,Georgia,School closing,2021-02-23,2021-04-05,1.0,74376.0
+13,Georgia,Stay at home requirements,2020-03-21,2021-04-05,2.0,1064642.0
+27,Georgia,Testing policy,2020-01-21,2020-04-25,1.0,23222.0
+28,Georgia,Testing policy,2020-04-26,2020-05-06,2.0,7257.0
+29,Georgia,Testing policy,2020-05-07,2021-04-05,3.0,1033579.0
+36,Georgia,Vaccination policy,2020-12-15,2020-12-16,1.0,6624.0
+37,Georgia,Vaccination policy,2020-12-17,2021-02-14,2.0,396341.0
+38,Georgia,Vaccination policy,2021-02-15,2021-03-14,3.0,66979.0
+39,Georgia,Vaccination policy,2021-03-15,2021-03-24,4.0,14634.0
+40,Georgia,Vaccination policy,2021-03-25,2021-04-05,5.0,13836.0
+4,Georgia,Workplace closing,2020-03-12,2020-03-22,1.0,590.0
+5,Georgia,Workplace closing,2020-03-23,2020-06-30,2.0,80519.0
+6,Georgia,Workplace closing,2020-07-01,2021-04-05,1.0,980955.0

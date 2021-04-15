@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+5,Kosovo,Cancel public events,2020-03-11,2020-05-31,2.0,1070.0
+6,Kosovo,Cancel public events,2020-06-01,2020-07-27,1.0,6330.0
+7,Kosovo,Cancel public events,2020-07-28,2021-01-30,2.0,51994.0
+8,Kosovo,Cancel public events,2021-01-31,2021-04-06,1.0,34112.0
+14,Kosovo,Close public transport,2020-03-13,2020-05-17,2.0,978.0
+15,Kosovo,Close public transport,2020-05-18,2021-04-06,1.0,93345.0
+44,Kosovo,Contact tracing,2020-03-13,2020-12-06,1.0,42805.0
+45,Kosovo,Contact tracing,2020-12-07,2021-03-11,2.0,31384.0
+46,Kosovo,Contact tracing,2021-03-12,2021-04-06,1.0,18260.0
+33,Kosovo,Debt/contract relief,2020-03-18,2020-03-31,1.0,87.0
+34,Kosovo,Debt/contract relief,2020-04-01,2021-04-06,2.0,94218.0
+47,Kosovo,Facial Coverings,2020-07-05,2021-04-06,4.0,90974.0
+35,Kosovo,Fiscal measures,2020-03-30,2020-03-30,198774000.0,0.0
+36,Kosovo,Fiscal measures,2020-05-18,2020-05-18,11920000.0,0.0
+37,Kosovo,Fiscal measures,2020-06-01,2020-06-01,1200000000.0,0.0
+38,Kosovo,Fiscal measures,2020-06-19,2020-06-19,59292425.0,0.0
+32,Kosovo,Income support,2020-03-30,2021-04-06,1.0,94236.0
+25,Kosovo,International travel controls,2020-03-12,2020-03-12,2.0,0.0
+26,Kosovo,International travel controls,2020-03-13,2020-05-31,4.0,1070.0
+27,Kosovo,International travel controls,2020-06-01,2020-06-07,2.0,111.0
+28,Kosovo,International travel controls,2020-06-08,2020-07-29,1.0,6612.0
+29,Kosovo,International travel controls,2020-07-30,2020-07-30,2.0,0.0
+30,Kosovo,International travel controls,2020-07-31,2021-01-15,1.0,46805.0
+31,Kosovo,International travel controls,2021-01-16,2021-04-06,2.0,39195.0
+49,Kosovo,Protection of elderly people,2020-03-23,2021-04-06,2.0,94297.0
+39,Kosovo,Public information campaigns,2020-03-08,2020-03-14,1.0,2.0
+40,Kosovo,Public information campaigns,2020-03-15,2021-04-06,2.0,94325.0
+9,Kosovo,Restrictions on gatherings,2020-03-11,2020-03-22,3.0,31.0
+10,Kosovo,Restrictions on gatherings,2020-03-23,2020-05-31,4.0,1037.0
+11,Kosovo,Restrictions on gatherings,2020-06-01,2020-07-27,3.0,6330.0
+12,Kosovo,Restrictions on gatherings,2020-07-28,2021-01-15,4.0,47483.0
+13,Kosovo,Restrictions on gatherings,2021-01-16,2021-04-06,3.0,39195.0
+22,Kosovo,Restrictions on internal movement,2020-03-13,2020-06-07,2.0,1194.0
+23,Kosovo,Restrictions on internal movement,2020-07-31,2020-08-27,2.0,4651.0
+24,Kosovo,Restrictions on internal movement,2020-11-08,2021-04-06,2.0,71396.0
+0,Kosovo,School closing,2020-03-12,2020-09-13,3.0,14637.0
+1,Kosovo,School closing,2020-09-14,2021-01-17,1.0,41159.0
+2,Kosovo,School closing,2021-01-18,2021-02-10,2.0,7238.0
+3,Kosovo,School closing,2021-02-11,2021-04-06,1.0,31241.0
+16,Kosovo,Stay at home requirements,2020-03-13,2020-03-22,1.0,31.0
+17,Kosovo,Stay at home requirements,2020-03-23,2020-07-27,2.0,7380.0
+18,Kosovo,Stay at home requirements,2020-07-28,2020-07-30,3.0,452.0
+19,Kosovo,Stay at home requirements,2020-07-31,2020-10-07,2.0,7608.0
+20,Kosovo,Stay at home requirements,2020-10-30,2021-03-11,2.0,55380.0
+21,Kosovo,Stay at home requirements,2021-03-12,2021-04-06,1.0,18260.0
+41,Kosovo,Testing policy,2020-03-13,2020-11-15,1.0,29117.0
+42,Kosovo,Testing policy,2020-11-16,2021-03-11,3.0,44903.0
+43,Kosovo,Testing policy,2021-03-12,2021-04-06,2.0,18260.0
+48,Kosovo,Vaccination policy,2021-01-22,2021-03-11,2.0,17391.0
+4,Kosovo,Workplace closing,2020-03-15,2021-04-06,2.0,94325.0

@@ -1,0 +1,77 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+8,Romania,Cancel public events,2020-03-08,2020-06-16,2.0,22400.0
+9,Romania,Cancel public events,2020-06-17,2020-10-19,1.0,160094.0
+10,Romania,Cancel public events,2020-10-20,2020-11-08,2.0,117497.0
+11,Romania,Cancel public events,2020-11-09,2020-11-15,1.0,53290.0
+12,Romania,Cancel public events,2020-11-16,2021-03-14,2.0,494497.0
+13,Romania,Cancel public events,2021-03-15,2021-03-29,1.0,77762.0
+20,Romania,Close public transport,2020-03-19,2020-03-30,1.0,1832.0
+21,Romania,Close public transport,2020-03-31,2020-05-10,2.0,13117.0
+22,Romania,Close public transport,2020-11-09,2020-11-15,1.0,53290.0
+54,Romania,Contact tracing,2020-03-31,2020-10-25,1.0,207403.0
+55,Romania,Contact tracing,2020-10-26,2021-03-29,2.0,727951.0
+43,Romania,Debt/contract relief,2020-03-29,2020-03-29,1.0,0.0
+44,Romania,Debt/contract relief,2020-03-30,2020-10-22,2.0,193895.0
+45,Romania,Debt/contract relief,2020-10-23,2020-10-25,1.0,8616.0
+46,Romania,Debt/contract relief,2020-10-26,2021-02-14,2.0,549471.0
+47,Romania,Debt/contract relief,2021-02-15,2021-03-27,1.0,168885.0
+48,Romania,Debt/contract relief,2021-03-28,2021-03-29,2.0,3825.0
+56,Romania,Emergency investment in healthcare,2020-03-18,2020-03-18,24236047.0,0.0
+57,Romania,Emergency investment in healthcare,2020-03-19,2020-03-19,9249685.0,0.0
+58,Romania,Emergency investment in healthcare,2020-10-23,2020-10-23,138472.0,0.0
+59,Romania,Emergency investment in healthcare,2020-11-23,2020-11-23,1502000000.0,0.0
+61,Romania,Facial Coverings,2020-08-27,2020-10-19,2.0,99704.0
+62,Romania,Facial Coverings,2020-10-20,2020-10-22,3.0,9750.0
+63,Romania,Facial Coverings,2020-10-23,2020-11-08,4.0,102719.0
+64,Romania,Facial Coverings,2020-11-09,2020-11-15,2.0,53290.0
+65,Romania,Facial Coverings,2020-11-16,2021-02-14,4.0,396751.0
+66,Romania,Facial Coverings,2021-02-15,2021-02-20,3.0,13982.0
+67,Romania,Facial Coverings,2021-02-21,2021-03-29,4.0,160748.0
+49,Romania,Fiscal measures,2020-03-19,2020-03-19,3099171108.48,0.0
+50,Romania,Fiscal measures,2020-07-02,2020-07-02,898000000.0,0.0
+42,Romania,Income support,2020-03-21,2021-03-29,2.0,940076.0
+33,Romania,International travel controls,2020-01-27,2020-01-31,1.0,0.0
+34,Romania,International travel controls,2020-02-01,2020-03-08,2.0,15.0
+35,Romania,International travel controls,2020-03-09,2020-03-20,3.0,293.0
+36,Romania,International travel controls,2020-03-21,2020-06-14,4.0,21632.0
+37,Romania,International travel controls,2020-06-15,2020-07-06,3.0,7058.0
+38,Romania,International travel controls,2020-07-07,2020-10-08,2.0,116080.0
+39,Romania,International travel controls,2020-10-09,2021-02-14,3.0,613077.0
+40,Romania,International travel controls,2021-02-15,2021-02-20,2.0,13982.0
+41,Romania,International travel controls,2021-02-21,2021-03-29,3.0,160748.0
+60,Romania,Investment in vaccines,2020-05-26,2020-05-26,808365.6,0.0
+71,Romania,Protection of elderly people,2020-03-12,2020-03-24,1.0,745.0
+72,Romania,Protection of elderly people,2020-03-25,2020-04-27,3.0,10433.0
+73,Romania,Protection of elderly people,2020-04-28,2020-05-15,2.0,4821.0
+74,Romania,Protection of elderly people,2020-05-16,2021-02-14,1.0,745259.0
+75,Romania,Protection of elderly people,2021-02-15,2021-03-29,2.0,177149.0
+51,Romania,Public information campaigns,2020-02-25,2021-03-29,2.0,940443.0
+14,Romania,Restrictions on gatherings,2020-03-08,2020-03-11,1.0,30.0
+15,Romania,Restrictions on gatherings,2020-03-12,2020-03-21,2.0,318.0
+16,Romania,Restrictions on gatherings,2020-03-22,2020-05-31,4.0,18824.0
+17,Romania,Restrictions on gatherings,2020-06-01,2020-09-02,2.0,70493.0
+18,Romania,Restrictions on gatherings,2020-09-03,2020-11-08,3.0,212495.0
+19,Romania,Restrictions on gatherings,2020-11-09,2021-03-29,4.0,633452.0
+30,Romania,Restrictions on internal movement,2020-03-21,2020-03-29,1.0,1448.0
+31,Romania,Restrictions on internal movement,2020-03-30,2020-05-31,2.0,17148.0
+32,Romania,Restrictions on internal movement,2020-11-16,2021-03-29,2.0,575231.0
+0,Romania,School closing,2020-03-11,2020-06-01,3.0,19353.0
+1,Romania,School closing,2020-06-02,2020-10-19,2.0,163337.0
+2,Romania,School closing,2020-10-20,2021-02-14,3.0,575709.0
+3,Romania,School closing,2021-02-15,2021-03-29,2.0,177149.0
+23,Romania,Stay at home requirements,2020-03-12,2020-03-24,1.0,745.0
+24,Romania,Stay at home requirements,2020-03-25,2020-05-15,2.0,15531.0
+25,Romania,Stay at home requirements,2020-05-16,2020-05-31,1.0,2553.0
+26,Romania,Stay at home requirements,2020-07-08,2020-10-08,1.0,115525.0
+27,Romania,Stay at home requirements,2020-10-20,2020-11-08,1.0,117497.0
+28,Romania,Stay at home requirements,2020-11-09,2020-11-15,3.0,53290.0
+29,Romania,Stay at home requirements,2020-11-16,2021-03-29,2.0,575231.0
+52,Romania,Testing policy,2020-03-23,2020-04-27,1.0,10763.0
+53,Romania,Testing policy,2020-04-28,2021-03-29,2.0,928827.0
+68,Romania,Vaccination policy,2020-12-27,2021-01-14,1.0,69108.0
+69,Romania,Vaccination policy,2021-01-15,2021-03-14,3.0,171439.0
+70,Romania,Vaccination policy,2021-03-15,2021-03-29,5.0,77762.0
+4,Romania,Workplace closing,2020-03-12,2020-06-16,2.0,22366.0
+5,Romania,Workplace closing,2020-06-17,2020-10-06,1.0,116852.0
+6,Romania,Workplace closing,2020-10-07,2021-03-14,2.0,717139.0
+7,Romania,Workplace closing,2021-03-15,2021-03-29,1.0,77762.0

@@ -1,0 +1,51 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+9,Rio Grande do Norte,Cancel public events,2020-03-13,2020-03-16,1.0,0.0
+10,Rio Grande do Norte,Cancel public events,2020-03-17,2021-03-04,2.0,173249.0
+11,Rio Grande do Norte,Cancel public events,2021-03-05,2021-03-10,1.0,179974.0
+12,Rio Grande do Norte,Cancel public events,2021-03-11,2021-03-17,2.0,-181225.0
+18,Rio Grande do Norte,Close public transport,2020-03-18,2021-02-16,1.0,158572.0
+39,Rio Grande do Norte,Contact tracing,2020-03-24,2020-03-31,1.0,68.0
+40,Rio Grande do Norte,Contact tracing,2020-04-01,2020-09-24,2.0,68480.0
+41,Rio Grande do Norte,Contact tracing,2020-10-03,2020-10-20,2.0,79649.0
+42,Rio Grande do Norte,Contact tracing,2020-11-06,2021-03-17,2.0,-82719.0
+43,Rio Grande do Norte,Facial Coverings,2020-04-01,2020-04-07,1.0,162.0
+44,Rio Grande do Norte,Facial Coverings,2020-04-08,2020-04-23,2.0,493.0
+45,Rio Grande do Norte,Facial Coverings,2020-04-24,2020-09-24,4.0,67791.0
+46,Rio Grande do Norte,Facial Coverings,2020-10-03,2021-01-11,4.0,126049.0
+29,Rio Grande do Norte,International travel controls,2020-03-13,2020-03-17,2.0,-1.0
+30,Rio Grande do Norte,International travel controls,2020-03-18,2020-03-26,3.0,18.0
+31,Rio Grande do Norte,International travel controls,2020-03-27,2020-07-28,4.0,49166.0
+32,Rio Grande do Norte,International travel controls,2020-07-29,2021-02-09,2.0,97927.0
+33,Rio Grande do Norte,International travel controls,2021-02-10,2021-03-17,1.0,-148714.0
+47,Rio Grande do Norte,Protection of elderly people,2021-01-08,2021-02-09,2.0,23272.0
+48,Rio Grande do Norte,Protection of elderly people,2021-02-10,2021-03-03,3.0,22862.0
+49,Rio Grande do Norte,Protection of elderly people,2021-03-04,2021-03-17,2.0,-173249.0
+34,Rio Grande do Norte,Public information campaigns,2020-01-26,2020-05-18,2.0,3483.0
+35,Rio Grande do Norte,Public information campaigns,2020-05-20,2020-09-24,2.0,64512.0
+36,Rio Grande do Norte,Public information campaigns,2020-10-03,2021-03-17,2.0,0.0
+13,Rio Grande do Norte,Restrictions on gatherings,2020-03-13,2020-03-19,2.0,-1.0
+14,Rio Grande do Norte,Restrictions on gatherings,2020-03-20,2020-08-11,3.0,56764.0
+15,Rio Grande do Norte,Restrictions on gatherings,2020-08-12,2020-11-06,2.0,25447.0
+16,Rio Grande do Norte,Restrictions on gatherings,2021-02-12,2021-02-16,3.0,158573.0
+17,Rio Grande do Norte,Restrictions on gatherings,2021-03-17,2021-03-17,3.0,0.0
+23,Rio Grande do Norte,Restrictions on internal movement,2020-03-13,2020-10-04,2.0,71044.0
+24,Rio Grande do Norte,Restrictions on internal movement,2020-10-05,2021-02-11,1.0,77986.0
+25,Rio Grande do Norte,Restrictions on internal movement,2021-02-17,2021-02-24,2.0,5808.0
+26,Rio Grande do Norte,Restrictions on internal movement,2021-02-25,2021-02-25,1.0,0.0
+27,Rio Grande do Norte,Restrictions on internal movement,2021-02-26,2021-03-04,2.0,173249.0
+28,Rio Grande do Norte,Restrictions on internal movement,2021-03-05,2021-03-10,1.0,179974.0
+0,Rio Grande do Norte,School closing,2020-03-17,2020-10-04,3.0,71045.0
+1,Rio Grande do Norte,School closing,2020-10-05,2021-02-16,2.0,87274.0
+2,Rio Grande do Norte,School closing,2021-02-17,2021-03-17,3.0,-158953.0
+19,Rio Grande do Norte,Stay at home requirements,2020-03-13,2020-06-03,1.0,9281.0
+20,Rio Grande do Norte,Stay at home requirements,2020-06-04,2020-10-04,2.0,61612.0
+21,Rio Grande do Norte,Stay at home requirements,2020-10-05,2021-02-24,1.0,93462.0
+22,Rio Grande do Norte,Stay at home requirements,2021-02-25,2021-03-17,2.0,-166305.0
+37,Rio Grande do Norte,Testing policy,2020-03-13,2020-09-24,2.0,68571.0
+38,Rio Grande do Norte,Testing policy,2020-10-03,2021-03-17,2.0,0.0
+3,Rio Grande do Norte,Workplace closing,2020-03-13,2020-03-22,2.0,12.0
+4,Rio Grande do Norte,Workplace closing,2020-03-23,2020-04-22,3.0,708.0
+5,Rio Grande do Norte,Workplace closing,2020-04-23,2021-02-03,2.0,142712.0
+6,Rio Grande do Norte,Workplace closing,2021-02-04,2021-02-09,1.0,147739.0
+7,Rio Grande do Norte,Workplace closing,2021-02-10,2021-03-03,2.0,22862.0
+8,Rio Grande do Norte,Workplace closing,2021-03-04,2021-03-17,3.0,-173249.0

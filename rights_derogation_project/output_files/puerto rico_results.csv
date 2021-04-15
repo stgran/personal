@@ -1,0 +1,57 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+12,Puerto Rico,Cancel public events,2020-03-13,2021-04-05,2.0,110022.0
+15,Puerto Rico,Close public transport,2020-03-15,2020-10-16,2.0,28174.0
+16,Puerto Rico,Close public transport,2020-10-17,2021-04-05,1.0,81729.0
+42,Puerto Rico,Contact tracing,2020-02-28,2020-04-06,1.0,513.0
+43,Puerto Rico,Contact tracing,2020-04-07,2021-04-05,2.0,109449.0
+30,Puerto Rico,Debt/contract relief,2020-03-16,2021-04-05,2.0,110017.0
+44,Puerto Rico,Emergency investment in healthcare,2020-04-09,2020-04-09,18431090.0,0.0
+45,Puerto Rico,Emergency investment in healthcare,2020-04-17,2020-04-17,500000.0,0.0
+46,Puerto Rico,Emergency investment in healthcare,2020-05-07,2020-05-07,8550688.0,0.0
+47,Puerto Rico,Emergency investment in healthcare,2020-05-14,2020-05-14,340000000.0,0.0
+48,Puerto Rico,Facial Coverings,2020-05-26,2021-04-05,3.0,108790.0
+31,Puerto Rico,Fiscal measures,2020-03-23,2020-03-23,160000000.0,0.0
+32,Puerto Rico,Fiscal measures,2020-04-27,2020-04-27,127000000.0,0.0
+33,Puerto Rico,Fiscal measures,2020-05-14,2020-05-14,700000000.0,0.0
+34,Puerto Rico,Fiscal measures,2020-05-18,2020-05-18,347000000.0,0.0
+35,Puerto Rico,Fiscal measures,2020-06-10,2020-06-10,115000000.0,0.0
+36,Puerto Rico,Fiscal measures,2020-06-12,2020-06-12,349000000.0,0.0
+37,Puerto Rico,Fiscal measures,2020-07-15,2020-07-15,350000000.0,0.0
+38,Puerto Rico,Fiscal measures,2020-07-17,2020-07-17,5532400.0,0.0
+29,Puerto Rico,Income support,2020-05-01,2021-04-05,1.0,109064.0
+26,Puerto Rico,International travel controls,2020-01-30,2020-03-11,1.0,0.0
+27,Puerto Rico,International travel controls,2020-03-12,2020-03-14,2.0,0.0
+28,Puerto Rico,International travel controls,2020-03-15,2021-04-05,3.0,110022.0
+51,Puerto Rico,Protection of elderly people,2020-03-15,2020-06-15,2.0,1477.0
+52,Puerto Rico,Protection of elderly people,2020-06-16,2020-07-16,1.0,1640.0
+53,Puerto Rico,Protection of elderly people,2020-07-17,2020-12-13,2.0,59159.0
+54,Puerto Rico,Protection of elderly people,2020-12-14,2021-02-07,1.0,32854.0
+55,Puerto Rico,Protection of elderly people,2021-02-08,2021-04-05,2.0,13861.0
+39,Puerto Rico,Public information campaigns,2020-03-02,2021-04-05,2.0,110022.0
+13,Puerto Rico,Restrictions on gatherings,2020-03-15,2020-06-15,4.0,1477.0
+14,Puerto Rico,Restrictions on gatherings,2020-06-16,2021-04-05,3.0,108543.0
+24,Puerto Rico,Restrictions on internal movement,2020-03-12,2020-06-15,2.0,1477.0
+25,Puerto Rico,Restrictions on internal movement,2020-10-17,2021-04-05,1.0,81729.0
+0,Puerto Rico,School closing,2020-03-16,2021-02-28,3.0,100292.0
+1,Puerto Rico,School closing,2021-03-01,2021-03-09,2.0,1353.0
+2,Puerto Rico,School closing,2021-03-10,2021-04-05,1.0,7971.0
+17,Puerto Rico,Stay at home requirements,2020-03-15,2020-06-15,2.0,1477.0
+18,Puerto Rico,Stay at home requirements,2020-06-16,2020-07-16,1.0,1640.0
+19,Puerto Rico,Stay at home requirements,2020-07-17,2020-08-22,2.0,10010.0
+20,Puerto Rico,Stay at home requirements,2020-08-23,2020-08-23,3.0,0.0
+21,Puerto Rico,Stay at home requirements,2020-08-24,2020-08-29,2.0,1064.0
+22,Puerto Rico,Stay at home requirements,2020-08-30,2020-08-30,3.0,0.0
+23,Puerto Rico,Stay at home requirements,2020-08-31,2021-04-05,2.0,94546.0
+40,Puerto Rico,Testing policy,2020-02-28,2021-02-17,1.0,98428.0
+41,Puerto Rico,Testing policy,2021-02-18,2021-04-05,3.0,11516.0
+49,Puerto Rico,Vaccination policy,2020-12-15,2021-03-22,2.0,41324.0
+50,Puerto Rico,Vaccination policy,2021-03-23,2021-04-05,3.0,5134.0
+3,Puerto Rico,Workplace closing,2020-03-12,2020-03-14,1.0,0.0
+4,Puerto Rico,Workplace closing,2020-03-15,2020-05-03,3.0,982.0
+5,Puerto Rico,Workplace closing,2020-05-04,2020-06-15,2.0,482.0
+6,Puerto Rico,Workplace closing,2020-06-16,2020-07-16,1.0,1640.0
+7,Puerto Rico,Workplace closing,2020-07-17,2020-08-22,2.0,10010.0
+8,Puerto Rico,Workplace closing,2020-08-23,2020-08-23,3.0,0.0
+9,Puerto Rico,Workplace closing,2020-08-24,2020-08-29,2.0,1064.0
+10,Puerto Rico,Workplace closing,2020-08-30,2020-08-30,3.0,0.0
+11,Puerto Rico,Workplace closing,2020-08-31,2021-04-05,2.0,94546.0

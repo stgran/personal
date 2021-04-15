@@ -1,0 +1,40 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Afghanistan,Cancel public events,2020-03-01,2020-08-14,2.0,37496.0
+8,Afghanistan,Close public transport,2020-03-28,2020-08-25,2.0,37954.0
+22,Afghanistan,Contact tracing,2020-02-24,2020-08-17,1.0,37666.0
+23,Afghanistan,Contact tracing,2020-08-18,2020-09-04,2.0,594.0
+24,Afghanistan,Contact tracing,2020-09-05,2020-11-08,1.0,3835.0
+25,Afghanistan,Contact tracing,2020-11-21,2021-01-25,1.0,10169.0
+16,Afghanistan,Debt/contract relief,2020-05-01,2020-05-31,1.0,12917.0
+26,Afghanistan,Emergency investment in healthcare,2020-03-12,2020-03-12,15000000.0,0.0
+27,Afghanistan,Emergency investment in healthcare,2020-03-14,2020-03-14,25000000.0,0.0
+28,Afghanistan,Emergency investment in healthcare,2020-04-11,2020-04-11,54577750.0,0.0
+29,Afghanistan,Emergency investment in healthcare,2020-04-12,2020-04-12,140400000.0,0.0
+30,Afghanistan,Emergency investment in healthcare,2020-05-14,2020-05-14,14000000.0,0.0
+31,Afghanistan,Facial Coverings,2020-04-27,2020-06-06,1.0,17850.0
+32,Afghanistan,Facial Coverings,2020-06-07,2020-10-05,3.0,19077.0
+33,Afghanistan,Facial Coverings,2020-10-06,2020-11-01,2.0,2015.0
+34,Afghanistan,Facial Coverings,2020-11-02,2021-03-01,3.0,14100.0
+35,Afghanistan,Facial Coverings,2021-03-02,2021-04-06,2.0,1020.0
+17,Afghanistan,International support,2020-08-21,2020-08-21,39400000.0,0.0
+13,Afghanistan,International travel controls,2020-02-23,2020-06-08,3.0,20920.0
+14,Afghanistan,International travel controls,2020-06-09,2020-10-05,1.0,17960.0
+15,Afghanistan,International travel controls,2020-11-09,2021-04-06,1.0,14482.0
+37,Afghanistan,Protection of elderly people,2020-03-01,2020-03-24,1.0,42.0
+38,Afghanistan,Protection of elderly people,2020-03-25,2020-09-14,3.0,38696.0
+18,Afghanistan,Public information campaigns,2020-03-01,2020-10-05,2.0,39421.0
+19,Afghanistan,Public information campaigns,2020-10-06,2021-04-06,1.0,17293.0
+7,Afghanistan,Restrictions on gatherings,2020-04-05,2020-08-17,4.0,37329.0
+10,Afghanistan,Restrictions on internal movement,2020-03-25,2020-04-11,1.0,480.0
+11,Afghanistan,Restrictions on internal movement,2020-04-12,2020-08-17,2.0,37059.0
+12,Afghanistan,Restrictions on internal movement,2020-08-18,2020-08-25,1.0,351.0
+0,Afghanistan,School closing,2020-03-14,2020-08-04,3.0,36758.0
+1,Afghanistan,School closing,2020-08-05,2020-10-02,2.0,2470.0
+2,Afghanistan,School closing,2020-10-03,2021-03-23,1.0,16880.0
+9,Afghanistan,Stay at home requirements,2020-03-25,2020-08-25,2.0,37985.0
+20,Afghanistan,Testing policy,2020-02-23,2020-08-17,1.0,37667.0
+21,Afghanistan,Testing policy,2020-08-18,2021-04-06,3.0,19069.0
+36,Afghanistan,Vaccination policy,2021-02-23,2021-04-06,2.0,1133.0
+3,Afghanistan,Workplace closing,2020-03-24,2020-08-03,3.0,36694.0
+4,Afghanistan,Workplace closing,2020-08-04,2020-08-25,2.0,1288.0
+5,Afghanistan,Workplace closing,2020-09-22,2020-10-26,2.0,1841.0

@@ -1,0 +1,57 @@
+,Country,Right,Start Date,End Date,Derogation Level,Confirmed Cases
+6,Albania,Cancel public events,2020-03-09,2021-04-05,2.0,126793.0
+9,Albania,Close public transport,2020-03-13,2020-07-05,2.0,2860.0
+10,Albania,Close public transport,2020-07-06,2020-08-06,1.0,3052.0
+42,Albania,Contact tracing,2020-03-08,2020-05-25,1.0,1004.0
+43,Albania,Contact tracing,2020-05-26,2021-01-18,2.0,66953.0
+44,Albania,Contact tracing,2021-01-19,2021-01-30,1.0,8683.0
+45,Albania,Contact tracing,2021-01-31,2021-04-05,2.0,48668.0
+27,Albania,Debt/contract relief,2020-03-20,2020-05-25,1.0,934.0
+28,Albania,Debt/contract relief,2020-05-26,2020-08-06,2.0,4987.0
+29,Albania,Debt/contract relief,2020-08-07,2021-01-18,1.0,61831.0
+30,Albania,Debt/contract relief,2021-01-19,2021-03-16,2.0,49924.0
+31,Albania,Debt/contract relief,2021-03-17,2021-04-05,1.0,7857.0
+46,Albania,Emergency investment in healthcare,2020-02-25,2020-02-25,1000000.0,0.0
+47,Albania,Emergency investment in healthcare,2020-03-19,2020-03-19,25000000.0,0.0
+50,Albania,Facial Coverings,2020-06-12,2020-07-14,1.0,2251.0
+51,Albania,Facial Coverings,2020-07-15,2020-10-14,3.0,12203.0
+52,Albania,Facial Coverings,2020-10-15,2021-04-05,4.0,110583.0
+32,Albania,Fiscal measures,2020-03-19,2020-03-19,17706949.8,0.0
+33,Albania,Fiscal measures,2020-06-01,2020-06-01,382052000.0,0.0
+34,Albania,Fiscal measures,2020-08-13,2020-08-13,1310000.0,0.0
+35,Albania,Fiscal measures,2020-11-16,2020-11-16,139000000.0,0.0
+24,Albania,Income support,2020-03-19,2020-04-14,1.0,411.0
+25,Albania,Income support,2020-04-15,2020-05-25,2.0,510.0
+26,Albania,Income support,2020-05-26,2021-04-05,1.0,125766.0
+16,Albania,International travel controls,2020-02-25,2020-03-10,1.0,10.0
+17,Albania,International travel controls,2020-03-11,2020-03-14,2.0,26.0
+18,Albania,International travel controls,2020-03-15,2020-03-22,3.0,47.0
+19,Albania,International travel controls,2020-03-23,2020-05-31,4.0,1033.0
+20,Albania,International travel controls,2020-06-01,2020-06-21,3.0,819.0
+21,Albania,International travel controls,2020-06-22,2020-08-27,2.0,7088.0
+22,Albania,International travel controls,2020-08-28,2020-12-20,1.0,43808.0
+23,Albania,International travel controls,2020-12-21,2021-04-05,3.0,73370.0
+48,Albania,Investment in vaccines,2021-01-25,2021-01-25,2900000.0,0.0
+49,Albania,Investment in vaccines,2021-01-28,2021-01-28,4000000.0,0.0
+55,Albania,Protection of elderly people,2020-03-10,2021-04-05,3.0,126785.0
+36,Albania,Public information campaigns,2020-02-14,2020-03-09,1.0,2.0
+37,Albania,Public information campaigns,2020-03-10,2021-04-05,2.0,126785.0
+7,Albania,Restrictions on gatherings,2020-03-09,2020-04-17,2.0,537.0
+8,Albania,Restrictions on gatherings,2020-04-18,2021-04-05,4.0,126247.0
+14,Albania,Restrictions on internal movement,2020-03-13,2020-05-31,2.0,1104.0
+15,Albania,Restrictions on internal movement,2020-11-12,2020-12-19,2.0,26331.0
+0,Albania,School closing,2020-03-09,2020-05-17,3.0,944.0
+1,Albania,School closing,2020-05-18,2020-10-31,2.0,19927.0
+2,Albania,School closing,2020-11-01,2021-01-10,1.0,42393.0
+3,Albania,School closing,2021-01-11,2021-04-05,2.0,62824.0
+11,Albania,Stay at home requirements,2020-03-13,2020-05-31,2.0,1104.0
+12,Albania,Stay at home requirements,2020-06-01,2020-11-11,1.0,24658.0
+13,Albania,Stay at home requirements,2020-11-12,2021-04-05,2.0,100584.0
+38,Albania,Testing policy,2020-03-08,2020-04-20,1.0,584.0
+39,Albania,Testing policy,2020-04-21,2020-05-25,2.0,395.0
+40,Albania,Testing policy,2020-05-26,2020-09-06,1.0,9226.0
+41,Albania,Testing policy,2020-09-07,2021-04-05,2.0,116389.0
+53,Albania,Vaccination policy,2021-01-11,2021-03-01,1.0,43960.0
+54,Albania,Vaccination policy,2021-03-02,2021-04-05,2.0,17972.0
+4,Albania,Workplace closing,2020-03-11,2020-12-23,2.0,54305.0
+5,Albania,Workplace closing,2020-12-24,2021-04-05,1.0,71968.0
